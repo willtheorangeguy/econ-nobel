@@ -5,16 +5,16 @@
 | Year | Status | Works | Overview formats |
 | --- | --- | --- | --- |
 | 1969 | needs-review | 0 | pdf, epub |
-| 1970 | metadata-only | 0 | None |
-| 1971 | metadata-only | 0 | None |
-| 1972 | metadata-only | 0 | None |
-| 1973 | metadata-only | 0 | None |
-| 1974 | metadata-only | 0 | None |
-| 1975 | metadata-only | 0 | None |
-| 1976 | metadata-only | 0 | None |
-| 1977 | metadata-only | 0 | None |
-| 1978 | metadata-only | 0 | None |
-| 1979 | metadata-only | 0 | None |
+| 1970 | needs-review | 0 | pdf, epub |
+| 1971 | needs-review | 0 | pdf, epub |
+| 1972 | needs-review | 0 | pdf, epub |
+| 1973 | needs-review | 0 | pdf, epub |
+| 1974 | needs-review | 0 | pdf, epub |
+| 1975 | needs-review | 0 | pdf, epub |
+| 1976 | needs-review | 0 | pdf, epub |
+| 1977 | needs-review | 0 | pdf, epub |
+| 1978 | needs-review | 0 | pdf, epub |
+| 1979 | needs-review | 0 | pdf, epub |
 | 1980 | metadata-only | 0 | None |
 | 1981 | metadata-only | 0 | None |
 | 1982 | metadata-only | 0 | None |

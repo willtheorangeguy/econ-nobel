@@ -1,0 +1,102 @@
+{
+  "year": 1979,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1979/summary/",
+  "laureates": [
+    {
+      "id": "692",
+      "name": "Theodore W. Schultz",
+      "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+      "portion": "1/2"
+    },
+    {
+      "id": "693",
+      "name": "Sir Arthur Lewis",
+      "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Schultz: human capital/agriculture and poor people's constraints; Lewis: dual-sector accumulation and international development. Distinct, potentially conflicting assumptions.",
+  "claim_source_map": "Academy speech for award scope; Schultz lecture opening for behavioral argument; Lewis original teaching transcription for conditional surplus labor and capital-defined sectors; Schultz1961 archive metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1979",
+      "title": "Presentation Speech for the 1979 Economic Sciences Prize",
+      "authors": [
+        "Erik Lundberg"
+      ],
+      "year": 1979,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "schultz-lecture-1979",
+      "title": "The Economics of Being Poor",
+      "authors": [
+        "Theodore W. Schultz"
+      ],
+      "year": 1979,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML prize lecture delivered 8 December 1979; opening argument and sections on economists' mistakes and land consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "schultz-1961",
+      "title": "Investment in Human Capital",
+      "authors": [
+        "Theodore W. Schultz"
+      ],
+      "year": 1961,
+      "url": "https://www.jstor.org/stable/1818907",
+      "type": "journal-article",
+      "venue": "The American Economic Review",
+      "volume": "51(1)",
+      "pages": "1–17",
+      "consulted_version": "JSTOR article and journal issue metadata only; original article not read. Archive identifies journal publication March 1961, following December 1960 presidential address.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "lewis-1954",
+      "title": "Economic Development with Unlimited Supplies of Labour",
+      "authors": [
+        "W. Arthur Lewis"
+      ],
+      "year": 1954,
+      "url": "https://doi.org/10.1111/j.1467-9957.1954.tb00021.x",
+      "doi": "10.1111/j.1467-9957.1954.tb00021.x",
+      "type": "journal-article",
+      "venue": "The Manchester School",
+      "volume": "22(2)",
+      "pages": "139–191",
+      "consulted_version": "Crossref publication metadata; opening argument and sections 2 and sector/wage definitions consulted in University of Texas teaching transcription https://la.utexas.edu/users/hcleaver/368/368lewistable.pdf (PDF pp. 1–2, 5–7). Typographic errors present; publisher facsimile not yet compared. Not redistributed.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1979,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/ceremony-speech/",
+      "sha256": "0bcccffb3cc9515ac5775f0107b48c9b89e716906893746491219be6631f1c4a",
+      "text_sha256": "3e799680232b5b780206bd9d9a313159e6e92433c459536703e61633b62b130a",
+      "characters": 8993,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "K100/10=10 jobs; profit200-120=80; reinvest40 permits4 extra jobs. -500+300/1.1+300/1.1**2=20.661157. No causal estimate or universal structural parameter.",
+    "independent_review": false
+  },
+  "remaining_research": "Compare Lewis transcription with original publisher edition; read Schultz1961 article; independent review of development debates and causal-return caveats.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

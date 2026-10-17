@@ -1,0 +1,92 @@
+{
+  "year": 1976,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1976/summary/",
+  "laureates": [
+    {
+      "id": "688",
+      "name": "Milton Friedman",
+      "motivation": "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Friedman: consumption, monetary history/theory and policy lags; preserve Schwartz authorship and Phelps independent development.",
+  "claim_source_map": "Academy speech for award scope; Friedman lecture natural-rate section for Phelps credit and changeable benchmark; NBER book pages verify both original editions/authors only.",
+  "citations": [
+    {
+      "id": "ceremony-1976",
+      "title": "Presentation Speech for the 1976 Economic Sciences Prize",
+      "authors": [
+        "Erik Lundberg"
+      ],
+      "year": 1976,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1976/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "friedman-lecture-1976",
+      "title": "Inflation and Unemployment",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "year": 1976,
+      "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture-1.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF prize lecture delivered 13 December 1976; opening and section 3 on natural-rate hypothesis, pp. 271–273 (PDF pp. 5–7) consulted; includes explicit Phelps credit.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "friedman-schwartz-1963",
+      "title": "A Monetary History of the United States, 1867–1960",
+      "authors": [
+        "Milton Friedman",
+        "Anna J. Schwartz"
+      ],
+      "year": 1963,
+      "url": "https://www.nber.org/books-and-chapters/monetary-history-united-states-1867-1960",
+      "type": "book",
+      "venue": "Princeton University Press",
+      "consulted_version": "NBER publisher/project bibliographic page and authorship record only; complete book not read. Award-level assessment relies on academy speech.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "friedman-consumption-1957",
+      "title": "A Theory of the Consumption Function",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "year": 1957,
+      "url": "https://www.nber.org/books-and-chapters/theory-consumption-function/implications-pure-theory-consumer-behavior",
+      "type": "book",
+      "venue": "Princeton University Press",
+      "consulted_version": "NBER chapter catalogue identifying parent book, author, publisher and 1957 edition; full book not read.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1976,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1976/ceremony-speech/",
+      "sha256": "70b87530d50dc26a1075bb78aa3ddbdbc8e1f512a79010ceae70178a996f4b1f",
+      "text_sha256": "8a71a8ea5f8b24f7b3fb3a43b39ca181e2ed9f65b49b2e34d9d81a20fc458d68",
+      "characters": 8466,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "600/10=60;610/10=61;700/10=70. pi=2-.5*(4-5)=2.5; with expectations2.5, pi=3. Benchmarks and coefficients invented.",
+    "independent_review": false
+  },
+  "remaining_research": "Read complete consumption and monetary-history books and original expectations papers; review competing historical explanations.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

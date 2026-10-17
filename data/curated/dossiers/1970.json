@@ -1,0 +1,67 @@
+{
+  "year": 1970,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1970/summary/",
+  "laureates": [
+    {
+      "id": "679",
+      "name": "Paul A. Samuelson",
+      "motivation": "for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Samuelson: stability/correspondence, revealed preference, trade distribution and heterogeneous capital. Preserve Stolper and Solow credit.",
+  "claim_source_map": "ceremony-1970: full contribution narrative; samuelson-1938: metadata only, not evidence of original-text consultation.",
+  "citations": [
+    {
+      "id": "ceremony-1970",
+      "title": "Presentation Speech for the 1970 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1970,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1970/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML speech; entire substantive text consulted"
+    },
+    {
+      "id": "samuelson-1938",
+      "title": "A Note on the Pure Theory of Consumer's Behaviour",
+      "authors": [
+        "P. A. Samuelson"
+      ],
+      "year": 1938,
+      "url": "https://doi.org/10.2307/2548836",
+      "doi": "10.2307/2548836",
+      "type": "journal-article",
+      "venue": "Economica",
+      "volume": "5(17)",
+      "pages": "61",
+      "consulted_version": "Crossref bibliographic record only; records first page only. Original article not read; award narrative uses the academy speech.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1970,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1970/ceremony-speech/",
+      "sha256": "9d4c64d6b21c5e651c22e2ca84de889cd5c53667fdfc94e58a023310b307203e",
+      "text_sha256": "7b0cccdc3118c6bbe745627baf886d10cbaed82a90cb58715faf48a8acfd991f",
+      "characters": 8910,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Both budgets 5: at prices (2,1), A costs 5 and B 4; at (1,2), A costs 4 and B 5. Reverse chosen bundles violate the stated stable locally nonsatiated preference model.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original 1938 article; verify Foundations original edition and wider work selection; independently check the choice axioms.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

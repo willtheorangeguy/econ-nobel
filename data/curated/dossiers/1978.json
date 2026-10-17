@@ -1,0 +1,80 @@
+{
+  "year": 1978,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1978/summary/",
+  "laureates": [
+    {
+      "id": "691",
+      "name": "Herbert Simon",
+      "motivation": "for his pioneering research into the decision-making process within economic organizations",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Simon: bounded rationality, search/satisficing, subgoals and organizational communication; preserve colleague credit.",
+  "claim_source_map": "Academy speech for award/book; Simon lecture pp.353–354 for problem representation, procedures and empirical collaboration; 1955 article metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1978",
+      "title": "Presentation Speech for the 1978 Economic Sciences Prize",
+      "authors": [
+        "Sune Carlson"
+      ],
+      "year": 1978,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1978/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "simon-lecture-1978",
+      "title": "Rational Decision-Making in Business Organizations",
+      "authors": [
+        "Herbert A. Simon"
+      ],
+      "year": 1978,
+      "url": "https://www.nobelprize.org/uploads/2018/06/simon-lecture.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF lecture delivered 8 December 1978; introduction and subgoal/problem-representation/bounded-rationality/field-studies passages pp. 353–354 (PDF pp. 11–12) consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "simon-1955",
+      "title": "A Behavioral Model of Rational Choice",
+      "authors": [
+        "Herbert A. Simon"
+      ],
+      "year": 1955,
+      "url": "https://doi.org/10.2307/1884852",
+      "doi": "10.2307/1884852",
+      "type": "journal-article",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "69(1)",
+      "pages": "99",
+      "consulted_version": "Crossref bibliographic record and publisher article landing record only; first page recorded, not an invented range; original full text not read.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1978,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1978/ceremony-speech/",
+      "sha256": "4d51ace587a6d90327c39b2f51db8407dccbba7ca6e30897a1c295c43146d0ae",
+      "text_sha256": "4326b0ccc704804d0ecb5699e631bf4d5f06f5126cad5a4471075dd773bd5b63",
+      "characters": 6109,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "A fails delivery threshold; B first acceptable, C unexamined. Staff costs4 vs6; C price saving8 exceeds extra evaluation2, so example does not claim optimal stopping.",
+    "independent_review": false
+  },
+  "remaining_research": "Read 1955 full article and 1947 original book; independent review of formal assumptions and empirical applicability.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

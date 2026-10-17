@@ -1,0 +1,63 @@
+{
+  "year": 1973,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1973/summary/",
+  "laureates": [
+    {
+      "id": "683",
+      "name": "Wassily Leontief",
+      "motivation": "for the development of the input-output method and for its application to important economic problems",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Leontief: measured input-output interdependence, indirect requirements and environmental applications.",
+  "claim_source_map": "ceremony-1973: recognized contribution/application examples; leontief-lecture-1973 PDF opening I–II: system boundaries and two-region abatement model.",
+  "citations": [
+    {
+      "id": "ceremony-1973",
+      "title": "Presentation Speech for the 1973 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1973,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1973/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "leontief-lecture-1973",
+      "title": "Structure of the World Economy: Outline of a Simple Input-Output Formulation",
+      "authors": [
+        "Wassily Leontief"
+      ],
+      "year": 1973,
+      "url": "https://www.nobelprize.org/uploads/2018/06/leontief-lecture.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF prize lecture; opening sections I–II and two-region formulation, PDF pp. 1–3 consulted; delivered 11 December 1973.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1973,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1973/ceremony-speech/",
+      "sha256": "f37b1494fe4f0a3aea07bfb2b3a1e9c5ddf78070fe8fe7052ccffffa87299280",
+      "text_sha256": "3ffdb41217f9897916bbfbe012c67ad8981ae5bb71bf2847eee954bea7dac536",
+      "characters": 6267,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "A(100,100)+(70,50)=(100,100); A(10,10)+(7,5)=(10,10). Column sums .5 and .3 bound spectral radius below 1. No employment/GDP causal claim.",
+    "independent_review": false
+  },
+  "remaining_research": "Verify early article/book metadata and original texts; independent check of matrix conditions and gross-output versus value-added treatment.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

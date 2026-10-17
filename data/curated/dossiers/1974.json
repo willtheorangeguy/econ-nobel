@@ -1,0 +1,82 @@
+{
+  "year": 1974,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1974/summary/",
+  "laureates": [
+    {
+      "id": "684",
+      "name": "Gunnar Myrdal",
+      "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+      "portion": "1/2"
+    },
+    {
+      "id": "685",
+      "name": "Friedrich von Hayek",
+      "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Myrdal: cumulative social processes and development; Hayek: monetary/cycle work and dispersed-knowledge coordination. Award is not a shared political program.",
+  "claim_source_map": "ceremony-1974: all contribution attributions; both lecture introductions: explicitly attributed methodological judgments. Myrdal lecture delivered 1975, not 1974.",
+  "citations": [
+    {
+      "id": "ceremony-1974",
+      "title": "Presentation Speech for the 1974 Economic Sciences Prize",
+      "authors": [
+        "Erik Lundberg"
+      ],
+      "year": 1974,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "hayek-lecture-1974",
+      "title": "The Pretence of Knowledge",
+      "authors": [
+        "Friedrich von Hayek"
+      ],
+      "year": 1974,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML lecture; opening methodological and aggregate-demand critique consulted; delivered 11 December 1974.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "myrdal-lecture-1974",
+      "title": "The Equality Issue in World Development",
+      "authors": [
+        "Gunnar Myrdal"
+      ],
+      "year": 1975,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/myrdal/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML lecture; introduction and opening of section I consulted. Delivered 17 March 1975 for the 1974 award; the citation year is delivery year.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1974,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/ceremony-speech/",
+      "sha256": "0304b654b0e68da392091b961b95fa1dd2fc9cac8370f608ee17c4a5bbacd129",
+      "text_sha256": "39b5fe21127355678054e768d6050aa707f76957d540005a682518229ede0346",
+      "characters": 9428,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "With a=2,b=.8,r=0, d*=10 and starting 5 gives 6,6.8,7.44. With constant r=1, d*=5. Index invented; not an empirical multiplier.",
+    "independent_review": false
+  },
+  "remaining_research": "Verify full original editions and primary-text work selection for both recipients; independent assessment of contested macro claims.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

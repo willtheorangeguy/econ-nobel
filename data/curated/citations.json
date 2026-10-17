@@ -113,5 +113,394 @@
     "doi": "10.2307/1885326",
     "venue": "The Quarterly Journal of Economics",
     "volume": "90(4)"
+  },
+  {
+    "id": "ceremony-1970",
+    "title": "Presentation Speech for the 1970 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1970,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1970/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML speech; entire substantive text consulted"
+  },
+  {
+    "id": "ceremony-1971",
+    "title": "Presentation Speech for the 1971 Economic Sciences Prize",
+    "authors": [
+      "Bertil Ohlin"
+    ],
+    "year": 1971,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML speech; entire substantive text consulted"
+  },
+  {
+    "id": "ceremony-1972",
+    "title": "Presentation Speech for the 1972 Economic Sciences Prize",
+    "authors": [
+      "Ragnar Bentzel"
+    ],
+    "year": 1972,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1972/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML speech; entire substantive text consulted"
+  },
+  {
+    "id": "samuelson-1938",
+    "title": "A Note on the Pure Theory of Consumer's Behaviour",
+    "authors": [
+      "P. A. Samuelson"
+    ],
+    "year": 1938,
+    "url": "https://doi.org/10.2307/2548836",
+    "doi": "10.2307/2548836",
+    "type": "journal-article",
+    "venue": "Economica",
+    "volume": "5(17)",
+    "pages": "61",
+    "consulted_version": "Crossref bibliographic record only; records first page only. Original article not read; award narrative uses the academy speech.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "arrow-debreu-1954",
+    "title": "Existence of an Equilibrium for a Competitive Economy",
+    "authors": [
+      "Kenneth J. Arrow",
+      "Gerard Debreu"
+    ],
+    "year": 1954,
+    "url": "https://doi.org/10.2307/1907353",
+    "doi": "10.2307/1907353",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "22(3)",
+    "pages": "265–290",
+    "consulted_version": "Published article facsimile at https://web.stanford.edu/class/msande314/arrow-debreu.pdf; introduction pp. 265–266 and model assumptions pp. 266–268 consulted; full bibliographic range from facsimile cover; not redistributed.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "kuznets-lecture-1971",
+    "title": "Modern Economic Growth: Findings and Reflections",
+    "authors": [
+      "Simon Kuznets"
+    ],
+    "year": 1971,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/kuznets/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML prize lecture, delivered 11 December 1971; sections 1, 2 and 5 and bibliographic notes consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "kuznets-book-1971",
+    "title": "Economic Growth of Nations: Total Output and Production Structure",
+    "authors": [
+      "Simon Kuznets"
+    ],
+    "year": 1971,
+    "url": "https://www.degruyterbrill.com/document/doi/10.4159/harvard.9780674493490/html",
+    "doi": "10.4159/harvard.9780674493490",
+    "type": "book",
+    "venue": "The Belknap Press of Harvard University Press",
+    "consulted_version": "Publisher catalogue and title-page preview, corroborated by author lecture notes and academy speech; full book not read.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1973",
+    "title": "Presentation Speech for the 1973 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1973,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1973/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1974",
+    "title": "Presentation Speech for the 1974 Economic Sciences Prize",
+    "authors": [
+      "Erik Lundberg"
+    ],
+    "year": 1974,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1975",
+    "title": "Presentation Speech for the 1975 Economic Sciences Prize",
+    "authors": [
+      "Ragnar Bentzel"
+    ],
+    "year": 1975,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "leontief-lecture-1973",
+    "title": "Structure of the World Economy: Outline of a Simple Input-Output Formulation",
+    "authors": [
+      "Wassily Leontief"
+    ],
+    "year": 1973,
+    "url": "https://www.nobelprize.org/uploads/2018/06/leontief-lecture.pdf",
+    "type": "official",
+    "consulted_version": "Official PDF prize lecture; opening sections I–II and two-region formulation, PDF pp. 1–3 consulted; delivered 11 December 1973.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "hayek-lecture-1974",
+    "title": "The Pretence of Knowledge",
+    "authors": [
+      "Friedrich von Hayek"
+    ],
+    "year": 1974,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML lecture; opening methodological and aggregate-demand critique consulted; delivered 11 December 1974.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "myrdal-lecture-1974",
+    "title": "The Equality Issue in World Development",
+    "authors": [
+      "Gunnar Myrdal"
+    ],
+    "year": 1975,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/myrdal/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML lecture; introduction and opening of section I consulted. Delivered 17 March 1975 for the 1974 award; the citation year is delivery year.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "kantorovich-lecture-1975",
+    "title": "Mathematics in Economics: Achievements, Difficulties, Perspectives",
+    "authors": [
+      "Leonid Kantorovich"
+    ],
+    "year": 1975,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/kantorovich/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML lecture; model, valuations and implementation/data/incentive limitations passages consulted; delivered 11 December 1975.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "koopmans-lecture-1975",
+    "title": "Concepts of Optimality and Their Uses",
+    "authors": [
+      "Tjalling C. Koopmans"
+    ],
+    "year": 1975,
+    "url": "https://www.nobelprize.org/uploads/2018/06/koopmans-lecture.pdf",
+    "type": "official",
+    "consulted_version": "Official PDF lecture, pp. 239–241 (PDF pp. 1–3): definitions, Kantorovich booklet, shadow prices and independent development; delivered 11 December 1975.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1976",
+    "title": "Presentation Speech for the 1976 Economic Sciences Prize",
+    "authors": [
+      "Erik Lundberg"
+    ],
+    "year": 1976,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1976/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "friedman-lecture-1976",
+    "title": "Inflation and Unemployment",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "year": 1976,
+    "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture-1.pdf",
+    "type": "official",
+    "consulted_version": "Official PDF prize lecture delivered 13 December 1976; opening and section 3 on natural-rate hypothesis, pp. 271–273 (PDF pp. 5–7) consulted; includes explicit Phelps credit.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "friedman-schwartz-1963",
+    "title": "A Monetary History of the United States, 1867–1960",
+    "authors": [
+      "Milton Friedman",
+      "Anna J. Schwartz"
+    ],
+    "year": 1963,
+    "url": "https://www.nber.org/books-and-chapters/monetary-history-united-states-1867-1960",
+    "type": "book",
+    "venue": "Princeton University Press",
+    "consulted_version": "NBER publisher/project bibliographic page and authorship record only; complete book not read. Award-level assessment relies on academy speech.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "friedman-consumption-1957",
+    "title": "A Theory of the Consumption Function",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "year": 1957,
+    "url": "https://www.nber.org/books-and-chapters/theory-consumption-function/implications-pure-theory-consumer-behavior",
+    "type": "book",
+    "venue": "Princeton University Press",
+    "consulted_version": "NBER chapter catalogue identifying parent book, author, publisher and 1957 edition; full book not read.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1977",
+    "title": "Presentation Speech for the 1977 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1977,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1978",
+    "title": "Presentation Speech for the 1978 Economic Sciences Prize",
+    "authors": [
+      "Sune Carlson"
+    ],
+    "year": 1978,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1978/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "ceremony-1979",
+    "title": "Presentation Speech for the 1979 Economic Sciences Prize",
+    "authors": [
+      "Erik Lundberg"
+    ],
+    "year": 1979,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/ceremony-speech/",
+    "type": "official",
+    "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "meade-lecture-1977",
+    "title": "The Meaning of “Internal Balance”",
+    "authors": [
+      "James E. Meade"
+    ],
+    "year": 1977,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/meade/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML prize lecture delivered 8 December 1977; sections I–II consulted, including self-criticism and distinction of three targets.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "simon-lecture-1978",
+    "title": "Rational Decision-Making in Business Organizations",
+    "authors": [
+      "Herbert A. Simon"
+    ],
+    "year": 1978,
+    "url": "https://www.nobelprize.org/uploads/2018/06/simon-lecture.pdf",
+    "type": "official",
+    "consulted_version": "Official PDF lecture delivered 8 December 1978; introduction and subgoal/problem-representation/bounded-rationality/field-studies passages pp. 353–354 (PDF pp. 11–12) consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "simon-1955",
+    "title": "A Behavioral Model of Rational Choice",
+    "authors": [
+      "Herbert A. Simon"
+    ],
+    "year": 1955,
+    "url": "https://doi.org/10.2307/1884852",
+    "doi": "10.2307/1884852",
+    "type": "journal-article",
+    "venue": "The Quarterly Journal of Economics",
+    "volume": "69(1)",
+    "pages": "99",
+    "consulted_version": "Crossref bibliographic record and publisher article landing record only; first page recorded, not an invented range; original full text not read.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "schultz-lecture-1979",
+    "title": "The Economics of Being Poor",
+    "authors": [
+      "Theodore W. Schultz"
+    ],
+    "year": 1979,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/",
+    "type": "official",
+    "consulted_version": "Official English HTML prize lecture delivered 8 December 1979; opening argument and sections on economists' mistakes and land consulted.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "schultz-1961",
+    "title": "Investment in Human Capital",
+    "authors": [
+      "Theodore W. Schultz"
+    ],
+    "year": 1961,
+    "url": "https://www.jstor.org/stable/1818907",
+    "type": "journal-article",
+    "venue": "The American Economic Review",
+    "volume": "51(1)",
+    "pages": "1–17",
+    "consulted_version": "JSTOR article and journal issue metadata only; original article not read. Archive identifies journal publication March 1961, following December 1960 presidential address.",
+    "accessed": "2026-10-17",
+    "verified": true
+  },
+  {
+    "id": "lewis-1954",
+    "title": "Economic Development with Unlimited Supplies of Labour",
+    "authors": [
+      "W. Arthur Lewis"
+    ],
+    "year": 1954,
+    "url": "https://doi.org/10.1111/j.1467-9957.1954.tb00021.x",
+    "doi": "10.1111/j.1467-9957.1954.tb00021.x",
+    "type": "journal-article",
+    "venue": "The Manchester School",
+    "volume": "22(2)",
+    "pages": "139–191",
+    "consulted_version": "Crossref publication metadata; opening argument and sections 2 and sector/wage definitions consulted in University of Texas teaching transcription https://la.utexas.edu/users/hcleaver/368/368lewistable.pdf (PDF pp. 1–2, 5–7). Typographic errors present; publisher facsimile not yet compared. Not redistributed.",
+    "accessed": "2026-10-17",
+    "verified": true
   }
 ]

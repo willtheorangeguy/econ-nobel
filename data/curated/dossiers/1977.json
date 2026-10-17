@@ -1,0 +1,69 @@
+{
+  "year": 1977,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1977/summary/",
+  "laureates": [
+    {
+      "id": "689",
+      "name": "Bertil Ohlin",
+      "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+      "portion": "1/2"
+    },
+    {
+      "id": "690",
+      "name": "James E. Meade",
+      "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Ohlin: factor-proportions trade and distribution; Meade: international policy, internal/external targets and coordination. Preserve Heckscher influence.",
+  "claim_source_map": "Academy speech for all contribution attributions; Meade lecture I–II for book associations, self-criticism and three distinct targets.",
+  "citations": [
+    {
+      "id": "ceremony-1977",
+      "title": "Presentation Speech for the 1977 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1977,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech, complete substantive text consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "meade-lecture-1977",
+      "title": "The Meaning of “Internal Balance”",
+      "authors": [
+        "James E. Meade"
+      ],
+      "year": 1977,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/meade/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML prize lecture delivered 8 December 1977; sections I–II consulted, including self-criticism and distinction of three targets.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1977,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/ceremony-speech/",
+      "sha256": "d9f7bea7588579d74d02f20d8ec1d33ae4f191a614988123e69ad543b0fda118",
+      "text_sha256": "7a6d3ccd932e256d361ec32ff9ad57ba60ed7ad887b82c793903423f6543e29c",
+      "characters": 7107,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "A: C=140/3,M=20/3 uses L100,K60; B reverse. At prices1, wage=capital reward=1/3. Half expenditure on each implies exports/imports20. Policy E=a+b,B=-a+b requires (5,5) for(10,0).",
+    "independent_review": false
+  },
+  "remaining_research": "Verify original full book editions and read underlying models; independently assess factor-price equalization conditions.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

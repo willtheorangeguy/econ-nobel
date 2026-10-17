@@ -13,7 +13,7 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 - Live document checksums: https://williamvdg.me/econ-nobel/downloads/manifest.json
 - Coverage: [machine report](data/reports/coverage.json), [year ledger](data/reports/coverage.md), and public `/coverage/`.
 
-**Next useful task:** repair the review-gate and original-document model defects recorded in the audit, and make fresh browser-test startup reliable. Then finish original-publication research for 1969 and read Spence (1973) and Rothschild–Stiglitz (1976) before writing their work explanations. All existing essays still need actual independent review.
+**Active task (user instruction after the audit):** continue the missing annual essays, proceeding chronologically from 1970. Read authoritative source text, record consulted editions and claim/equation checks in per-year dossiers, author substantive explanations, generate and validate their downloads, and commit milestones. Keep all new text `needs-review`; writing is not independent editorial approval. Review-gate/original-document/browser-startup audit findings remain open and are not being silently marked fixed.
 
 ## Milestones
 
@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 2: 1969 and 2001, both `needs-review` |
-| Annual essays not yet written | 56, explicitly `metadata-only` |
+| Authored annual essays | 12: 1969–1979 and 2001, all `needs-review` |
+| Annual essays not yet written | 46, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 6: PDF + EPUB for each of the three authored drafts |
+| Validated overview artifacts | 26: PDF + EPUB for 12 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write 56 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the two annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 46 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 12 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -98,3 +98,14 @@ Research copies are outside the repository under `/tmp`, never committed or mirr
 ## Completion audit correction
 
 The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3, 4 and 6 are now marked partial; Phase 5 remains incomplete. The 15 existing unit tests and six export validations passed again, and a fresh official award API comparison found zero recipient/motivation/share mismatches. All six live files matched the public manifest again. Isolated synthetic fixtures reproduced acceptance of empty reviewed sections, rejection of native EPUBs without conversion permission, and failure of a shared PDF/EPUB checksum. No synthetic review, content or original document was published. The findings are not fixed by this documentation update.
+
+## Essay continuation — first decade
+
+- Authored ten source-led annual drafts for 1970–1979, 1,259–1,361 whitespace-delimited body words each. All required sections, original worked examples, defined mathematical notation, caveats and citation keys are present. All remain `needs-review` with `review: null`.
+- Added ten per-year research dossiers with recipient records, claim/source maps, consulted-edition declarations, source receipts, arithmetic checks and concrete remaining original-text/review tasks. No source full text is committed.
+- Preserved Stolper/Solow, Debreu, Phelps, Schwartz and Heckscher credit. Corrected the 1972 speech's overstatement: the original 1954 Arrow–Debreu paper explicitly does not investigate uniqueness or stability. Recorded Myrdal's lecture as delivered in 1975 for his 1974 award.
+- New topic assignments cover the actual prose. Bibliographic verification remains distinct from reading an original; article/book records disclose metadata-only consultation. None of the new annual drafts yet has completed dedicated foundational-work pages.
+- Fresh Astro check: zero diagnostics. Existing 15 unit tests passed. Full build: 26 artifacts validated with PDF text/checksum checks and EPUBCheck, plus 180 static endpoints and 3,602 internal links/assets.
+- Next chronological manuscript is 1980 (Klein); 1980s academy speeches and selected lectures have been fetched into private `/tmp/econ-essay-sources/` for reading. Do not count fetched material as an authored essay. Existing engineering audit findings and independent review are still open.
+- Browser QA for every new 1970–1979 page passed at 320, 390 and 1280 px: zero automated axe violations, no viewport overflow, both download links and all 20 new download byte hashes checked. See `data/reports/essay-browser-qa.json`.
+- New prose exposed a keyboard-access issue in horizontally scrolling KaTeX blocks. Added a post-KaTeX HTML transform, focus styling and a no-JavaScript keyboard-scroll regression. All **9 browser tests** passed using an explicitly started preview; this does not claim the previously audited fresh-startup issue was repaired.

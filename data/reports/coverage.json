@@ -54,10 +54,13 @@
       "laureates": [
         "Paul A. Samuelson"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -68,10 +71,13 @@
       "laureates": [
         "Simon Kuznets"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -83,10 +89,13 @@
         "John R. Hicks",
         "Kenneth J. Arrow"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -97,10 +106,13 @@
       "laureates": [
         "Wassily Leontief"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -112,10 +124,13 @@
         "Gunnar Myrdal",
         "Friedrich von Hayek"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -127,10 +142,13 @@
         "Leonid Vitaliyevich Kantorovich",
         "Tjalling C. Koopmans"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -141,10 +159,13 @@
       "laureates": [
         "Milton Friedman"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -156,10 +177,13 @@
         "Bertil Ohlin",
         "James E. Meade"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -170,10 +194,13 @@
       "laureates": [
         "Herbert Simon"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -185,10 +212,13 @@
         "Theodore W. Schultz",
         "Sir Arthur Lewis"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

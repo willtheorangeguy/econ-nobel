@@ -1,6 +1,52 @@
 [
-  {"slug":"econometrics","name":"Econometrics","description":"Connecting economic models with evidence."},
-  {"slug":"information-economics","name":"Information economics","description":"Markets when knowledge is unevenly shared."},
-  {"slug":"game-theory","name":"Game theory","description":"Decisions whose outcomes depend on other decision makers."},
-  {"slug":"macroeconomics","name":"Macroeconomics","description":"Economy-wide fluctuations, employment and policy."}
+  {
+    "slug": "econometrics",
+    "name": "Econometrics",
+    "description": "Connecting economic models with evidence."
+  },
+  {
+    "slug": "information-economics",
+    "name": "Information economics",
+    "description": "Markets when knowledge is unevenly shared."
+  },
+  {
+    "slug": "game-theory",
+    "name": "Game theory",
+    "description": "Decisions whose outcomes depend on other decision makers."
+  },
+  {
+    "slug": "macroeconomics",
+    "name": "Macroeconomics",
+    "description": "Economy-wide fluctuations, employment and policy."
+  },
+  {
+    "slug": "economic-theory",
+    "name": "Economic theory",
+    "description": "Choice, coordination and evaluation under explicit assumptions."
+  },
+  {
+    "slug": "economic-history",
+    "name": "Economic history",
+    "description": "Evidence about economic change over time."
+  },
+  {
+    "slug": "economic-development",
+    "name": "Economic development",
+    "description": "Productivity, institutions and changing standards of living."
+  },
+  {
+    "slug": "production-and-allocation",
+    "name": "Production and allocation",
+    "description": "Production networks, scarcity and the use of resources."
+  },
+  {
+    "slug": "international-economics",
+    "name": "International economics",
+    "description": "Trade, exchange rates and connections between economies."
+  },
+  {
+    "slug": "decision-making",
+    "name": "Decision making",
+    "description": "How individuals and organizations choose with limited information."
+  }
 ]

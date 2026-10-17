@@ -1,0 +1,246 @@
+{
+  "checked_at": "2026-10-17T16:29:37.078Z",
+  "scope": "1970–1979 drafts; 30 page/viewport combinations; 20 download bodies match local build manifest; automated accessibility only, not independent scholarly review",
+  "checks": [
+    {
+      "year": 1970,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1971,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1972,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1973,
+      "width": 320,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1974,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1975,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1976,
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1977,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1978,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1979,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1970,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1971,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1972,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1973,
+      "width": 390,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1974,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1975,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1976,
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1977,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1978,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1979,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1970,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1971,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1972,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1973,
+      "width": 1280,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1974,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1975,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1976,
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1977,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1978,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1979,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    }
+  ]
+}

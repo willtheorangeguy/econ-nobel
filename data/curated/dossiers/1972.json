@@ -1,0 +1,74 @@
+{
+  "year": 1972,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1972/summary/",
+  "laureates": [
+    {
+      "id": "681",
+      "name": "John R. Hicks",
+      "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+      "portion": "1/2"
+    },
+    {
+      "id": "682",
+      "name": "Kenneth J. Arrow",
+      "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Hicks: integrated equilibrium/welfare tools; Arrow: equilibrium existence with Debreu, uncertainty and social-choice limitations.",
+  "claim_source_map": "ceremony-1972: award scope; arrow-debreu-1954 pp.265–268: existence and assumptions. Paper p.266 explicitly excludes uniqueness/stability; do not repeat the speech's uniqueness overstatement.",
+  "citations": [
+    {
+      "id": "ceremony-1972",
+      "title": "Presentation Speech for the 1972 Economic Sciences Prize",
+      "authors": [
+        "Ragnar Bentzel"
+      ],
+      "year": 1972,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1972/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML speech; entire substantive text consulted"
+    },
+    {
+      "id": "arrow-debreu-1954",
+      "title": "Existence of an Equilibrium for a Competitive Economy",
+      "authors": [
+        "Kenneth J. Arrow",
+        "Gerard Debreu"
+      ],
+      "year": 1954,
+      "url": "https://doi.org/10.2307/1907353",
+      "doi": "10.2307/1907353",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "22(3)",
+      "pages": "265–290",
+      "consulted_version": "Published article facsimile at https://web.stanford.edu/class/msande314/arrow-debreu.pdf; introduction pp. 265–266 and model assumptions pp. 266–268 consulted; full bibliographic range from facsimile cover; not redistributed.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1972,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1972/ceremony-speech/",
+      "sha256": "650d17e45f4cbbced00f85bebae6af172d95e0ef89eae2a9f848c39a1335c4b5",
+      "text_sha256": "f037fec517d025a44aabd359326c9fa5c37fb0d2ea4e215e21f6a08485d59c76",
+      "characters": 6366,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Three rankings ABC, BCA, CAB produce A>B, B>C, C>A by 2–1. Exchange identities and budgets dimensionally consistent. Cycle is not a theorem proof.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Hicks and Arrow books and verify their full editions; check original social-choice theorem, not just the majority-cycle illustration.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

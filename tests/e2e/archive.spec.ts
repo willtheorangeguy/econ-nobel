@@ -59,3 +59,18 @@ test('keyboard skip link and no-JavaScript reading work',async({browser,page})=>
  const context=await browser.newContext({javaScriptEnabled:false});const p=await context.newPage();await p.goto('http://127.0.0.1:4321'+base+'awards/2001/');
  await expect(p.getByRole('heading',{name:'In plain English',exact:true})).toBeVisible();await expect(p.locator('.katex-display')).toHaveCount(2);await context.close();
 });
+
+test('an overflowing equation can be scrolled by keyboard without JavaScript',async({browser})=>{
+ const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:320,height:900}});
+ try {
+  const page=await context.newPage();
+  await page.goto('http://127.0.0.1:4321'+base+'awards/1970/');
+  await page.evaluate(()=>document.fonts.ready);
+  const index=await page.locator('.katex-display').evaluateAll(nodes=>nodes.findIndex(n=>n.scrollWidth>n.clientWidth+1));
+  expect(index).toBeGreaterThanOrEqual(0);
+  const equation=page.locator('.katex-display').nth(index);
+  await equation.focus();await expect(equation).toBeFocused();
+  await page.keyboard.press('ArrowRight');
+  await expect.poll(()=>equation.evaluate(n=>n.scrollLeft)).toBeGreaterThan(0);
+ } finally {await context.close();}
+});

@@ -4,6 +4,7 @@ import { unified } from '@astrojs/markdown-remark';
 import remarkMath from 'remark-math';
 import citations from './scripts/remark-citations.mjs';
 import rehypeKatex from 'rehype-katex';
+import accessibleMath from './scripts/rehype-accessible-math.mjs';
 
 export default defineConfig({
   site: process.env.SITE_URL || 'https://williamvdg.me',
@@ -11,5 +12,5 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'always',
   integrations: [sitemap()],
-  markdown: { processor: unified({ remarkPlugins: [remarkMath, citations], rehypePlugins: [[rehypeKatex, { strict: 'error', throwOnError: true }]] }) },
+  markdown: { processor: unified({ remarkPlugins: [remarkMath, citations], rehypePlugins: [[rehypeKatex, { strict: 'error', throwOnError: true }], accessibleMath] }) },
 });

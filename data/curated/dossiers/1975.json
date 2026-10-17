@@ -1,0 +1,82 @@
+{
+  "year": 1975,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1975/summary/",
+  "laureates": [
+    {
+      "id": "686",
+      "name": "Leonid Vitaliyevich Kantorovich",
+      "motivation": "for their contributions to the theory of optimum allocation of resources",
+      "portion": "1/2"
+    },
+    {
+      "id": "687",
+      "name": "Tjalling C. Koopmans",
+      "motivation": "for their contributions to the theory of optimum allocation of resources",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Kantorovich: production optimization/valuations; Koopmans: transport/activity analysis and intertemporal allocation. Preserve Dantzig/other developer credit.",
+  "claim_source_map": "ceremony-1975: recognized programs; Koopmans lecture PDF pp.1–3: booklet/history/duality; Kantorovich model and implementation passages: data, incentives, consumer objectives.",
+  "citations": [
+    {
+      "id": "ceremony-1975",
+      "title": "Presentation Speech for the 1975 Economic Sciences Prize",
+      "authors": [
+        "Ragnar Bentzel"
+      ],
+      "year": 1975,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/ceremony-speech/",
+      "type": "official",
+      "consulted_version": "Official English HTML presentation speech; entire substantive text consulted",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "kantorovich-lecture-1975",
+      "title": "Mathematics in Economics: Achievements, Difficulties, Perspectives",
+      "authors": [
+        "Leonid Kantorovich"
+      ],
+      "year": 1975,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/kantorovich/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML lecture; model, valuations and implementation/data/incentive limitations passages consulted; delivered 11 December 1975.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "koopmans-lecture-1975",
+      "title": "Concepts of Optimality and Their Uses",
+      "authors": [
+        "Tjalling C. Koopmans"
+      ],
+      "year": 1975,
+      "url": "https://www.nobelprize.org/uploads/2018/06/koopmans-lecture.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF lecture, pp. 239–241 (PDF pp. 1–3): definitions, Kantorovich booklet, shadow prices and independent development; delivered 11 December 1975.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1975,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/ceremony-speech/",
+      "sha256": "41e7347ab7c38d774557f4d00ff03ccb44b7a03bfb926d0d546b564a09fc302e",
+      "text_sha256": "c5cb9f24d0e67bea0989a50e0e2dc894732cca361454b756b5b97de6b5a604be",
+      "characters": 5820,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Plan (40,20) uses (100,80), value 2600. Dual (10,20) covers contributions (40,50), bound 2600. Fractional activities assumed; not an integer solution claim.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original booklet translation and 1951 activity-analysis volume; verify precise edition metadata; independently check duality qualifications.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

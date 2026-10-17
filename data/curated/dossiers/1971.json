@@ -1,0 +1,78 @@
+{
+  "year": 1971,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1971/summary/",
+  "laureates": [
+    {
+      "id": "680",
+      "name": "Simon Kuznets",
+      "motivation": "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Kuznets: national income, empirically measured growth, structural change and measurement uncertainty.",
+  "claim_source_map": "ceremony-1971: recognized work; kuznets-lecture-1971 sections 1,2,5: technology/institutions and measurement limits; kuznets-book-1971: publisher catalogue metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1971",
+      "title": "Presentation Speech for the 1971 Economic Sciences Prize",
+      "authors": [
+        "Bertil Ohlin"
+      ],
+      "year": 1971,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML speech; entire substantive text consulted"
+    },
+    {
+      "id": "kuznets-lecture-1971",
+      "title": "Modern Economic Growth: Findings and Reflections",
+      "authors": [
+        "Simon Kuznets"
+      ],
+      "year": 1971,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/kuznets/lecture/",
+      "type": "official",
+      "consulted_version": "Official English HTML prize lecture, delivered 11 December 1971; sections 1, 2 and 5 and bibliographic notes consulted.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "kuznets-book-1971",
+      "title": "Economic Growth of Nations: Total Output and Production Structure",
+      "authors": [
+        "Simon Kuznets"
+      ],
+      "year": 1971,
+      "url": "https://www.degruyterbrill.com/document/doi/10.4159/harvard.9780674493490/html",
+      "doi": "10.4159/harvard.9780674493490",
+      "type": "book",
+      "venue": "The Belknap Press of Harvard University Press",
+      "consulted_version": "Publisher catalogue and title-page preview, corroborated by author lecture notes and academy speech; full book not read.",
+      "accessed": "2026-10-17",
+      "verified": true
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1971,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/ceremony-speech/",
+      "sha256": "59c45ad2505a7860b2e7cc20cbd05f0d8d017e01f7c12acf9fddd50f3db4fc30",
+      "text_sha256": "7c3a533cdf21c4c6fc3d8a481b37d4f59a5a3f4a16b31e525630047e75bc683d",
+      "characters": 5591,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "80*10+20*30=1400; 60*10+40*30=1800; (18/14-1)*100=28.5714. 1.10/1.05-1=0.047619. Sector identity assumes additive real value added.",
+    "independent_review": false
+  },
+  "remaining_research": "Read full original book; research earlier national-income and inequality publications; do not assert a universal inverted-U law.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

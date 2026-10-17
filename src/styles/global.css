@@ -11,3 +11,5 @@
 .draft-readings{padding-top:3rem}.draft-readings .topic-list article{padding:1rem 0 0}.draft-readings h3{font-size:1.4rem}.draft-readings h3 a{color:var(--ink);text-decoration:none}.draft-readings .topic-list p{font-size:.92rem;line-height:1.65}
 
 .article-toc a[aria-current="location"]{color:var(--accent);text-decoration:underline}
+
+.katex-display:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
