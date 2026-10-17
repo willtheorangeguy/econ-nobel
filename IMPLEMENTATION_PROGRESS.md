@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 28: 1969–1995 and 2001, all `needs-review` |
-| Annual essays not yet written | 30, explicitly `metadata-only` |
+| Authored annual essays | 33: 1969–2001, all `needs-review` |
+| Annual essays not yet written | 25, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 58: PDF + EPUB for 28 annual drafts and one work draft |
+| Validated overview artifacts | 68: PDF + EPUB for 33 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 30 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 28 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 25 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 33 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -126,3 +126,10 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - Fresh check and 15 unit tests passed. Build validated 58 PDF/EPUB artifacts and 185 endpoints/4,147 internal links. All six new pages passed 320/390/1280px axe/overflow checks and 12 download checksum requests; all nine browser regressions passed. See `data/reports/essay-browser-qa-1990-1995.json`.
 - 1980s commit `227063c` passed clean-checkout CI and deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39063150392.
 - Next canonical import: 1996–2000, five substantive drafts already staged privately with source research. Metadata-only years remain unfinished until that import and verification.
+
+## Essay continuation — 1996–2000
+
+- Added five annual drafts and research dossiers. The annual manuscript sequence is now continuous from 1969 through 2001: **33 unreviewed essays**, 25 remaining metadata-only years. New body lengths are 1,215–1,278 whitespace-delimited words. Original-text consultation and independent review are still not completed research.
+- Registered checked metadata for Mirrlees/Vickrey, Black–Scholes/Merton, Sen, Mundell and Heckman. Retained Black's contribution without adding him as a laureate; distinguished a conventional poverty-gap illustration from Sen's actual index; qualified textbook open-economy results and the assumptions behind selection/logit examples.
+- Fresh check and all 15 unit tests passed. Full build validated **68 artifacts** (PDF text/checksums and EPUBCheck) plus 185 endpoints/4,296 internal links. All five pages passed 320/390/1280px axe/overflow checks and ten download hash requests; all nine browser regressions passed. See `data/reports/essay-browser-qa-1996-2000.json`.
+- Next import is 2002–2006: five substantive manuscripts have been staged privately and official speeches read. 2007–2011 source material is fetched privately for the following batch; fetching is not counted as writing or completed research.

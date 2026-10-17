@@ -1,0 +1,111 @@
+{
+  "year": 1999,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1999/summary/",
+  "laureates": [
+    {
+      "id": "720",
+      "name": "Robert Mundell",
+      "motivation": "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Mundell: regime/mobility-dependent stabilization, dynamics/assignment and optimum currency areas. Preserve Mundell–Fleming designation.",
+  "claim_source_map": "Academy speech forscope; officialpress trilemma/OCA/further-reading for conditional regime and adjustment account;1963articlemetadataonly.",
+  "citations": [
+    {
+      "id": "ceremony-1999",
+      "title": "Presentation Speech for the 1999 Economic Sciences Prize",
+      "authors": [
+        "Torsten Persson"
+      ],
+      "year": 1999,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "academy-1999",
+      "title": "The Economic Sciences Prize 1999 — Press release",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 1999,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/press-release/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English award press release; introduction, instrument assignment/trilemma discussion, optimum-currency-area section and further-reading list consulted."
+    },
+    {
+      "id": "mundell-1963",
+      "title": "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates",
+      "authors": [
+        "R. A. Mundell"
+      ],
+      "year": 1963,
+      "url": "https://doi.org/10.2307/139336",
+      "doi": "10.2307/139336",
+      "type": "journal-article",
+      "venue": "Canadian Journal of Economics and Political Science",
+      "volume": "29(4)",
+      "pages": "475-485",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1999,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/ceremony-speech/",
+      "sha256": "ee03fe282745869c05e84002c2689ebac9aafc392fb3e73855057f14f9969121",
+      "text_sha256": "ce74feadae0646a01aca3e7edfec22fbdb5a8e2eb666d80a44f4547f9111e683",
+      "characters": 5472,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 1999,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/press-release/",
+      "sha256": "7489e167b996420ece94cfee066a6dedb068e29b5927f96bcb0c27e66a8fe2f0",
+      "text_sha256": "0374af70cf071f93522aeb4fd8428edebbe492ea135d6874e325e7af4abedb0a",
+      "characters": 16015,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "mundell-1963",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/139336",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "af13e67f2491b16fed9a39e84be873253966d69553448f2f1d7eb5164cebe3ff",
+      "title": [
+        "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates"
+      ],
+      "doi": "10.2307/139336",
+      "publication_date": {
+        "date-parts": [
+          [
+            1963,
+            11
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Withperfectsubstitution,riskpremium0,crediblepeg expecteddepreciation0 ->domestic4% atforeign4%;independent2% incompatiblewithallassumptions. UIP logapprox,notuniversalempiricallaw.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original1961/1963 papers; independently check parity,small-economy assumptions and regional adjustment literature.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

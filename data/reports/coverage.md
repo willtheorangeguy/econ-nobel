@@ -31,11 +31,11 @@
 | 1993 | needs-review | 0 | pdf, epub |
 | 1994 | needs-review | 0 | pdf, epub |
 | 1995 | needs-review | 0 | pdf, epub |
-| 1996 | metadata-only | 0 | None |
-| 1997 | metadata-only | 0 | None |
-| 1998 | metadata-only | 0 | None |
-| 1999 | metadata-only | 0 | None |
-| 2000 | metadata-only | 0 | None |
+| 1996 | needs-review | 0 | pdf, epub |
+| 1997 | needs-review | 0 | pdf, epub |
+| 1998 | needs-review | 0 | pdf, epub |
+| 1999 | needs-review | 0 | pdf, epub |
+| 2000 | needs-review | 0 | pdf, epub |
 | 2001 | needs-review | 3 | pdf, epub |
 | 2002 | metadata-only | 0 | None |
 | 2003 | metadata-only | 0 | None |

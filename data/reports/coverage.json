@@ -507,10 +507,13 @@
         "James A. Mirrlees",
         "William Vickrey"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -522,10 +525,13 @@
         "Robert C. Merton",
         "Myron Scholes"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -536,10 +542,13 @@
       "laureates": [
         "Amartya Sen"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -550,10 +559,13 @@
       "laureates": [
         "Robert Mundell"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -565,10 +577,13 @@
         "James J. Heckman",
         "Daniel L. McFadden"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

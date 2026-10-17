@@ -183,6 +183,41 @@
       "body_word_count_whitespace": 1273,
       "source_sha256": "10ba16db85fa65a61e0ae79f5ab9af6a8b3c1662c1b21ed7297040f8b41c5f0b",
       "dossier": "data/curated/dossiers/1995.json"
+    },
+    {
+      "year": 1996,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1245,
+      "source_sha256": "48752acce5e27c3fb604a72c032fa473a245b69e547350b6f44d95b0eaf14f08",
+      "dossier": "data/curated/dossiers/1996.json"
+    },
+    {
+      "year": 1997,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1232,
+      "source_sha256": "28bd3e9bdf8984f9f3c6ca3db238f0780b00d3c75f790de9c6401de8234fe390",
+      "dossier": "data/curated/dossiers/1997.json"
+    },
+    {
+      "year": 1998,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1215,
+      "source_sha256": "a68e9304c4dc6d5c837852d7390692015138f8a78ffdf183312b8e54dd7dbf84",
+      "dossier": "data/curated/dossiers/1998.json"
+    },
+    {
+      "year": 1999,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1278,
+      "source_sha256": "18f11330780810fb075d52d506da5353fa9c57371f78ba221e6aa6d2662abc49",
+      "dossier": "data/curated/dossiers/1999.json"
+    },
+    {
+      "year": 2000,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1230,
+      "source_sha256": "85eebdb7093f0bb58693611b11600e60df3a68936047992ca6a5958ef8548a0f",
+      "dossier": "data/curated/dossiers/2000.json"
     }
   ],
   "independently_reviewed": false

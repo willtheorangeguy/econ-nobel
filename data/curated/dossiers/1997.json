@@ -1,0 +1,132 @@
+{
+  "year": 1997,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1997/summary/",
+  "laureates": [
+    {
+      "id": "717",
+      "name": "Robert C. Merton",
+      "motivation": "for a new method to determine the value of derivatives",
+      "portion": "1/2"
+    },
+    {
+      "id": "718",
+      "name": "Myron Scholes",
+      "motivation": "for a new method to determine the value of derivatives",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Scholes and Merton: replication/no-arbitrage pricing; preserve Fischer Black's coauthorship and absence from recipient list.",
+  "claim_source_map": "Academy speech for historical scope/Black credit; both1973 papers Crossref metadata only. One-period example explicitly not original continuous-time derivation.",
+  "citations": [
+    {
+      "id": "ceremony-1997",
+      "title": "Presentation Speech for the 1997 Economic Sciences Prize",
+      "authors": [
+        "Bertil Näslund"
+      ],
+      "year": 1997,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1997/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "black-scholes-1973",
+      "title": "The Pricing of Options and Corporate Liabilities",
+      "authors": [
+        "Fischer Black",
+        "Myron Scholes"
+      ],
+      "year": 1973,
+      "url": "https://doi.org/10.1086/260062",
+      "doi": "10.1086/260062",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "81(3)",
+      "pages": "637-654",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "merton-1973",
+      "title": "Theory of Rational Option Pricing",
+      "authors": [
+        "Robert C. Merton"
+      ],
+      "year": 1973,
+      "url": "https://doi.org/10.2307/3003143",
+      "doi": "10.2307/3003143",
+      "type": "journal-article",
+      "venue": "The Bell Journal of Economics and Management Science",
+      "volume": "4(1)",
+      "pages": "141",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1997,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1997/ceremony-speech/",
+      "sha256": "b7592476de6c836976b06a6ff0f840f63f5807335088872e354778993381839a",
+      "text_sha256": "cd983cb160c9c510095a253c69dbed87764725dd1181ae0b53c5e96fac57dc96",
+      "characters": 4372,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "black-scholes-1973",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/260062",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "5de584622bca7ab9dbdf9adcd3b3438adf9e3d41e61adbb5ab75298302c15fc0",
+      "title": [
+        "The Pricing of Options and Corporate Liabilities"
+      ],
+      "doi": "10.1086/260062",
+      "publication_date": {
+        "date-parts": [
+          [
+            1973,
+            5
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "merton-1973",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/3003143",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "1e1edac08ce8c74cbb806e56b67d39bcc423bd1c661e661d745a49097e9b446d",
+      "title": [
+        "Theory of Rational Option Pricing"
+      ],
+      "doi": "10.2307/3003143",
+      "publication_date": {
+        "date-parts": [
+          [
+            1973
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "S0=100,states120/80,K100,call20/0,r0. Delta=.5,B=-40 ->samepayoffs,cost10. Risk-neutralprob.5 valuation device,not asserted actualprobability.",
+    "independent_review": false
+  },
+  "remaining_research": "Read complete original articles and dynamic hedging assumptions; examine jumps,incomplete markets and empirical volatility.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-10-17T19:48:32.107Z",
+  "scope": "1996–2000 drafts; 15 page/viewport combinations; 10 download bodies match local build manifest; automated accessibility only, not independent scholarly review",
+  "checks": [
+    {
+      "year": 1996,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1997,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1998,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1999,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2000,
+      "width": 320,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1996,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1997,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1998,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1999,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2000,
+      "width": 390,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1996,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1997,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1998,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 1999,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2000,
+      "width": 1280,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    }
+  ]
+}

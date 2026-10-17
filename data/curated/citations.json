@@ -1091,5 +1091,229 @@
     "verified": true,
     "accessed": "2026-10-17",
     "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "ceremony-1996",
+    "title": "Presentation Speech for the 1996 Economic Sciences Prize",
+    "authors": [
+      "Bertil Näslund"
+    ],
+    "year": 1996,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1996/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1997",
+    "title": "Presentation Speech for the 1997 Economic Sciences Prize",
+    "authors": [
+      "Bertil Näslund"
+    ],
+    "year": 1997,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1997/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1998",
+    "title": "Presentation Speech for the 1998 Economic Sciences Prize",
+    "authors": [
+      "Robert Erikson"
+    ],
+    "year": 1998,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1999",
+    "title": "Presentation Speech for the 1999 Economic Sciences Prize",
+    "authors": [
+      "Torsten Persson"
+    ],
+    "year": 1999,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2000",
+    "title": "Presentation Speech for the 2000 Economic Sciences Prize",
+    "authors": [
+      "Karl Gustav Jöreskog"
+    ],
+    "year": 2000,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "academy-1998",
+    "title": "The Economic Sciences Prize 1998 — Press release",
+    "authors": [
+      "Royal Swedish Academy of Sciences"
+    ],
+    "year": 1998,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/press-release/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English award press release; introduction and capability/opportunity discussion consulted; famine and axiomatic measurement attributions also checked against full presentation speech."
+  },
+  {
+    "id": "academy-1999",
+    "title": "The Economic Sciences Prize 1999 — Press release",
+    "authors": [
+      "Royal Swedish Academy of Sciences"
+    ],
+    "year": 1999,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/press-release/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English award press release; introduction, instrument assignment/trilemma discussion, optimum-currency-area section and further-reading list consulted."
+  },
+  {
+    "id": "academy-2000",
+    "title": "The Economic Sciences Prize 2000 — Press release",
+    "authors": [
+      "Royal Swedish Academy of Sciences"
+    ],
+    "year": 2000,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/press-release/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English award press release; opening, exact award citations and selective-sample discussion consulted; discrete-choice applications checked against full presentation speech."
+  },
+  {
+    "id": "mirrlees-1971",
+    "title": "An Exploration in the Theory of Optimum Income Taxation",
+    "authors": [
+      "J. A. Mirrlees"
+    ],
+    "year": 1971,
+    "url": "https://doi.org/10.2307/2296779",
+    "doi": "10.2307/2296779",
+    "type": "journal-article",
+    "venue": "The Review of Economic Studies",
+    "volume": "38(2)",
+    "pages": "175",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "vickrey-1961",
+    "title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+    "authors": [
+      "William Vickrey"
+    ],
+    "year": 1961,
+    "url": "https://doi.org/10.1111/j.1540-6261.1961.tb02789.x",
+    "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+    "type": "journal-article",
+    "venue": "The Journal of Finance",
+    "volume": "16(1)",
+    "pages": "8-37",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "black-scholes-1973",
+    "title": "The Pricing of Options and Corporate Liabilities",
+    "authors": [
+      "Fischer Black",
+      "Myron Scholes"
+    ],
+    "year": 1973,
+    "url": "https://doi.org/10.1086/260062",
+    "doi": "10.1086/260062",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "81(3)",
+    "pages": "637-654",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "merton-1973",
+    "title": "Theory of Rational Option Pricing",
+    "authors": [
+      "Robert C. Merton"
+    ],
+    "year": 1973,
+    "url": "https://doi.org/10.2307/3003143",
+    "doi": "10.2307/3003143",
+    "type": "journal-article",
+    "venue": "The Bell Journal of Economics and Management Science",
+    "volume": "4(1)",
+    "pages": "141",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "sen-1976",
+    "title": "Poverty: An Ordinal Approach to Measurement",
+    "authors": [
+      "Amartya Sen"
+    ],
+    "year": 1976,
+    "url": "https://doi.org/10.2307/1912718",
+    "doi": "10.2307/1912718",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "44(2)",
+    "pages": "219",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "mundell-1963",
+    "title": "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates",
+    "authors": [
+      "R. A. Mundell"
+    ],
+    "year": 1963,
+    "url": "https://doi.org/10.2307/139336",
+    "doi": "10.2307/139336",
+    "type": "journal-article",
+    "venue": "Canadian Journal of Economics and Political Science",
+    "volume": "29(4)",
+    "pages": "475-485",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "heckman-1979",
+    "title": "Sample Selection Bias as a Specification Error",
+    "authors": [
+      "James J. Heckman"
+    ],
+    "year": 1979,
+    "url": "https://doi.org/10.2307/1912352",
+    "doi": "10.2307/1912352",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "47(1)",
+    "pages": "153",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
   }
 ]

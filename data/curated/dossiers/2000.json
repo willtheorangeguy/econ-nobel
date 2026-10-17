@@ -1,0 +1,117 @@
+{
+  "year": 2000,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2000/summary/",
+  "laureates": [
+    {
+      "id": "732",
+      "name": "James J. Heckman",
+      "motivation": "for his development of theory and methods for analyzing selective samples",
+      "portion": "1/2"
+    },
+    {
+      "id": "733",
+      "name": "Daniel L. McFadden",
+      "motivation": "for his development of theory and methods for analyzing discrete choice",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Heckman: selective samples/unobserved differences; McFadden: discrete choice/random utility applications. Distinct programs,not generic automatic causal correction.",
+  "claim_source_map": "Academy speech for bothprograms/BART and otherapplications; pressopening/selection; Heckman1979 metadataonly. Teaching selection/logit equations independent of full-text consultation.",
+  "citations": [
+    {
+      "id": "ceremony-2000",
+      "title": "Presentation Speech for the 2000 Economic Sciences Prize",
+      "authors": [
+        "Karl Gustav Jöreskog"
+      ],
+      "year": 2000,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "academy-2000",
+      "title": "The Economic Sciences Prize 2000 — Press release",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 2000,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/press-release/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English award press release; opening, exact award citations and selective-sample discussion consulted; discrete-choice applications checked against full presentation speech."
+    },
+    {
+      "id": "heckman-1979",
+      "title": "Sample Selection Bias as a Specification Error",
+      "authors": [
+        "James J. Heckman"
+      ],
+      "year": 1979,
+      "url": "https://doi.org/10.2307/1912352",
+      "doi": "10.2307/1912352",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "47(1)",
+      "pages": "153",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2000,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/ceremony-speech/",
+      "sha256": "69cc2ed666e2b40dbb9f392b8c6a95cc323d8229114c23e5249f5dca3688b230",
+      "text_sha256": "41a6e04ec11ee52ab5464ab2fea9f292a9a1dafcddcbecb70a6eb3827484644a",
+      "characters": 7009,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2000,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/press-release/",
+      "sha256": "155986ae50adcfebd52246354e1bbadf5de7fe24eb0d33b76e087130d5d1aeb2",
+      "text_sha256": "0c66e643f95fc0dee331c5d07d43a696a3fb3d7b1a3e58f2bb03ee02b323ddaa",
+      "characters": 4019,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "heckman-1979",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1912352",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "94afb8ad82508421ae6ff2858659ad5588fd11fd76d2dba6a8ce82f6c2073600",
+      "title": [
+        "Sample Selection Bias as a Specification Error"
+      ],
+      "doi": "10.2307/1912352",
+      "publication_date": {
+        "date-parts": [
+          [
+            1979,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "CarVln3,busV0 ->Pcar.75. Add secondbusV0 ->Pcar.6,eachbus.2. Selectionterm rho*sigma*phi(a)/Phi(a) assumes jointnormalerrors,Varu1,independenceofcovariates;notarbitrarymissingdatacorrection.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Heckman article; verify/read original McFadden chapter and wider work; independent review of distribution/exclusion/IIA assumptions.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

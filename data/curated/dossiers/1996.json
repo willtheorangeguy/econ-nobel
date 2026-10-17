@@ -1,0 +1,132 @@
+{
+  "year": 1996,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1996/summary/",
+  "laureates": [
+    {
+      "id": "715",
+      "name": "James A. Mirrlees",
+      "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+      "portion": "1/2"
+    },
+    {
+      "id": "716",
+      "name": "William Vickrey",
+      "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Vickrey: second-price auction and early taxation formulation; Mirrlees: income tax/incentive constraints and principal-agent methods.",
+  "claim_source_map": "Academy speech for shared method and distinct attributions; 1961/1971 original metadata only. Truthful bidding qualified to standard private values and weak dominance.",
+  "citations": [
+    {
+      "id": "ceremony-1996",
+      "title": "Presentation Speech for the 1996 Economic Sciences Prize",
+      "authors": [
+        "Bertil Näslund"
+      ],
+      "year": 1996,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1996/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "mirrlees-1971",
+      "title": "An Exploration in the Theory of Optimum Income Taxation",
+      "authors": [
+        "J. A. Mirrlees"
+      ],
+      "year": 1971,
+      "url": "https://doi.org/10.2307/2296779",
+      "doi": "10.2307/2296779",
+      "type": "journal-article",
+      "venue": "The Review of Economic Studies",
+      "volume": "38(2)",
+      "pages": "175",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "vickrey-1961",
+      "title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+      "authors": [
+        "William Vickrey"
+      ],
+      "year": 1961,
+      "url": "https://doi.org/10.1111/j.1540-6261.1961.tb02789.x",
+      "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+      "type": "journal-article",
+      "venue": "The Journal of Finance",
+      "volume": "16(1)",
+      "pages": "8-37",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1996,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1996/ceremony-speech/",
+      "sha256": "a986655ec9745aa12f73d10d2cb9c2bbb639d67eea1d9dd8ddeb6246b0f83e59",
+      "text_sha256": "c576dd2467cecf55faf0cd7e70323a0a0f4dab222a05eafb0f489e8894687f04",
+      "characters": 5673,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "mirrlees-1971",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2296779",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "68de65b7c5947ba79108968d0107e96282a11f68d919afcba240d88ff816a249",
+      "title": [
+        "An Exploration in the Theory of Optimum Income Taxation"
+      ],
+      "doi": "10.2307/2296779",
+      "publication_date": {
+        "date-parts": [
+          [
+            1971,
+            4
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "vickrey-1961",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1111/j.1540-6261.1961.tb02789.x",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "e3e27b6d2b4ee69cd02ac2c60cf0d660aabcc04df24fd1bda64dbb57dbc1c9c8",
+      "title": [
+        "COUNTERSPECULATION, AUCTIONS, AND COMPETITIVE SEALED TENDERS"
+      ],
+      "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+      "publication_date": {
+        "date-parts": [
+          [
+            1961,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Value100,otherbid80 ->win/pay80/surplus20. Otherbid120,overbid130 ->loss20;truthfullose0. IC compares both menus using truew in effortdenominator; no optimal tax rate inferred.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original Vickrey/Mirrlees texts and broader contracts work; independently verify all mechanism/tax assumptions.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

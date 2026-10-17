@@ -1,0 +1,111 @@
+{
+  "year": 1998,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1998/summary/",
+  "laureates": [
+    {
+      "id": "719",
+      "name": "Amartya Sen",
+      "motivation": "for his contributions to welfare economics",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Sen: social choice/interpersonal comparisons, axiomatic measurement, poverty/famine and capabilities.",
+  "claim_source_map": "Academy speech full for contribution/famine; officialpressintro/capability paragraph; Sen1976 original metadata only. Conventionalpovertygap is explicitly not called Sen's own index.",
+  "citations": [
+    {
+      "id": "ceremony-1998",
+      "title": "Presentation Speech for the 1998 Economic Sciences Prize",
+      "authors": [
+        "Robert Erikson"
+      ],
+      "year": 1998,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "academy-1998",
+      "title": "The Economic Sciences Prize 1998 — Press release",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 1998,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/press-release/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English award press release; introduction and capability/opportunity discussion consulted; famine and axiomatic measurement attributions also checked against full presentation speech."
+    },
+    {
+      "id": "sen-1976",
+      "title": "Poverty: An Ordinal Approach to Measurement",
+      "authors": [
+        "Amartya Sen"
+      ],
+      "year": 1976,
+      "url": "https://doi.org/10.2307/1912718",
+      "doi": "10.2307/1912718",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "44(2)",
+      "pages": "219",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1998,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/ceremony-speech/",
+      "sha256": "31d029a32f8a21f787f45ff9273b803a983446fca08e2d4d53969790b431df7f",
+      "text_sha256": "54a28925931954488932a99b874c608104b7803ee99cc2630abe0328d3589750",
+      "characters": 5522,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 1998,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/press-release/",
+      "sha256": "7b6e89b01de8511398d3f6a974fb2afc1206390c707d2eebd54880e8567cb760",
+      "text_sha256": "460876ace78a7ec16f8222bdc3c0a62457dd17ce5a1693723ca42f4d59615582",
+      "characters": 14755,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "sen-1976",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1912718",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "8e25f9c1cb51245d25313d478a6a9dccba6a0573fef0462054d153ba1b9b6b8b",
+      "title": [
+        "Poverty: An Ordinal Approach to Measurement"
+      ],
+      "doi": "10.2307/1912718",
+      "publication_date": {
+        "date-parts": [
+          [
+            1976,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "A10,10,100 and B1,1,118 eachtotal120,mean40,H2/3. z20,n3 gapA20/60=1/3;B38/60=.633333. Capability judgments not reduced to these income formulas.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original social-choice/poverty/capability/famine works; verify complete bibliography and independent normative/empirical review.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
