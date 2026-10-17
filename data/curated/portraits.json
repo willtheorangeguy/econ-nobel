@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "laureate_id": "744",
+    "local_path": "/portraits/george-akerlof.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:George_Akerlof.jpg",
+    "credit": "Yan Chi Vinci Chow; resized, displayed cropped and in grayscale",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "permitted_public_display": true,
+    "checked_at": "2026-10-17",
+    "checked_by": "Codex; Commons file page and VRT permission record 2008101310036323",
+    "checksum_sha256": "752531947cf77864f722d8209c083a631044a4318fdc7cf962d7743f1edf4822"
+  }
+]

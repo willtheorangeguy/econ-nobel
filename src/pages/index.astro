@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AwardIndex from '../components/AwardIndex.astro';
+import Status from '../components/Status.astro';
 import { prizes, laureates, topics } from '../lib/catalogue';
 import { href } from '../lib/links';
 const articles = await getCollection('awards');
@@ -16,6 +17,7 @@ const usedTopics = topics.filter(t => articles.some(a => a.data.topic_slugs.incl
     <aside class="hero-note"><span class="section-number" aria-hidden="true">§</span><h2>A history of ideas,<br/>one prize at a time.</h2><p>From measuring economies to understanding institutions, each award opens a different way of seeing the world.</p><div class="mini-stats"><div><strong>{prizes.length}</strong><span>annual awards</span></div><div><strong>{laureates.length}</strong><span>laureates</span></div></div><p class="editorial-note">A growing archive: {drafted} editorial {drafted === 1 ? 'draft' : 'drafts'}, {published} reviewed explanations. <a href={href('coverage/')}>See the coverage ledger →</a></p></aside>
   </section>
   <section class="latest-band"><p class="eyebrow">The latest award <span>{newest.year}</span></p><div><h2><a href={href(`awards/${newest.year}/`)}>{newest.laureates.map(l => l.name).join(' & ')}</a></h2><p>{newest.official_motivation}</p></div><a class="text-link" href={href(`awards/${newest.year}/`)}>Read the award <span aria-hidden="true">→</span></a></section>
+  {articles.some(a => a.data.status !== 'metadata-only') && <section class="draft-readings"><header class="section-heading"><div><p class="eyebrow">From the research desk</p><h2>Read a work in progress</h2></div><a href={href('coverage/')}>Editorial ledger ↗</a></header><div class="topic-list">{articles.filter(a => a.data.status !== 'metadata-only').map(a => <article><Status status={a.data.status}/><h3><a href={href(`awards/${a.id}/`)}>{a.data.title} →</a></h3><p>{a.data.abstract}</p></article>)}</div></section>}
   <section class="browse-section"><header class="section-heading"><div><p class="eyebrow">The chronological index</p><h2>Explore the archive</h2></div><a href={href('awards/')}>All {prizes.length} awards ↗</a></header><AwardIndex limit={8}/></section>
   {usedTopics.length > 0 && <section class="topic-section"><p class="eyebrow">Follow a question</p><h2>Read by field</h2><div class="topic-links">{usedTopics.map(t => <a href={href(`topics/${t.slug}/`)}>{t.name} ↗</a>)}</div></section>}
   <section class="method-note"><span class="eyebrow">A note to the reader</span><p>Good explanations begin with good sources. Official award facts, original research, and our own interpretations are kept distinct. Every unfinished essay is labeled, and every research link has a provenance.</p><a href={href('about/')}>How we build this archive →</a></section>

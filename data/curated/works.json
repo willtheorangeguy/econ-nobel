@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "akerlof-lemons-1970",
+    "title": "The Market for “Lemons”: Quality Uncertainty and the Market Mechanism",
+    "authors": [
+      "George A. Akerlof"
+    ],
+    "year": 1970,
+    "work_type": "journal-article",
+    "doi": "10.2307/1879431",
+    "journal_or_publisher": "The Quarterly Journal of Economics",
+    "citation_id": "akerlof-1970",
+    "source_citation_ids": [
+      "akerlof-1970"
+    ],
+    "award_links": [
+      {
+        "award_year": 2001,
+        "classification": "officially-discussed",
+        "why_linked": "The academy’s 2001 scientific background, section 1, explicitly discusses this article as Akerlof’s central contribution to adverse selection. It is one foundational work associated with the shared award, not a single paper behind all three recipients.",
+        "evidence_citation_ids": [
+          "academy-2001"
+        ]
+      }
+    ],
+    "versions": [
+      {
+        "version_id": "publisher-vor",
+        "version_label": "Published journal article (version of record)",
+        "source_provider": "publisher via DOI",
+        "landing_page_url": "https://doi.org/10.2307/1879431",
+        "pdf_url": null,
+        "epub_url": null,
+        "checked_at": "2026-10-17",
+        "license_id": null,
+        "license_evidence_url": null,
+        "license_verified_at": null,
+        "license_verified_by": null,
+        "allows_hosting": false,
+        "allows_format_conversion": false,
+        "local_pdf_path": null,
+        "local_epub_path": null,
+        "checksum_sha256": null
+      }
+    ]
+  },
+  {
+    "id": "spence-signaling-1973",
+    "title": "Job Market Signaling",
+    "authors": [
+      "Michael Spence"
+    ],
+    "year": 1973,
+    "work_type": "journal-article",
+    "doi": "10.2307/1882010",
+    "journal_or_publisher": "The Quarterly Journal of Economics",
+    "citation_id": "spence-1973",
+    "source_citation_ids": [
+      "spence-1973"
+    ],
+    "award_links": [
+      {
+        "award_year": 2001,
+        "classification": "officially-discussed",
+        "why_linked": "The academy’s 2001 scientific background, section 2, identifies Job Market Signaling as a seminal contribution to signaling and distinguishes it from the contributions of Akerlof and Stiglitz.",
+        "evidence_citation_ids": [
+          "academy-2001"
+        ]
+      }
+    ],
+    "versions": [
+      {
+        "version_id": "publisher-vor",
+        "version_label": "Published journal article (version of record)",
+        "source_provider": "publisher via DOI",
+        "landing_page_url": "https://doi.org/10.2307/1882010",
+        "pdf_url": null,
+        "epub_url": null,
+        "checked_at": "2026-10-17",
+        "license_id": null,
+        "license_evidence_url": null,
+        "license_verified_at": null,
+        "license_verified_by": null,
+        "allows_hosting": false,
+        "allows_format_conversion": false,
+        "local_pdf_path": null,
+        "local_epub_path": null,
+        "checksum_sha256": null
+      }
+    ]
+  },
+  {
+    "id": "rothschild-stiglitz-insurance-1976",
+    "title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+    "authors": [
+      "Michael Rothschild",
+      "Joseph Stiglitz"
+    ],
+    "year": 1976,
+    "work_type": "journal-article",
+    "doi": "10.2307/1885326",
+    "journal_or_publisher": "The Quarterly Journal of Economics",
+    "citation_id": "rothschild-stiglitz-1976",
+    "source_citation_ids": [
+      "rothschild-stiglitz-1976"
+    ],
+    "award_links": [
+      {
+        "award_year": 2001,
+        "classification": "officially-discussed",
+        "why_linked": "The academy’s 2001 scientific background, section 3, discusses this jointly authored article in explaining Stiglitz’s work on screening. Rothschild is a coauthor of the paper and is not listed as a 2001 prize recipient.",
+        "evidence_citation_ids": [
+          "academy-2001"
+        ]
+      }
+    ],
+    "versions": [
+      {
+        "version_id": "publisher-vor",
+        "version_label": "Published journal article (version of record)",
+        "source_provider": "publisher via DOI",
+        "landing_page_url": "https://doi.org/10.2307/1885326",
+        "pdf_url": null,
+        "epub_url": null,
+        "checked_at": "2026-10-17",
+        "license_id": null,
+        "license_evidence_url": null,
+        "license_verified_at": null,
+        "license_verified_by": null,
+        "allows_hosting": false,
+        "allows_format_conversion": false,
+        "local_pdf_path": null,
+        "local_epub_path": null,
+        "checksum_sha256": null
+      }
+    ]
+  }
+]

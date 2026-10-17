@@ -6,6 +6,6 @@ const { kind, id, status } = Astro.props;
 const files = downloadsFor(kind,id);
 ---
 <section class="download-panel" data-pagefind-ignore>
-  <h3>Take it with you</h3>
+  <h2 class="rail-heading">Take it with you</h2>
   {files.length ? <><p>{status === 'published' ? 'Download this explanation for offline reading.' : 'Unreviewed draft exports. These are not finalized research.'}</p><div class="download-buttons">{files.map(file => <a class="button" href={href(file.path)} download>{file.format.toUpperCase()} <span aria-hidden="true">↓</span><span class="sr-only"> — {status === 'published' ? 'explanation' : 'unreviewed draft'}</span></a>)}</div><small>Site-written overview · CC BY 4.0</small></> : <p class="muted">PDF and EPUB will appear when an explanation has been written and its exports validated.</p>}
 </section>

@@ -13,7 +13,7 @@ export default function citations() {
           const c = byId.get(match[1]);
           if (!c) throw new Error(`Unknown citation ${match[1]}`);
           if (match.index > end) parts.push({ type: 'text', value: child.value.slice(end,match.index) });
-          parts.push({ type: 'link', url: `#ref-${c.id}`, children: [{ type:'text', value: `(${c.authors[0].split(' ').at(-1)}${c.authors.length > 1 ? ' et al.' : ''}, ${c.year})` }] });
+          parts.push({ type: 'link', url: `#ref-${c.id}`, children: [{ type:'text', value: `(${c.authors.map(name => /Academy|Nobel/.test(name) ? name : name.split(' ').at(-1)).join(' & ')}, ${c.year})` }] });
           end = match.index + match[0].length;
         }
         if (!parts.length) return [child];

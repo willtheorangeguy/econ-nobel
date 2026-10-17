@@ -13,6 +13,8 @@ export const articleSchema = z.object({
   citation_ids: z.array(z.string()), topic_slugs: z.array(z.string()).default([]),
   featured_work_ids: z.array(z.string()).default([]), review: reviewSchema.nullable().default(null),
   source_version: z.string().optional(),
+}).superRefine((a, context) => {
+  if (['reviewed', 'published'].includes(a.status) && !a.review) context.addIssue({ code: 'custom', message: 'Reviewed/published content requires an explicit reviewer record', path: ['review'] });
 });
 export const awardSchema = z.object({
   year: z.number().int().min(1969), official_prize_id: z.string(), official_name: z.string(),

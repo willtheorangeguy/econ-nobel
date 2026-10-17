@@ -1,4 +1,3 @@
-import { readFileSync } from 'node:fs';
 import { awardSchema, laureateSchema, workSchema, citationSchema, portraitSchema, requiredSections } from '../src/lib/schema';
 import { json, articles } from './common';
 import katex from 'katex';
