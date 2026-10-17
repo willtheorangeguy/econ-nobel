@@ -36,6 +36,8 @@ Development: `npm run dev` renders Markdown locally. Search and generated downlo
 | `npm run sync:nobel` | Fetch official API pages; stage a metadata change report for review |
 | `npm run sync:nobel -- --accept` | Import a reviewed API refresh; preserve existing Markdown and curated research |
 | `npm run sync:nobel -- --offline` | Recreate accepted metadata from saved snapshots without network access |
+| `npm run research:dossier -- 1969` | Create a source dossier for an imported year without overwriting an existing dossier |
+| `npm run check:sources` | Check external citation URLs and record provider blocking/access gaps |
 | `npm run research:works` | Check manually queued DOI/title/author/year candidates against Crossref |
 | `npm run validate:content` | Validate schemas, official facts, bibliography references, math and editorial gates |
 | `npm run audit:rights` | Fail for uncleared original/portrait assets and permissions |

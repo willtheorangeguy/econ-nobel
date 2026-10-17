@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-17T15:13:15.563Z",
+  "site": "https://williamvdg.me/econ-nobel/",
+  "deployed_revision": "ec962d8da8a683cad304c167e895d48bacd93539",
+  "workflow_run": "https://github.com/willtheorangeguy/econ-nobel/actions/runs/39043775440",
+  "status": "passed",
+  "manifest_toolchain": {
+    "pandoc": "pandoc 3.12.1",
+    "pdf_engine": "XeTeX 3.141592653-2.6-0.999995 (TeX Live 2023/Debian)"
+  },
+  "verified_downloads": [
+    {
+      "path": "downloads/drafts/awards/1969/1969-overview.pdf",
+      "bytes": 38967,
+      "sha256": "19f1c490b56f532f69e7520f55a5838a370ff3921eca47c95d21b45526481e8f",
+      "content_type": "application/pdf"
+    },
+    {
+      "path": "downloads/drafts/awards/1969/1969-overview.epub",
+      "bytes": 16384,
+      "sha256": "f0e5d1f6d8d1db40cc821fea44c329daf2b361b74e50bc4e6e38639540a2b969",
+      "content_type": "application/epub+zip"
+    },
+    {
+      "path": "downloads/drafts/awards/2001/2001-overview.pdf",
+      "bytes": 48005,
+      "sha256": "a0c1cf2f36075eeb9511be1dcc809bb87a19cb0fba57f925562790c648d8ea2a",
+      "content_type": "application/pdf"
+    },
+    {
+      "path": "downloads/drafts/awards/2001/2001-overview.epub",
+      "bytes": 17478,
+      "sha256": "a73e00732380dd24295a1a31de5d065b8bb9b44cdfac907c9258b498bb818619",
+      "content_type": "application/epub+zip"
+    },
+    {
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.pdf",
+      "bytes": 35481,
+      "sha256": "b7fc9a40c6db671b271f1963ef7b355bde4379e2dbe77490809c3a277c480282",
+      "content_type": "application/pdf"
+    },
+    {
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.epub",
+      "bytes": 11645,
+      "sha256": "6e14688f6d2170328bab3459569eb69f2ffac311299be19bb1c48e6fe6b9a78c",
+      "content_type": "application/epub+zip"
+    }
+  ]
+}
