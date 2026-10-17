@@ -20,7 +20,9 @@
     "build": "npm run validate:content && npm run audit:rights && npm run export:docs && npm run validate:exports && npm run audit:coverage && astro build && pagefind --site dist && npm run check:links",
     "preview": "astro preview --host 127.0.0.1",
     "test": "vitest run",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "check:sources": "tsx scripts/check-sources.ts",
+    "research:dossier": "tsx scripts/make-dossier.ts"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.3",

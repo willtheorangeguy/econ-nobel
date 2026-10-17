@@ -14,14 +14,14 @@ const template=readFileSync('templates/overview.tex','utf8'),css=readFileSync('t
 const artifacts:any[]=[],diagnostics:any[]=[];
 const site=process.env.SITE_URL||'https://williamvdg.me',base=(process.env.BASE_PATH||'/econ-nobel').replace(/\/$/,'');
 for(const a of candidates){
- const source_hash=hash(JSON.stringify({raw:a.raw,csl,template,css,toolchain,site,base}));
+ const source_hash=hash(JSON.stringify({raw:a.raw,csl,template,css,style:hash(readFileSync("templates/chicago-author-date.csl")),toolchain,site,base,exporter:hash(readFileSync("scripts/build-exports.ts"))}));
  const draft=a.data.status!=='published';
  const relative=`downloads/${draft?'drafts/':''}${a.kind}/${a.id}`;
  const destination=`public/${relative}`;mkdirSync(destination,{recursive:true});
  const metadata={title:a.data.title,subtitle:`${a.kind==='awards'?'Award':'Work'} overview · independent educational explanation`,author:['Economics Prize Archive contributors'],date:today(),lang:'en-US','editorial-status':draft?'UNREVIEWED DRAFT':a.data.status,'source-url':`${site}${base}/${a.kind}/${a.id}/`,'reference-section-title':'Sources and further reading',rights:'Original explanatory prose: CC BY 4.0. Third-party sources retain their rights.'};
  const input=`.cache/exports/${a.kind}-${a.id}.md`;
  const notice=`> **Editorial status: ${draft?'UNREVIEWED DRAFT':a.data.status}.** Independent explanatory overview by Economics Prize Archive contributors. ${draft?'This edition has not passed editorial review. ':''}Source: ${metadata['source-url']}. Generated ${today()}. Original prose: CC BY 4.0. Independent educational project; not affiliated with the Nobel Foundation or the Royal Swedish Academy of Sciences.\n\n`;
- write(input,notice+a.content+'\n\n## Sources and further reading\n\n');
+ write(input,notice+a.content+'\n\n');
  const metaPath=`.cache/exports/${a.kind}-${a.id}.json`;write(metaPath,metadata);
  for(const format of ['pdf','epub'] as const){
   const path=`${relative}/${a.id}-overview.${format}`,target=`public/${path}`;
@@ -29,8 +29,8 @@ for(const a of candidates){
   if(cached&&existsSync(target)&&hash(readFileSync(target))===cached.sha256){artifacts.push(cached);continue;}
   const tmp=`${destination}/.building-${a.id}.${format}`;
   try{
-   const args=[input,'--from=markdown+tex_math_dollars+footnotes+citations','--standalone','--toc','--citeproc','--bibliography=.cache/exports/bibliography.json',`--metadata-file=${metaPath}`,'--resource-path=.:public',`--output=${tmp}`];
-   if(format==='pdf')args.push(`--pdf-engine=${pdfEngine()}`,'--template=templates/overview.tex');
+   const args=[input,'--from=markdown+tex_math_dollars+footnotes+citations','--standalone','--toc','--citeproc','--csl=templates/chicago-author-date.csl','--bibliography=.cache/exports/bibliography.json',`--metadata-file=${metaPath}`,'--resource-path=.:public',`--output=${tmp}`];
+   if(format==='pdf')args.push(`--pdf-engine=${pdfEngine()}`,'--template=templates/overview.tex','--shift-heading-level-by=-1');
    else args.push('--to=epub3','--mathml','--css=templates/epub.css','--split-level=2');
    run(pandoc(),args,{timeout:300000});
    const bytes=readFileSync(tmp);

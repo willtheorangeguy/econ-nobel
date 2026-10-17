@@ -4,7 +4,7 @@
 
 | Year | Status | Works | Overview formats |
 | --- | --- | --- | --- |
-| 1969 | metadata-only | 0 | None |
+| 1969 | needs-review | 0 | pdf, epub |
 | 1970 | metadata-only | 0 | None |
 | 1971 | metadata-only | 0 | None |
 | 1972 | metadata-only | 0 | None |
@@ -36,7 +36,7 @@
 | 1998 | metadata-only | 0 | None |
 | 1999 | metadata-only | 0 | None |
 | 2000 | metadata-only | 0 | None |
-| 2001 | metadata-only | 0 | None |
+| 2001 | needs-review | 3 | pdf, epub |
 | 2002 | metadata-only | 0 | None |
 | 2003 | metadata-only | 0 | None |
 | 2004 | metadata-only | 0 | None |

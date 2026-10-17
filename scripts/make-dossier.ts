@@ -1,0 +1,10 @@
+import { existsSync } from 'node:fs';
+import { json, write } from './common';
+const year=Number(process.argv[2]);const prize=json<any[]>('data/generated/prizes.json').find(p=>p.year===year);
+if(!prize)throw new Error('Supply an officially imported award year.');
+const path=`data/curated/dossiers/${year}.json`;
+if(existsSync(path))throw new Error('Dossier already exists; inspect and edit it instead of overwriting.');
+const works=json<any[]>('data/curated/works.json').filter(w=>w.award_links.some((l:any)=>l.award_year===year));
+const ids=new Set(works.flatMap(w=>[...w.source_citation_ids,...w.award_links.flatMap((l:any)=>l.evidence_citation_ids)]));
+write(path,{year,official_record:prize,curated_works:works,citations:json<any[]>('data/curated/citations.json').filter(c=>ids.has(c.id)),status:'research-incomplete',open_questions:['Read official scientific background','Verify each laureate contribution','Consult original texts and record exact versions','Check math and limitations','Complete editorial review and document QA']});
+console.log(`Created ${path}. A dossier is not an approved article.`);

@@ -17,6 +17,7 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{.6em}
 \linespread{1.12}
+\setlength{\emergencystretch}{3em}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\small Economics Prize Archive}
@@ -24,14 +25,21 @@
 \fancyfoot[C]{\thepage}
 \setlength{\headheight}{15pt}
 \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\newenvironment{CSLReferences}[2]{\begin{list}{}{\setlength{\leftmargin}{1.5em}\setlength{\itemindent}{-1.5em}\setlength{\itemsep}{.7em}}\item[]}{\end{list}}
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{\begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+\let\@cite@ofmt\@firstofone
+\def\@biblabel#1{}
+\def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newenvironment{CSLReferences}[2]{\begin{list}{}{\setlength{\leftmargin}{1.5em}\setlength{\itemindent}{-1.5em}\setlength{\itemsep}{.7em}}}{\end{list}}
 \newcommand{\CSLBlock}[1]{#1}
 \newcommand{\CSLLeftMargin}[1]{#1}
 \newcommand{\CSLRightInline}[1]{#1}
 \newcommand{\CSLIndent}[1]{\hspace{1.5em}#1}
 \begin{document}
 \begin{titlepage}
-{\small\scshape Economics / Prize Archive}\par\vspace{2cm}
+{\small Economics / Prize Archive}\par\vspace{2cm}
 {\huge $title$\par}\vspace{.7cm}
 {\large $subtitle$\par}\vspace{.7cm}
 $for(author)$$author$$sep$; $endfor$\par

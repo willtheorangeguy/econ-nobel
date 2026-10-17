@@ -1,0 +1,69 @@
+{
+  "checked_at": "2026-10-17",
+  "checks": [
+    {
+      "citation_id": "nobel-1969",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/summary/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "lundberg-1969",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "tinbergen-lecture-1969",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "nobel-2001",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2001/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2001",
+      "url": "https://www.kva.se/app/uploads/2001/10/globalassets-priser-nobel-2001-scibackeken01.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "akerlof-1970",
+      "url": "https://doi.org/10.2307/1879431",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "spence-1973",
+      "url": "https://doi.org/10.2307/1882010",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "rothschild-stiglitz-1976",
+      "url": "https://doi.org/10.2307/1885326",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    }
+  ]
+}

@@ -6,7 +6,30 @@
   "laureates": 101,
   "published_awards": 0,
   "published_work_explanations": 0,
-  "featured_works": 0,
+  "featured_works": 3,
+  "work_explanations": [
+    {
+      "id": "akerlof-lemons-1970",
+      "status": "needs-review",
+      "consulted_version": "Published QJE article, 84(3), 488–500; JSTOR facsimile consulted at Simon Fraser University teaching page.",
+      "formats": [
+        "pdf",
+        "epub"
+      ]
+    },
+    {
+      "id": "rothschild-stiglitz-insurance-1976",
+      "status": "metadata-only",
+      "consulted_version": null,
+      "formats": []
+    },
+    {
+      "id": "spence-signaling-1973",
+      "status": "metadata-only",
+      "consulted_version": null,
+      "formats": []
+    }
+  ],
   "awards": [
     {
       "year": 1969,
@@ -14,10 +37,13 @@
         "Ragnar Frisch",
         "Jan Tinbergen"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -477,13 +503,19 @@
         "A. Michael Spence",
         "Joseph E. Stiglitz"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
-      "featured_works": [],
-      "formats": [],
+      "featured_works": [
+        "akerlof-lemons-1970",
+        "spence-signaling-1973",
+        "rothschild-stiglitz-insurance-1976"
+      ],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
-        "Editorial research/review incomplete",
-        "Foundational works not yet verified"
+        "Editorial research/review incomplete"
       ]
     },
     {

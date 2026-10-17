@@ -23,6 +23,16 @@
       },
       "association_review_required": true,
       "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/84/3/488/5356205/84-3-488.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
       "crossref": {
         "doi": "10.2307/1879431",
         "title": "The Market for \"Lemons\": Quality Uncertainty and the Market Mechanism",
@@ -71,6 +81,16 @@
       },
       "association_review_required": true,
       "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/87/3/355/5387353/87-3-355.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
       "crossref": {
         "doi": "10.2307/1882010",
         "title": "Job Market Signaling",
@@ -120,6 +140,16 @@
       },
       "association_review_required": true,
       "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/90/4/629/5331107/90-4-629.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
       "crossref": {
         "doi": "10.2307/1885326",
         "title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",

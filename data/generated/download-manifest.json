@@ -1,1 +1,86 @@
-{"artifacts":[],"toolchain":{}}
+{
+  "artifacts": [
+    {
+      "kind": "awards",
+      "id": "1969",
+      "format": "pdf",
+      "path": "downloads/drafts/awards/1969/1969-overview.pdf",
+      "sha256": "3772c11995439ad4ec4d6335461ee52a25e8e0ab36058837ee40f90f44a53319",
+      "bytes": 38970,
+      "source_hash": "836ce1562755f7f9d95c0ac7401fb6049191574e9a5ddb6df0224ea821022fed",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/awards/1969.md"
+    },
+    {
+      "kind": "awards",
+      "id": "1969",
+      "format": "epub",
+      "path": "downloads/drafts/awards/1969/1969-overview.epub",
+      "sha256": "d88899da68d68c4218a4d36580dfca45baf3063d33a088d13597854d3a9d6b18",
+      "bytes": 16384,
+      "source_hash": "836ce1562755f7f9d95c0ac7401fb6049191574e9a5ddb6df0224ea821022fed",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/awards/1969.md"
+    },
+    {
+      "kind": "awards",
+      "id": "2001",
+      "format": "pdf",
+      "path": "downloads/drafts/awards/2001/2001-overview.pdf",
+      "sha256": "4bcaee58e17a70c0176b5b0ba1e022c853a5ec46426195a0a7511d5de1030d80",
+      "bytes": 48008,
+      "source_hash": "d36e229d3281f602802da4dfe0ba71e77951b22b9c29d97ca371e2ab0101263b",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/awards/2001.md"
+    },
+    {
+      "kind": "awards",
+      "id": "2001",
+      "format": "epub",
+      "path": "downloads/drafts/awards/2001/2001-overview.epub",
+      "sha256": "3929bbb4f52a4d80aebfa88842ca218f72196db6dc9ea5b5e6f369ffa57a2006",
+      "bytes": 17475,
+      "source_hash": "d36e229d3281f602802da4dfe0ba71e77951b22b9c29d97ca371e2ab0101263b",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/awards/2001.md"
+    },
+    {
+      "kind": "works",
+      "id": "akerlof-lemons-1970",
+      "format": "pdf",
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.pdf",
+      "sha256": "42c0d091e334c1064d37e4937c89293fb86d89e14aa54d58e5192f2fee3c204e",
+      "bytes": 35479,
+      "source_hash": "150f9a69baf0b132a4c9fa137d7dba1bdf5419b324b9c9d661e79892a95da6bf",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/works/akerlof-lemons-1970.md"
+    },
+    {
+      "kind": "works",
+      "id": "akerlof-lemons-1970",
+      "format": "epub",
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.epub",
+      "sha256": "8a7f5499d7049ea949c323d67faea17897abc2d38a64698cbe2890fa8c5a41c4",
+      "bytes": 11642,
+      "source_hash": "150f9a69baf0b132a4c9fa137d7dba1bdf5419b324b9c9d661e79892a95da6bf",
+      "generated_at": "2026-10-17",
+      "editorial_status": "needs-review",
+      "license": "CC-BY-4.0",
+      "provenance": "content/works/akerlof-lemons-1970.md"
+    }
+  ],
+  "toolchain": {
+    "pandoc": "pandoc 3.12.1",
+    "pdf_engine": "XeTeX 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian)"
+  }
+}
