@@ -8,6 +8,8 @@ Repository: https://github.com/willtheorangeguy/econ-nobel
 
 **Current editorial state:** 58 official annual records (1969–2026), 101 laureates, two unreviewed award essays, three verified work associations, one unreviewed work explanation, and one permission-verified portrait. No essay has been independently reviewed or marked published. This is a working staged archive, not a claim of complete scholarly coverage. See [progress](IMPLEMENTATION_PROGRESS.md) and [coverage](data/reports/coverage.md).
 
+**Completion audit:** this is not the completed, production-ready archive requested in the specification. [The audit](docs/COMPLETION_AUDIT.md) records missing research, reproduced engineering defects, and the limits of the passing checks.
+
 ## Quick start
 
 Requirements: Node **24.22.0**, npm (bundled with Node), Python 3 + `pypdf`, Java 17+, and XeLaTeX. The lockfile is canonical; npm is used in place of the plan’s preferred pnpm to keep a single reproducible lockfile.

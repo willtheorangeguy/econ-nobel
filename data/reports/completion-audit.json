@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-10-17T15:34:05.294557+00:00",
+  "audited_revision": "c75efc510a827e3cb6a2634623b0d22677c6808a",
+  "definition_of_done_met": false,
+  "production_ready_as_specified": false,
+  "coverage": {
+    "official_award_records": 58,
+    "laureates": 101,
+    "metadata_only_awards": 56,
+    "unreviewed_award_drafts": 2,
+    "reviewed_or_published_awards": 0,
+    "work_records": 3,
+    "unreviewed_work_drafts": 1,
+    "metadata_only_work_explanations": 2,
+    "reviewed_or_published_work_explanations": 0,
+    "portraits_with_permission_records": 1,
+    "hosted_originals": 0,
+    "draft_overview_files": 6
+  },
+  "fresh_api_comparison": {
+    "url": "https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeCategory=eco&limit=100",
+    "response_sha256": "5aa69d4b70b7b49837d99c6c41cbbbc7dbbaacdee07a2609f33327bcef30ed2e",
+    "first_year": 1969,
+    "latest_year": 2026,
+    "recipient_name_id_motivation_share_mismatches": []
+  },
+  "checks": {
+    "astro": "passed: 0 errors, warnings or hints",
+    "existing_unit_tests": "15 passed",
+    "existing_export_artifacts": "6 passed, including EPUBCheck",
+    "live_documents": "6 HTTP 200 and matching deployed-manifest SHA-256 values",
+    "browser_first_launch": "failed: Process from config.webServer exited early",
+    "browser_with_preview_already_available": "8 passed",
+    "prior_cloud_deployment": "success: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39043775440"
+  },
+  "reproduced_counterexamples": {
+    "review_gate": {
+      "all_required_section_bodies_empty": true,
+      "exit_code": 0,
+      "accepted": true,
+      "stdout": "Validated 58 annual records, 101 laureates, 3 works, 8 citations and 61 content entries.",
+      "stderr": ""
+    },
+    "original_document_cases": {
+      "native_epub_rejected": "Error: EPUB conversion not cleared: audit-version",
+      "dual_format_rejected": "Error: Missing or changed original /downloads/originals/audit/version.epub"
+    }
+  },
+  "counterexample_scope": "Synthetic private fixtures only. No actual article status, reviewer record or original document was modified or published. The review-gate fixture contained headings and citation keys but no substantive section prose.",
+  "findings_fixed_by_this_audit": false,
+  "report": "docs/COMPLETION_AUDIT.md"
+}
