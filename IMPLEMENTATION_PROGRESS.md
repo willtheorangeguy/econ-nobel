@@ -8,8 +8,8 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 
 - Repository: `/srv/openclaw/repos/willtheorangeguy/econ-nobel`
 - Live site: https://williamvdg.me/econ-nobel/
-- Deployed implementation: `ec962d8da8a683cad304c167e895d48bacd93539`
-- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39043775440
+- Deployed implementation: `8e6dd8311ac42e44e654b70c330faacd03eed2c6`
+- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39049760711
 - Live document checksums: https://williamvdg.me/econ-nobel/downloads/manifest.json
 - Coverage: [machine report](data/reports/coverage.json), [year ledger](data/reports/coverage.md), and public `/coverage/`.
 
@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 12: 1969–1979 and 2001, all `needs-review` |
-| Annual essays not yet written | 46, explicitly `metadata-only` |
+| Authored annual essays | 22: 1969–1989 and 2001, all `needs-review` |
+| Annual essays not yet written | 36, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 26: PDF + EPUB for 12 annual drafts and one work draft |
+| Validated overview artifacts | 46: PDF + EPUB for 22 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 46 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 12 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 36 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 22 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -109,3 +109,12 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - Next chronological manuscript is 1980 (Klein); 1980s academy speeches and selected lectures have been fetched into private `/tmp/econ-essay-sources/` for reading. Do not count fetched material as an authored essay. Existing engineering audit findings and independent review are still open.
 - Browser QA for every new 1970–1979 page passed at 320, 390 and 1280 px: zero automated axe violations, no viewport overflow, both download links and all 20 new download byte hashes checked. See `data/reports/essay-browser-qa.json`.
 - New prose exposed a keyboard-access issue in horizontally scrolling KaTeX blocks. Added a post-KaTeX HTML transform, focus styling and a no-JavaScript keyboard-scroll regression. All **9 browser tests** passed using an explicitly started preview; this does not claim the previously audited fresh-startup issue was repaired.
+
+## Essay continuation — 1980s
+
+- Authored ten additional annual drafts for 1980–1989, 1,240–1,315 whitespace-delimited body words each, with all required sections, source-led attribution, original examples and defined equations. Added ten per-year dossiers; all remain unreviewed, with original-publication reading and independent checking explicitly outstanding.
+- Fresh Astro check and the 15 existing unit tests passed. Full build validated **46** PDF/EPUB artifacts; 183 static endpoints and 3,941 internal links/assets passed. All ten new pages passed axe/overflow checks at 320/390/1280 px and all 20 new download bodies matched local hashes (`data/reports/essay-browser-qa-1980s.json`).
+- Browser suite exposed a historical one-award topic-count assumption after adding Stigler. Replaced the hardcoded count with a comparison against tagged catalogue records; rerun recorded separately below. No behavior or tags were changed to satisfy the old assertion.
+- 1970s commit `8e6dd83` passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39049760711. The 1980s batch is ahead of that deployment until its commit is built.
+- Six 1990–1995 essays have been drafted privately in `.cache/editorial-drafts/`; they do not count toward the table above until canonical import, source registration, dossier recording and validation are completed.
+- After correcting the topic-count assumption, all **9 browser tests passed**. Preview was explicitly started, so this does not establish a fix for the older intermittent fresh-startup finding.

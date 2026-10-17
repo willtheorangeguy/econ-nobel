@@ -1,0 +1,84 @@
+{
+  "year": 1982,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1982/summary/",
+  "laureates": [
+    {
+      "id": "696",
+      "name": "George J. Stigler",
+      "motivation": "for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Stigler: costly information/search, industrial adjustment, cartel enforcement and endogenous regulation.",
+  "claim_source_map": "Academy speech for all contribution attributions and explicit uncertainty about capture hypothesis reach; original1961/1971 article metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1982",
+      "title": "Presentation Speech for the 1982 Economic Sciences Prize",
+      "authors": [
+        "Lars Werin"
+      ],
+      "year": 1982,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1982/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "stigler-1961",
+      "title": "The Economics of Information",
+      "authors": [
+        "George J. Stigler"
+      ],
+      "year": 1961,
+      "url": "https://doi.org/10.1086/258464",
+      "doi": "10.1086/258464",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "69(3)",
+      "pages": "213-225",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+    },
+    {
+      "id": "stigler-1971",
+      "title": "The Theory of Economic Regulation",
+      "authors": [
+        "George J. Stigler"
+      ],
+      "year": 1971,
+      "url": "https://doi.org/10.2307/3003160",
+      "doi": "10.2307/3003160",
+      "type": "journal-article",
+      "venue": "The Bell Journal of Economics and Management Science",
+      "volume": "2(1)",
+      "pages": "3",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1982,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1982/ceremony-speech/",
+      "sha256": "57b1fb05e9b23cafea67beebdcea97305b2e48ad8f5efb69d6fb53a75be2b3e5",
+      "text_sha256": "1efd773fabe2edae5a7ca5fc9999e875af44dc3a4070def291818eb49c8abe31",
+      "characters": 7738,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Current100, future90/110 half probabilities: expected gross saving5, net2 at cost3. Current92 ->gross1,net-2. One-step calculation not a complete optimal repeated-search solution.",
+    "independent_review": false
+  },
+  "remaining_research": "Read both original articles; verify selected empirical cases rather than infer universal efficiency/capture.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

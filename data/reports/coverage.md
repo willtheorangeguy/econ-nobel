@@ -15,16 +15,16 @@
 | 1977 | needs-review | 0 | pdf, epub |
 | 1978 | needs-review | 0 | pdf, epub |
 | 1979 | needs-review | 0 | pdf, epub |
-| 1980 | metadata-only | 0 | None |
-| 1981 | metadata-only | 0 | None |
-| 1982 | metadata-only | 0 | None |
-| 1983 | metadata-only | 0 | None |
-| 1984 | metadata-only | 0 | None |
-| 1985 | metadata-only | 0 | None |
-| 1986 | metadata-only | 0 | None |
-| 1987 | metadata-only | 0 | None |
-| 1988 | metadata-only | 0 | None |
-| 1989 | metadata-only | 0 | None |
+| 1980 | needs-review | 0 | pdf, epub |
+| 1981 | needs-review | 0 | pdf, epub |
+| 1982 | needs-review | 0 | pdf, epub |
+| 1983 | needs-review | 0 | pdf, epub |
+| 1984 | needs-review | 0 | pdf, epub |
+| 1985 | needs-review | 0 | pdf, epub |
+| 1986 | needs-review | 0 | pdf, epub |
+| 1987 | needs-review | 0 | pdf, epub |
+| 1988 | needs-review | 0 | pdf, epub |
+| 1989 | needs-review | 0 | pdf, epub |
 | 1990 | metadata-only | 0 | None |
 | 1991 | metadata-only | 0 | None |
 | 1992 | metadata-only | 0 | None |

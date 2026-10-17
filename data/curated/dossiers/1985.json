@@ -1,0 +1,63 @@
+{
+  "year": 1985,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1985/summary/",
+  "laureates": [
+    {
+      "id": "699",
+      "name": "Franco Modigliani",
+      "motivation": "for his pioneering analyses of saving and of financial markets",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Modigliani: life-cycle saving with Brumberg and finance with Miller; preserve both collaborator credits.",
+  "claim_source_map": "Academy speech for original work dates, theorem conditions and attribution; lecture opening/antecedents for retrospective saving context.",
+  "citations": [
+    {
+      "id": "ceremony-1985",
+      "title": "Presentation Speech for the 1985 Economic Sciences Prize",
+      "authors": [
+        "Ragnar Bentzel"
+      ],
+      "year": 1985,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1985/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "modigliani-lecture-1985",
+      "title": "Life Cycle, Individual Thrift and the Wealth of Nations",
+      "authors": [
+        "Franco Modigliani"
+      ],
+      "year": 1985,
+      "url": "https://www.nobelprize.org/uploads/2018/06/modigliani-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official prize lecture PDF, introduction and opening antecedents discussion, PDF pp. 1–3; delivered 9 December 1985."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1985,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1985/ceremony-speech/",
+      "sha256": "7e1096bcb7fb950aed01eadfeb8630ece66756e2ced072317a270ed3450d91eb",
+      "text_sha256": "863f19a431b478ee541a522b16cfffb03f22cad0096229d2b63cebb62abe9d1b",
+      "characters": 7683,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "30*40=1200resources/40years=30consumption; save10*30=300, retirement consumption30*10=300. Debt40+equity(60or20)=assets(100or60).",
+    "independent_review": false
+  },
+  "remaining_research": "Read 1954/1958 and dividend originals; verify full titles/editions; independent review of leverage-return qualifications.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

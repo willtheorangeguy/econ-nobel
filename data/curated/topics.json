@@ -48,5 +48,20 @@
     "slug": "decision-making",
     "name": "Decision making",
     "description": "How individuals and organizations choose with limited information."
+  },
+  {
+    "slug": "finance",
+    "name": "Finance",
+    "description": "Assets, portfolios, saving and corporate financing."
+  },
+  {
+    "slug": "political-economy",
+    "name": "Political economy",
+    "description": "Rules, political decisions and economic incentives."
+  },
+  {
+    "slug": "economic-measurement",
+    "name": "Economic measurement",
+    "description": "Accounts and evidence used to describe economies."
   }
 ]

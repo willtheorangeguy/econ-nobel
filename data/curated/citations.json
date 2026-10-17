@@ -502,5 +502,337 @@
     "consulted_version": "Crossref publication metadata; opening argument and sections 2 and sector/wage definitions consulted in University of Texas teaching transcription https://la.utexas.edu/users/hcleaver/368/368lewistable.pdf (PDF pp. 1–2, 5–7). Typographic errors present; publisher facsimile not yet compared. Not redistributed.",
     "accessed": "2026-10-17",
     "verified": true
+  },
+  {
+    "id": "ceremony-1980",
+    "title": "Presentation Speech for the 1980 Economic Sciences Prize",
+    "authors": [
+      "Herman Wold"
+    ],
+    "year": 1980,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1980/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1981",
+    "title": "Presentation Speech for the 1981 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1981,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1981/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1982",
+    "title": "Presentation Speech for the 1982 Economic Sciences Prize",
+    "authors": [
+      "Lars Werin"
+    ],
+    "year": 1982,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1982/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1983",
+    "title": "Presentation Speech for the 1983 Economic Sciences Prize",
+    "authors": [
+      "Karl-Göran Mäler"
+    ],
+    "year": 1983,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1983/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1984",
+    "title": "Presentation Speech for the 1984 Economic Sciences Prize",
+    "authors": [
+      "Erik Lundberg"
+    ],
+    "year": 1984,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1984/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1985",
+    "title": "Presentation Speech for the 1985 Economic Sciences Prize",
+    "authors": [
+      "Ragnar Bentzel"
+    ],
+    "year": 1985,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1985/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "klein-lecture-1980",
+    "title": "Some Economic Scenarios for the 1980's",
+    "authors": [
+      "Lawrence R. Klein"
+    ],
+    "year": 1980,
+    "url": "https://www.nobelprize.org/uploads/2017/04/klein-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official prize lecture PDF, opening and baseline discussion, PDF pp. 1–2; delivered 8 December 1980. Scenarios are historical projections, not verified realized outcomes."
+  },
+  {
+    "id": "tobin-lecture-1981",
+    "title": "Money and Finance in the Macro-Economic Process",
+    "authors": [
+      "James Tobin"
+    ],
+    "year": 1981,
+    "url": "https://www.nobelprize.org/uploads/2018/06/tobin-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official prize lecture PDF, opening framework discussion, PDF pp. 1–2; delivered 8 December 1981. Includes stocks/flows, multiple assets, operations and Brainard acknowledgment."
+  },
+  {
+    "id": "debreu-lecture-1983",
+    "title": "Economic Theory in the Mathematical Mode",
+    "authors": [
+      "Gerard Debreu"
+    ],
+    "year": 1983,
+    "url": "https://www.nobelprize.org/uploads/2018/06/debreu-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official prize lecture PDF, opening historical/methodological discussion and introduction of commodity space, PDF pp. 1–2; delivered 8 December 1983."
+  },
+  {
+    "id": "stone-lecture-1984",
+    "title": "The Accounts of Society",
+    "authors": [
+      "Richard Stone"
+    ],
+    "year": 1984,
+    "url": "https://www.nobelprize.org/uploads/2018/06/stone-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official prize lecture PDF, section 1 and diagram discussion, PDF pp. 1–2; delivered 8 December 1984."
+  },
+  {
+    "id": "modigliani-lecture-1985",
+    "title": "Life Cycle, Individual Thrift and the Wealth of Nations",
+    "authors": [
+      "Franco Modigliani"
+    ],
+    "year": 1985,
+    "url": "https://www.nobelprize.org/uploads/2018/06/modigliani-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official prize lecture PDF, introduction and opening antecedents discussion, PDF pp. 1–3; delivered 9 December 1985."
+  },
+  {
+    "id": "tobin-1958",
+    "title": "Liquidity Preference as Behavior Towards Risk",
+    "authors": [
+      "J. Tobin"
+    ],
+    "year": 1958,
+    "url": "https://doi.org/10.2307/2296205",
+    "doi": "10.2307/2296205",
+    "type": "journal-article",
+    "venue": "The Review of Economic Studies",
+    "volume": "25(2)",
+    "pages": "65",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+  },
+  {
+    "id": "stigler-1961",
+    "title": "The Economics of Information",
+    "authors": [
+      "George J. Stigler"
+    ],
+    "year": 1961,
+    "url": "https://doi.org/10.1086/258464",
+    "doi": "10.1086/258464",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "69(3)",
+    "pages": "213-225",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+  },
+  {
+    "id": "stigler-1971",
+    "title": "The Theory of Economic Regulation",
+    "authors": [
+      "George J. Stigler"
+    ],
+    "year": 1971,
+    "url": "https://doi.org/10.2307/3003160",
+    "doi": "10.2307/3003160",
+    "type": "journal-article",
+    "venue": "The Bell Journal of Economics and Management Science",
+    "volume": "2(1)",
+    "pages": "3",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+  },
+  {
+    "id": "ceremony-1986",
+    "title": "Presentation Speech for the 1986 Economic Sciences Prize",
+    "authors": [
+      "Ingemar Ståhl"
+    ],
+    "year": 1986,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1987",
+    "title": "Presentation Speech for the 1987 Economic Sciences Prize",
+    "authors": [
+      "Karl-Göran Mäler"
+    ],
+    "year": 1987,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1988",
+    "title": "Presentation Speech for the 1988 Economic Sciences Prize",
+    "authors": [
+      "Ingemar Ståhl"
+    ],
+    "year": 1988,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1988/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1989",
+    "title": "Presentation Speech for the 1989 Economic Sciences Prize",
+    "authors": [
+      "Bengt-Christer Ysander"
+    ],
+    "year": 1989,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "buchanan-lecture-1986",
+    "title": "The Constitution of Economic Policy",
+    "authors": [
+      "James M. Buchanan Jr."
+    ],
+    "year": 1986,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/buchanan/lecture/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English HTML lecture; introduction, opening methodological discussion and note 2 on Tullock coauthorship/1962 book; delivered 8 December 1986."
+  },
+  {
+    "id": "solow-lecture-1987",
+    "title": "Growth Theory and After",
+    "authors": [
+      "Robert M. Solow"
+    ],
+    "year": 1987,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/solow/lecture/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English HTML lecture; opening historical/model discussion and passage on neglected effective demand; delivered 8 December 1987."
+  },
+  {
+    "id": "allais-lecture-1988",
+    "title": "An Outline of My Main Contributions to Economic Science",
+    "authors": [
+      "Maurice Allais"
+    ],
+    "year": 1988,
+    "url": "https://www.nobelprize.org/uploads/2018/06/allais-lecture.pdf",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official PDF prize lecture; opening and historical account of the 1943 book, PDF pp. 1–3; delivered 9 December 1988."
+  },
+  {
+    "id": "haavelmo-lecture-1989",
+    "title": "Econometrics and the Welfare State",
+    "authors": [
+      "Trygve Haavelmo"
+    ],
+    "year": 1989,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English HTML lecture; introduction and sections 2–4 on development, difficulties and results; delivered 7 December 1989."
+  },
+  {
+    "id": "solow-1956",
+    "title": "A Contribution to the Theory of Economic Growth",
+    "authors": [
+      "Robert M. Solow"
+    ],
+    "year": 1956,
+    "url": "https://doi.org/10.2307/1884513",
+    "doi": "10.2307/1884513",
+    "type": "journal-article",
+    "venue": "The Quarterly Journal of Economics",
+    "volume": "70(1)",
+    "pages": "65",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page field is copied as supplied, not expanded to an unverified range. Award explanation relies on academy material and the author's retrospective lecture."
+  },
+  {
+    "id": "haavelmo-1944",
+    "title": "The Probability Approach in Econometrics",
+    "authors": [
+      "Trygve Haavelmo"
+    ],
+    "year": 1944,
+    "url": "https://doi.org/10.2307/1906935",
+    "doi": "10.2307/1906935",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "12",
+    "pages": "iii",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Page field is copied as supplied, not expanded to an unverified range. Award explanation relies on academy material and the author's retrospective lecture."
   }
 ]

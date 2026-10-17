@@ -1,0 +1,81 @@
+{
+  "year": 1983,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1983/summary/",
+  "laureates": [
+    {
+      "id": "697",
+      "name": "Gerard Debreu",
+      "motivation": "for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Debreu: rigorous equilibrium/commodity space, existence, welfare and subsequent properties. Preserve Arrow and McKenzie credit.",
+  "claim_source_map": "Academy speech for research program; lecture opening for goals/commodity space; original Arrow–Debreu introduction explicitly excludes uniqueness/stability.",
+  "citations": [
+    {
+      "id": "arrow-debreu-1954",
+      "title": "Existence of an Equilibrium for a Competitive Economy",
+      "authors": [
+        "Kenneth J. Arrow",
+        "Gerard Debreu"
+      ],
+      "year": 1954,
+      "url": "https://doi.org/10.2307/1907353",
+      "doi": "10.2307/1907353",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "22(3)",
+      "pages": "265–290",
+      "consulted_version": "Published article facsimile at https://web.stanford.edu/class/msande314/arrow-debreu.pdf; introduction pp. 265–266 and model assumptions pp. 266–268 consulted; full bibliographic range from facsimile cover; not redistributed.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "ceremony-1983",
+      "title": "Presentation Speech for the 1983 Economic Sciences Prize",
+      "authors": [
+        "Karl-Göran Mäler"
+      ],
+      "year": 1983,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1983/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "debreu-lecture-1983",
+      "title": "Economic Theory in the Mathematical Mode",
+      "authors": [
+        "Gerard Debreu"
+      ],
+      "year": 1983,
+      "url": "https://www.nobelprize.org/uploads/2018/06/debreu-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official prize lecture PDF, opening historical/methodological discussion and introduction of commodity space, PDF pp. 1–2; delivered 8 December 1983."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1983,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1983/ceremony-speech/",
+      "sha256": "2cff89bcacbda9d09eb0eb1e8efe44f1117c1742c96424e302b063e5651c9985",
+      "text_sha256": "19bed152378315bc1cadbdf223b25ffdfe3050bfc0a70f1fedad8ac087582d95",
+      "characters": 7679,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "EndowmentsA(2,0),B(0,2); utilityab gives half expenditure each. Equal prices demands(1,1)each. Prices(2,1) produce aggregate(1.5,3), not resource(2,2).",
+    "independent_review": false
+  },
+  "remaining_research": "Read wider original works; complete edition bibliography; independently assess theorem assumptions and uncertainty applications.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

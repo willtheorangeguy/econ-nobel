@@ -229,10 +229,13 @@
       "laureates": [
         "Lawrence R. Klein"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -243,10 +246,13 @@
       "laureates": [
         "James Tobin"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -257,10 +263,13 @@
       "laureates": [
         "George J. Stigler"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -271,10 +280,13 @@
       "laureates": [
         "Gerard Debreu"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -285,10 +297,13 @@
       "laureates": [
         "Richard Stone"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -299,10 +314,13 @@
       "laureates": [
         "Franco Modigliani"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -313,10 +331,13 @@
       "laureates": [
         "James M. Buchanan Jr."
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -327,10 +348,13 @@
       "laureates": [
         "Robert M. Solow"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -341,10 +365,13 @@
       "laureates": [
         "Maurice Allais"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -355,10 +382,13 @@
       "laureates": [
         "Trygve Haavelmo"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

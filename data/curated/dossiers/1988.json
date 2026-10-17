@@ -1,0 +1,63 @@
+{
+  "year": 1988,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1988/summary/",
+  "laureates": [
+    {
+      "id": "702",
+      "name": "Maurice Allais",
+      "motivation": "for his pioneering contributions to the theory of markets and efficient utilization of resources",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Allais: market allocation, welfare, capital/time and increasing returns; paradox is related research rather than sole award rationale.",
+  "claim_source_map": "Academy speech for scope/program; lecture opening and1943 book account for historical association. Teaching infrastructure example not attributed as exact Allais model.",
+  "citations": [
+    {
+      "id": "ceremony-1988",
+      "title": "Presentation Speech for the 1988 Economic Sciences Prize",
+      "authors": [
+        "Ingemar Ståhl"
+      ],
+      "year": 1988,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1988/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "allais-lecture-1988",
+      "title": "An Outline of My Main Contributions to Economic Science",
+      "authors": [
+        "Maurice Allais"
+      ],
+      "year": 1988,
+      "url": "https://www.nobelprize.org/uploads/2018/06/allais-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official PDF prize lecture; opening and historical account of the 1943 book, PDF pp. 1–3; delivered 9 December 1988."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1988,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1988/ceremony-speech/",
+      "sha256": "9925a6497289efc45c43ea3a64e2a892f9bc6caf9dfc68ff59250f7d5b7d4e60",
+      "text_sha256": "53405e9e32f3dbc19925247276d75732e889319d8948fb88214843a4656b1154",
+      "characters": 8641,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "p(q)=20-q, MC2,F100 ->q18; grossbenefit198,totalcost136,netsurplus62; price2revenue36 covers variablecost36,notF. Inactivity avoidsF. Distribution/funding distortions omitted.",
+    "independent_review": false
+  },
+  "remaining_research": "Read1943/1947 original editions and specific welfare/pricing proofs; verify full bibliography.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

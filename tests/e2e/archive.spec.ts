@@ -8,8 +8,11 @@ test('catalogue filters by year, laureate and tagged topic; sorting works',async
  await expect(page.locator('[data-award-list]>li:visible')).toHaveCount(1);
  await expect(page.locator('[data-award-list]>li:visible')).toContainText('Nash');
  await page.getByLabel('Year, laureate or idea').fill('');
+ const taggedYears=await page.locator('[data-award-list]>li[data-topics~="information-economics"]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('data-year')));
+ expect(taggedYears.length).toBeGreaterThan(0);
  await page.getByLabel('Topic',{exact:true}).selectOption('information-economics');
- await expect(page.locator('[data-award-list]>li:visible')).toHaveCount(1);
+ await expect(page.locator('[data-award-list]>li:visible')).toHaveCount(taggedYears.length);
+ expect(await page.locator('[data-award-list]>li:visible').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('data-year')))).toEqual(taggedYears);
  await page.getByLabel('Topic',{exact:true}).selectOption('');
  await page.getByLabel('Order',{exact:true}).selectOption('asc');
  await expect(page.locator('[data-award-list]>li').first()).toContainText('1969');

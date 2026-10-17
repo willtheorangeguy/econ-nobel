@@ -1,0 +1,80 @@
+{
+  "year": 1981,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1981/summary/",
+  "laureates": [
+    {
+      "id": "695",
+      "name": "James Tobin",
+      "motivation": "for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Tobin: portfolio risk, financial-real transmission, stocks/flows and q; preserve Brainard acknowledgment.",
+  "claim_source_map": "Academy speech for contribution/q; lecture opening for framework and Brainard credit; 1958 article Crossref metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1981",
+      "title": "Presentation Speech for the 1981 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1981,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1981/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "tobin-lecture-1981",
+      "title": "Money and Finance in the Macro-Economic Process",
+      "authors": [
+        "James Tobin"
+      ],
+      "year": 1981,
+      "url": "https://www.nobelprize.org/uploads/2018/06/tobin-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official prize lecture PDF, opening framework discussion, PDF pp. 1–2; delivered 8 December 1981. Includes stocks/flows, multiple assets, operations and Brainard acknowledgment."
+    },
+    {
+      "id": "tobin-1958",
+      "title": "Liquidity Preference as Behavior Towards Risk",
+      "authors": [
+        "J. Tobin"
+      ],
+      "year": 1958,
+      "url": "https://doi.org/10.2307/2296205",
+      "doi": "10.2307/2296205",
+      "type": "journal-article",
+      "venue": "The Review of Economic Studies",
+      "volume": "25(2)",
+      "pages": "65",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original article not read. Page field preserves source extent, including first-page-only metadata when applicable. Award-level narrative relies on academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1981,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1981/ceremony-speech/",
+      "sha256": "7d4b57af5d0bfb9ab539b42c32abcaf32329d58816ead037d8802d1bf8272d53",
+      "text_sha256": "d175f7eb589b4ccbe6b78f3a0cdb7dacdd25147bd5ebf8855263bf134e4c9987",
+      "characters": 6634,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Returns(.2,-.1) and(-.1,.2) average.05 each; individual variance.0225,covariance-.0225;half weights variance0. q150/100=1.5.",
+    "independent_review": false
+  },
+  "remaining_research": "Read 1958 article and original q/transmission work; review average/marginal q and enterprise-value measurement.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

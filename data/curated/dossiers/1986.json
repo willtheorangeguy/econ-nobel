@@ -1,0 +1,63 @@
+{
+  "year": 1986,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1986/summary/",
+  "laureates": [
+    {
+      "id": "700",
+      "name": "James M. Buchanan Jr.",
+      "motivation": "for his development of the contractual and constitutional bases for the theory of economic and political decision-making",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Buchanan: positive public choice versus normative constitutional/contractarian analysis; Wicksell influence and Tullock coauthorship.",
+  "claim_source_map": "Academy speech for rules/decision-cost tradeoff; lecture introduction/methodological opening and note2 for original1962 book.",
+  "citations": [
+    {
+      "id": "ceremony-1986",
+      "title": "Presentation Speech for the 1986 Economic Sciences Prize",
+      "authors": [
+        "Ingemar Ståhl"
+      ],
+      "year": 1986,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "buchanan-lecture-1986",
+      "title": "The Constitution of Economic Policy",
+      "authors": [
+        "James M. Buchanan Jr."
+      ],
+      "year": 1986,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/buchanan/lecture/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English HTML lecture; introduction, opening methodological discussion and note 2 on Tullock coauthorship/1962 book; delivered 8 December 1986."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1986,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/ceremony-speech/",
+      "sha256": "a753573fb67bef3c4cf6092775757ddfce6b888e890d13c458916abeaea34333",
+      "text_sha256": "f5c8cd5ffae562abb8ba784c5b80eef5bb3ee8d21b0ccc6c99421faa653c1a04",
+      "characters": 6150,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Benefits70,70,0 minus charges40 each ->30,30,-40; totalnet20. Charges60,60,0 finance120 and yield10,10,0. Cost-minimization representation is teaching notation.",
+    "independent_review": false
+  },
+  "remaining_research": "Read complete Calculus and compare alternative constitutional perspectives; investigate power, rights and future-generation limitations.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

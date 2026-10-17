@@ -1,0 +1,63 @@
+{
+  "year": 1980,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1980/summary/",
+  "laureates": [
+    {
+      "id": "694",
+      "name": "Lawrence R. Klein",
+      "motivation": "for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Klein: theory/data/estimation and operational macro models; Wharton and Project LINK.",
+  "claim_source_map": "Academy speech for contribution/history; Klein lecture opening and baseline for national/world scenario application; no claim to verified forecast performance.",
+  "citations": [
+    {
+      "id": "ceremony-1980",
+      "title": "Presentation Speech for the 1980 Economic Sciences Prize",
+      "authors": [
+        "Herman Wold"
+      ],
+      "year": 1980,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1980/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "klein-lecture-1980",
+      "title": "Some Economic Scenarios for the 1980's",
+      "authors": [
+        "Lawrence R. Klein"
+      ],
+      "year": 1980,
+      "url": "https://www.nobelprize.org/uploads/2017/04/klein-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official prize lecture PDF, opening and baseline discussion, PDF pp. 1–2; delivered 8 December 1980. Scenarios are historical projections, not verified realized outcomes."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1980,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1980/ceremony-speech/",
+      "sha256": "a17a09af490921d8fdc21276b483045240686d6262f09946eeedc584f5d17c2c",
+      "text_sha256": "957b0ddd87c15fe854f51c77edfbdf0888412b3dff80afed004d040160992c7c",
+      "characters": 7063,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "a20,b.6,I30,G10 ->Y150,C110;G14->Y160,C116. Conditional model multiplier2.5, not empirical policy estimate.",
+    "independent_review": false
+  },
+  "remaining_research": "Read and verify original model publications, 1947 book and forecast evaluations.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

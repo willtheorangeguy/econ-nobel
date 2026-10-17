@@ -1,0 +1,80 @@
+{
+  "year": 1989,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1989/summary/",
+  "laureates": [
+    {
+      "id": "703",
+      "name": "Trygve Haavelmo",
+      "motivation": "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Haavelmo: probability, interdependence, identification versus estimation, later dynamic research; preserve Cowles/Koopmans credit.",
+  "claim_source_map": "Academy speech for scope; lecture sections1–4 for historical account and identification/model critique; 1944 monograph metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1989",
+      "title": "Presentation Speech for the 1989 Economic Sciences Prize",
+      "authors": [
+        "Bengt-Christer Ysander"
+      ],
+      "year": 1989,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "haavelmo-lecture-1989",
+      "title": "Econometrics and the Welfare State",
+      "authors": [
+        "Trygve Haavelmo"
+      ],
+      "year": 1989,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English HTML lecture; introduction and sections 2–4 on development, difficulties and results; delivered 7 December 1989."
+    },
+    {
+      "id": "haavelmo-1944",
+      "title": "The Probability Approach in Econometrics",
+      "authors": [
+        "Trygve Haavelmo"
+      ],
+      "year": 1944,
+      "url": "https://doi.org/10.2307/1906935",
+      "doi": "10.2307/1906935",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "12",
+      "pages": "iii",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page field is copied as supplied, not expanded to an unverified range. Award explanation relies on academy material and the author's retrospective lecture."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1989,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/ceremony-speech/",
+      "sha256": "c01b716401c4b847847d4cd12af88e81d6493e57abccfb85ff05de4fc1348b29",
+      "text_sha256": "94aaba8f129d8c416b20300acc7f363b65081246966e9cb52680dfea8d4b92de",
+      "characters": 5964,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Demand100-2P+U,supply20+2P+V ->P20+(U-V)/4,Q60+(U+V)/2. U0V0 yields20,60;U20V0 yields25,70; observed slope+2 despite demandcoefficient-2.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original monograph and subsequent work; check structural/statistical distinction and later causal developments.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

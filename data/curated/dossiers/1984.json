@@ -1,0 +1,63 @@
+{
+  "year": 1984,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1984/summary/",
+  "laureates": [
+    {
+      "id": "698",
+      "name": "Richard Stone",
+      "motivation": "for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Stone: integrated sectoral national accounts, statistical reconciliation and international framework.",
+  "claim_source_map": "Academy speech for contribution; lecture section1/diagram for facts versus theories/aims/controls. Avoid repeating precise historical institutional claims without independent checking.",
+  "citations": [
+    {
+      "id": "ceremony-1984",
+      "title": "Presentation Speech for the 1984 Economic Sciences Prize",
+      "authors": [
+        "Erik Lundberg"
+      ],
+      "year": 1984,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1984/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "stone-lecture-1984",
+      "title": "The Accounts of Society",
+      "authors": [
+        "Richard Stone"
+      ],
+      "year": 1984,
+      "url": "https://www.nobelprize.org/uploads/2018/06/stone-lecture.pdf",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official prize lecture PDF, section 1 and diagram discussion, PDF pp. 1–2; delivered 8 December 1984."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1984,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1984/ceremony-speech/",
+      "sha256": "ac4ab39887ff31b3970487b625e521f195b8b8c988f609a9410422a171c73db2",
+      "text_sha256": "e69ab0e96a8042731cd11f78db1dfd2ca79370924007af4a11ef279cdbda6dd3",
+      "characters": 6245,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "GDP300=C240+I60=wages250+profits50. Dividends30 yield household income280/save40. Firms retained20, totalS60. Loans/dividends not extraGDP. No taxes/depreciation/foreign flows.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original international memoranda and collaborator contributions; check terminology against statistical standards.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

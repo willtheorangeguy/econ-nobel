@@ -1,0 +1,80 @@
+{
+  "year": 1987,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1987/summary/",
+  "laureates": [
+    {
+      "id": "701",
+      "name": "Robert M. Solow",
+      "motivation": "for his contributions to the theory of economic growth",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Solow: factor substitution, levels versus growth rates, growth empirics and vintage capital.",
+  "claim_source_map": "Academy speech for recognized program; lecture opening for predecessors/model and later effective-demand caution; 1956 article metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1987",
+      "title": "Presentation Speech for the 1987 Economic Sciences Prize",
+      "authors": [
+        "Karl-Göran Mäler"
+      ],
+      "year": 1987,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "solow-lecture-1987",
+      "title": "Growth Theory and After",
+      "authors": [
+        "Robert M. Solow"
+      ],
+      "year": 1987,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/solow/lecture/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English HTML lecture; opening historical/model discussion and passage on neglected effective demand; delivered 8 December 1987."
+    },
+    {
+      "id": "solow-1956",
+      "title": "A Contribution to the Theory of Economic Growth",
+      "authors": [
+        "Robert M. Solow"
+      ],
+      "year": 1956,
+      "url": "https://doi.org/10.2307/1884513",
+      "doi": "10.2307/1884513",
+      "type": "journal-article",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "70(1)",
+      "pages": "65",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Page field is copied as supplied, not expanded to an unverified range. Award explanation relies on academy material and the author's retrospective lecture."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1987,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/ceremony-speech/",
+      "sha256": "2c3e353c152c5996428b5009125fd34393d7a2ae3ed284b6f36b3795ce5acdf5",
+      "text_sha256": "34a7607966f31bee7f57d9155c68126a69908d6e5a390ba3c841724a18b77882",
+      "characters": 5253,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "f=sqrt(k),s.2,maintenance.1k ->k*=4,y*=2; s.4->k*=16,y*=4. k1 change.1;k9 change-.3. Continuous-time formulation, not arbitrary discrete-growth identity.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original1956/1957 and vintage papers; research empirical accounting and independent-development history.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
