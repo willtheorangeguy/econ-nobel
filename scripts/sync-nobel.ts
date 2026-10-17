@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs';
 import { awardSchema, laureateSchema } from '../src/lib/schema';
-import { fetchJson, write, today, optionalJson, hash } from './common';
+import { changedRecords } from './nobel-diff';
+import { fetchJson, write, today, optionalJson } from './common';
 
 const origin = 'https://api.nobelprize.org';
 const accept = process.argv.includes('--accept');
@@ -58,12 +59,12 @@ const laureates = [...new Set<string>(prizes.flatMap((p: any) => p.laureates.map
   });
 });
 const old = optionalJson<any[]>('data/generated/prizes.json', []);
-const clean = (x: any) => { const { last_source_checked_at, ...record } = x; return record; };
-const changed = prizes.filter((p: any) => { const o = old.find(a => a.year === p.year); return !o || hash(JSON.stringify(clean(o))) !== hash(JSON.stringify(clean(p))); }).map((p: any) => p.year);
-const removed = old.filter(o => !years.includes(o.year)).map(o => o.year);
-const candidate = { checked_at: checked, prizes, laureates, changed_years: changed, removed_years: removed };
+const peopleBefore = optionalJson<any[]>('data/generated/laureates.json', []);
+const prizeDiff = changedRecords(old, prizes, 'year');
+const peopleDiff = changedRecords(peopleBefore, laureates, 'id');
+const candidate = { checked_at: checked, prizes, laureates, changed_years: prizeDiff.changed, removed_years: prizeDiff.removed, changed_laureate_ids: peopleDiff.changed, removed_laureate_ids: peopleDiff.removed };
 write('data/reports/import-diff.json', candidate);
-if (!accept && (changed.length || removed.length)) {
+if (!accept && (prizeDiff.changed.length || prizeDiff.removed.length || peopleDiff.changed.length || peopleDiff.removed.length)) {
   console.log('Candidate staged in data/reports/import-diff.json. Review and rerun with --accept. No canonical metadata/content changed.');
   process.exit(0);
 }

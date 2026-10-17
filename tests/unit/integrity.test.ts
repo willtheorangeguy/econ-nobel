@@ -2,7 +2,11 @@ import { describe, it, expect } from 'vitest';
 import { articleSchema, versionSchema, workSchema } from '../../src/lib/schema';
 import { checkVersion } from '../../scripts/audit-rights';
 import { json, articles, hash } from '../../scripts/common';
+import { changedRecords } from '../../scripts/nobel-diff';
 import { execFileSync } from 'node:child_process';
+import { mkdtempSync, mkdirSync, copyFileSync, readFileSync, writeFileSync, existsSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join, resolve } from 'node:path';
 
 const prizes=json<any[]>('data/generated/prizes.json');
 describe('official catalogue',()=>{
@@ -38,4 +42,33 @@ describe('rights and editorial gates',()=>{
  it('rejects incomplete review records',()=>{expect(()=>articleSchema.parse({title:'A real title',abstract:'A sufficiently descriptive abstract.',status:'published',citation_ids:[],review:{reviewer:'Someone'}})).toThrow();});
  it('rejects a work with unsupported award association',()=>{expect(()=>workSchema.parse({id:'fake',title:'Fake',award_links:[{award_year:2001,evidence_citation_ids:[]}]})).toThrow();});
  it('uses content hashes, not filenames, to identify changed artifacts',()=>{expect(hash('a')).not.toEqual(hash('b'));expect(hash('a')).toHaveLength(64);});
+});
+
+describe('official refresh review staging',()=>{
+ it('stages a laureate affiliation correction even when the award recipients have not changed',()=>{
+  const before=[{id:'1',affiliations:['Original institution']}];
+  const after=[{id:'1',affiliations:['Corrected institution']}];
+  expect(changedRecords(before,after,'id')).toEqual({changed:['1'],removed:[]});
+ });
+ it('stages removed IDs and ignores only the observation date, not factual changes',()=>{
+  expect(changedRecords([{id:'1',last_source_checked_at:'2026-10-16'}],[{id:'1',last_source_checked_at:'2026-10-17'}],'id')).toEqual({changed:[],removed:[]});
+  expect(changedRecords([{id:'1'}],[],'id')).toEqual({changed:[],removed:['1']});
+ });
+});
+
+it('an offline laureate correction stages a report without overwriting accepted records or creating articles',()=>{
+ const root=mkdtempSync(join(tmpdir(),'econ-nobel-import-'));
+ try {
+  mkdirSync(join(root,'data/raw/nobel'),{recursive:true});mkdirSync(join(root,'data/generated'),{recursive:true});
+  for(const file of ['data/raw/nobel/prizes.json','data/raw/nobel/laureates.json','data/generated/prizes.json','data/generated/laureates.json'])copyFileSync(file,join(root,file));
+  const raw=json<any>('data/raw/nobel/laureates.json');const id=raw.rows[0].id;
+  raw.rows[0].birth={...raw.rows[0].birth,date:'1900-01-01'}; // deliberately altered private fixture, never published
+  writeFileSync(join(root,'data/raw/nobel/laureates.json'),JSON.stringify(raw));
+  const accepted=readFileSync(join(root,'data/generated/laureates.json'),'utf8');
+  execFileSync(process.execPath,[resolve('node_modules/tsx/dist/cli.mjs'),resolve('scripts/sync-nobel.ts'),'--offline'],{cwd:root});
+  const report=JSON.parse(readFileSync(join(root,'data/reports/import-diff.json'),'utf8'));
+  expect(report.changed_laureate_ids).toContain(id);
+  expect(readFileSync(join(root,'data/generated/laureates.json'),'utf8')).toBe(accepted);
+  expect(existsSync(join(root,'content'))).toBe(false);
+ } finally { rmSync(root,{recursive:true,force:true}); }
 });
