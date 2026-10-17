@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { createHash } from 'node:crypto';
 import AxeBuilder from '@axe-core/playwright';
 const base='/econ-nobel/';
 test('catalogue filters by year, laureate and tagged topic; sorting works',async({page})=>{
@@ -36,7 +37,8 @@ test('draft equations, bibliography and downloads are real; originals are honest
  await expect(page.locator('#ref-akerlof-1970')).toBeVisible();
  await expect(page.locator('.editorial-banner')).toContainText('unreviewed');
  const links=page.locator('a[download]');await expect(links).toHaveCount(2);
- for(const link of await links.all()) { const res=await request.get((await link.getAttribute('href'))!);expect(res.ok()).toBe(true);const bytes=await res.body();expect(bytes.length).toBeGreaterThan(1000); }
+ const manifest=await (await request.get(base+'downloads/manifest.json')).json();
+ for(const link of await links.all()) { const url=(await link.getAttribute('href'))!;const res=await request.get(url);expect(res.ok()).toBe(true);const bytes=await res.body();expect(bytes.length).toBeGreaterThan(1000);const artifact=manifest.artifacts.find((a:any)=>url.endsWith(a.path));expect(artifact).toBeDefined();expect(createHash('sha256').update(bytes).digest('hex')).toBe(artifact.sha256); }
  await page.goto(base+'works/akerlof-lemons-1970/');
  await expect(page.locator('.rights-state')).toContainText('Redistribution permission has not been established');
  await expect(page.locator('a[download][href*="/originals/"]')).toHaveCount(0);
