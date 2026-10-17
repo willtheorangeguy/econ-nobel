@@ -1,0 +1,155 @@
+{
+  "year": 2018,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2018/summary/",
+  "laureates": [
+    {
+      "id": "968",
+      "name": "William D. Nordhaus",
+      "motivation": "for integrating climate change into long-run macroeconomic analysis",
+      "portion": "1/2"
+    },
+    {
+      "id": "969",
+      "name": "Paul M. Romer",
+      "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Nordhaus integratedassessment; Romer endogenous ideas/nonrivalry. Models not conclusivepolicyanswers.",
+  "claim_source_map": "Official academy text supports contribution and historical outline. Consulted editions/sections declared per citation; metadata verification is distinct from original reading. Equations and examples are teaching constructions, not unverified empirical results.",
+  "citations": [
+    {
+      "id": "ceremony-2018",
+      "title": "Presentation Speech for the 2018 Economic Sciences Prize",
+      "authors": [
+        "John Hassler"
+      ],
+      "year": 2018,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "press-2018",
+      "title": "Press Release for the 2018 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2018,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "romer-1990",
+      "title": "Endogenous Technological Change",
+      "authors": [
+        "Paul M. Romer"
+      ],
+      "year": 1990,
+      "url": "https://doi.org/10.1086/261725",
+      "doi": "10.1086/261725",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+      "venue": "Journal of Political Economy",
+      "volume": "98(5, Part 2)",
+      "pages": "S71-S102"
+    },
+    {
+      "id": "nordhaus-1992",
+      "title": "An Optimal Transition Path for Controlling Greenhouse Gases",
+      "authors": [
+        "William D. Nordhaus"
+      ],
+      "year": 1992,
+      "url": "https://doi.org/10.1126/science.258.5086.1315",
+      "doi": "10.1126/science.258.5086.1315",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+      "venue": "Science",
+      "volume": "258(5086)",
+      "pages": "1315-1319"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2018,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/ceremony-speech/",
+      "sha256": "0d80be880d8c209f79989821738755917d5d991f86963f4f69ad58e727e8c9d0",
+      "text_sha256": "1ae40f39c049767318f4971966d3757e15ff03396e24973ef79905c6715b7d28",
+      "characters": 4476,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2018,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/press-release/",
+      "sha256": "d52cbab7171612e4707d2d8bbee88fbd616a73f13ac77928aa796c71e56d1893",
+      "text_sha256": "60da231570543c7ff431d57f8619aa0cbf6247075b143aa72ad7be33ec5ab37c",
+      "characters": 5336,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "romer-1990",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/261725",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "6d18914f819d2e2851a0dc7c629ee2f8c8731e4021af35aac8251901aafb61cc",
+      "title": [
+        "Endogenous Technological Change"
+      ],
+      "doi": "10.1086/261725",
+      "publication_date": {
+        "date-parts": [
+          [
+            1990,
+            10
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "nordhaus-1992",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1126/science.258.5086.1315",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "ac1deaae99602dcd4ea56ce7ba7b3456f3e9e1b04f9bfff0d616505b5ace92b0",
+      "title": [
+        "An Optimal Transition Path for Controlling Greenhouse Gases"
+      ],
+      "doi": "10.1126/science.258.5086.1315",
+      "publication_date": {
+        "date-parts": [
+          [
+            1992,
+            11,
+            20
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Abatementcost20 benefit30 gain10; innovationcost100 benefits5times30=150, financing mayfail. Simplified knowledgegrowth/carbonstock/welfare equations explicitly teaching, not fullcalibration.",
+    "independent_review": false
+  },
+  "remaining_research": "Read originalmodelversions, climate/risk/discounting debates, innovation antecedents and intellectualproperty tradeoffs.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

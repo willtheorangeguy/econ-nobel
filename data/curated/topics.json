@@ -83,5 +83,10 @@
     "slug": "labor-economics",
     "name": "Labor economics",
     "description": "Employment, wages, skills and the matching of workers with jobs."
+  },
+  {
+    "slug": "environmental-economics",
+    "name": "Environmental economics",
+    "description": "Economic activity, environmental externalities and resource stewardship."
   }
 ]

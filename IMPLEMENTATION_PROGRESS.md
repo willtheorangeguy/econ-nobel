@@ -8,8 +8,8 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 
 - Repository: `/srv/openclaw/repos/willtheorangeguy/econ-nobel`
 - Live site: https://williamvdg.me/econ-nobel/
-- Deployed implementation: `7934e84e6e8e16cea49bd50d9ae61500b82212a8`
-- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39064659209
+- Deployed implementation: `6c5fc6cf0a88ccbf772614eb3957e0e27e33b724`
+- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39065881822
 - Live document checksums: https://williamvdg.me/econ-nobel/downloads/manifest.json
 - Coverage: [machine report](data/reports/coverage.json), [year ledger](data/reports/coverage.md), and public `/coverage/`.
 
@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 48: 1969–2016, all `needs-review` |
-| Annual essays not yet written | 10, explicitly `metadata-only` |
+| Authored annual essays | 53: 1969–2021, all `needs-review` |
+| Annual essays not yet written | 5, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 98: PDF + EPUB for 48 annual drafts and one work draft |
+| Validated overview artifacts | 108: PDF + EPUB for 53 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 10 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 48 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 5 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 53 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -156,3 +156,12 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - Fresh check and 15 unit tests passed; the new inventory script ran against all58records. Full build validated **98 artifacts**, 188 endpoints and 4,784 links/assets. All five new pages passed 320/390/1280px automated accessibility and overflow checks, with ten download bodies matching manifest hashes. All nine browser regressions passed. Contract-theory PDF equation and citation layout inspected. See `data/reports/essay-browser-qa-2012-2016.json`.
 - Added retrospective dossiers for the preexisting1969/2001drafts, explicitly labeling inherited source declarations rather than claiming a new full-text consultation. All48canonical manuscripts now have dossiers. Added `npm run audit:manuscripts` to builds so hashes/counts/dossier citation presence are reproducible; this does not certify factual accuracy.
 - The final ten annual manuscripts are written privately and await canonical import, export validation and browser checks. No private staged file is counted as a canonical essay. All broader original-reading/work-selection/review/rights/engineering gaps remain open.
+
+## Essay continuation — 2017–2021
+
+- Added five annual drafts and dossiers for Thaler, Nordhaus/Romer, Banerjee/Duflo/Kremer, Milgrom/Wilson and Card/Angrist/Imbens. Preserve Benartzi, Cole, Linden, Miguel, Weber and Krueger credit. Self-control and fairness are distinct mechanisms; climate and innovation examples state assumptions; causal examples distinguish offers, participation, spillovers and local effects. All remain `needs-review`.
+- Fresh check and all 15 unit tests passed. Build validated **108 artifacts**, 189 endpoints and 4,972 internal links/assets. All five new pages passed automated accessibility and overflow checks at 320/390/1280px; ten download bodies matched manifest hashes. All nine browser regressions passed. See `data/reports/essay-browser-qa-2017-2021.json`.
+- All five final2022–2026annual drafts are staged privately. Two new work explanations are also written privately after selected originalSpence/Rothschild–Stiglitz passages were read. These do not yet count toward canonical coverage. A final1969bibliographic improvement rejects a mislabeled search-result PDF and distinguishes a laterFrisch excerpt from the1933original.
+- `33f7be2` passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39065333697. All broader review/rights/engineering gaps remain open.
+
+- The prior `6c5fc6c` milestone passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39065881822. The 2017–2021 milestone will be pushed with the final batch after local validation.

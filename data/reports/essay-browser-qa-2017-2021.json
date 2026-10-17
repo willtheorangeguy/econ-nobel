@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-10-17T20:22:30.300Z",
+  "scope": "2017–2021 drafts; 15 page/viewport combinations; 10 download bodies match local build manifest; automated accessibility only, not independent scholarly review",
+  "checks": [
+    {
+      "year": 2017,
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2018,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2019,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2020,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2021,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2017,
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2018,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2019,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2020,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2021,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2017,
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2018,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2019,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2020,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2021,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "year": 2021,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2021/summary/",
+  "laureates": [
+    {
+      "id": "1007",
+      "name": "David Card",
+      "motivation": "for his empirical contributions to labour economics",
+      "portion": "1/2"
+    },
+    {
+      "id": "1008",
+      "name": "Joshua D. Angrist",
+      "motivation": "for their methodological contributions to the analysis of causal relationships",
+      "portion": "1/4"
+    },
+    {
+      "id": "1009",
+      "name": "Guido W. Imbens",
+      "motivation": "for their methodological contributions to the analysis of causal relationships",
+      "portion": "1/4"
+    }
+  ],
+  "scope_and_attribution": "Card labornaturalexperiments with Krueger; Angrist/Imbens heterogeneouseffects/LATE. Distinct halfprize motivations preserved.",
+  "claim_source_map": "Official academy text supports contribution and historical outline. Consulted editions/sections declared per citation; metadata verification is distinct from original reading. Equations and examples are teaching constructions, not unverified empirical results.",
+  "citations": [
+    {
+      "id": "ceremony-2021",
+      "title": "Presentation Speech for the 2021 Economic Sciences Prize",
+      "authors": [
+        "Peter Fredriksson"
+      ],
+      "year": 2021,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "press-2021",
+      "title": "Press Release for the 2021 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2021,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "imbens-angrist-1994",
+      "title": "Identification and Estimation of Local Average Treatment Effects",
+      "authors": [
+        "Guido W. Imbens",
+        "Joshua D. Angrist"
+      ],
+      "year": 1994,
+      "url": "https://doi.org/10.2307/2951620",
+      "doi": "10.2307/2951620",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+      "venue": "Econometrica",
+      "volume": "62(2)",
+      "pages": "467"
+    },
+    {
+      "id": "card-krueger-1994",
+      "title": "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania",
+      "authors": [
+        "David Card",
+        "Alan B. Krueger"
+      ],
+      "year": 1994,
+      "url": "https://davidcard.berkeley.edu/papers/njmin-aer.pdf",
+      "venue": "American Economic Review",
+      "volume": "84(4)",
+      "pages": "772–793",
+      "type": "journal-article",
+      "accessed": "2026-10-17",
+      "verified": true,
+      "consulted_version": "Author-hosted Berkeley facsimile; opening abstract, introduction and sample-design discussion, PDF pages 1–3 (printed 772–774), consulted. Full study, appended material and later debate not yet assessed. Publication and coauthorship corroborated on Card’s papers page; no guessed DOI."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2021,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/ceremony-speech/",
+      "sha256": "5bb42b84a9f170232b2eea82867992aee89658ba993c19db20799e98ee3cacf2",
+      "text_sha256": "585d3ccdac187547d8c0ee98dade15cd1e9a66222811c8e88d5b3a63cb914650",
+      "characters": 4564,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2021,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/",
+      "sha256": "f6eb3d53aa0afb7854385abd2d622d6a417c9d9512d80f0991b6e122d971e9de",
+      "text_sha256": "8789b0731d15f2a6069c72f75ebf4d974562f29ff33b66e100288e028ae5f3f7",
+      "characters": 5545,
+      "accessed": "2026-10-17"
+    },
+    {
+      "url": "https://davidcard.berkeley.edu/papers/njmin-aer.pdf",
+      "sha256": "6f9b9f1b6da9834c2a68bf86fc6078c83acdd7507db0d37b8b4814dfd2b3462e",
+      "text_sha256": "926ec724e52df8f74faf0e4511e7fa0da115a0df6bc16689121ddc7f6e069f6b",
+      "accessed": "2026-10-17",
+      "consulted_pages": "PDF 1–3, printed 772–774"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "imbens-angrist-1994",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2951620",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "8d87f8952fdfba3b8f395b0874d290522cc9d40a9e31f54574b51d016d919183",
+      "title": [
+        "Identification and Estimation of Local Average Treatment Effects"
+      ],
+      "doi": "10.2307/2951620",
+      "publication_date": {
+        "date-parts": [
+          [
+            1994,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "DiD(102-100)-(97-100)=5; IV2000/.2=10000 for binary-treatmentcompliers under independence/exclusion/monotonicity/relevance. Paralleltrends argument not demonstrated by arithmetic.",
+    "independent_review": false
+  },
+  "remaining_research": "Read full Card–Krueger and Imbens–Angrist originals, immigration/education works, subsequent debate and sensitivity evidence.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

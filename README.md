@@ -6,7 +6,7 @@ Live: https://williamvdg.me/econ-nobel/
 
 Repository: https://github.com/willtheorangeguy/econ-nobel
 
-**Current editorial state:** 58 official annual records (1969–2026), 101 laureates, 48 unreviewed award essays (1969–2016), three verified work associations, one unreviewed work explanation, and one permission-verified portrait. No essay has been independently reviewed or marked published. This is a working staged archive, not a claim of complete scholarly coverage. See [progress](IMPLEMENTATION_PROGRESS.md) and [coverage](data/reports/coverage.md).
+**Current editorial state:** 58 official annual records (1969–2026), 101 laureates, 53 unreviewed award essays (1969–2021), three verified work associations, one unreviewed work explanation, and one permission-verified portrait. No essay has been independently reviewed or marked published. This is a working staged archive, not a claim of complete scholarly coverage. See [progress](IMPLEMENTATION_PROGRESS.md) and [coverage](data/reports/coverage.md).
 
 **Completion audit:** this is not the completed, production-ready archive requested in the specification. [The audit](docs/COMPLETION_AUDIT.md) records missing research, reproduced engineering defects, and the limits of the passing checks.
 

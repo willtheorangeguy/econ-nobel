@@ -52,11 +52,11 @@
 | 2014 | needs-review | 0 | pdf, epub |
 | 2015 | needs-review | 0 | pdf, epub |
 | 2016 | needs-review | 0 | pdf, epub |
-| 2017 | metadata-only | 0 | None |
-| 2018 | metadata-only | 0 | None |
-| 2019 | metadata-only | 0 | None |
-| 2020 | metadata-only | 0 | None |
-| 2021 | metadata-only | 0 | None |
+| 2017 | needs-review | 0 | pdf, epub |
+| 2018 | needs-review | 0 | pdf, epub |
+| 2019 | needs-review | 0 | pdf, epub |
+| 2020 | needs-review | 0 | pdf, epub |
+| 2021 | needs-review | 0 | pdf, epub |
 | 2022 | metadata-only | 0 | None |
 | 2023 | metadata-only | 0 | None |
 | 2024 | metadata-only | 0 | None |

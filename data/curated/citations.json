@@ -2090,5 +2090,312 @@
     "type": "official",
     "verified": true,
     "consulted_version": "Official scientific-background PDF; PDF 3–6 consulted. Remaining sections not claimed read."
+  },
+  {
+    "id": "ceremony-2017",
+    "title": "Presentation Speech for the 2017 Economic Sciences Prize",
+    "authors": [
+      "Per Strömberg"
+    ],
+    "year": 2017,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "press-2017",
+    "title": "Press Release for the 2017 Economic Sciences Prize",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2017,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2018",
+    "title": "Presentation Speech for the 2018 Economic Sciences Prize",
+    "authors": [
+      "John Hassler"
+    ],
+    "year": 2018,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "press-2018",
+    "title": "Press Release for the 2018 Economic Sciences Prize",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2018,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2019",
+    "title": "Presentation Speech for the 2019 Economic Sciences Prize",
+    "authors": [
+      "Jakob Svensson"
+    ],
+    "year": 2019,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "press-2019",
+    "title": "Press Release for the 2019 Economic Sciences Prize",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2019,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2020",
+    "title": "Presentation Speech for the 2020 Economic Sciences Prize",
+    "authors": [
+      "Tommy Andersson"
+    ],
+    "year": 2020,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "press-2020",
+    "title": "Press Release for the 2020 Economic Sciences Prize",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2020,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2021",
+    "title": "Presentation Speech for the 2021 Economic Sciences Prize",
+    "authors": [
+      "Peter Fredriksson"
+    ],
+    "year": 2021,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "press-2021",
+    "title": "Press Release for the 2021 Economic Sciences Prize",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2021,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML; complete substantive text consulted."
+  },
+  {
+    "id": "thaler-1980",
+    "title": "Toward a positive theory of consumer choice",
+    "authors": [
+      "Richard Thaler"
+    ],
+    "year": 1980,
+    "url": "https://doi.org/10.1016/0167-2681(80)90051-7",
+    "doi": "10.1016/0167-2681(80)90051-7",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "volume": "1(1)",
+    "pages": "39-60"
+  },
+  {
+    "id": "thaler-benartzi-2004",
+    "title": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+    "authors": [
+      "Richard H. Thaler",
+      "Shlomo Benartzi"
+    ],
+    "year": 2004,
+    "url": "https://doi.org/10.1086/380085",
+    "doi": "10.1086/380085",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Journal of Political Economy",
+    "volume": "112(S1)",
+    "pages": "S164-S187"
+  },
+  {
+    "id": "romer-1990",
+    "title": "Endogenous Technological Change",
+    "authors": [
+      "Paul M. Romer"
+    ],
+    "year": 1990,
+    "url": "https://doi.org/10.1086/261725",
+    "doi": "10.1086/261725",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Journal of Political Economy",
+    "volume": "98(5, Part 2)",
+    "pages": "S71-S102"
+  },
+  {
+    "id": "nordhaus-1992",
+    "title": "An Optimal Transition Path for Controlling Greenhouse Gases",
+    "authors": [
+      "William D. Nordhaus"
+    ],
+    "year": 1992,
+    "url": "https://doi.org/10.1126/science.258.5086.1315",
+    "doi": "10.1126/science.258.5086.1315",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Science",
+    "volume": "258(5086)",
+    "pages": "1315-1319"
+  },
+  {
+    "id": "banerjee-cole-duflo-linden-2007",
+    "title": "Remedying Education: Evidence from Two Randomized Experiments in India",
+    "authors": [
+      "A. V. Banerjee",
+      "S. Cole",
+      "E. Duflo",
+      "L. Linden"
+    ],
+    "year": 2007,
+    "url": "https://doi.org/10.1162/qjec.122.3.1235",
+    "doi": "10.1162/qjec.122.3.1235",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "The Quarterly Journal of Economics",
+    "volume": "122(3)",
+    "pages": "1235-1264"
+  },
+  {
+    "id": "miguel-kremer-2004",
+    "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+    "authors": [
+      "Edward Miguel",
+      "Michael Kremer"
+    ],
+    "year": 2004,
+    "url": "https://doi.org/10.1111/j.1468-0262.2004.00481.x",
+    "doi": "10.1111/j.1468-0262.2004.00481.x",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Econometrica",
+    "volume": "72(1)",
+    "pages": "159-217"
+  },
+  {
+    "id": "wilson-1969",
+    "title": "Communications to the Editor—Competitive Bidding with Disparate Information",
+    "authors": [
+      "Robert B. Wilson"
+    ],
+    "year": 1969,
+    "url": "https://doi.org/10.1287/mnsc.15.7.446",
+    "doi": "10.1287/mnsc.15.7.446",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Management Science",
+    "volume": "15(7)",
+    "pages": "446-452"
+  },
+  {
+    "id": "milgrom-weber-1982",
+    "title": "A Theory of Auctions and Competitive Bidding",
+    "authors": [
+      "Paul R. Milgrom",
+      "Robert J. Weber"
+    ],
+    "year": 1982,
+    "url": "https://doi.org/10.2307/1911865",
+    "doi": "10.2307/1911865",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Econometrica",
+    "volume": "50(5)",
+    "pages": "1089"
+  },
+  {
+    "id": "imbens-angrist-1994",
+    "title": "Identification and Estimation of Local Average Treatment Effects",
+    "authors": [
+      "Guido W. Imbens",
+      "Joshua D. Angrist"
+    ],
+    "year": 1994,
+    "url": "https://doi.org/10.2307/2951620",
+    "doi": "10.2307/2951620",
+    "type": "journal-article",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, dates and pagination preserved; teaching constructions are not original estimates.",
+    "venue": "Econometrica",
+    "volume": "62(2)",
+    "pages": "467"
+  },
+  {
+    "id": "card-krueger-1994",
+    "title": "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania",
+    "authors": [
+      "David Card",
+      "Alan B. Krueger"
+    ],
+    "year": 1994,
+    "url": "https://davidcard.berkeley.edu/papers/njmin-aer.pdf",
+    "venue": "American Economic Review",
+    "volume": "84(4)",
+    "pages": "772–793",
+    "type": "journal-article",
+    "accessed": "2026-10-17",
+    "verified": true,
+    "consulted_version": "Author-hosted Berkeley facsimile; opening abstract, introduction and sample-design discussion, PDF pages 1–3 (printed 772–774), consulted. Full study, appended material and later debate not yet assessed. Publication and coauthorship corroborated on Card’s papers page; no guessed DOI."
   }
 ]
