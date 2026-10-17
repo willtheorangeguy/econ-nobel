@@ -42,8 +42,10 @@ export const versionSchema = z.object({
   license_verified_by: z.string().nullable().default(null),
   allows_hosting: z.boolean().default(false), allows_format_conversion: z.boolean().default(false),
   local_pdf_path: z.string().nullable().default(null), local_epub_path: z.string().nullable().default(null),
-  checksum_sha256: z.string().regex(/^[a-f0-9]{64}$/).nullable().default(null),
-});
+  pdf_checksum_sha256: z.string().regex(/^[a-f0-9]{64}$/).nullable().default(null),
+  epub_checksum_sha256: z.string().regex(/^[a-f0-9]{64}$/).nullable().default(null),
+  epub_provenance: z.enum(['native', 'converted']).nullable().default(null),
+}).strict();
 export const workSchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/), title: z.string(), authors: z.array(z.string()).min(1),
   year: z.number().int(), work_type: z.enum(['journal-article','working-paper','book','chapter','lecture','report','other']),

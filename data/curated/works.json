@@ -40,7 +40,9 @@
         "allows_format_conversion": false,
         "local_pdf_path": null,
         "local_epub_path": null,
-        "checksum_sha256": null
+        "pdf_checksum_sha256": null,
+        "epub_checksum_sha256": null,
+        "epub_provenance": null
       }
     ]
   },
@@ -85,7 +87,9 @@
         "allows_format_conversion": false,
         "local_pdf_path": null,
         "local_epub_path": null,
-        "checksum_sha256": null
+        "pdf_checksum_sha256": null,
+        "epub_checksum_sha256": null,
+        "epub_provenance": null
       }
     ]
   },
@@ -131,7 +135,9 @@
         "allows_format_conversion": false,
         "local_pdf_path": null,
         "local_epub_path": null,
-        "checksum_sha256": null
+        "pdf_checksum_sha256": null,
+        "epub_checksum_sha256": null,
+        "epub_provenance": null
       }
     ]
   }

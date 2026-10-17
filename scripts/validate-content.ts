@@ -1,5 +1,6 @@
-import { awardSchema, laureateSchema, workSchema, citationSchema, portraitSchema, requiredSections } from '../src/lib/schema';
+import { awardSchema, laureateSchema, workSchema, citationSchema, portraitSchema } from '../src/lib/schema';
 import { json, articles } from './common';
+import { assertReviewedBody } from './editorial-gate';
 import katex from 'katex';
 
 const prizes = json<any[]>('data/generated/prizes.json').map(p => awardSchema.parse(p));
@@ -40,8 +41,9 @@ for (const a of [...awardArticles,...workArticles]) {
     ensure(a.data.review,`${a.path}: review record required`);
     ensure(!/TODO|TBD|placeholder|coming soon/i.test(a.content),`${a.path}: unfinished text cannot be reviewed`);
     ensure(a.data.citation_ids.length>=2,`${a.path}: insufficient bibliography`);
+    try { assertReviewedBody(a.content, awardArticles.includes(a) ? 'awards' : 'works'); }
+    catch (error) { throw new Error(`${a.path}: ${(error as Error).message}`); }
     if (awardArticles.includes(a)) {
-      for (const heading of requiredSections) ensure(a.content.includes(`## ${heading}`),`${a.path}: missing ${heading}`);
       ensure(a.data.citation_ids.some(id=>citations.find(c=>c.id===id)?.type==='official'),`${a.path}: official source required`);
     } else ensure(a.data.source_version,`${a.path}: consulted primary version required`);
   }

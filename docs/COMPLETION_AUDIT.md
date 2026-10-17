@@ -114,4 +114,12 @@ The speed of the first delivery is explained by what was produced: reusable temp
 
 ## Subsequent annual drafting milestone
 
-The editorial counts above describe the audited revision, before the continuation. All 58 annual years now have unreviewed drafts, with three unreviewed work explanations. See [the drafting milestone](ESSAY_DRAFT_MILESTONE.md), current coverage and progress for later validation evidence. The reviewed-content/original-document model and intermittent fresh-startup findings remain unresolved. The latest-year navigation/download test now derives expectations from the accepted catalogue, article state and manifest. Zero texts have been promoted to reviewed or published.
+The editorial counts above describe the audited revision, before the continuation. All 58 annual years now have unreviewed drafts, with three unreviewed work explanations. See [the drafting milestone](ESSAY_DRAFT_MILESTONE.md), current coverage and progress for later validation evidence. The latest-year navigation/download test now derives expectations from the accepted catalogue, article state and manifest. Zero texts have been promoted to reviewed or published.
+
+## Subsequent engineering repairs
+
+Findings 1–3 now have targeted implementation and regression tests. The reviewed-content validator parses actual Markdown, rejects empty/short required section bodies and enforces conservative overall prose floors; code, math, comments and citation padding do not count. An isolated synthetic review fixture proves both rejection of the original empty-section counterexample and acceptance of substantive manuscript content. This tests the mechanical gate, never the truth of a review record.
+
+Original versions now have separate PDF/EPUB checksums and explicit native/converted EPUB provenance. Private two-file fixtures verify independent integrity failures, native hosting without conversion permission, converted-edition permission checks, missing provenance/evidence and unsafe paths. The retired shared field is rejected. No original document or synthetic approval was added to public content. End-to-end original acquisition/conversion and genuine scholarly publication remain unproven.
+
+The installed Astro 7.4.0 CLI automatically backgrounds preview servers in detected agent environments. Playwright's preview command now supplies `--ignore-lock`, which the installed CLI explicitly handles as a foreground process. Fresh-startup/teardown verification is recorded in progress when complete; a source change alone does not close the finding. Broader research, reader, reproducibility and accessibility limits above remain applicable.

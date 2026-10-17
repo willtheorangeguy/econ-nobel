@@ -12,6 +12,8 @@
 8. A reviewer must verify citations, mathematics, contributions and rights, then supply `review` with `reviewer`, ISO `reviewed_at`, four true check fields (`citations_checked`, `math_checked`, `rights_checked`, `contributions_checked`) and `limitations: []` or an explicit list. Set `reviewed`, build/inspect exports, then `published` only when review and both artifacts are genuinely complete. Do not invent a reviewer or approval.
 9. Run all checks, commit the award milestone, and update progress with remaining research, version and review gaps.
 
+The mechanical reviewed/published body gate parses Markdown and requires at least 800 prose words for an annual explanation or 300 for a work explanation. Each required annual section must occur exactly once as a real level-two heading and contain at least 20 prose words. Headings, code, math, HTML/comments, image metadata, reference definitions and citation markers do not satisfy these prose floors. These are safeguards against empty/skeletal submissions, below the plan's usual editorial targets of 1,200–2,000 / 500–1,000 words. Passing them does not establish completeness, accuracy or independent review.
+
 ## Optional AI drafting
 
 Manual source-led writing is the default. A local model may draft from a vetted dossier into ignored `.cache/editorial-drafts/`; it must cite only dossier IDs and must never write directly to published content. Never send restricted source texts to an external service without permission. No model or network service is required at build/runtime. A human checks the draft and imports it into the canonical Markdown workflow above.
@@ -22,7 +24,9 @@ Use `data/curated/portraits.json` for per-file source, credit, license link, dis
 
 ## Original documents
 
-A URL or OA flag is not a redistribution license. Record permission for the exact version. Local original PDFs need `allows_hosting`, evidence URL, license, verifier/date and checksum. Conversions also need `allows_format_conversion`; NoDerivatives licenses are not treated as conversion authorization. Native EPUB versions and conversions must be separately inspected. Unknown permissions mean external links only. Do not fetch original files automatically from a title match.
+A URL or OA flag is not a redistribution license. Record permission for the exact version. Local originals need `allows_hosting`, evidence URL, license and verifier/date. PDF and EPUB bytes have independent `pdf_checksum_sha256` and `epub_checksum_sha256` fields. Set `epub_provenance: native` for a source-provided EPUB or `converted` for an archive-created conversion; local EPUBs with unknown provenance are rejected. Native EPUB hosting does not require conversion permission. Conversions also need `allows_format_conversion`; NoDerivatives licenses are not treated as conversion authorization. Both formats need actual reading/format QA in addition to this permission/integrity gate. Unknown permissions mean external links only. Do not fetch original files automatically from a title match.
+
+Migration: the old shared version-level `checksum_sha256` is rejected by the strict version schema. Replace it with the hash of each actual artifact; never copy one hash into both fields. Existing external-only versions have null hashes/provenance. Portrait records retain their separate, single-image `checksum_sha256` field. The original plan's sample version record predates this correction.
 
 The public original-asset audit rejects unregistered files. Private reading copies belong outside `public/`, `content/`, `data/` and Git. Authenticated private hosting is a separate deployment; public Pages cannot protect restricted documents.
 

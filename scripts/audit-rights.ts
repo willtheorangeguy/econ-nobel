@@ -1,15 +1,19 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
-import { workSchema, portraitSchema } from '../src/lib/schema';
+import { workSchema, portraitSchema, type Version } from '../src/lib/schema';
 import { json, hash, write, today, articles } from './common';
-export function checkVersion(v: any) {
+export function checkVersion(v: Version, publicRoot = 'public') {
   if ((v.allows_hosting || v.allows_format_conversion || v.local_pdf_path || v.local_epub_path) && (!v.license_id || !v.license_evidence_url || !v.license_verified_at || !v.license_verified_by)) throw new Error(`Permission evidence missing for ${v.version_id}`);
-  if ((v.local_pdf_path || v.local_epub_path) && (!v.allows_hosting || !v.checksum_sha256)) throw new Error(`Hosting not cleared: ${v.version_id}`);
-  if (v.local_epub_path && !v.allows_format_conversion) throw new Error(`EPUB conversion not cleared: ${v.version_id}`);
+  if ((v.local_pdf_path || v.local_epub_path) && !v.allows_hosting) throw new Error(`Hosting not cleared: ${v.version_id}`);
+  if (v.local_epub_path && !v.epub_provenance) throw new Error(`EPUB provenance required: ${v.version_id}`);
+  if (v.local_epub_path && v.epub_provenance === 'converted' && !v.allows_format_conversion) throw new Error(`EPUB conversion not cleared: ${v.version_id}`);
   if (v.allows_format_conversion && /(?:^|-)ND(?:-|$)/i.test(v.license_id || '')) throw new Error(`NoDerivatives conversion requires separate authorization: ${v.version_id}`);
-  for (const path of [v.local_pdf_path,v.local_epub_path].filter(Boolean)) {
+  for (const [path, checksum] of [[v.local_pdf_path,v.pdf_checksum_sha256],[v.local_epub_path,v.epub_checksum_sha256]]) {
+    if (!path) continue;
     if (!/^\/downloads\/originals\/[a-zA-Z0-9/_.-]+$/.test(path) || path.includes('..')) throw new Error('Unsafe original path');
-    if (!existsSync(`public${path}`) || hash(readFileSync(`public${path}`))!==v.checksum_sha256) throw new Error(`Missing or changed original ${path}`);
+    if (!checksum) throw new Error(`Artifact checksum required: ${path}`);
+    const file = join(publicRoot, path);
+    if (!existsSync(file) || hash(readFileSync(file))!==checksum) throw new Error(`Missing or changed original ${path}`);
   }
 }
 if (process.argv[1]?.endsWith('audit-rights.ts')) {
