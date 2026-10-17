@@ -1,0 +1,870 @@
+{
+  "checked_at": "2026-10-17T21:51:50.637Z",
+  "site": "https://williamvdg.me/econ-nobel/",
+  "deployed_revision": "72f7d1776654418076ffa4835711e4b786ee7c04",
+  "workflow_run": "https://github.com/willtheorangeguy/econ-nobel/actions/runs/39071742626",
+  "status": "passed",
+  "annual_explanations": 58,
+  "work_explanations": 3,
+  "manifest_toolchain": {
+    "pandoc": "pandoc 3.12.1",
+    "pdf_engine": "XeTeX 3.141592653-2.6-0.999995 (TeX Live 2023/Debian)"
+  },
+  "verified_downloads": [
+    {
+      "path": "downloads/drafts/awards/1969/1969-overview.epub",
+      "bytes": 17084,
+      "sha256": "36fb3e3f62b3eb11423ea25370525924ec17a861571044c3f08c73909e783cc3",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1969/1969-overview.pdf",
+      "bytes": 48374,
+      "sha256": "70d87d307d8314136ec356e0765b0052c91b2ec661f1d65decc2a6efa1aab885",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1970/1970-overview.epub",
+      "bytes": 16297,
+      "sha256": "0407377e21ce6c90ca98b06c4e8ab54eb42dd827b8d88e5616aad4ddaad3a2a3",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1970/1970-overview.pdf",
+      "bytes": 43349,
+      "sha256": "6776f9f3686d80d93126b31ce1fb1047f9d7f6f64e87fe839cc16c8e0b85cf3d",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1971/1971-overview.epub",
+      "bytes": 16425,
+      "sha256": "fcfbfd8ae44322b9dae9382df11af792053393f5a6d864b74aa96dd52bcdc1cc",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1971/1971-overview.pdf",
+      "bytes": 46232,
+      "sha256": "565341af35bd622d7a6e53e10f7d8229514a8250a5ccb3aa356cf4ad38118b3c",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1972/1972-overview.epub",
+      "bytes": 16384,
+      "sha256": "1e24d5732caaec34dbb9570364cb00f2bcfd207667e39ab48648fae1fd41e43a",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1972/1972-overview.pdf",
+      "bytes": 43223,
+      "sha256": "01396667e02b7f62b28530c686412c601d2cbc81cea6c65819a71bd3e62feb33",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1973/1973-overview.epub",
+      "bytes": 16261,
+      "sha256": "22bc73be1428a525843fb3f62f2c42e8cc2f86b9b7573934dacf570c16d9d34d",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1973/1973-overview.pdf",
+      "bytes": 43918,
+      "sha256": "d6c8dbf05ef4067da2719ffbe0eff59e04096ed0b3d62e5f5dfbc958224e5f8f",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1974/1974-overview.epub",
+      "bytes": 16631,
+      "sha256": "2da5d8cd9e4842ef27294438ce17c09a3e84da116007c55d6b1df7bc7bf40379",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1974/1974-overview.pdf",
+      "bytes": 44110,
+      "sha256": "27674ff9a1d117aa1dfc311450b372de88f69922a01f8eb1e6bdd4c629b03892",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1975/1975-overview.epub",
+      "bytes": 16387,
+      "sha256": "928690d47b7678dff3ef79db0250fc9800174a28750aa0ff6a0632f43782cec8",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1975/1975-overview.pdf",
+      "bytes": 39954,
+      "sha256": "da54475925f27bb078eff722e09a7b7c6b31051c3b5039be51b89f82d77872a8",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1976/1976-overview.epub",
+      "bytes": 16249,
+      "sha256": "cd38537906491bf552fa8da53ce0fbcd8ce17b86d4ebfa8aa1872f19b3544ea3",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1976/1976-overview.pdf",
+      "bytes": 45335,
+      "sha256": "65bc6c352dc34d4cea8bc122db605cdf534fe99c6b6df6d98f0dfacad0443bc6",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1977/1977-overview.epub",
+      "bytes": 16150,
+      "sha256": "5328cff34cad2ae43169c496918f37ae6cefc66f066de4d3f5da3ffffc8409f1",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1977/1977-overview.pdf",
+      "bytes": 43134,
+      "sha256": "4f35cfbefc8f1db2efb1a97bde187c252b98425826554b2a44a8d8623a76b0b2",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1978/1978-overview.epub",
+      "bytes": 16530,
+      "sha256": "a66d512ba6f572d0f1e34e2f0819909bcfa83475bbcc3eaf0dee471d9d8c0b6d",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1978/1978-overview.pdf",
+      "bytes": 45489,
+      "sha256": "2d68e1ddf5d73cd0f14d69e895d0fd427a37e5dee1b90a331703a2fde4dbdce4",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1979/1979-overview.epub",
+      "bytes": 16938,
+      "sha256": "721a009fd5d24a59fde371a463183131545dc9866ba770189de27ae8a371d3f7",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1979/1979-overview.pdf",
+      "bytes": 47144,
+      "sha256": "4a76e454b146ebbea4ee4fd4a31463d435c42d6145ba51ca364062e8a8cb5864",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1980/1980-overview.epub",
+      "bytes": 16202,
+      "sha256": "71e1a818313239aca2eb8b9c634802db09b9920a835be86bb13ef8566f4591c9",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1980/1980-overview.pdf",
+      "bytes": 43492,
+      "sha256": "b4267b639c969c8c35de0eafd6ab5413e8e10f9a11b1d5626e81b02ee838b539",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1981/1981-overview.epub",
+      "bytes": 16163,
+      "sha256": "4980effe4c6e6b9df52236cf4081e3d95a190287af9c1e556de53aee13c95638",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1981/1981-overview.pdf",
+      "bytes": 44290,
+      "sha256": "4306ac03665e42ac8eda7225dabf5224208d1bc4db04c7eb60ca4cedff958830",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1982/1982-overview.epub",
+      "bytes": 16205,
+      "sha256": "9b8456a8739b722f06ff2d21abdd161f1524b4980d8023e88ce6d4dc9f460faf",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1982/1982-overview.pdf",
+      "bytes": 43757,
+      "sha256": "79ecb5ca3a5f8b8edd1ff100c627095e20b6de3b9f38a7750b9e682bca9e568c",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1983/1983-overview.epub",
+      "bytes": 16474,
+      "sha256": "71a52eb948aaf00b691a08eea810604ff7eaba460741583ed6aeb562aa2f3f6c",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1983/1983-overview.pdf",
+      "bytes": 43787,
+      "sha256": "3892881bb5d70cd4aaba6ee63a5b377857ac38b141efcc734de6beda7f3117a0",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1984/1984-overview.epub",
+      "bytes": 16059,
+      "sha256": "89b714e8b26ce27d0c29db37ac3bf68e7513e3cdaef339460a5e67c498a642ab",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1984/1984-overview.pdf",
+      "bytes": 41481,
+      "sha256": "7e1f548102d0e2aef01dcb061db4245460721b1647e6397c450ff011afffbca3",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1985/1985-overview.epub",
+      "bytes": 16223,
+      "sha256": "b5735b1221039ceb1e4a876f5221775e8202864299869f451e2ab8837d2613ae",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1985/1985-overview.pdf",
+      "bytes": 44612,
+      "sha256": "3706080593f16a7a019349699b2a0cfde8ad9206778f5c5de6e3d68d132d0ca8",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1986/1986-overview.epub",
+      "bytes": 15965,
+      "sha256": "776cc2c5bc66f33900ae0ebc60de751e94c537faf2dd6d0a6e5ca34072a68956",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1986/1986-overview.pdf",
+      "bytes": 41237,
+      "sha256": "3ef8e24bdeb31148e8236e5c198b0b1cf264bfdfeaafd5b78a833ac9c92d6a01",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1987/1987-overview.epub",
+      "bytes": 16178,
+      "sha256": "91bc3ae97765722ad50f08abce5039175aff3df9847174c7147ea8620e6acd3e",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1987/1987-overview.pdf",
+      "bytes": 44670,
+      "sha256": "9aa2a197454b0c1695830d6afd3fc46ccd7d17153fd29e4cdf062e8ec2db9dee",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1988/1988-overview.epub",
+      "bytes": 16391,
+      "sha256": "09ab4160ab0d8d78fe6fccc392541b0da20ce1bc02c9282d63383fd24ec05826",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1988/1988-overview.pdf",
+      "bytes": 44480,
+      "sha256": "9bedea935386f68f8b60ea93f0e913ed11faaf7abeac2efdeb4d2c6ed4e04425",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1989/1989-overview.epub",
+      "bytes": 16436,
+      "sha256": "0fa536abe79ca04f01ffb048a9ab8a2f837156f5979cc0009e541cfefe05022b",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1989/1989-overview.pdf",
+      "bytes": 43881,
+      "sha256": "454276a8544c0a8b3034baf4961df8a551a8a100ac111b7865e8327efe68aa13",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1990/1990-overview.epub",
+      "bytes": 16348,
+      "sha256": "8984831887beb5ece38dd544c5323c883cd9f2fea42c8317ac1992577b9c87c9",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1990/1990-overview.pdf",
+      "bytes": 46343,
+      "sha256": "c814c333ebc0dc3c1b4bb0fbf3c25f81952b6abbb74bb1c03e21f7912d008e32",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1991/1991-overview.epub",
+      "bytes": 16090,
+      "sha256": "1a22df91a2c14553463a874f023a571216351c9c215ee22524adb83a028aa0c4",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1991/1991-overview.pdf",
+      "bytes": 42573,
+      "sha256": "ca439387ceb9133a2192cb1903498846ae8c0327c7a16c186f90fc1fe668e111",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1992/1992-overview.epub",
+      "bytes": 16042,
+      "sha256": "e1dd86d2be1acbca9fce3b8a199fe0a2ec3a4fd3a0804a98e63f6bf7dc36210c",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1992/1992-overview.pdf",
+      "bytes": 42646,
+      "sha256": "aa8eea45af5730db303d12982112e1d987a38c56d5910fb13ea57f23dcb5e4e8",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1993/1993-overview.epub",
+      "bytes": 16337,
+      "sha256": "28ff7890030406359878b22569beacb4f516278c1a74653736a13a1b5d29b440",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1993/1993-overview.pdf",
+      "bytes": 41425,
+      "sha256": "cea8c384e8fcf0d804c8e84edaf4ff8f083c2ae9125987a6202d4ae55478b374",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1994/1994-overview.epub",
+      "bytes": 16090,
+      "sha256": "5aef9a58a05d5a2f84cefdba9951ee892eee796955936ebac66024351f60b4cc",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1994/1994-overview.pdf",
+      "bytes": 44405,
+      "sha256": "e33f3bc91a5d3820d5f2715b1c58c5a926eadf369ced6cc5ee4dd564eb95b18a",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1995/1995-overview.epub",
+      "bytes": 16301,
+      "sha256": "544aa8d7c75763d5db45d00c80d558bf4c8d7c0b17a994be47ad07aa1c6a4d44",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1995/1995-overview.pdf",
+      "bytes": 45293,
+      "sha256": "2cae2be412470068ed2d4224c022c57c553d6573197744b17755999c39cc0b81",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1996/1996-overview.epub",
+      "bytes": 16128,
+      "sha256": "3957d4d57c2131628359ffa8b36f62ceee52bb3aa68ade22e6b7bc7cbc249050",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1996/1996-overview.pdf",
+      "bytes": 44302,
+      "sha256": "8e11667c115e6bd8c80a8dec8e418e4f8f0d4a7534bfa1ad00f6ca996c8bded7",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1997/1997-overview.epub",
+      "bytes": 16102,
+      "sha256": "e3b602ed1431603997412cd9505e463971ecbf07d0cd707390017fe3210f4ba5",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1997/1997-overview.pdf",
+      "bytes": 44250,
+      "sha256": "97629edbd8e968eccc8ed9f76514c991263f7c5215ad3bdef7c9729df22f1c6c",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1998/1998-overview.epub",
+      "bytes": 16286,
+      "sha256": "59ae840aa283e6e67aa00515c1a2be64ca5e155c0f2b5f0d50f2c54ef30ac4ed",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1998/1998-overview.pdf",
+      "bytes": 44014,
+      "sha256": "1dd75db4703ba0b40aca0b27d66a56a061720d0b6d974e9415a7671aa1926af5",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1999/1999-overview.epub",
+      "bytes": 16312,
+      "sha256": "eca6fcaf7679c0b3ac8f4d4777b8dd719fcdea79ab619244a8364c15bd30caba",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/1999/1999-overview.pdf",
+      "bytes": 43950,
+      "sha256": "47386d47ef22583561c14c4a5531ddeaaad6cbfe29fecf0f95c7cdcd7eb77e33",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2000/2000-overview.epub",
+      "bytes": 16511,
+      "sha256": "6a3eec7cc140cc53ac775adf4dcd2d20f9d7beefb4097fdde05a3946a6633786",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2000/2000-overview.pdf",
+      "bytes": 46062,
+      "sha256": "9c14041952da461328e38fdc1d36c42bdf286cb58cb0bfe53aef1791bb613b2c",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2001/2001-overview.epub",
+      "bytes": 17605,
+      "sha256": "d0baeeb99f5154f3945616e90e274052db11d95860813cf4f0138734ad0e0096",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2001/2001-overview.pdf",
+      "bytes": 48701,
+      "sha256": "9be8303426b89e87746ae24285298f339c311304e9783038683db1b060e83fe0",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2002/2002-overview.epub",
+      "bytes": 16422,
+      "sha256": "9f862e6f4e145625c4d4ee89644900af9077afc72e240a7a6b3b9dda08bb68a1",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2002/2002-overview.pdf",
+      "bytes": 45865,
+      "sha256": "416586eddd80cba43670766e854588acd55f72f7c9d7051fbfb81900bf9ac98a",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2003/2003-overview.epub",
+      "bytes": 16607,
+      "sha256": "40c89c181aac0582c49fdb1365d01700e2e93adefa12cf1aaeb504cbfa4cb53c",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2003/2003-overview.pdf",
+      "bytes": 46741,
+      "sha256": "8a3219bb209a7c47150ddcc62ba854453163fbdcbb156926638b15e26d1e0ee0",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2004/2004-overview.epub",
+      "bytes": 16338,
+      "sha256": "6db7db24b79c203cc7cb2f30f3d250ef5deb20c7abc345f0a0815bda221ba2e6",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2004/2004-overview.pdf",
+      "bytes": 45100,
+      "sha256": "64e97f310c1a73584d77f6bf1b33a16c9720665caf74277952258032a47f00e2",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2005/2005-overview.epub",
+      "bytes": 16101,
+      "sha256": "816c9b3c4bae516bac84094f8b445770e12b65eafb7ed5c188455970e6b38734",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2005/2005-overview.pdf",
+      "bytes": 41839,
+      "sha256": "6b20cc90b6d2dc2fcad268cfab401f0821d6fc701067f1a8f37ec81280565bb9",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2006/2006-overview.epub",
+      "bytes": 16404,
+      "sha256": "ba42e9fa660383be562a36369bf0ea0b7c877d86f7ad6820ba080ce98d24ea70",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2006/2006-overview.pdf",
+      "bytes": 45321,
+      "sha256": "7d27c812d349cc87501544d3843eb6f09efeee7bc5c729f7d5d512971e94b0b0",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2007/2007-overview.epub",
+      "bytes": 16086,
+      "sha256": "72d420e9f5fae793ddcaaeec74eca5f161940dee9e5ea5c4b60a6ace819e85ff",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2007/2007-overview.pdf",
+      "bytes": 44086,
+      "sha256": "e97904eda86b9fbdbed57ba4760caefccaa27b5db96eefbe9276cbabfff46b87",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2008/2008-overview.epub",
+      "bytes": 16026,
+      "sha256": "1ca79932d54e6364c8b841cb9f423913e45d0eb0b782dcbe039ef74c1e6990d1",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2008/2008-overview.pdf",
+      "bytes": 42934,
+      "sha256": "ab416662a51886266415813dfbbefcefa659eb257dcbfc9ac2ef197068796eeb",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2009/2009-overview.epub",
+      "bytes": 16319,
+      "sha256": "65fa6341faefd6fcde34ce12e061f5a580ce94b6fdf5442e64852dd05168602a",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2009/2009-overview.pdf",
+      "bytes": 44580,
+      "sha256": "c7c09126232bb2e34f18aeb360e892e72bacf849240e74e046b6710447847237",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2010/2010-overview.epub",
+      "bytes": 16423,
+      "sha256": "27fe5ffe0800fe878f7597f62e3ee257aa8aac373c20012816b20865c6d4005d",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2010/2010-overview.pdf",
+      "bytes": 46773,
+      "sha256": "a051f94cea5d310b1fe50850d5aa70ceec9f612ebe1bae89a63a4adb599cdcc1",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2011/2011-overview.epub",
+      "bytes": 16080,
+      "sha256": "67a26b1e1dcb781ff3ba1ef4e1aaf1eebfa1cc0c3f34a420c826f4e9ba17e128",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2011/2011-overview.pdf",
+      "bytes": 44075,
+      "sha256": "4b9cf41260280c0ebbbc810aa1306aad95366836707d726e808ed67aaaec69c5",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2012/2012-overview.epub",
+      "bytes": 16521,
+      "sha256": "1522dc5b686ecbe9b890fddf65406218a54b613021db1f05ce5993e4cbabb5a6",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2012/2012-overview.pdf",
+      "bytes": 45471,
+      "sha256": "a80bacbd378208fdff80995068a4d4c77b63fb9ab9bec711f59f29008e61c748",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2013/2013-overview.epub",
+      "bytes": 16809,
+      "sha256": "12d40ccb867373d65a7a643e51f376d4ed7faabc815038278a7022f495e8aeae",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2013/2013-overview.pdf",
+      "bytes": 48800,
+      "sha256": "a6e86c2d5d4335d4c286e99b6c5ed92c37f8ae97e5b8b20e6f8d5a919a431073",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2014/2014-overview.epub",
+      "bytes": 16242,
+      "sha256": "9df015ccc680311b7102ed190b0a938ecda80e8440ece0ebac658d03ab9bdd66",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2014/2014-overview.pdf",
+      "bytes": 43976,
+      "sha256": "8f6d817562afa0048ec30a8869e12114cac5266f53f84ccf8aa4180dad46fc3f",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2015/2015-overview.epub",
+      "bytes": 16482,
+      "sha256": "3b222660bab50b79855bfd7782230dca35693c7019eca681bc931ac933d2c445",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2015/2015-overview.pdf",
+      "bytes": 45078,
+      "sha256": "5a042c7f889d66052c712aef5bdbcd41ac5908d0564e36714cd6f9b92b056134",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2016/2016-overview.epub",
+      "bytes": 16695,
+      "sha256": "fbaf2d3599cc24e46854d3879eb33842e7974cb78a548ad1c189b3ea0155fe83",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2016/2016-overview.pdf",
+      "bytes": 47465,
+      "sha256": "3525e02c13f222571dd451dc1f59865f5843289ee7daabb69826627aeda8e0ad",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2017/2017-overview.epub",
+      "bytes": 16830,
+      "sha256": "c95ce24c6e74a9cb62b7d3825ef26e8be8fac5bc36ac5ba48067622d77c147a6",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2017/2017-overview.pdf",
+      "bytes": 47799,
+      "sha256": "54e5081141107adaf9d1ab7090c32c36c64dd3ec6a06ad7587cacafebc8682c9",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2018/2018-overview.epub",
+      "bytes": 16335,
+      "sha256": "f087de22ae62cbc51a00f84835f16874c1a4664284a41f54e0efedb8c495bc64",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2018/2018-overview.pdf",
+      "bytes": 45216,
+      "sha256": "8fb32b5ba83bc894168ccc3116c820fa4c2551ea76b185dc06245c6e21f5d716",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2019/2019-overview.epub",
+      "bytes": 16535,
+      "sha256": "45f296685b995c60f23bf35834ecd69db6f1eb27e09f7bec84f92b73067954fe",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2019/2019-overview.pdf",
+      "bytes": 46337,
+      "sha256": "44b25eaef3673df68eee0ba07b2ac838e959e7093fef079f53ee48f64af97872",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2020/2020-overview.epub",
+      "bytes": 16320,
+      "sha256": "4becd1191df0e8d5ffe85611fe295b88009ffa7a48074a0f1d745ac049b42a2d",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2020/2020-overview.pdf",
+      "bytes": 45504,
+      "sha256": "df860ff9a8a270deb2bf3dc1d7c97724cb376ca3bcf82953b1fe4d68d853b7d3",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2021/2021-overview.epub",
+      "bytes": 16648,
+      "sha256": "f836f6cdf7a0548f80b12f2830e59f488919e8f44ba9fae094d744f3e92ca5f3",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2021/2021-overview.pdf",
+      "bytes": 47303,
+      "sha256": "993926e5337a5b457d03d7f7b31d78f3940793a41f1641235cbf708f549fa4d4",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2022/2022-overview.epub",
+      "bytes": 16558,
+      "sha256": "a3725c729b46bf651d285ef7ac8513c281bf9aebd4b478f72840a794172770b9",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2022/2022-overview.pdf",
+      "bytes": 46683,
+      "sha256": "380eea7bbbcf42317c298901855d5d927e55a44427c09ba4641826553357d1f2",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2023/2023-overview.epub",
+      "bytes": 16647,
+      "sha256": "417653d8472f6f2cb3209c96ad3dbe92e7e4b04dc9f4cd03726ce6bdc1f1d511",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2023/2023-overview.pdf",
+      "bytes": 45085,
+      "sha256": "80162a8ae09517ed9a30bf0e6272012bc94bb5374be0a682dec84738c758f197",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2024/2024-overview.epub",
+      "bytes": 16806,
+      "sha256": "37312e987e5dd70c057a59283db2151e57d6309560d3fc9db1506053dd3664fe",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2024/2024-overview.pdf",
+      "bytes": 47538,
+      "sha256": "7a2d72e3cc9fe03c2528dfa61e069f8483a3b30b0577c466ce15267ae79a8b53",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2025/2025-overview.epub",
+      "bytes": 16630,
+      "sha256": "fec72458be220a45bc6aba0cc31e3cfe34a452e312ceaa7d3bdbb4449cbc977a",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2025/2025-overview.pdf",
+      "bytes": 44665,
+      "sha256": "6ae3fd364c54dd0d19fbd12983487fe89d14b7b61d621712db31491d5976b633",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2026/2026-overview.epub",
+      "bytes": 16896,
+      "sha256": "c1f5757fcb8a85e189881cd128238440d40134c92bca377a277baee72ee3c2bd",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/awards/2026/2026-overview.pdf",
+      "bytes": 46830,
+      "sha256": "01fdfe99898c3493a6eed00dd8ae88c6ff1de15913270faeec2c96718f1063a0",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.epub",
+      "bytes": 11642,
+      "sha256": "461f7e6fa699ccb0247b628d75a33adde757e5e6cd1b799d949b2a600f94d932",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/akerlof-lemons-1970/akerlof-lemons-1970-overview.pdf",
+      "bytes": 35481,
+      "sha256": "86b995717d67c8c0c659fb319beec172f79b499403a4d802953a1dde605b7c48",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/rothschild-stiglitz-insurance-1976/rothschild-stiglitz-insurance-1976-overview.epub",
+      "bytes": 12120,
+      "sha256": "956fe51b12aded26585dfb04370b3d1e9f76fd0881b81bdf9e46701b2ff57635",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/rothschild-stiglitz-insurance-1976/rothschild-stiglitz-insurance-1976-overview.pdf",
+      "bytes": 37818,
+      "sha256": "6a9a0d85be8316c9d001125825b0263f0b311e0c1f13cd3ca7995e7c87299312",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/spence-signaling-1973/spence-signaling-1973-overview.epub",
+      "bytes": 11778,
+      "sha256": "6a227e631babf1f6c6b073c2388421d7c3b1cce73622d585cbed91e9896ec0f5",
+      "content_type": "application/epub+zip",
+      "source_fingerprint_matches": true
+    },
+    {
+      "path": "downloads/drafts/works/spence-signaling-1973/spence-signaling-1973-overview.pdf",
+      "bytes": 36133,
+      "sha256": "71417add642ba6e47c6755f542dec77662ea9b04f83f25d52de185f29801bd20",
+      "content_type": "application/pdf",
+      "source_fingerprint_matches": true
+    }
+  ],
+  "limits": "Checks prove deployment, declared source fingerprints and document bytes/MIME types. No scholarly approval is inferred from these checks."
+}
