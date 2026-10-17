@@ -1,0 +1,133 @@
+{
+  "year": 2003,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2003/summary/",
+  "laureates": [
+    {
+      "id": "771",
+      "name": "Robert F. Engle III",
+      "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)",
+      "portion": "1/2"
+    },
+    {
+      "id": "772",
+      "name": "Clive W.J. Granger",
+      "motivation": "for methods of analyzing economic time series with common trends (cointegration)",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Engle: conditionalvolatility/ARCH; Granger: cointegration/errorcorrection. Retain joint Engle–Granger1987 authorship.",
+  "claim_source_map": "Academy speech for individualscope/history;1982/1987 Crossrefmetadataonly. Qualify volatilityforecast versus direction and statisticalequilibrium versus causality.",
+  "citations": [
+    {
+      "id": "ceremony-2003",
+      "title": "Presentation Speech for the 2003 Economic Sciences Prize",
+      "authors": [
+        "Torsten Persson"
+      ],
+      "year": 2003,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2003/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "engle-1982",
+      "title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
+      "authors": [
+        "Robert F. Engle"
+      ],
+      "year": 1982,
+      "url": "https://doi.org/10.2307/1912773",
+      "doi": "10.2307/1912773",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "50(4)",
+      "pages": "987",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    },
+    {
+      "id": "engle-granger-1987",
+      "title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
+      "authors": [
+        "Robert F. Engle",
+        "C. W. J. Granger"
+      ],
+      "year": 1987,
+      "url": "https://doi.org/10.2307/1913236",
+      "doi": "10.2307/1913236",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "55(2)",
+      "pages": "251",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2003,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2003/ceremony-speech/",
+      "sha256": "fd382cb88cdc1d92d79ded8eec51352487718a0c6cf8d8ddb291be32eb84e1f6",
+      "text_sha256": "9250155e054376d429fba46d24da314aebd13486ad18039ee0f1d2f40fcaacc8",
+      "characters": 5514,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "engle-1982",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1912773",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "70532fba5805c2f06d4e4ba82fd62fb853405ae3c41a11d4a4e7a906decb56d9",
+      "title": [
+        "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation"
+      ],
+      "doi": "10.2307/1912773",
+      "publication_date": {
+        "date-parts": [
+          [
+            1982,
+            7
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "engle-granger-1987",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1913236",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "ec6473638fc513d8c57e204c638cb6422186ed077047b90013f4e606f82ef283",
+      "title": [
+        "Co-Integration and Error Correction: Representation, Estimation, and Testing"
+      ],
+      "doi": "10.2307/1913236",
+      "publication_date": {
+        "date-parts": [
+          [
+            1987,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "ARCHomega1,alpha.5: residual0 h1;residual+-3 h5.5,SD2.345;unconditionalvariance2 underconditions. x randomwalk,y2x+e impliescombinatione stationary. kappa.2,gap10,dx0,shock0 ->dy-2.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original articles/proofs/applications; review integration/moment assumptions,breaks and volatilitytails.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

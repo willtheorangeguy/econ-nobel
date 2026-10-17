@@ -37,11 +37,11 @@
 | 1999 | needs-review | 0 | pdf, epub |
 | 2000 | needs-review | 0 | pdf, epub |
 | 2001 | needs-review | 3 | pdf, epub |
-| 2002 | metadata-only | 0 | None |
-| 2003 | metadata-only | 0 | None |
-| 2004 | metadata-only | 0 | None |
-| 2005 | metadata-only | 0 | None |
-| 2006 | metadata-only | 0 | None |
+| 2002 | needs-review | 0 | pdf, epub |
+| 2003 | needs-review | 0 | pdf, epub |
+| 2004 | needs-review | 0 | pdf, epub |
+| 2005 | needs-review | 0 | pdf, epub |
+| 2006 | needs-review | 0 | pdf, epub |
 | 2007 | metadata-only | 0 | None |
 | 2008 | metadata-only | 0 | None |
 | 2009 | metadata-only | 0 | None |

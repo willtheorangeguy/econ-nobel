@@ -1,0 +1,134 @@
+{
+  "year": 2004,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2004/summary/",
+  "laureates": [
+    {
+      "id": "786",
+      "name": "Finn E. Kydland",
+      "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+      "portion": "1/2"
+    },
+    {
+      "id": "787",
+      "name": "Edward C. Prescott",
+      "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Kydland and Prescott jointly: timeinconsistency1977 and quantitative dynamic cyclemodeling1982. Do not divide coauthoredwork exclusivelybetween recipients.",
+  "claim_source_map": "Academy speech for bothprograms;original1977/1982metadataonly. Explicitly no claim that microfoundations/calibration guarantee truth or efficient recessions.",
+  "citations": [
+    {
+      "id": "ceremony-2004",
+      "title": "Presentation Speech for the 2004 Economic Sciences Prize",
+      "authors": [
+        "Jörgen Weibull"
+      ],
+      "year": 2004,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2004/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "kydland-prescott-1977",
+      "title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+      "authors": [
+        "Finn E. Kydland",
+        "Edward C. Prescott"
+      ],
+      "year": 1977,
+      "url": "https://doi.org/10.1086/260580",
+      "doi": "10.1086/260580",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "85(3)",
+      "pages": "473-491",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    },
+    {
+      "id": "kydland-prescott-1982",
+      "title": "Time to Build and Aggregate Fluctuations",
+      "authors": [
+        "Finn E. Kydland",
+        "Edward C. Prescott"
+      ],
+      "year": 1982,
+      "url": "https://doi.org/10.2307/1913386",
+      "doi": "10.2307/1913386",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "50(6)",
+      "pages": "1345",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2004,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2004/ceremony-speech/",
+      "sha256": "44e96b41eca6843ee432daf07309c5e58884cae71866dce9a429cac94a7a9980",
+      "text_sha256": "3069a43e4d97f0aad61508bc5f9a192f5cc41fbb826113955ccf68ecd396bce0",
+      "characters": 5793,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "kydland-prescott-1977",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/260580",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "a3cd4f3c01751ac2e586861f0c5a51c53034fb51ade6b9d0dd8d5facf649feaa",
+      "title": [
+        "Rules Rather than Discretion: The Inconsistency of Optimal Plans"
+      ],
+      "doi": "10.1086/260580",
+      "publication_date": {
+        "date-parts": [
+          [
+            1977,
+            6
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "kydland-prescott-1982",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1913386",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "e8de3c032a904b7ce48537cc62d386f5f9eaf8ff0806d2185de2b276d9c11db0",
+      "title": [
+        "Time to Build and Aggregate Fluctuations"
+      ],
+      "doi": "10.2307/1913386",
+      "publication_date": {
+        "date-parts": [
+          [
+            1982,
+            11
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "L=pi²+(pi-pie-1)² ->bestreplypi=(1+pie)/2. Atpie0 temptedpi.5 loss.5 vs0loss1. Consistentdiscretionpi=pie1,y0,loss2;crediblepi0loss1. ToyRBCproduction10%Afalldropsoutput10% onlyholdinginputsconstant.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original papers and dynamic investment/technology assumptions; assess competing cycle explanations.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

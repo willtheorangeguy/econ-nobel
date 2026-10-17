@@ -1315,5 +1315,206 @@
     "verified": true,
     "accessed": "2026-10-17",
     "consulted_version": "Crossref bibliographic record only; original full text not read. Page extent preserved as supplied, not expanded into an unverified range. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "ceremony-2002",
+    "title": "Presentation Speech for the 2002 Economic Sciences Prize",
+    "authors": [
+      "Lars-Göran Nilsson"
+    ],
+    "year": 2002,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2003",
+    "title": "Presentation Speech for the 2003 Economic Sciences Prize",
+    "authors": [
+      "Torsten Persson"
+    ],
+    "year": 2003,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2003/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2004",
+    "title": "Presentation Speech for the 2004 Economic Sciences Prize",
+    "authors": [
+      "Jörgen Weibull"
+    ],
+    "year": 2004,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2004/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2005",
+    "title": "Presentation Speech for the 2005 Economic Sciences Prize",
+    "authors": [
+      "Jörgen Weibull"
+    ],
+    "year": 2005,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2006",
+    "title": "Presentation Speech for the 2006 Economic Sciences Prize",
+    "authors": [
+      "Bertil Holmlund"
+    ],
+    "year": 2006,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2006/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "academy-2005",
+    "title": "The Economic Sciences Prize 2005 — Press release",
+    "authors": [
+      "Royal Swedish Academy of Sciences"
+    ],
+    "year": 2005,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/press-release/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML press release; entire substantive award and contribution text consulted, including Strategy of Conflict and repeated-game program."
+  },
+  {
+    "id": "kahneman-tversky-1979",
+    "title": "Prospect Theory: An Analysis of Decision under Risk",
+    "authors": [
+      "Daniel Kahneman",
+      "Amos Tversky"
+    ],
+    "year": 1979,
+    "url": "https://doi.org/10.2307/1914185",
+    "doi": "10.2307/1914185",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "47(2)",
+    "pages": "263",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "smith-1962",
+    "title": "An Experimental Study of Competitive Market Behavior",
+    "authors": [
+      "Vernon L. Smith"
+    ],
+    "year": 1962,
+    "url": "https://doi.org/10.1086/258609",
+    "doi": "10.1086/258609",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "70(2)",
+    "pages": "111-137",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "engle-1982",
+    "title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
+    "authors": [
+      "Robert F. Engle"
+    ],
+    "year": 1982,
+    "url": "https://doi.org/10.2307/1912773",
+    "doi": "10.2307/1912773",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "50(4)",
+    "pages": "987",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "engle-granger-1987",
+    "title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
+    "authors": [
+      "Robert F. Engle",
+      "C. W. J. Granger"
+    ],
+    "year": 1987,
+    "url": "https://doi.org/10.2307/1913236",
+    "doi": "10.2307/1913236",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "55(2)",
+    "pages": "251",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "kydland-prescott-1977",
+    "title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+    "authors": [
+      "Finn E. Kydland",
+      "Edward C. Prescott"
+    ],
+    "year": 1977,
+    "url": "https://doi.org/10.1086/260580",
+    "doi": "10.1086/260580",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "85(3)",
+    "pages": "473-491",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "kydland-prescott-1982",
+    "title": "Time to Build and Aggregate Fluctuations",
+    "authors": [
+      "Finn E. Kydland",
+      "Edward C. Prescott"
+    ],
+    "year": 1982,
+    "url": "https://doi.org/10.2307/1913386",
+    "doi": "10.2307/1913386",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "50(6)",
+    "pages": "1345",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "phelps-1968",
+    "title": "Money-Wage Dynamics and Labor-Market Equilibrium",
+    "authors": [
+      "Edmund S. Phelps"
+    ],
+    "year": 1968,
+    "url": "https://doi.org/10.1086/259438",
+    "doi": "10.1086/259438",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "76(4, Part 2)",
+    "pages": "678-711",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
   }
 ]

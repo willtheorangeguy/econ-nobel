@@ -1,0 +1,133 @@
+{
+  "year": 2002,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2002/summary/",
+  "laureates": [
+    {
+      "id": "759",
+      "name": "Daniel Kahneman",
+      "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty",
+      "portion": "1/2"
+    },
+    {
+      "id": "760",
+      "name": "Vernon L. Smith",
+      "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Kahneman: psychological judgment/prospecttheory with Tversky; Smith: experimental methods and institution-dependent market behavior.",
+  "claim_source_map": "Academy speech for all contributions/credit; original1979/1962 metadata only. Teachingvaluefunction is simplified with linear probabilityweights,not fullprospecttheory.",
+  "citations": [
+    {
+      "id": "ceremony-2002",
+      "title": "Presentation Speech for the 2002 Economic Sciences Prize",
+      "authors": [
+        "Lars-Göran Nilsson"
+      ],
+      "year": 2002,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "kahneman-tversky-1979",
+      "title": "Prospect Theory: An Analysis of Decision under Risk",
+      "authors": [
+        "Daniel Kahneman",
+        "Amos Tversky"
+      ],
+      "year": 1979,
+      "url": "https://doi.org/10.2307/1914185",
+      "doi": "10.2307/1914185",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "47(2)",
+      "pages": "263",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    },
+    {
+      "id": "smith-1962",
+      "title": "An Experimental Study of Competitive Market Behavior",
+      "authors": [
+        "Vernon L. Smith"
+      ],
+      "year": 1962,
+      "url": "https://doi.org/10.1086/258609",
+      "doi": "10.1086/258609",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "70(2)",
+      "pages": "111-137",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2002,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/ceremony-speech/",
+      "sha256": "a4735add6e4872242093b79ba1a9cff265cb957d623dc15615f96d593140dd59",
+      "text_sha256": "54d4bb92a4d51be9424d612bd680319d3de297267be176180b3c1ebbc6549b9a",
+      "characters": 7347,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "kahneman-tversky-1979",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1914185",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "a8ede68fafae817c2b3d2a4c13451a3ea55e65e2df3d783d55777dd69cd29078",
+      "title": [
+        "Prospect Theory: An Analysis of Decision under Risk"
+      ],
+      "doi": "10.2307/1914185",
+      "publication_date": {
+        "date-parts": [
+          [
+            1979,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "smith-1962",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/258609",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "cd49837560822d017bb353b3b2281c18624c3c5972a6f9e0bca591ac2f306086",
+      "title": [
+        "An Experimental Study of Competitive Market Behavior"
+      ],
+      "doi": "10.1086/258609",
+      "publication_date": {
+        "date-parts": [
+          [
+            1962,
+            4
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "alpha=beta.5,lambda2: sure+50 value7.071 vs .5sqrt100=5; sure-50 value-14.142 vs gamble-10. Marketvalues100/70,costs30/80:oneefficienttrade surplus70,supportingprice70–80 in simple setup.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original articles/experiments; inspect editing/reference/weighting assumptions and externalvalidity evidence.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

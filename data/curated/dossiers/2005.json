@@ -1,0 +1,79 @@
+{
+  "year": 2005,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2005/summary/",
+  "laureates": [
+    {
+      "id": "799",
+      "name": "Robert J. Aumann",
+      "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+      "portion": "1/2"
+    },
+    {
+      "id": "800",
+      "name": "Thomas C. Schelling",
+      "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Aumann: long-run/repeatedgameanalysis; Schelling: commitment/credibility,StrategyofConflict and strategiccoordination. Cooperation mayharmoutsiders.",
+  "claim_source_map": "Fullacademy speech andpressrelease for programs/book association. No unverified originalpaper/bookedition added. Repeated dilemma/bondexamples explicitly original illustrations.",
+  "citations": [
+    {
+      "id": "ceremony-2005",
+      "title": "Presentation Speech for the 2005 Economic Sciences Prize",
+      "authors": [
+        "Jörgen Weibull"
+      ],
+      "year": 2005,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "academy-2005",
+      "title": "The Economic Sciences Prize 2005 — Press release",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 2005,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML press release; entire substantive award and contribution text consulted, including Strategy of Conflict and repeated-game program."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2005,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/ceremony-speech/",
+      "sha256": "94caa6d0db77c4904e44a4eda5552f6808e5d973cecaa06ab6e064c5c16786a3",
+      "text_sha256": "b6ba7cce2c3277bbc0143e73967e048b3865d00ae3659f9c02056d6ead71406c",
+      "characters": 6316,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2005,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/press-release/",
+      "sha256": "ca9cb2d3d71ff65b71434747658ee16e20eed6ee9a5ff29776f9fc7061c9838c",
+      "text_sha256": "8aec67c0513f5e68dad8e8a42b6cc2f1544568af141460d723dac3c539abdd18",
+      "characters": 4175,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Grimtriggerrequires3/(1-d)>=5+d/(1-d) ->d>=.5. At.75 cooppayoff12 vsdeviate8. PunishmentD,Dcredible;other equilibria remain. Deliverycost20 vsforfeitedbond25 underenforcement makesfulfillmentpreferred.",
+    "independent_review": false
+  },
+  "remaining_research": "Verify/read completeoriginalwork bibliography and collaborators; assess monitoring,selection and commitmentapplications.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

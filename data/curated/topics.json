@@ -68,5 +68,10 @@
     "slug": "institutions",
     "name": "Institutions",
     "description": "Rules, contracts, enforcement and the organization of economic activity."
+  },
+  {
+    "slug": "experimental-economics",
+    "name": "Experimental economics",
+    "description": "Controlled studies of economic decisions and market institutions."
   }
 ]

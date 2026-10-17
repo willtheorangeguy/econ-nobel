@@ -617,10 +617,13 @@
         "Daniel Kahneman",
         "Vernon L. Smith"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -632,10 +635,13 @@
         "Robert F. Engle III",
         "Clive W.J. Granger"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -647,10 +653,13 @@
         "Finn E. Kydland",
         "Edward C. Prescott"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -662,10 +671,13 @@
         "Robert J. Aumann",
         "Thomas C. Schelling"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -676,10 +688,13 @@
       "laureates": [
         "Edmund S. Phelps"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

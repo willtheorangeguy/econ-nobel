@@ -1,0 +1,102 @@
+{
+  "year": 2006,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2006/summary/",
+  "laureates": [
+    {
+      "id": "807",
+      "name": "Edmund S. Phelps",
+      "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Phelps: expectations/information unemployment,intertemporal policy and accumulation/knowledge. Preserve Friedman parallel contribution using his explicit Phelps acknowledgment.",
+  "claim_source_map": "Academy speech for breadth;1968papermetadataonly;Friedman1976lecture contextualprimarycredit. Goldenruleteachingmodel not claimed as originalnumericexample.",
+  "citations": [
+    {
+      "id": "friedman-lecture-1976",
+      "title": "Inflation and Unemployment",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "year": 1976,
+      "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture-1.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF prize lecture delivered 13 December 1976; opening and section 3 on natural-rate hypothesis, pp. 271–273 (PDF pp. 5–7) consulted; includes explicit Phelps credit.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "ceremony-2006",
+      "title": "Presentation Speech for the 2006 Economic Sciences Prize",
+      "authors": [
+        "Bertil Holmlund"
+      ],
+      "year": 2006,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2006/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "phelps-1968",
+      "title": "Money-Wage Dynamics and Labor-Market Equilibrium",
+      "authors": [
+        "Edmund S. Phelps"
+      ],
+      "year": 1968,
+      "url": "https://doi.org/10.1086/259438",
+      "doi": "10.1086/259438",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "76(4, Part 2)",
+      "pages": "678-711",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2006,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2006/ceremony-speech/",
+      "sha256": "3844922ea41f2c39cc96f4fc626e58f7a19395827cf1f2968b8436eed227901f",
+      "text_sha256": "8953217fdd36ee80cc1cef24adb4c72654b2c8993f92a277860badaf6db162cf",
+      "characters": 5399,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "phelps-1968",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/259438",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "5dade3a0e1a029dceb0abc1ae24be17995b2a6569e20767653183ebac8275dc7",
+      "title": [
+        "Money-Wage Dynamics and Labor-Market Equilibrium"
+      ],
+      "doi": "10.1086/259438",
+      "publication_date": {
+        "date-parts": [
+          [
+            1968,
+            7
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "fsqrtk,n0,delta.1: c4=1.6,c25=2.5,c100=0. Interiorfprime=.1 ->k25. This maximizessteadystateconsumption,not complete transitionwelfare. Expected=actualinflationwithshock0 impliesu=ustaronlyin statedequation.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original labor/accumulation/knowledge works and verify coauthors; independently review transition and empiricalclaims.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
