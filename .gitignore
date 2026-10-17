@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.tools/
+.cache/
+test-results/
+playwright-report/
+public/downloads/
+.env
+.env.*
+!.env.example
