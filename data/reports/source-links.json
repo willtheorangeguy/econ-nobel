@@ -64,6 +64,1438 @@
       "error": null,
       "accessible": false,
       "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1970",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1970/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1971",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1972",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1972/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "samuelson-1938",
+      "url": "https://doi.org/10.2307/2548836",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "arrow-debreu-1954",
+      "url": "https://doi.org/10.2307/1907353",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kuznets-lecture-1971",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/kuznets/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kuznets-book-1971",
+      "url": "https://www.degruyterbrill.com/document/doi/10.4159/harvard.9780674493490/html",
+      "status": 202,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1973",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1973/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1974",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1975",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "leontief-lecture-1973",
+      "url": "https://www.nobelprize.org/uploads/2018/06/leontief-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "hayek-lecture-1974",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "myrdal-lecture-1974",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/myrdal/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kantorovich-lecture-1975",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/kantorovich/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "koopmans-lecture-1975",
+      "url": "https://www.nobelprize.org/uploads/2018/06/koopmans-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1976",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1976/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "friedman-lecture-1976",
+      "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture-1.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "friedman-schwartz-1963",
+      "url": "https://www.nber.org/books-and-chapters/monetary-history-united-states-1867-1960",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "friedman-consumption-1957",
+      "url": "https://www.nber.org/books-and-chapters/theory-consumption-function/implications-pure-theory-consumer-behavior",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1977",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1978",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1978/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1979",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "meade-lecture-1977",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/meade/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "simon-lecture-1978",
+      "url": "https://www.nobelprize.org/uploads/2018/06/simon-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "simon-1955",
+      "url": "https://doi.org/10.2307/1884852",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "schultz-lecture-1979",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "schultz-1961",
+      "url": "https://www.jstor.org/stable/1818907",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "lewis-1954",
+      "url": "https://doi.org/10.1111/j.1467-9957.1954.tb00021.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1980",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1980/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1981",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1981/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1982",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1982/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1983",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1983/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1984",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1984/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1985",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1985/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "klein-lecture-1980",
+      "url": "https://www.nobelprize.org/uploads/2017/04/klein-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "tobin-lecture-1981",
+      "url": "https://www.nobelprize.org/uploads/2018/06/tobin-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "debreu-lecture-1983",
+      "url": "https://www.nobelprize.org/uploads/2018/06/debreu-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "stone-lecture-1984",
+      "url": "https://www.nobelprize.org/uploads/2018/06/stone-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "modigliani-lecture-1985",
+      "url": "https://www.nobelprize.org/uploads/2018/06/modigliani-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "tobin-1958",
+      "url": "https://doi.org/10.2307/2296205",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "stigler-1961",
+      "url": "https://doi.org/10.1086/258464",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "stigler-1971",
+      "url": "https://doi.org/10.2307/3003160",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1986",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1987",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1988",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1988/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1989",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "buchanan-lecture-1986",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/buchanan/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "solow-lecture-1987",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/solow/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "allais-lecture-1988",
+      "url": "https://www.nobelprize.org/uploads/2018/06/allais-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "haavelmo-lecture-1989",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "solow-1956",
+      "url": "https://doi.org/10.2307/1884513",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "haavelmo-1944",
+      "url": "https://doi.org/10.2307/1906935",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1990",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1990/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1991",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1992",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1992/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1993",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1994",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1994/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1995",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1995/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "coase-lecture-1991",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "north-lecture-1993",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/north/lecture/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "markowitz-1952",
+      "url": "https://doi.org/10.1111/j.1540-6261.1952.tb01525.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "sharpe-1964",
+      "url": "https://doi.org/10.1111/j.1540-6261.1964.tb02865.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "coase-1937",
+      "url": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "coase-1960",
+      "url": "https://doi.org/10.1086/466560",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "becker-1965",
+      "url": "https://doi.org/10.2307/2228949",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "nash-1950",
+      "url": "https://doi.org/10.1073/pnas.36.1.48",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "harsanyi-1967",
+      "url": "https://doi.org/10.1287/mnsc.14.3.159",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "lucas-1972",
+      "url": "https://doi.org/10.1016/0022-0531(72)90142-1",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "lucas-1976",
+      "url": "https://doi.org/10.1016/s0167-2231(76)80003-6",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1996",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1996/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1997",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1997/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1998",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-1999",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2000",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-1998",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-1999",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1999/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2000",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2000/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "mirrlees-1971",
+      "url": "https://doi.org/10.2307/2296779",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "vickrey-1961",
+      "url": "https://doi.org/10.1111/j.1540-6261.1961.tb02789.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "black-scholes-1973",
+      "url": "https://doi.org/10.1086/260062",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "merton-1973",
+      "url": "https://doi.org/10.2307/3003143",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "sen-1976",
+      "url": "https://doi.org/10.2307/1912718",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "mundell-1963",
+      "url": "https://doi.org/10.2307/139336",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "heckman-1979",
+      "url": "https://doi.org/10.2307/1912352",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2002",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2003",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2003/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2004",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2004/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2005",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2006",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2006/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2005",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2005/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kahneman-tversky-1979",
+      "url": "https://doi.org/10.2307/1914185",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "smith-1962",
+      "url": "https://doi.org/10.1086/258609",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "engle-1982",
+      "url": "https://doi.org/10.2307/1912773",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "engle-granger-1987",
+      "url": "https://doi.org/10.2307/1913236",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kydland-prescott-1977",
+      "url": "https://doi.org/10.1086/260580",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "kydland-prescott-1982",
+      "url": "https://doi.org/10.2307/1913386",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "phelps-1968",
+      "url": "https://doi.org/10.1086/259438",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2007",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2008",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2008/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2009",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2010",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2010/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2011",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "maskin-1999",
+      "url": "https://doi.org/10.1111/1467-937x.00076",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "myerson-1981",
+      "url": "https://doi.org/10.1287/moor.6.1.58",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "krugman-1979",
+      "url": "https://doi.org/10.1016/0022-1996(79)90017-5",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "krugman-1991",
+      "url": "https://doi.org/10.1086/261763",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "williamson-1979",
+      "url": "https://doi.org/10.1086/466942",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ostrom-walker-gardner-1992",
+      "url": "https://doi.org/10.2307/1964229",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "diamond-1971",
+      "url": "https://doi.org/10.1016/0022-0531(71)90013-5",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "mortensen-pissarides-1994",
+      "url": "https://doi.org/10.2307/2297896",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "sims-1980",
+      "url": "https://doi.org/10.2307/1912017",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "sargent-wallace-1981",
+      "url": "https://doi.org/10.21034/qr.531",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2010",
+      "url": "https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2010.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "pissarides-lecture-2010",
+      "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2012",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2012/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2012",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2012/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2013",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2013",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2014",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2014/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2014",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2014/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2015",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2015",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2016",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2016/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2016",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "gale-shapley-1962",
+      "url": "https://doi.org/10.1080/00029890.1962.11989827",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "roth-1984",
+      "url": "https://doi.org/10.1086/261272",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "fama-1970",
+      "url": "https://doi.org/10.2307/2325486",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "hansen-1982",
+      "url": "https://doi.org/10.2307/1912775",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "shiller-1980",
+      "url": "https://doi.org/10.3386/w0456",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "laffont-tirole-1986",
+      "url": "https://doi.org/10.1086/261392",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "holmstrom-1979",
+      "url": "https://doi.org/10.2307/3003320",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "grossman-hart-1986",
+      "url": "https://doi.org/10.1086/261404",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "deaton-muellbauer-1980",
+      "url": "https://deaton.scholar.princeton.edu/publications/almost-ideal-demand-system",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2012",
+      "url": "https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2012.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2013",
+      "url": "https://www.nobelprize.org/uploads/2013/10/advanced-economicsciences2013.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2017",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2017",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2018",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2018",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2019",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2019",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2020",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2020",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2021",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2021",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "thaler-1980",
+      "url": "https://doi.org/10.1016/0167-2681(80)90051-7",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "thaler-benartzi-2004",
+      "url": "https://doi.org/10.1086/380085",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "romer-1990",
+      "url": "https://doi.org/10.1086/261725",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "nordhaus-1992",
+      "url": "https://doi.org/10.1126/science.258.5086.1315",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "banerjee-cole-duflo-linden-2007",
+      "url": "https://doi.org/10.1162/qjec.122.3.1235",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "miguel-kremer-2004",
+      "url": "https://doi.org/10.1111/j.1468-0262.2004.00481.x",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "wilson-1969",
+      "url": "https://doi.org/10.1287/mnsc.15.7.446",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "milgrom-weber-1982",
+      "url": "https://doi.org/10.2307/1911865",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "imbens-angrist-1994",
+      "url": "https://doi.org/10.2307/2951620",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "card-krueger-1994",
+      "url": "https://davidcard.berkeley.edu/papers/njmin-aer.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2022",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2022",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2023",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2023/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2023",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2024",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2024",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "ceremony-2025",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/ceremony-speech/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2025",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "press-2026",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "diamond-dybvig-1983",
+      "url": "https://doi.org/10.1086/261155",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "diamond-1984",
+      "url": "https://doi.org/10.2307/2297430",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "bernanke-1983",
+      "url": "https://doi.org/10.3386/w1054",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "goldin-2014",
+      "url": "https://doi.org/10.1257/aer.104.4.1091",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "goldin-katz-2002",
+      "url": "https://doi.org/10.1086/340778",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "acemoglu-johnson-robinson-2001",
+      "url": "https://doi.org/10.1257/aer.91.5.1369",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "acemoglu-johnson-robinson-2002",
+      "url": "https://doi.org/10.1162/003355302320935025",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "acemoglu-robinson-2000",
+      "url": "https://doi.org/10.1162/003355300555042",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "aghion-howitt-1992",
+      "url": "https://doi.org/10.2307/2951599",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "hall-1978",
+      "url": "https://doi.org/10.1086/260724",
+      "status": 403,
+      "error": null,
+      "accessible": false,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "mokyr-athena-2002",
+      "url": "https://www.jstor.org/stable/j.ctt7rz25",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "woodford-interest-prices-2003",
+      "url": "https://www.jstor.org/stable/j.ctv30pnvmf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "academy-2026",
+      "url": "https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "frisch-1933-excerpt-1995",
+      "url": "https://www.cambridge.org/core/books/abs/foundations-of-econometric-analysis/propagation-problems-and-impulse-problems-in-dynamic-economics-in-economic-essays-in-honour-of-gustav-cassel-allen-unwin-london-1933-pp-1713-18190-197203/B893A7348E1888F9C071D5F8E9012829",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
+    },
+    {
+      "citation_id": "tinbergen-1939-us",
+      "url": "https://tinbergen.nl/selected-publications-by-jan-tinbergen",
+      "status": 200,
+      "error": null,
+      "accessible": true,
+      "checked_at": "2026-10-17"
     }
   ]
 }

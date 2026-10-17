@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-10-17T21:39:52.317613+00:00",
+  "source_revision": "72f7d1776654418076ffa4835711e4b786ee7c04",
+  "status": "passed",
+  "astro_check": {
+    "files": 57,
+    "errors": 0,
+    "warnings": 0,
+    "hints": 0
+  },
+  "unit_tests_passed": 28,
+  "full_build": {
+    "validated_overview_artifacts": 122,
+    "static_html_pages": 189,
+    "internal_links_assets_anchors": 5179,
+    "log_sha256": "e19599dd65403d34fd17d18a37ac427572b9749045ac5aca14ad1d3c40b9716a"
+  },
+  "manuscript_prose_preflight": {
+    "annual_drafts": 58,
+    "work_drafts": 3,
+    "failures": []
+  },
+  "agent_environment_detected": true,
+  "fresh_browser_runs": [
+    {
+      "command": "CI=true npm run test:e2e",
+      "passed": 9,
+      "duration": "22.1s",
+      "log_sha256": "0f5ad89e50e769e61f2a2aee5aec0a42c07513c5b52676b8028e2bcc97051a10",
+      "prestarted_server": false,
+      "port_closed_after_run": true
+    },
+    {
+      "command": "CI=true npm run test:e2e",
+      "passed": 9,
+      "duration": "14.4s",
+      "log_sha256": "ccffedf11a7c6a8c481dd848f0edc986c40fb8ba25d2793fe8a3148e81a13518",
+      "prestarted_server": false,
+      "port_closed_after_run": true
+    }
+  ],
+  "checked_source_hashes": {
+    "scripts/editorial-gate.ts": "7fad523f7c6d838c6e3370478f720e95dcfef557b441752960b5a9adb6ac716d",
+    "scripts/validate-content.ts": "e8d26fac51179bee3d853cd9206b69be8a249672cf066950a6a55b6bdf12c458",
+    "scripts/audit-rights.ts": "90a3d213f5cd9a202b0f84902f29dd73c3dcb1f8102f8beeb92773dbdb99fcdf",
+    "src/lib/schema.ts": "fa1a8f0b43aaa554fd5bc732a271781c7d6d1d1652314d9b2399af4bf6f58b6d",
+    "playwright.config.ts": "683ad156a54bf1457119f7e0a3e5055db6ec8a012fd759a2ee5536083d24d473"
+  },
+  "limits": "Mechanical content/permission/integrity checks and browser startup/teardown only. Synthetic approvals and original bytes existed only in private temporary tests. No real scholarly review, publication, original hosting or full original-document conversion lifecycle is established."
+}

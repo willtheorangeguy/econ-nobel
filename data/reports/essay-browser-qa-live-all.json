@@ -1,0 +1,1476 @@
+{
+  "checked_at": "2026-10-17T21:45:31.361Z",
+  "site": "https://williamvdg.me/econ-nobel/",
+  "manifest_source": "https://williamvdg.me/econ-nobel/downloads/manifest.json",
+  "scope": "61 authored routes at three widths; overview download bodies checked at 1280px against the deployed manifest. Automated accessibility only, not scholarly review.",
+  "checks": [
+    {
+      "route": "awards/1969",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1970",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1971",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1972",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1973",
+      "width": 320,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1974",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1975",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1976",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1977",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1978",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1979",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1980",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1981",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1982",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1983",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1984",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1985",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1986",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1987",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1988",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1989",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1990",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1991",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1992",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1993",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1994",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1995",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1996",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1997",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1998",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1999",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2000",
+      "width": 320,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2001",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2002",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2003",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2004",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2005",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2006",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2007",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2008",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2009",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2010",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2011",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2012",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2013",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2014",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2015",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2016",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2017",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2018",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2019",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2020",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2021",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2022",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2023",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2024",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2025",
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2026",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/akerlof-lemons-1970",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/rothschild-stiglitz-insurance-1976",
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/spence-signaling-1973",
+      "width": 320,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1969",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1970",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1971",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1972",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1973",
+      "width": 390,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1974",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1975",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1976",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1977",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1978",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1979",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1980",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1981",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1982",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1983",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1984",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1985",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1986",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1987",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1988",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1989",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1990",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1991",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1992",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1993",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1994",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1995",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1996",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1997",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1998",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1999",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2000",
+      "width": 390,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2001",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2002",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2003",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2004",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2005",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2006",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2007",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2008",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2009",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2010",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2011",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2012",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2013",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2014",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2015",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2016",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2017",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2018",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2019",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2020",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2021",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2022",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2023",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2024",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2025",
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2026",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/akerlof-lemons-1970",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/rothschild-stiglitz-insurance-1976",
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/spence-signaling-1973",
+      "width": 390,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1969",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1970",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1971",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1972",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1973",
+      "width": 1280,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1974",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1975",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1976",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1977",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1978",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1979",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1980",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1981",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1982",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1983",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1984",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1985",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1986",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1987",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1988",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1989",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1990",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1991",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1992",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1993",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1994",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1995",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1996",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1997",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1998",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/1999",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2000",
+      "width": 1280,
+      "math_blocks": 4,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2001",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2002",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2003",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2004",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2005",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2006",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2007",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2008",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2009",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2010",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2011",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2012",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2013",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2014",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2015",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2016",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2017",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2018",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2019",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2020",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2021",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2022",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2023",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2024",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2025",
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "awards/2026",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/akerlof-lemons-1970",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/rothschild-stiglitz-insurance-1976",
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "route": "works/spence-signaling-1973",
+      "width": 1280,
+      "math_blocks": 1,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    }
+  ],
+  "deployed_revision": "715d2819565f23ec8becd09932aeffe9a0150426",
+  "workflow_run": "https://github.com/willtheorangeguy/econ-nobel/actions/runs/39071113462",
+  "checked_script_sha256": "f59fad8329474e730ed16bdf9104d0fe92cf5db160b18964e24d328c84df43f3",
+  "initial_attempt": "An earlier uninstrumented invocation stopped on a draft-notice locator timeout before completing. Its route was not recorded. This report covers the full diagnostic rerun with per-route logging and HTTP response checks; no underlying network cause is claimed."
+}

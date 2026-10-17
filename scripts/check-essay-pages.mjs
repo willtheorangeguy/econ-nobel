@@ -10,17 +10,26 @@ const authored = ['awards','works'].flatMap(kind => articles(kind).filter(a => a
 const requested = process.argv.slice(2);
 const selected = requested.length ? requested.map(route => { const a=authored.find(a=>a.route===route);if(!a)throw Error(`Unknown or unwritten route: ${route}`);return a; }) : authored;
 const site = process.env.QA_SITE_URL || 'http://127.0.0.1:4321/econ-nobel/';
+const manifestSource = process.env.QA_MANIFEST_URL || 'data/generated/download-manifest.json';
 const reportPath = process.env.QA_REPORT_PATH || 'data/reports/essay-browser-qa-current.json';
 const browser=await chromium.launch({headless:true});
 const context=await browser.newContext();const page=await context.newPage();const checks=[];
 try {
- const manifest=JSON.parse(readFileSync('data/generated/download-manifest.json'));
+ let manifest;
+ if(process.env.QA_MANIFEST_URL){
+  const res=await fetch(manifestSource,{signal:AbortSignal.timeout(30000)});
+  if(!res.ok)throw Error(`Manifest ${manifestSource}: ${res.status}`);
+  manifest=await res.json();
+ }else manifest=JSON.parse(readFileSync(manifestSource));
  for(const width of [320,390,1280]){
   await page.setViewportSize({width,height:900});
   for(const article of selected){
    const route=article.route;
    const year=route;
-   await page.goto(new URL(`${route}/`,site).href);await page.evaluate(()=>document.fonts.ready);
+   console.log(`Checking ${route} at ${width}px`);
+   const response=await page.goto(new URL(`${route}/`,site).href);
+   if(!response?.ok())throw Error(`${route} at ${width}px: HTTP ${response?.status()} (${page.url()})`);
+   await page.evaluate(()=>document.fonts.ready);
    if(article.data.status==='needs-review'&&!await page.locator('.editorial-banner').innerText().then(t=>t.toLowerCase().includes('unreviewed')))throw Error(`${year} status missing`);
    const math=await page.locator('.katex-display').count();if(article.content.includes('$$')&&!math)throw Error(`${year} missing math`);
    if(!await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1))throw Error(`${year} overflow at ${width}`);
@@ -34,6 +43,6 @@ try {
    checks.push({route,width,math_blocks:math,axe_violations:0,overflow:false,download_links:2});
   }
  }
- const report={checked_at:new Date().toISOString(),scope:`${selected.length} authored routes at three widths; overview download bodies checked at 1280px against the local build manifest. Automated accessibility only, not scholarly review.`,checks};
+ const report={checked_at:new Date().toISOString(),site,manifest_source:manifestSource,scope:`${selected.length} authored routes at three widths; overview download bodies checked at 1280px against the ${process.env.QA_MANIFEST_URL?'deployed':'local build'} manifest. Automated accessibility only, not scholarly review.`,checks};
  writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');console.log(report.scope);
 }finally{await browser.close();}

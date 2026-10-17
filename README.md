@@ -96,3 +96,5 @@ npm run check:live-documents -- DEPLOYED_COMMIT_SHA WORKFLOW_RUN_URL
 ```
 
 The live checker verifies all public manifest entries against their bytes, MIME types and source fingerprints using the deployed toolchain. It checks document integrity and source identity, not scholarly accuracy or approval.
+
+For a complete production-page pass, first verify the deployed revision with `check:live-documents`, then run `QA_SITE_URL=https://williamvdg.me/econ-nobel/ QA_MANIFEST_URL=https://williamvdg.me/econ-nobel/downloads/manifest.json QA_REPORT_PATH=data/reports/essay-browser-qa-live-all.json npm run check:essay-pages`. This uses actual deployed download hashes; local PDF bytes may differ. Run outside a deployment cutover to keep the manifest and files consistent. Accessibility automation and HTTP source-link responses do not establish scholarly accuracy, assistive-technology compatibility or full-text/redistribution rights.
