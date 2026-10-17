@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-10-17T20:04:53.323Z",
+  "scope": "2007–2011 drafts; 15 page/viewport combinations; 10 download bodies match local build manifest; automated accessibility only, not independent scholarly review",
+  "checks": [
+    {
+      "year": 2007,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2008,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2009,
+      "width": 320,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2010,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2011,
+      "width": 320,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2007,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2008,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2009,
+      "width": 390,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2010,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2011,
+      "width": 390,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2007,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2008,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2009,
+      "width": 1280,
+      "math_blocks": 2,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2010,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    },
+    {
+      "year": 2011,
+      "width": 1280,
+      "math_blocks": 3,
+      "axe_violations": 0,
+      "overflow": false,
+      "download_links": 2
+    }
+  ]
+}

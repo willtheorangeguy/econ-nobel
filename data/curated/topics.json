@@ -73,5 +73,15 @@
     "slug": "experimental-economics",
     "name": "Experimental economics",
     "description": "Controlled studies of economic decisions and market institutions."
+  },
+  {
+    "slug": "economic-geography",
+    "name": "Economic geography",
+    "description": "The location of firms, people and economic activity."
+  },
+  {
+    "slug": "labor-economics",
+    "name": "Labor economics",
+    "description": "Employment, wages, skills and the matching of workers with jobs."
   }
 ]

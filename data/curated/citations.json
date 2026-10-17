@@ -1516,5 +1516,269 @@
     "verified": true,
     "accessed": "2026-10-17",
     "consulted_version": "Crossref bibliographic record only; original full text not read. All coauthors and supplied page extent preserved. Award explanation relies on academy material and clearly labeled teaching constructions."
+  },
+  {
+    "id": "ceremony-2007",
+    "title": "Presentation Speech for the 2007 Economic Sciences Prize",
+    "authors": [
+      "Jörgen W. Weibull"
+    ],
+    "year": 2007,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2008",
+    "title": "Presentation Speech for the 2008 Economic Sciences Prize",
+    "authors": [
+      "Bertil Holmlund"
+    ],
+    "year": 2008,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2008/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2009",
+    "title": "Presentation Speech for the 2009 Economic Sciences Prize",
+    "authors": [
+      "Tore Ellingsen"
+    ],
+    "year": 2009,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2010",
+    "title": "Presentation Speech for the 2010 Economic Sciences Prize",
+    "authors": [
+      "Bertil Holmlund"
+    ],
+    "year": 2010,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2010/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-2011",
+    "title": "Presentation Speech for the 2011 Economic Sciences Prize",
+    "authors": [
+      "Per Krusell"
+    ],
+    "year": 2011,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "maskin-1999",
+    "title": "Nash Equilibrium and Welfare Optimality",
+    "authors": [
+      "Eric Maskin"
+    ],
+    "year": 1999,
+    "url": "https://doi.org/10.1111/1467-937x.00076",
+    "doi": "10.1111/1467-937x.00076",
+    "type": "journal-article",
+    "venue": "Review of Economic Studies",
+    "volume": "66(1)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "23-38"
+  },
+  {
+    "id": "myerson-1981",
+    "title": "Optimal Auction Design",
+    "authors": [
+      "Roger B. Myerson"
+    ],
+    "year": 1981,
+    "url": "https://doi.org/10.1287/moor.6.1.58",
+    "doi": "10.1287/moor.6.1.58",
+    "type": "journal-article",
+    "venue": "Mathematics of Operations Research",
+    "volume": "6(1)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "58-73"
+  },
+  {
+    "id": "krugman-1979",
+    "title": "Increasing returns, monopolistic competition, and international trade",
+    "authors": [
+      "Paul R. Krugman"
+    ],
+    "year": 1979,
+    "url": "https://doi.org/10.1016/0022-1996(79)90017-5",
+    "doi": "10.1016/0022-1996(79)90017-5",
+    "type": "journal-article",
+    "venue": "Journal of International Economics",
+    "volume": "9(4)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "469-479"
+  },
+  {
+    "id": "krugman-1991",
+    "title": "Increasing Returns and Economic Geography",
+    "authors": [
+      "Paul Krugman"
+    ],
+    "year": 1991,
+    "url": "https://doi.org/10.1086/261763",
+    "doi": "10.1086/261763",
+    "type": "journal-article",
+    "venue": "Journal of Political Economy",
+    "volume": "99(3)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "483-499"
+  },
+  {
+    "id": "williamson-1979",
+    "title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+    "authors": [
+      "Oliver E. Williamson"
+    ],
+    "year": 1979,
+    "url": "https://doi.org/10.1086/466942",
+    "doi": "10.1086/466942",
+    "type": "journal-article",
+    "venue": "The Journal of Law and Economics",
+    "volume": "22(2)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "233-261"
+  },
+  {
+    "id": "ostrom-walker-gardner-1992",
+    "title": "Covenants with and without a Sword: Self-Governance Is Possible",
+    "authors": [
+      "Elinor Ostrom",
+      "James Walker",
+      "Roy Gardner"
+    ],
+    "year": 1992,
+    "url": "https://doi.org/10.2307/1964229",
+    "doi": "10.2307/1964229",
+    "type": "journal-article",
+    "venue": "American Political Science Review",
+    "volume": "86(2)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "404-417"
+  },
+  {
+    "id": "diamond-1971",
+    "title": "A model of price adjustment",
+    "authors": [
+      "Peter A Diamond"
+    ],
+    "year": 1971,
+    "url": "https://doi.org/10.1016/0022-0531(71)90013-5",
+    "doi": "10.1016/0022-0531(71)90013-5",
+    "type": "journal-article",
+    "venue": "Journal of Economic Theory",
+    "volume": "3(2)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "156-168"
+  },
+  {
+    "id": "mortensen-pissarides-1994",
+    "title": "Job Creation and Job Destruction in the Theory of Unemployment",
+    "authors": [
+      "D. T. Mortensen",
+      "C. A. Pissarides"
+    ],
+    "year": 1994,
+    "url": "https://doi.org/10.2307/2297896",
+    "doi": "10.2307/2297896",
+    "type": "journal-article",
+    "venue": "The Review of Economic Studies",
+    "volume": "61(3)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "397-415"
+  },
+  {
+    "id": "sims-1980",
+    "title": "Macroeconomics and Reality",
+    "authors": [
+      "Christopher A. Sims"
+    ],
+    "year": 1980,
+    "url": "https://doi.org/10.2307/1912017",
+    "doi": "10.2307/1912017",
+    "type": "journal-article",
+    "venue": "Econometrica",
+    "volume": "48(1)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+    "pages": "1"
+  },
+  {
+    "id": "sargent-wallace-1981",
+    "title": "Some Unpleasant Monetarist Arithmetic",
+    "authors": [
+      "Thomas J. Sargent",
+      "Neil Wallace"
+    ],
+    "year": 1981,
+    "url": "https://doi.org/10.21034/qr.531",
+    "doi": "10.21034/qr.531",
+    "type": "journal-article",
+    "venue": "Quarterly Review",
+    "volume": "5(3)",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref title, DOI, date and venue metadata checked. Crossref lists only Sargent; Wallace coauthorship independently confirmed by the publisher’s 2013 Interview with Neil Wallace (minneapolisfed.org/article/2013/interview-with-neil-wallace). Publisher PDF returned HTTP 403 and was not read."
+  },
+  {
+    "id": "academy-2010",
+    "title": "Markets with Search Costs: Popular Science Background",
+    "authors": [
+      "The Royal Swedish Academy of Sciences"
+    ],
+    "year": 2010,
+    "url": "https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2010.pdf",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official PDF; pages 1–2 on search theory, labor markets, external effects and the DMP model consulted."
+  },
+  {
+    "id": "pissarides-lecture-2010",
+    "title": "Equilibrium in the Labour Market with Search Frictions",
+    "authors": [
+      "Christopher A. Pissarides"
+    ],
+    "year": 2010,
+    "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture.pdf",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official prize lecture delivered 8 December 2010; PDF pages 1–3 (printed 396–398) on the development of search, two-sided matching and the matching function consulted."
   }
 ]

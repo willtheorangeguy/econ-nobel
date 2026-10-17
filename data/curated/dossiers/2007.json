@@ -1,0 +1,138 @@
+{
+  "year": 2007,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2007/summary/",
+  "laureates": [
+    {
+      "id": "820",
+      "name": "Leonid Hurwicz",
+      "motivation": "for having laid the foundations of mechanism design theory",
+      "portion": "1/3"
+    },
+    {
+      "id": "821",
+      "name": "Eric S. Maskin",
+      "motivation": "for having laid the foundations of mechanism design theory",
+      "portion": "1/3"
+    },
+    {
+      "id": "822",
+      "name": "Roger B. Myerson",
+      "motivation": "for having laid the foundations of mechanism design theory",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Hurwicz information systems/incentive compatibility; Maskin implementation/all equilibria; Myerson incomplete-information design. Preserve multiple contributors to revelation principles.",
+  "claim_source_map": "Official academy speech supports award contribution and historical outline; additional consulted passages are declared per citation. Original article records are bibliographic only. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2007",
+      "title": "Presentation Speech for the 2007 Economic Sciences Prize",
+      "authors": [
+        "Jörgen W. Weibull"
+      ],
+      "year": 2007,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "maskin-1999",
+      "title": "Nash Equilibrium and Welfare Optimality",
+      "authors": [
+        "Eric Maskin"
+      ],
+      "year": 1999,
+      "url": "https://doi.org/10.1111/1467-937x.00076",
+      "doi": "10.1111/1467-937x.00076",
+      "type": "journal-article",
+      "venue": "Review of Economic Studies",
+      "volume": "66(1)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "23-38"
+    },
+    {
+      "id": "myerson-1981",
+      "title": "Optimal Auction Design",
+      "authors": [
+        "Roger B. Myerson"
+      ],
+      "year": 1981,
+      "url": "https://doi.org/10.1287/moor.6.1.58",
+      "doi": "10.1287/moor.6.1.58",
+      "type": "journal-article",
+      "venue": "Mathematics of Operations Research",
+      "volume": "6(1)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "58-73"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2007,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/ceremony-speech/",
+      "sha256": "8d7e395d3f41eba81465f7e8e2eba80e4e5283c79100a8063e4255c118349bed",
+      "text_sha256": "7386458c54ce35793b09b4de714a5fbc9ecb0cd147dddc1ab62266bc90ca42fa",
+      "characters": 6554,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "maskin-1999",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1111/1467-937x.00076",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "eef117d2cfb3ce1465dc01aec2b27d8138f18cd4e50039e6d838934600ab900e",
+      "title": [
+        "Nash Equilibrium and Welfare Optimality"
+      ],
+      "doi": "10.1111/1467-937x.00076",
+      "publication_date": {
+        "date-parts": [
+          [
+            1999,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "myerson-1981",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1287/moor.6.1.58",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "e0b08c3397cf6d26be9c7af826bc7f4f7ba585379de17aa8dac18849adaedc43",
+      "title": [
+        "Optimal Auction Design"
+      ],
+      "doi": "10.1287/moor.6.1.58",
+      "publication_date": {
+        "date-parts": [
+          [
+            1981,
+            2
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Revenue60 versus80; total surplus92 versus80, high type probability0.8, indifferent buyer purchases. IC/IR apply to stated quasilinear single-buyer menu, not all equilibrium concepts.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Hurwicz original publications and Maskin/Myerson full texts; independently review implementation conditions. A wrong Maskin DOI candidate was rejected after its title proved unrelated; correct DOI checked through title/author query.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

@@ -42,11 +42,11 @@
 | 2004 | needs-review | 0 | pdf, epub |
 | 2005 | needs-review | 0 | pdf, epub |
 | 2006 | needs-review | 0 | pdf, epub |
-| 2007 | metadata-only | 0 | None |
-| 2008 | metadata-only | 0 | None |
-| 2009 | metadata-only | 0 | None |
-| 2010 | metadata-only | 0 | None |
-| 2011 | metadata-only | 0 | None |
+| 2007 | needs-review | 0 | pdf, epub |
+| 2008 | needs-review | 0 | pdf, epub |
+| 2009 | needs-review | 0 | pdf, epub |
+| 2010 | needs-review | 0 | pdf, epub |
+| 2011 | needs-review | 0 | pdf, epub |
 | 2012 | metadata-only | 0 | None |
 | 2013 | metadata-only | 0 | None |
 | 2014 | metadata-only | 0 | None |

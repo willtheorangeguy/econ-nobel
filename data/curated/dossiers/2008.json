@@ -1,0 +1,126 @@
+{
+  "year": 2008,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2008/summary/",
+  "laureates": [
+    {
+      "id": "834",
+      "name": "Paul Krugman",
+      "motivation": "for his analysis of trade patterns and location of economic activity",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Krugman scale/variety trade and geography with mobility/transport. No claim that the CES teaching markup reproduces exact 1979 preferences.",
+  "claim_source_map": "Official academy speech supports award contribution and historical outline; additional consulted passages are declared per citation. Original article records are bibliographic only. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2008",
+      "title": "Presentation Speech for the 2008 Economic Sciences Prize",
+      "authors": [
+        "Bertil Holmlund"
+      ],
+      "year": 2008,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2008/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "krugman-1979",
+      "title": "Increasing returns, monopolistic competition, and international trade",
+      "authors": [
+        "Paul R. Krugman"
+      ],
+      "year": 1979,
+      "url": "https://doi.org/10.1016/0022-1996(79)90017-5",
+      "doi": "10.1016/0022-1996(79)90017-5",
+      "type": "journal-article",
+      "venue": "Journal of International Economics",
+      "volume": "9(4)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "469-479"
+    },
+    {
+      "id": "krugman-1991",
+      "title": "Increasing Returns and Economic Geography",
+      "authors": [
+        "Paul Krugman"
+      ],
+      "year": 1991,
+      "url": "https://doi.org/10.1086/261763",
+      "doi": "10.1086/261763",
+      "type": "journal-article",
+      "venue": "Journal of Political Economy",
+      "volume": "99(3)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "483-499"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2008,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2008/ceremony-speech/",
+      "sha256": "7f5fedffaf6bd9f841039aaeb94ae21187d9d7424268f3cd6328f13e250fa3ac",
+      "text_sha256": "176da84ddc0446f4438311ae230502b85271a68bd845d85a6041890f7d038959",
+      "characters": 5530,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "krugman-1979",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1016/0022-1996(79)90017-5",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "4f80c04cda387403e194582493a6153fbedfc72b5c32524b1b6ff6451519d800",
+      "title": [
+        "Increasing returns, monopolistic competition, and international trade"
+      ],
+      "doi": "10.1016/0022-1996(79)90017-5",
+      "publication_date": {
+        "date-parts": [
+          [
+            1979,
+            11
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "krugman-1991",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/261763",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "629adcb750e664ae5fa361d912a367d15aeae2d4d8aee692fe9a5fb486a06ac1",
+      "title": [
+        "Increasing Returns and Economic Geography"
+      ],
+      "doi": "10.1086/261763",
+      "publication_date": {
+        "date-parts": [
+          [
+            1991,
+            6
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Fixed100 marginal10: AC(10)=20, AC(100)=11; markup and free-entry equations conditional on stated CES benchmark.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original 1979/1991 demand, transport and equilibrium assumptions; verify antecedents and empirical coverage.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

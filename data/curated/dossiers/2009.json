@@ -1,0 +1,134 @@
+{
+  "year": 2009,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2009/summary/",
+  "laureates": [
+    {
+      "id": "846",
+      "name": "Elinor Ostrom",
+      "motivation": "for her analysis of economic governance, especially the commons",
+      "portion": "1/2"
+    },
+    {
+      "id": "847",
+      "name": "Oliver E. Williamson",
+      "motivation": "for his analysis of economic governance, especially the boundaries of the firm",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Ostrom governed commons distinguished from open access; Williamson transaction costs/asset specificity; preserve Walker/Gardner coauthorship.",
+  "claim_source_map": "Official academy speech supports award contribution and historical outline; additional consulted passages are declared per citation. Original article records are bibliographic only. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2009",
+      "title": "Presentation Speech for the 2009 Economic Sciences Prize",
+      "authors": [
+        "Tore Ellingsen"
+      ],
+      "year": 2009,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "williamson-1979",
+      "title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+      "authors": [
+        "Oliver E. Williamson"
+      ],
+      "year": 1979,
+      "url": "https://doi.org/10.1086/466942",
+      "doi": "10.1086/466942",
+      "type": "journal-article",
+      "venue": "The Journal of Law and Economics",
+      "volume": "22(2)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "233-261"
+    },
+    {
+      "id": "ostrom-walker-gardner-1992",
+      "title": "Covenants with and without a Sword: Self-Governance Is Possible",
+      "authors": [
+        "Elinor Ostrom",
+        "James Walker",
+        "Roy Gardner"
+      ],
+      "year": 1992,
+      "url": "https://doi.org/10.2307/1964229",
+      "doi": "10.2307/1964229",
+      "type": "journal-article",
+      "venue": "American Political Science Review",
+      "volume": "86(2)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "404-417"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2009,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ceremony-speech/",
+      "sha256": "06f9623106d1e622e0e9ed59ef9381e41151af36ae245b370cbfd07aa8d16a09",
+      "text_sha256": "065699b0e3bd9d97e4efb3425fc073ac2173e4d2fb0dba179c7b8d47dbe3c305",
+      "characters": 4890,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "williamson-1979",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/466942",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "587e5f443886425b4bce8c8464e63a35cc9b33b9f67cec4eec8c722d97113836",
+      "title": [
+        "Transaction-Cost Economics: The Governance of Contractual Relations"
+      ],
+      "doi": "10.1086/466942",
+      "publication_date": {
+        "date-parts": [
+          [
+            1979,
+            10
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "ostrom-walker-gardner-1992",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1964229",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "adef8b095a519a097baf877fca9546c9b92bead7b2cae4f82f72fe9439ee1f98",
+      "title": [
+        "Covenants with and without a Sword: Self-Governance Is Possible"
+      ],
+      "doi": "10.2307/1964229",
+      "publication_date": {
+        "date-parts": [
+          [
+            1992,
+            6
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Detection0.5 times penalty5=2.5 exceeds gain2 in static example; relationship value100, investment70, outside20, symmetric ex post bargaining payout60<70.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original Ostrom/Williamson research, compare governance failures and power/distribution, independently review all examples.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

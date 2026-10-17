@@ -1,0 +1,180 @@
+{
+  "year": 2010,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+  "laureates": [
+    {
+      "id": "856",
+      "name": "Peter A. Diamond",
+      "motivation": "for their analysis of markets with search frictions",
+      "portion": "1/3"
+    },
+    {
+      "id": "857",
+      "name": "Dale T. Mortensen",
+      "motivation": "for their analysis of markets with search frictions",
+      "portion": "1/3"
+    },
+    {
+      "id": "858",
+      "name": "Christopher A. Pissarides",
+      "motivation": "for their analysis of markets with search frictions",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Diamond foundational search; Mortensen labor dynamics; Pissarides equilibrium matching; preserve earlier researchers credited in lecture.",
+  "claim_source_map": "Official academy speech supports award contribution and historical outline; additional consulted passages are declared per citation. Original article records are bibliographic only. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2010",
+      "title": "Presentation Speech for the 2010 Economic Sciences Prize",
+      "authors": [
+        "Bertil Holmlund"
+      ],
+      "year": 2010,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2010/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "diamond-1971",
+      "title": "A model of price adjustment",
+      "authors": [
+        "Peter A Diamond"
+      ],
+      "year": 1971,
+      "url": "https://doi.org/10.1016/0022-0531(71)90013-5",
+      "doi": "10.1016/0022-0531(71)90013-5",
+      "type": "journal-article",
+      "venue": "Journal of Economic Theory",
+      "volume": "3(2)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "156-168"
+    },
+    {
+      "id": "mortensen-pissarides-1994",
+      "title": "Job Creation and Job Destruction in the Theory of Unemployment",
+      "authors": [
+        "D. T. Mortensen",
+        "C. A. Pissarides"
+      ],
+      "year": 1994,
+      "url": "https://doi.org/10.2307/2297896",
+      "doi": "10.2307/2297896",
+      "type": "journal-article",
+      "venue": "The Review of Economic Studies",
+      "volume": "61(3)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "397-415"
+    },
+    {
+      "id": "academy-2010",
+      "title": "Markets with Search Costs: Popular Science Background",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2010,
+      "url": "https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2010.pdf",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official PDF; pages 1–2 on search theory, labor markets, external effects and the DMP model consulted."
+    },
+    {
+      "id": "pissarides-lecture-2010",
+      "title": "Equilibrium in the Labour Market with Search Frictions",
+      "authors": [
+        "Christopher A. Pissarides"
+      ],
+      "year": 2010,
+      "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture.pdf",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official prize lecture delivered 8 December 2010; PDF pages 1–3 (printed 396–398) on the development of search, two-sided matching and the matching function consulted."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2010,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2010/ceremony-speech/",
+      "sha256": "35cc738a5fe59b427e156e76b05244c338fd614127caf4195a0d00759139bbee",
+      "text_sha256": "8cb9ffa00062398c892af831d74f302bc49eec7d7ec141aa45b14b97a82a61dc",
+      "characters": 4942,
+      "accessed": "2026-10-17"
+    },
+    {
+      "url": "https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2010.pdf",
+      "sha256": "0efe44c403670d203b49069af6bf7329c7845fa2520cbccef3318e47fadc1de5",
+      "text_sha256": "464483ff3b8049a40008617ae677eda440591c83f6a065acd94bcb803fea1041",
+      "accessed": "2026-10-17",
+      "consulted_pages": "PDF 1–2"
+    },
+    {
+      "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture.pdf",
+      "sha256": "26fed434c6b65aead0f196bcc20de96e893d229ed4b957eb5f2785380f60bb04",
+      "text_sha256": "fe51eaee09891588aecc600734e578210e2544c027a2ffb931efbea367541331",
+      "accessed": "2026-10-17",
+      "consulted_pages": "PDF 1–3"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "diamond-1971",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1016/0022-0531(71)90013-5",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "18bd11124a70009bcead933af407c79e5945de248c4e25cd4c8813fbd543a2c9",
+      "title": [
+        "A model of price adjustment"
+      ],
+      "doi": "10.1016/0022-0531(71)90013-5",
+      "publication_date": {
+        "date-parts": [
+          [
+            1971,
+            6
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "mortensen-pissarides-1994",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2297896",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "2590a9d5b6b97a1cf72cc6883211cbce00fb4f70b0043ef44ef99d976f8e137c",
+      "title": [
+        "Job Creation and Job Destruction in the Theory of Unemployment"
+      ],
+      "doi": "10.2307/2297896",
+      "publication_date": {
+        "date-parts": [
+          [
+            1994,
+            7,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Continuous flow balance s0.02/f0.18 gives u0.10; f0.38 gives u0.05; rates are intensities, not exact monthly transition probabilities. Matching rates m/U and m/V defined.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original Diamond and Mortensen–Pissarides papers; assess matching aggregation and empirical evidence; independent review.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

@@ -1,0 +1,132 @@
+{
+  "year": 2011,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2011/summary/",
+  "laureates": [
+    {
+      "id": "872",
+      "name": "Thomas J. Sargent",
+      "motivation": "for their empirical research on cause and effect in the macroeconomy",
+      "portion": "1/2"
+    },
+    {
+      "id": "873",
+      "name": "Christopher A. Sims",
+      "motivation": "for their empirical research on cause and effect in the macroeconomy",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Sims dynamic time-series/identification; Sargent structural expectations/regime analysis; preserve Wallace coauthorship despite incomplete Crossref.",
+  "claim_source_map": "Official academy speech supports award contribution and historical outline; additional consulted passages are declared per citation. Original article records are bibliographic only. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2011",
+      "title": "Presentation Speech for the 2011 Economic Sciences Prize",
+      "authors": [
+        "Per Krusell"
+      ],
+      "year": 2011,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "sims-1980",
+      "title": "Macroeconomics and Reality",
+      "authors": [
+        "Christopher A. Sims"
+      ],
+      "year": 1980,
+      "url": "https://doi.org/10.2307/1912017",
+      "doi": "10.2307/1912017",
+      "type": "journal-article",
+      "venue": "Econometrica",
+      "volume": "48(1)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied coauthors and page extent preserved. Explanation relies on academy material and labeled teaching constructions.",
+      "pages": "1"
+    },
+    {
+      "id": "sargent-wallace-1981",
+      "title": "Some Unpleasant Monetarist Arithmetic",
+      "authors": [
+        "Thomas J. Sargent",
+        "Neil Wallace"
+      ],
+      "year": 1981,
+      "url": "https://doi.org/10.21034/qr.531",
+      "doi": "10.21034/qr.531",
+      "type": "journal-article",
+      "venue": "Quarterly Review",
+      "volume": "5(3)",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref title, DOI, date and venue metadata checked. Crossref lists only Sargent; Wallace coauthorship independently confirmed by the publisher’s 2013 Interview with Neil Wallace (minneapolisfed.org/article/2013/interview-with-neil-wallace). Publisher PDF returned HTTP 403 and was not read."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2011,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/ceremony-speech/",
+      "sha256": "ffdd28db954d97f17e0ce88aff657122bd3bba2b912a0cd065f7fc5b753a58fa",
+      "text_sha256": "b5f7c465a9da042801b8b7c0b0ad465a1c2be3b56d51ec29238a5f25f00ab9a1",
+      "characters": 5502,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "sims-1980",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1912017",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "8fc97cf2612aca840586fad3b0efbffc569a11d4c3b4d664b0ff024c2b96e0d6",
+      "title": [
+        "Macroeconomics and Reality"
+      ],
+      "doi": "10.2307/1912017",
+      "publication_date": {
+        "date-parts": [
+          [
+            1980,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "sargent-wallace-1981",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.21034/qr.531",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "5bf63f5b7c93c194fa26fc4bea7e94c4725bd6c943f7d8d3e596c322ae9a3919",
+      "title": [
+        "Some Unpleasant Monetarist Arithmetic"
+      ],
+      "doi": "10.21034/qr.531",
+      "publication_date": {
+        "date-parts": [
+          [
+            1981,
+            9
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Orthogonal Q preserves BB-transpose covariance; Gaussian distribution equivalence only under stated standardized Gaussian shocks; impulse vectors b,Ab,A²b conditional on identification.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original methods and Sargent–Wallace text once legally accessible; validate source restrictions and regime invariance. Speech policy lags and universal-constant language qualified.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
