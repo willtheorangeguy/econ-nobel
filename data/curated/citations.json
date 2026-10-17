@@ -834,5 +834,262 @@
     "verified": true,
     "accessed": "2026-10-17",
     "consulted_version": "Crossref bibliographic record only; original full text not read. Page field is copied as supplied, not expanded to an unverified range. Award explanation relies on academy material and the author's retrospective lecture."
+  },
+  {
+    "id": "ceremony-1990",
+    "title": "Presentation Speech for the 1990 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1990,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1990/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1991",
+    "title": "Presentation Speech for the 1991 Economic Sciences Prize",
+    "authors": [
+      "Lars Werin"
+    ],
+    "year": 1991,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1992",
+    "title": "Presentation Speech for the 1992 Economic Sciences Prize",
+    "authors": [
+      "Assar Lindbeck"
+    ],
+    "year": 1992,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1992/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1993",
+    "title": "Presentation Speech for the 1993 Economic Sciences Prize",
+    "authors": [
+      "Lennart Jörberg"
+    ],
+    "year": 1993,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1994",
+    "title": "Presentation Speech for the 1994 Economic Sciences Prize",
+    "authors": [
+      "Karl-Göran Mäler"
+    ],
+    "year": 1994,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1994/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "ceremony-1995",
+    "title": "Presentation Speech for the 1995 Economic Sciences Prize",
+    "authors": [
+      "Lars E. O. Svensson"
+    ],
+    "year": 1995,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1995/ceremony-speech/",
+    "accessed": "2026-10-17",
+    "type": "official",
+    "verified": true,
+    "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+  },
+  {
+    "id": "coase-lecture-1991",
+    "title": "The Institutional Structure of Production",
+    "authors": [
+      "Ronald H. Coase"
+    ],
+    "year": 1991,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/lecture/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English HTML prize lecture, opening methodological/history discussion and acknowledgment of Williamson, Demsetz and Cheung; delivered 9 December 1991."
+  },
+  {
+    "id": "north-lecture-1993",
+    "title": "Economic Performance through Time",
+    "authors": [
+      "Douglass C. North"
+    ],
+    "year": 1993,
+    "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/north/lecture/",
+    "type": "official",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Official English HTML prize lecture; section I and opening of II on formal/informal constraints and enforcement; delivered 9 December 1993."
+  },
+  {
+    "id": "markowitz-1952",
+    "title": "Portfolio Selection",
+    "authors": [
+      "Harry Markowitz"
+    ],
+    "year": 1952,
+    "url": "https://doi.org/10.1111/j.1540-6261.1952.tb01525.x",
+    "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+    "type": "journal-article",
+    "venue": "The Journal of Finance",
+    "volume": "7(1)",
+    "pages": "77-91",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "sharpe-1964",
+    "title": "Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk",
+    "authors": [
+      "William F. Sharpe"
+    ],
+    "year": 1964,
+    "url": "https://doi.org/10.1111/j.1540-6261.1964.tb02865.x",
+    "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+    "type": "journal-article",
+    "venue": "The Journal of Finance",
+    "volume": "19(3)",
+    "pages": "425-442",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "coase-1937",
+    "title": "The Nature of the Firm",
+    "authors": [
+      "R. H. Coase"
+    ],
+    "year": 1937,
+    "url": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+    "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+    "type": "journal-article",
+    "venue": "Economica",
+    "volume": "4(16)",
+    "pages": "386-405",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "coase-1960",
+    "title": "The Problem of Social Cost",
+    "authors": [
+      "R. H. Coase"
+    ],
+    "year": 1960,
+    "url": "https://doi.org/10.1086/466560",
+    "doi": "10.1086/466560",
+    "type": "journal-article",
+    "venue": "The Journal of Law and Economics",
+    "volume": "3",
+    "pages": "1-44",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "becker-1965",
+    "title": "A Theory of the Allocation of Time",
+    "authors": [
+      "Gary S. Becker"
+    ],
+    "year": 1965,
+    "url": "https://doi.org/10.2307/2228949",
+    "doi": "10.2307/2228949",
+    "type": "journal-article",
+    "venue": "The Economic Journal",
+    "volume": "75(299)",
+    "pages": "493",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "nash-1950",
+    "title": "Equilibrium points in n-person games",
+    "authors": [
+      "John F. Nash Jr."
+    ],
+    "year": 1950,
+    "url": "https://doi.org/10.1073/pnas.36.1.48",
+    "doi": "10.1073/pnas.36.1.48",
+    "type": "journal-article",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "volume": "36(1)",
+    "pages": "48-49",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "harsanyi-1967",
+    "title": "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model",
+    "authors": [
+      "John C. Harsanyi"
+    ],
+    "year": 1967,
+    "url": "https://doi.org/10.1287/mnsc.14.3.159",
+    "doi": "10.1287/mnsc.14.3.159",
+    "type": "journal-article",
+    "venue": "Management Science",
+    "volume": "14(3)",
+    "pages": "159-182",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "lucas-1972",
+    "title": "Expectations and the neutrality of money",
+    "authors": [
+      "Robert E Lucas Jr."
+    ],
+    "year": 1972,
+    "url": "https://doi.org/10.1016/0022-0531(72)90142-1",
+    "doi": "10.1016/0022-0531(72)90142-1",
+    "type": "journal-article",
+    "venue": "Journal of Economic Theory",
+    "volume": "4(2)",
+    "pages": "103-124",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+  },
+  {
+    "id": "lucas-1976",
+    "title": "Econometric policy evaluation: A critique",
+    "authors": [
+      "Robert E. Lucas Jr"
+    ],
+    "year": 1976,
+    "url": "https://doi.org/10.1016/s0167-2231(76)80003-6",
+    "doi": "10.1016/s0167-2231(76)80003-6",
+    "type": "journal-article",
+    "venue": "Carnegie-Rochester Conference Series on Public Policy",
+    "volume": "1",
+    "pages": "19-46",
+    "verified": true,
+    "accessed": "2026-10-17",
+    "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
   }
 ]

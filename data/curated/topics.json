@@ -63,5 +63,10 @@
     "slug": "economic-measurement",
     "name": "Economic measurement",
     "description": "Accounts and evidence used to describe economies."
+  },
+  {
+    "slug": "institutions",
+    "name": "Institutions",
+    "description": "Rules, contracts, enforcement and the organization of economic activity."
   }
 ]

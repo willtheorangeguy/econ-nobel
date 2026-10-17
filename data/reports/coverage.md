@@ -25,12 +25,12 @@
 | 1987 | needs-review | 0 | pdf, epub |
 | 1988 | needs-review | 0 | pdf, epub |
 | 1989 | needs-review | 0 | pdf, epub |
-| 1990 | metadata-only | 0 | None |
-| 1991 | metadata-only | 0 | None |
-| 1992 | metadata-only | 0 | None |
-| 1993 | metadata-only | 0 | None |
-| 1994 | metadata-only | 0 | None |
-| 1995 | metadata-only | 0 | None |
+| 1990 | needs-review | 0 | pdf, epub |
+| 1991 | needs-review | 0 | pdf, epub |
+| 1992 | needs-review | 0 | pdf, epub |
+| 1993 | needs-review | 0 | pdf, epub |
+| 1994 | needs-review | 0 | pdf, epub |
+| 1995 | needs-review | 0 | pdf, epub |
 | 1996 | metadata-only | 0 | None |
 | 1997 | metadata-only | 0 | None |
 | 1998 | metadata-only | 0 | None |

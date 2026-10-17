@@ -1,0 +1,89 @@
+{
+  "year": 1992,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1992/summary/",
+  "laureates": [
+    {
+      "id": "708",
+      "name": "Gary Becker",
+      "motivation": "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Becker: purposeful choice beyond markets, including human capital, household time,crime and discrimination. Nonmonetary motives included.",
+  "claim_source_map": "Academy speech for breadth/nonpecuniary rationale; allocation-time1965 article Crossref metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1992",
+      "title": "Presentation Speech for the 1992 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1992,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1992/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "becker-1965",
+      "title": "A Theory of the Allocation of Time",
+      "authors": [
+        "Gary S. Becker"
+      ],
+      "year": 1965,
+      "url": "https://doi.org/10.2307/2228949",
+      "doi": "10.2307/2228949",
+      "type": "journal-article",
+      "venue": "The Economic Journal",
+      "volume": "75(299)",
+      "pages": "493",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1992,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1992/ceremony-speech/",
+      "sha256": "3e3097d64783f61eaebf784b9a91e951fed042276bd19ae43080b17f36349471",
+      "text_sha256": "b974d7e016641b642b2097e786d5584cbefd346acb3868488e717b7b503d7316",
+      "characters": 5508,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "becker-1965",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2228949",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "9422f5b8a8ab09b8fc95b92271ddbb670c3bdb49b506968cbe663073648b22ad",
+      "title": [
+        "A Theory of the Allocation of Time"
+      ],
+      "doi": "10.2307/2228949",
+      "publication_date": {
+        "date-parts": [
+          [
+            1965,
+            9
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Cooking40+2*15=70 vs prepared60; atw5 fullcost50. Budgetpx<=wh+V andh+t+l<=T yields px+w(t+l)<=wT+V only under specified time-transfer opportunities.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original time-allocation/human-capital/crime/discrimination works; independent review of empirical and household-power caveats.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

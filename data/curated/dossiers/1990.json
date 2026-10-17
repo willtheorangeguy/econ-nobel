@@ -1,0 +1,151 @@
+{
+  "year": 1990,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1990/summary/",
+  "laureates": [
+    {
+      "id": "704",
+      "name": "Harry M. Markowitz",
+      "motivation": "for their pioneering work in the theory of financial economics",
+      "portion": "1/3"
+    },
+    {
+      "id": "705",
+      "name": "Merton H. Miller",
+      "motivation": "for their pioneering work in the theory of financial economics",
+      "portion": "1/3"
+    },
+    {
+      "id": "706",
+      "name": "William F. Sharpe",
+      "motivation": "for their pioneering work in the theory of financial economics",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Markowitz: portfolio selection; Sharpe: equilibrium risk pricing; Miller: corporate finance with Modigliani. Distinct contributions and shared benchmark assumptions.",
+  "claim_source_map": "Academy1990 for all attributions; academy1985 for Modigliani coauthorship; Markowitz1952/Sharpe1964 original metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1985",
+      "title": "Presentation Speech for the 1985 Economic Sciences Prize",
+      "authors": [
+        "Ragnar Bentzel"
+      ],
+      "year": 1985,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1985/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "ceremony-1990",
+      "title": "Presentation Speech for the 1990 Economic Sciences Prize",
+      "authors": [
+        "Assar Lindbeck"
+      ],
+      "year": 1990,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1990/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "markowitz-1952",
+      "title": "Portfolio Selection",
+      "authors": [
+        "Harry Markowitz"
+      ],
+      "year": 1952,
+      "url": "https://doi.org/10.1111/j.1540-6261.1952.tb01525.x",
+      "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+      "type": "journal-article",
+      "venue": "The Journal of Finance",
+      "volume": "7(1)",
+      "pages": "77-91",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "sharpe-1964",
+      "title": "Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk",
+      "authors": [
+        "William F. Sharpe"
+      ],
+      "year": 1964,
+      "url": "https://doi.org/10.1111/j.1540-6261.1964.tb02865.x",
+      "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+      "type": "journal-article",
+      "venue": "The Journal of Finance",
+      "volume": "19(3)",
+      "pages": "425-442",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1990,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1990/ceremony-speech/",
+      "sha256": "c3eab69b7f68de90d8b4eb5803fb4621423e7265dd608b85a5c26cdff68266c5",
+      "text_sha256": "513e13286a2ff99d93254363a773fc2cb90d30c9cdbc8ebd38c7de16d3cb7c2b",
+      "characters": 5279,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "markowitz-1952",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1111/j.1540-6261.1952.tb01525.x",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "6bb13316a805dbde17e7cf048a08ac5e199937a4e42a9756ae90811f009506d0",
+      "title": [
+        "PORTFOLIO SELECTION*"
+      ],
+      "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+      "publication_date": {
+        "date-parts": [
+          [
+            1952,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "sharpe-1964",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1111/j.1540-6261.1964.tb02865.x",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "ba5996fc732343d396b5604f9dbd3eb08d64d31076b2e82ad090f513b44cff6e",
+      "title": [
+        "CAPITAL ASSET PRICES: A THEORY OF MARKET EQUILIBRIUM UNDER CONDITIONS OF RISK*"
+      ],
+      "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+      "publication_date": {
+        "date-parts": [
+          [
+            1964,
+            9
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Half weights,individualsigma.1,cov0 ->variance.005,SD.0707107;corr1 ->SD.1. CAPM .02+1.5*(.08-.02)=.11 expected,not promised.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original portfolio/CAPM papers and verify/read Miller original financing/dividend records. A direct Crossref request for one candidate financing DOI failed, so no new record was invented.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

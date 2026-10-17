@@ -1,0 +1,138 @@
+{
+  "year": 1994,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1994/summary/",
+  "laureates": [
+    {
+      "id": "711",
+      "name": "John C. Harsanyi",
+      "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+      "portion": "1/3"
+    },
+    {
+      "id": "712",
+      "name": "John F. Nash Jr.",
+      "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+      "portion": "1/3"
+    },
+    {
+      "id": "713",
+      "name": "Reinhard Selten",
+      "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Nash: equilibrium/existence with mixed strategies forfinitegames; Harsanyi: types/beliefs; Selten: credibility/perfection.",
+  "claim_source_map": "Academy speech for individualattributions; Nash1950/Harsanyi1967 metadata only. Qualify speech's informal stable-outcome language: no dynamic-convergence theorem.",
+  "citations": [
+    {
+      "id": "ceremony-1994",
+      "title": "Presentation Speech for the 1994 Economic Sciences Prize",
+      "authors": [
+        "Karl-Göran Mäler"
+      ],
+      "year": 1994,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1994/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "nash-1950",
+      "title": "Equilibrium points in n-person games",
+      "authors": [
+        "John F. Nash Jr."
+      ],
+      "year": 1950,
+      "url": "https://doi.org/10.1073/pnas.36.1.48",
+      "doi": "10.1073/pnas.36.1.48",
+      "type": "journal-article",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "volume": "36(1)",
+      "pages": "48-49",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "harsanyi-1967",
+      "title": "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model",
+      "authors": [
+        "John C. Harsanyi"
+      ],
+      "year": 1967,
+      "url": "https://doi.org/10.1287/mnsc.14.3.159",
+      "doi": "10.1287/mnsc.14.3.159",
+      "type": "journal-article",
+      "venue": "Management Science",
+      "volume": "14(3)",
+      "pages": "159-182",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1994,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1994/ceremony-speech/",
+      "sha256": "d14d5a9dd383933435f2ff5c564cf977ef609b71d765c8b5ae1c11404e2d1571",
+      "text_sha256": "b6367b8a79682f5f1c8bfeb3a70496fb54f961b486ecf618a65aec8b0d8d4d5c",
+      "characters": 6591,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "nash-1950",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1073/pnas.36.1.48",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "60784f2b4d775e5df24fe563bee16d7d09d25702c1bac23071f518d7b5879d8c",
+      "title": [
+        "Equilibrium points in\n                    <i>n</i>\n                    -person games"
+      ],
+      "doi": "10.1073/pnas.36.1.48",
+      "publication_date": {
+        "date-parts": [
+          [
+            1950,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "harsanyi-1967",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1287/mnsc.14.3.159",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "9d0b3755cc7c7e4ad68b097ec21b78edb37231b449283c2b0f6cd9491fcc7993",
+      "title": [
+        "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model"
+      ],
+      "doi": "10.1287/mnsc.14.3.159",
+      "publication_date": {
+        "date-parts": [
+          [
+            1967,
+            11
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "D dominatesC in payoffgame(3,3),(0,5),(5,0),(1,1). Entrythreatfight(-1,-1) vs accommodate(1,1) notcredible afterentry; out0 vs credibleentry1. Entryexpected1-2q positiveiffq<.5.",
+    "independent_review": false
+  },
+  "remaining_research": "Read originals for all3; verify Selten records and wider refinements. Original-paper coverage incomplete rather than hidden by 2 citations.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

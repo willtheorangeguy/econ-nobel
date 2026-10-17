@@ -1,0 +1,139 @@
+{
+  "year": 1991,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1991/summary/",
+  "laureates": [
+    {
+      "id": "707",
+      "name": "Ronald H. Coase",
+      "motivation": "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Coase: transaction costs, firm boundary and legal rights; preserve broader Williamson/Demsetz/Cheung credit.",
+  "claim_source_map": "Academy for firm/social-cost scope; Coase lecture opening for institutions/empirics/colleague credit; 1937/1960 paper metadata only.",
+  "citations": [
+    {
+      "id": "ceremony-1991",
+      "title": "Presentation Speech for the 1991 Economic Sciences Prize",
+      "authors": [
+        "Lars Werin"
+      ],
+      "year": 1991,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "coase-lecture-1991",
+      "title": "The Institutional Structure of Production",
+      "authors": [
+        "Ronald H. Coase"
+      ],
+      "year": 1991,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/lecture/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English HTML prize lecture, opening methodological/history discussion and acknowledgment of Williamson, Demsetz and Cheung; delivered 9 December 1991."
+    },
+    {
+      "id": "coase-1937",
+      "title": "The Nature of the Firm",
+      "authors": [
+        "R. H. Coase"
+      ],
+      "year": 1937,
+      "url": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+      "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+      "type": "journal-article",
+      "venue": "Economica",
+      "volume": "4(16)",
+      "pages": "386-405",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "coase-1960",
+      "title": "The Problem of Social Cost",
+      "authors": [
+        "R. H. Coase"
+      ],
+      "year": 1960,
+      "url": "https://doi.org/10.1086/466560",
+      "doi": "10.1086/466560",
+      "type": "journal-article",
+      "venue": "The Journal of Law and Economics",
+      "volume": "3",
+      "pages": "1-44",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1991,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/ceremony-speech/",
+      "sha256": "3ef44eef8d983eb3a5ccccf6ca74704a5347c472e64014e6b1b61f1a189b5f12",
+      "text_sha256": "52263e37f30abc615c80f73317dd258e7d87c8ee835ef319848fabeca8e709c4",
+      "characters": 6486,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "coase-1937",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1111/j.1468-0335.1937.tb00002.x",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "7ba6585a60e66a58dd74e73639dbf2456175fdef8b25a7704158dad6ec3d500a",
+      "title": [
+        "The Nature of the Firm"
+      ],
+      "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+      "publication_date": {
+        "date-parts": [
+          [
+            1937,
+            11
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "coase-1960",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/466560",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "cc2f7ff65e2b7e89b8efb55fbab21aae1b5e3a74722fea5d41b5179db791525e",
+      "title": [
+        "The Problem of Social Cost"
+      ],
+      "doi": "10.1086/466560",
+      "publication_date": {
+        "date-parts": [
+          [
+            1960,
+            10
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Damage80/filter30 ->potentialgain50; bargainingcost70 can prevent agreement. Rights change transfers even when example resourcechoicefilter unchanged. Costs/valuations known/fixed,enforceabletransfers assumed.",
+    "independent_review": false
+  },
+  "remaining_research": "Read complete articles; analyze real institutional comparisons and income-effect qualifications rather than assert universal rights invariance.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

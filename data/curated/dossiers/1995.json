@@ -1,0 +1,139 @@
+{
+  "year": 1995,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1995/summary/",
+  "laureates": [
+    {
+      "id": "714",
+      "name": "Robert E. Lucas Jr.",
+      "motivation": "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Lucas: model-consistent expectations and policy-regime dependence; rational expectations is not perfectforesight or universal policy neutrality.",
+  "claim_source_map": "Academy for scope;1972/1976 originalmetadata; Friedmanlecture1976 for earlierPhelps/Friedman expectation contributions.",
+  "citations": [
+    {
+      "id": "friedman-lecture-1976",
+      "title": "Inflation and Unemployment",
+      "authors": [
+        "Milton Friedman"
+      ],
+      "year": 1976,
+      "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture-1.pdf",
+      "type": "official",
+      "consulted_version": "Official PDF prize lecture delivered 13 December 1976; opening and section 3 on natural-rate hypothesis, pp. 271–273 (PDF pp. 5–7) consulted; includes explicit Phelps credit.",
+      "accessed": "2026-10-17",
+      "verified": true
+    },
+    {
+      "id": "ceremony-1995",
+      "title": "Presentation Speech for the 1995 Economic Sciences Prize",
+      "authors": [
+        "Lars E. O. Svensson"
+      ],
+      "year": 1995,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1995/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "lucas-1972",
+      "title": "Expectations and the neutrality of money",
+      "authors": [
+        "Robert E Lucas Jr."
+      ],
+      "year": 1972,
+      "url": "https://doi.org/10.1016/0022-0531(72)90142-1",
+      "doi": "10.1016/0022-0531(72)90142-1",
+      "type": "journal-article",
+      "venue": "Journal of Economic Theory",
+      "volume": "4(2)",
+      "pages": "103-124",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    },
+    {
+      "id": "lucas-1976",
+      "title": "Econometric policy evaluation: A critique",
+      "authors": [
+        "Robert E. Lucas Jr"
+      ],
+      "year": 1976,
+      "url": "https://doi.org/10.1016/s0167-2231(76)80003-6",
+      "doi": "10.1016/s0167-2231(76)80003-6",
+      "type": "journal-article",
+      "venue": "Carnegie-Rochester Conference Series on Public Policy",
+      "volume": "1",
+      "pages": "19-46",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Title casing/footnote markers and HTML normalized where necessary; page extent preserved as supplied. Award-level contribution narrative uses academy material."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1995,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1995/ceremony-speech/",
+      "sha256": "3bd727d560215b3a2741d79a4e0ed28b6d3822b788ca0aee3c139e7303f75518",
+      "text_sha256": "bbd5d151f15a570d311eb66ef43f9f918318c38cd338c28661dd62b07bb55957",
+      "characters": 5437,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "lucas-1972",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1016/0022-0531(72)90142-1",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "55cf32e1b864cb131775e28cd8bf7f9744586160dac75df5957a43b4568caf02",
+      "title": [
+        "Expectations and the neutrality of money"
+      ],
+      "doi": "10.1016/0022-0531(72)90142-1",
+      "publication_date": {
+        "date-parts": [
+          [
+            1972,
+            4
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "lucas-1976",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1016/s0167-2231(76)80003-6",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "006cc8ef9d2848aa97a231554d41998269069c83fc03141be7fec7be2e57f09e",
+      "title": [
+        "Econometric policy evaluation: A critique"
+      ],
+      "doi": "10.1016/s0167-2231(76)80003-6",
+      "publication_date": {
+        "date-parts": [
+          [
+            1976,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "alpha1,expectedinflation2,actual3 ->outputindexgap1. Underknownregimepi=b+epsilon,expectedpi=b andsurpriseepsilon;changingb doesnot affectgap in this specific teachingequation.",
+    "independent_review": false
+  },
+  "remaining_research": "Read originalLucas models/critique and broader program; review nominalrigidity,learning and empiricalalternatives.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

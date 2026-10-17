@@ -8,8 +8,8 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 
 - Repository: `/srv/openclaw/repos/willtheorangeguy/econ-nobel`
 - Live site: https://williamvdg.me/econ-nobel/
-- Deployed implementation: `8e6dd8311ac42e44e654b70c330faacd03eed2c6`
-- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39049760711
+- Deployed implementation: `227063c9b25c8b38d3bb2b4e3b4407004394f878`
+- Successful clean-checkout deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39063150392
 - Live document checksums: https://williamvdg.me/econ-nobel/downloads/manifest.json
 - Coverage: [machine report](data/reports/coverage.json), [year ledger](data/reports/coverage.md), and public `/coverage/`.
 
@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 22: 1969–1989 and 2001, all `needs-review` |
-| Annual essays not yet written | 36, explicitly `metadata-only` |
+| Authored annual essays | 28: 1969–1995 and 2001, all `needs-review` |
+| Annual essays not yet written | 30, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 46: PDF + EPUB for 22 annual drafts and one work draft |
+| Validated overview artifacts | 58: PDF + EPUB for 28 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 36 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 22 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 30 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 28 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -118,3 +118,11 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - 1970s commit `8e6dd83` passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39049760711. The 1980s batch is ahead of that deployment until its commit is built.
 - Six 1990–1995 essays have been drafted privately in `.cache/editorial-drafts/`; they do not count toward the table above until canonical import, source registration, dossier recording and validation are completed.
 - After correcting the topic-count assumption, all **9 browser tests passed**. Preview was explicitly started, so this does not establish a fix for the older intermittent fresh-startup finding.
+
+## Essay continuation — 1990–1995
+
+- Added six annual drafts and research dossiers, covering all recipients of the finance, Coase, Becker, economic-history, game-theory and Lucas awards. Body lengths: 1,209–1,297 whitespace-delimited words. All remain `needs-review`; original full-text reading and independent review are incomplete.
+- Preserved Markowitz/Miller/Sharpe and Harsanyi/Nash/Selten as distinct contributions; retained Modigliani credit. Qualified the game-theory speech's informal stability wording and the economic-history speech's slavery language; no profitability/productivity claim is presented as social-welfare or moral approval.
+- Fresh check and 15 unit tests passed. Build validated 58 PDF/EPUB artifacts and 185 endpoints/4,147 internal links. All six new pages passed 320/390/1280px axe/overflow checks and 12 download checksum requests; all nine browser regressions passed. See `data/reports/essay-browser-qa-1990-1995.json`.
+- 1980s commit `227063c` passed clean-checkout CI and deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39063150392.
+- Next canonical import: 1996–2000, five substantive drafts already staged privately with source research. Metadata-only years remain unfinished until that import and verification.

@@ -401,10 +401,13 @@
         "Merton H. Miller",
         "William F. Sharpe"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -415,10 +418,13 @@
       "laureates": [
         "Ronald H. Coase"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -429,10 +435,13 @@
       "laureates": [
         "Gary Becker"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -444,10 +453,13 @@
         "Robert W. Fogel",
         "Douglass C. North"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -460,10 +472,13 @@
         "John F. Nash Jr.",
         "Reinhard Selten"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -474,10 +489,13 @@
       "laureates": [
         "Robert E. Lucas Jr."
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

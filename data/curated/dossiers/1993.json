@@ -1,0 +1,70 @@
+{
+  "year": 1993,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1993/summary/",
+  "laureates": [
+    {
+      "id": "709",
+      "name": "Robert W. Fogel",
+      "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+      "portion": "1/2"
+    },
+    {
+      "id": "710",
+      "name": "Douglass C. North",
+      "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Fogel: quantitative/counterfactual economic history; North: institutions, organization and time. Do not turn slavery productivity/profitability claims into welfare approval.",
+  "claim_source_map": "Academy for both research programs; North lecture I and openingII for framework/formal/informal constraints and explicit incompleteness.",
+  "citations": [
+    {
+      "id": "ceremony-1993",
+      "title": "Presentation Speech for the 1993 Economic Sciences Prize",
+      "authors": [
+        "Lennart Jörberg"
+      ],
+      "year": 1993,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML presentation speech; complete substantive text consulted."
+    },
+    {
+      "id": "north-lecture-1993",
+      "title": "Economic Performance through Time",
+      "authors": [
+        "Douglass C. North"
+      ],
+      "year": 1993,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/north/lecture/",
+      "type": "official",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Official English HTML prize lecture; section I and opening of II on formal/informal constraints and enforcement; delivered 9 December 1993."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 1993,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/ceremony-speech/",
+      "sha256": "dac166c918f31c2d79745b49dd009e248252c5790613b4623b4c7e8214c938e5",
+      "text_sha256": "d0aed86250426cc52aa69968e199d6208ba4e14828d6b236282591fcda52a430",
+      "characters": 6265,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Counterfactualfreightcost120 vs rail80+25 ->saving15,not40. Expectedloanrepayment.9*110=99;.99*110=108.9. These are teaching channels,not historical estimates.",
+    "independent_review": false
+  },
+  "remaining_research": "Read/verify Fogel and North original studies and full collaborator bibliography; engage historical controversies and counterfactual assumptions.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
