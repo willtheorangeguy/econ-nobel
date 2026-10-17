@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-10-17",
+  "scope": "Local production preview, default Lighthouse mobile simulation; single run per route; results are environment-specific",
+  "pages": [
+    {
+      "path": "/econ-nobel/",
+      "lighthouse_version": "13.5.0",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      }
+    },
+    {
+      "path": "/econ-nobel/awards/2001/",
+      "lighthouse_version": "13.5.0",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      }
+    }
+  ],
+  "git_revision": "036cca3"
+}

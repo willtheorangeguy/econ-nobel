@@ -32,6 +32,7 @@ test('full-text search returns correct links under the repository base',async({p
 test('draft equations, bibliography and downloads are real; originals are honestly labeled',async({page,request})=>{
  await page.goto(base+'awards/2001/');
  await expect(page.locator('.katex-display')).toHaveCount(2);
+ const section=page.locator('.article-toc a[href="#the-core-economics"]');await section.click();await expect(section).toHaveAttribute('aria-current','location');
  await expect(page.locator('#ref-akerlof-1970')).toBeVisible();
  await expect(page.locator('.editorial-banner')).toContainText('unreviewed');
  const links=page.locator('a[download]');await expect(links).toHaveCount(2);

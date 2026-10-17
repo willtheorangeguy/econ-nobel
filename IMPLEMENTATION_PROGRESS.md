@@ -77,5 +77,7 @@ Do not change global shell configuration. The exporter detects ignored local Pan
 - Static build: 174 routes; Pagefind indexes 162 award/laureate/work metadata records (draft body excluded); 3,198 internal link/asset/anchor checks passed. Six PDF/EPUB artifacts passed full integrity validation; all EPUBs passed EPUBCheck with warnings treated as errors.
 - PDF pages rendered through PDFium and visually inspected: cover, equations, footnote and bibliography; no clipped math or references observed. Corrected LaTeX heading level so section numbering starts at 1 rather than 0.1.
 - Actual 2001 EPUB loaded in an EPUB.js browser reader: title/TOC present, chapter navigation successful, all 13 inline/display MathML elements in the economics chapter rendered, no reader script errors. Screenshot inspected. Other ebook applications have not been tested.
-- Production npm dependency audit was clean. No Lighthouse score is claimed; manual screen-reader user testing and additional ebook applications remain future QA.
+- Production npm dependency audit was clean. Measured local production Lighthouse mobile runs: home Performance/Accessibility/Best Practices/SEO 100/100/100/100; 2001 award 99/100/100/100. Single-run, local-environment scores; production networking may differ. Manual screen-reader user testing and additional ebook applications remain future QA.
 - Remaining release task: commit finalized milestones, switch existing Pages source from legacy branch builds to Actions, push, inspect CI/deployment and verify public pages/downloads.
+
+- Added reusable article contents navigation to award and work essays, with active section tracking and keyboard-friendly anchors.
