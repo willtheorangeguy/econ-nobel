@@ -1,0 +1,9 @@
+import { json, articles, write } from './common';
+const prizes=json<any[]>('data/generated/prizes.json'), works=json<any[]>('data/curated/works.json');
+const a=articles('awards'), w=articles('works');
+const manifest=json<any>('data/generated/download-manifest.json');
+const awards=prizes.map(p=>{ const article=a.find(a=>a.id===String(p.year))!; return {year:p.year,laureates:p.laureates.map((l:any)=>l.name),status:article.data.status,reviewer:article.data.review?.reviewer||null,featured_works:article.data.featured_work_ids,formats:manifest.artifacts.filter((f:any)=>f.kind==='awards'&&f.id===String(p.year)).map((f:any)=>f.format),remaining:article.data.status==='published'?[]:['Editorial research/review incomplete',...(!article.data.featured_work_ids.length?['Foundational works not yet verified']:[])]}; });
+const report={source_checked_at:prizes[0].last_source_checked_at,first_year:Math.min(...prizes.map(p=>p.year)),latest_year:Math.max(...prizes.map(p=>p.year)),catalogue_records:prizes.length,laureates:json<any[]>('data/generated/laureates.json').length,published_awards:a.filter(a=>a.data.status==='published').length,published_work_explanations:w.filter(a=>a.data.status==='published').length,featured_works:works.length,awards};
+write('data/reports/coverage.json',report);
+write('data/reports/coverage.md',`# Editorial coverage\n\n${report.catalogue_records} official annual records (${report.first_year}–${report.latest_year}); ${report.published_awards} published award essays; ${report.published_work_explanations} published work explanations.\n\n| Year | Status | Works | Overview formats |\n| --- | --- | --- | --- |\n${awards.map(a=>`| ${a.year} | ${a.status} | ${a.featured_works.length} | ${a.formats.join(', ')||'None'} |`).join('\n')}\n`);
+console.log(`Coverage: ${report.catalogue_records} catalogue records; ${report.published_awards} published essays. See data/reports/coverage.md.`);

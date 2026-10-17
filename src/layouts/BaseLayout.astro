@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+import '@fontsource/stix-two-text/latin-400.css';
+import '@fontsource/stix-two-text/latin-400-italic.css';
+import '@fontsource/stix-two-text/latin-600.css';
+import 'katex/dist/katex.min.css';
+import { href } from '../lib/links';
+interface Props { title: string; description?: string; search?: boolean; }
+const { title, description = 'An independent, source-led archive of the ideas recognized by the Economics Prize. Read the research, understand the intuition, follow the evidence.', search = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const nav = [['awards/', 'The archive'], ['laureates/', 'Laureates'], ['topics/', 'Topics'], ['about/', 'About']];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} · Economics Prize Archive</title>
+    <meta name="description" content={description} /><meta name="theme-color" content="#f9f8f4" />
+    <meta property="og:title" content={`${title} · Economics Prize Archive`} /><meta property="og:description" content={description} />
+    <meta property="og:type" content="website" /><meta property="og:url" content={canonical} />
+    <link rel="canonical" href={canonical} /><link rel="icon" type="image/svg+xml" href={href('favicon.svg')} />
+    {search && <link rel="stylesheet" href={href('pagefind/pagefind-ui.css')} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header" data-pagefind-ignore>
+        <a class="wordmark" href={href()} aria-label="Economics Prize Archive home"><span>ECONOMICS</span><span>PRIZE ARCHIVE<span class="wordmark-dot">.</span></span></a>
+        <nav aria-label="Main navigation">{nav.map(([path,label]) => <a href={href(path)} aria-current={Astro.url.pathname.startsWith(href(path)) ? 'page' : undefined}>{label}</a>)}<a class="search-link" href={href('search/')}><svg width="16" height="16" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8" cy="8" r="5.5" stroke="currentColor" stroke-width="1.5"/><path d="m12 12 5 5" stroke="currentColor" stroke-width="1.5"/></svg>Search</a></nav>
+      </header>
+      <main id="main" tabindex="-1"><slot /></main>
+      <footer class="site-footer" data-pagefind-ignore>
+        <div><a class="footer-brand" href={href()}>Economics Prize Archive</a><p>Read the ideas. Follow the evidence.</p></div>
+        <nav aria-label="Footer"><a href={href('coverage/')}>Editorial coverage</a><a href={href('sources-and-rights/')}>Sources & rights</a><a href="https://github.com/willtheorangeguy/econ-nobel">Source code ↗</a></nav>
+        <p class="disclaimer">Independent educational project; not affiliated with, endorsed by, or an official publication of the Nobel Foundation or the Royal Swedish Academy of Sciences.</p>
+      </footer>
+    </div>
+  </body>
+</html>

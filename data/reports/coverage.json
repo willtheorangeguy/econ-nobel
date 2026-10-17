@@ -1,0 +1,867 @@
+{
+  "source_checked_at": "2026-10-17",
+  "first_year": 1969,
+  "latest_year": 2026,
+  "catalogue_records": 58,
+  "laureates": 101,
+  "published_awards": 0,
+  "published_work_explanations": 0,
+  "featured_works": 0,
+  "awards": [
+    {
+      "year": 1969,
+      "laureates": [
+        "Ragnar Frisch",
+        "Jan Tinbergen"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1970,
+      "laureates": [
+        "Paul A. Samuelson"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1971,
+      "laureates": [
+        "Simon Kuznets"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1972,
+      "laureates": [
+        "John R. Hicks",
+        "Kenneth J. Arrow"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1973,
+      "laureates": [
+        "Wassily Leontief"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1974,
+      "laureates": [
+        "Gunnar Myrdal",
+        "Friedrich von Hayek"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1975,
+      "laureates": [
+        "Leonid Vitaliyevich Kantorovich",
+        "Tjalling C. Koopmans"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1976,
+      "laureates": [
+        "Milton Friedman"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1977,
+      "laureates": [
+        "Bertil Ohlin",
+        "James E. Meade"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1978,
+      "laureates": [
+        "Herbert Simon"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1979,
+      "laureates": [
+        "Theodore W. Schultz",
+        "Sir Arthur Lewis"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1980,
+      "laureates": [
+        "Lawrence R. Klein"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1981,
+      "laureates": [
+        "James Tobin"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1982,
+      "laureates": [
+        "George J. Stigler"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1983,
+      "laureates": [
+        "Gerard Debreu"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1984,
+      "laureates": [
+        "Richard Stone"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1985,
+      "laureates": [
+        "Franco Modigliani"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1986,
+      "laureates": [
+        "James M. Buchanan Jr."
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1987,
+      "laureates": [
+        "Robert M. Solow"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1988,
+      "laureates": [
+        "Maurice Allais"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1989,
+      "laureates": [
+        "Trygve Haavelmo"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1990,
+      "laureates": [
+        "Harry M. Markowitz",
+        "Merton H. Miller",
+        "William F. Sharpe"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1991,
+      "laureates": [
+        "Ronald H. Coase"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1992,
+      "laureates": [
+        "Gary Becker"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1993,
+      "laureates": [
+        "Robert W. Fogel",
+        "Douglass C. North"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1994,
+      "laureates": [
+        "John C. Harsanyi",
+        "John F. Nash Jr.",
+        "Reinhard Selten"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1995,
+      "laureates": [
+        "Robert E. Lucas Jr."
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1996,
+      "laureates": [
+        "James A. Mirrlees",
+        "William Vickrey"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1997,
+      "laureates": [
+        "Robert C. Merton",
+        "Myron Scholes"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1998,
+      "laureates": [
+        "Amartya Sen"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 1999,
+      "laureates": [
+        "Robert Mundell"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2000,
+      "laureates": [
+        "James J. Heckman",
+        "Daniel L. McFadden"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2001,
+      "laureates": [
+        "George A. Akerlof",
+        "A. Michael Spence",
+        "Joseph E. Stiglitz"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2002,
+      "laureates": [
+        "Daniel Kahneman",
+        "Vernon L. Smith"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2003,
+      "laureates": [
+        "Robert F. Engle III",
+        "Clive W.J. Granger"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2004,
+      "laureates": [
+        "Finn E. Kydland",
+        "Edward C. Prescott"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2005,
+      "laureates": [
+        "Robert J. Aumann",
+        "Thomas C. Schelling"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2006,
+      "laureates": [
+        "Edmund S. Phelps"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2007,
+      "laureates": [
+        "Leonid Hurwicz",
+        "Eric S. Maskin",
+        "Roger B. Myerson"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2008,
+      "laureates": [
+        "Paul Krugman"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2009,
+      "laureates": [
+        "Elinor Ostrom",
+        "Oliver E. Williamson"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2010,
+      "laureates": [
+        "Peter A. Diamond",
+        "Dale T. Mortensen",
+        "Christopher A. Pissarides"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2011,
+      "laureates": [
+        "Thomas J. Sargent",
+        "Christopher A. Sims"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2012,
+      "laureates": [
+        "Alvin E. Roth",
+        "Lloyd S. Shapley"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2013,
+      "laureates": [
+        "Eugene F. Fama",
+        "Lars Peter Hansen",
+        "Robert J. Shiller"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2014,
+      "laureates": [
+        "Jean Tirole"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2015,
+      "laureates": [
+        "Angus Deaton"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2016,
+      "laureates": [
+        "Oliver Hart",
+        "Bengt Holmström"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2017,
+      "laureates": [
+        "Richard H. Thaler"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2018,
+      "laureates": [
+        "William D. Nordhaus",
+        "Paul M. Romer"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2019,
+      "laureates": [
+        "Abhijit Banerjee",
+        "Esther Duflo",
+        "Michael Kremer"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2020,
+      "laureates": [
+        "Paul R. Milgrom",
+        "Robert B. Wilson"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2021,
+      "laureates": [
+        "David Card",
+        "Joshua D. Angrist",
+        "Guido W. Imbens"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2022,
+      "laureates": [
+        "Ben Bernanke",
+        "Douglas Diamond",
+        "Philip Dybvig"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2023,
+      "laureates": [
+        "Claudia Goldin"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2024,
+      "laureates": [
+        "Daron Acemoglu",
+        "Simon Johnson",
+        "James A. Robinson"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2025,
+      "laureates": [
+        "Joel Mokyr",
+        "Philippe Aghion",
+        "Peter Howitt"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    },
+    {
+      "year": 2026,
+      "laureates": [
+        "Robert E. Hall",
+        "Michael Woodford"
+      ],
+      "status": "metadata-only",
+      "reviewer": null,
+      "featured_works": [],
+      "formats": [],
+      "remaining": [
+        "Editorial research/review incomplete",
+        "Foundational works not yet verified"
+      ]
+    }
+  ]
+}

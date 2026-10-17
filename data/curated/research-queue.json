@@ -1,0 +1,5 @@
+[
+ {"doi":"10.2307/1879431","expected_title":"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism","expected_author_families":["Akerlof"],"expected_year":1970,"award_year":2001},
+ {"doi":"10.2307/1882010","expected_title":"Job Market Signaling","expected_author_families":["Spence"],"expected_year":1973,"award_year":2001},
+ {"doi":"10.2307/1885326","expected_title":"Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information","expected_author_families":["Rothschild","Stiglitz"],"expected_year":1976,"award_year":2001}
+]

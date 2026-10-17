@@ -1,0 +1,25 @@
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import { join } from 'node:path';
+import { workSchema, portraitSchema } from '../src/lib/schema';
+import { json, hash, write, today } from './common';
+export function checkVersion(v: any) {
+  if ((v.allows_hosting || v.allows_format_conversion || v.local_pdf_path || v.local_epub_path) && (!v.license_id || !v.license_evidence_url || !v.license_verified_at || !v.license_verified_by)) throw new Error(`Permission evidence missing for ${v.version_id}`);
+  if ((v.local_pdf_path || v.local_epub_path) && (!v.allows_hosting || !v.checksum_sha256)) throw new Error(`Hosting not cleared: ${v.version_id}`);
+  if (v.local_epub_path && !v.allows_format_conversion) throw new Error(`EPUB conversion not cleared: ${v.version_id}`);
+  if (v.allows_format_conversion && /(?:^|-)ND(?:-|$)/i.test(v.license_id || '')) throw new Error(`NoDerivatives conversion requires separate authorization: ${v.version_id}`);
+  for (const path of [v.local_pdf_path,v.local_epub_path].filter(Boolean)) {
+    if (!/^\/downloads\/originals\/[a-zA-Z0-9/_.-]+$/.test(path) || path.includes('..')) throw new Error('Unsafe original path');
+    if (!existsSync(`public${path}`) || hash(readFileSync(`public${path}`))!==v.checksum_sha256) throw new Error(`Missing or changed original ${path}`);
+  }
+}
+if (process.argv[1]?.endsWith('audit-rights.ts')) {
+  const works = json<any[]>('data/curated/works.json').map(w=>workSchema.parse(w));
+  const portraits = json<any[]>('data/curated/portraits.json').map(p=>portraitSchema.parse(p));
+  const allowed = new Set<string>();
+  works.forEach(w=>w.versions.forEach(v=>{ checkVersion(v); [v.local_pdf_path,v.local_epub_path].filter(Boolean).forEach(p=>allowed.add(`public${p}`)); }));
+  portraits.forEach(p=>{ const path=`public${p.local_path}`; if (!existsSync(path)||hash(readFileSync(path))!==p.checksum_sha256) throw new Error(`Missing/changed portrait ${path}`); allowed.add(path); });
+  function walk(dir: string) { if (!existsSync(dir)) return; for (const f of readdirSync(dir,{withFileTypes:true})) { const path=join(dir,f.name); if (f.isDirectory()) walk(path); else if (!allowed.has(path)) throw new Error(`Unregistered public third-party asset: ${path}`); } }
+  walk('public/downloads/originals'); walk('public/portraits');
+  write('data/reports/rights-audit.json',{ checked_at:today(),works:works.length,portraits:portraits.length,hosted_originals:allowed.size-portraits.length,failures:[] });
+  console.log(`Rights audit passed: ${works.length} works, ${portraits.length} cleared portraits. Hosting defaults to denied.`);
+}

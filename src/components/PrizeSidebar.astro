@@ -1,0 +1,15 @@
+---
+import type { Award } from '../lib/schema';
+import { person } from '../lib/catalogue';
+import { href } from '../lib/links';
+import LaureatePortrait from './LaureatePortrait.astro';
+import DownloadPanel from './DownloadPanel.astro';
+interface Props { award: Award; status: string; }
+const { award, status } = Astro.props;
+---
+<aside class="prize-sidebar" aria-label="Prize facts and downloads" data-pagefind-ignore>
+  <section><h2 class="eyebrow">The prize, at a glance</h2><p class="prize-name">{award.official_name}</p><p class="sidebar-year">{award.year}</p><a class="external" href={award.official_page_url}>Official award summary ↗</a><small>Metadata checked {award.last_source_checked_at}</small></section>
+  <section><h3>{award.laureates.length === 1 ? 'The laureate' : 'The laureates'}</h3>{award.laureates.map(l => { const p = person(l.id); return <div class="laureate-panel"><LaureatePortrait id={l.id} name={l.name}/><div><a class="laureate-name" href={href(`laureates/${l.id}/`)}>{l.name}</a><small>Prize share: {l.portion}</small>{p.affiliations.map(a => <small>{a}</small>)}<a class="small" href={p.official_profile_url}>Official biography ↗</a></div></div>; })}<p class="small muted">Monograms indicate a portrait awaiting permission verification.</p></section>
+  <DownloadPanel kind="awards" id={String(award.year)} status={status}/>
+  <section><h3>A note on the research</h3><p class="small">The prize recognizes contributions, often across many papers or books. A featured work is a documented part of that story.</p></section>
+</aside>

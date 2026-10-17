@@ -1,0 +1,47 @@
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\setmainfont{lmroman10-regular.otf}[BoldFont=lmroman10-bold.otf,ItalicFont=lmroman10-italic.otf,BoldItalicFont=lmroman10-bolditalic.otf]
+\usepackage{unicode-math}
+\setmathfont{latinmodern-math.otf}
+\usepackage[margin=28mm]{geometry}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\definecolor{ink}{HTML}{712C3B}
+\usepackage{graphicx}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=ink,urlcolor=ink,pdftitle={$title$},pdfauthor={$for(author)$$author$$sep$; $endfor$}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{.6em}
+\linespread{1.12}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Economics Prize Archive}
+\fancyhead[R]{\small Independent explanatory overview}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{15pt}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\newenvironment{CSLReferences}[2]{\begin{list}{}{\setlength{\leftmargin}{1.5em}\setlength{\itemindent}{-1.5em}\setlength{\itemsep}{.7em}}\item[]}{\end{list}}
+\newcommand{\CSLBlock}[1]{#1}
+\newcommand{\CSLLeftMargin}[1]{#1}
+\newcommand{\CSLRightInline}[1]{#1}
+\newcommand{\CSLIndent}[1]{\hspace{1.5em}#1}
+\begin{document}
+\begin{titlepage}
+{\small\scshape Economics / Prize Archive}\par\vspace{2cm}
+{\huge $title$\par}\vspace{.7cm}
+{\large $subtitle$\par}\vspace{.7cm}
+$for(author)$$author$$sep$; $endfor$\par
+$date$\par\vspace{1cm}
+\textbf{Editorial status: $editorial-status$}\par
+This document is an independent explanatory overview. Draft editions have not passed editorial review.\par\vfill
+Source: \url{$source-url$}\par
+Original explanatory prose: CC BY 4.0. Third-party sources retain their respective rights.\par
+\small Independent educational project; not affiliated with, endorsed by, or an official publication of the Nobel Foundation or the Royal Swedish Academy of Sciences.
+\end{titlepage}
+\tableofcontents\newpage
+$body$
+\end{document}

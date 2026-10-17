@@ -1,0 +1,6 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AwardIndex from '../../components/AwardIndex.astro';
+import { prizes } from '../../lib/catalogue';
+---
+<BaseLayout title="The complete award catalogue"><header class="page-heading"><p class="eyebrow">The catalogue · {prizes.at(-1)!.year}—{prizes[0].year}</p><h1>A year-by-year<br/><em>history of ideas.</em></h1><p>Every announced Economics Prize, every laureate. Browse the official facts, then follow the research as the archive develops.</p></header><AwardIndex filters/><noscript><p>All awards are listed below. Use your browser’s Find command to locate a year or laureate.</p></noscript></BaseLayout>

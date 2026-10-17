@@ -1,0 +1,49 @@
+{
+  "name": "econ-nobel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "check": "astro check",
+    "sync:nobel": "tsx scripts/sync-nobel.ts",
+    "research:works": "tsx scripts/discover-works.ts",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "audit:rights": "tsx scripts/audit-rights.ts",
+    "audit:coverage": "tsx scripts/audit-coverage.ts",
+    "export:docs": "tsx scripts/build-exports.ts",
+    "validate:exports": "tsx scripts/validate-exports.ts",
+    "check:links": "tsx scripts/check-links.ts",
+    "build": "npm run validate:content && npm run audit:rights && npm run export:docs && npm run validate:exports && npm run audit:coverage && astro build && pagefind --site dist && npm run check:links",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "7.3.3",
+    "@astrojs/sitemap": "3.7.4",
+    "@fontsource/stix-two-text": "5.3.0",
+    "astro": "7.4.0",
+    "katex": "0.19.0",
+    "rehype-katex": "7.0.1",
+    "remark-math": "6.0.0",
+    "yaml": "2.9.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "@types/node": "26.6.5",
+    "pagefind": "1.5.2",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "vitest": "5.0.5"
+  },
+  "overrides": {
+    "katex": "$katex"
+  }
+}

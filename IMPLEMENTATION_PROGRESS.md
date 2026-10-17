@@ -10,8 +10,8 @@ Repository: `/srv/openclaw/repos/willtheorangeguy/econ-nobel`. Existing public r
 
 - [x] Read the entire 786-line specification and inspect repository and runtime.
 - [x] Existing-solutions preflight: use Astro, Pagefind, Nobel API, Crossref and Pandoc rather than building replacements.
-- [ ] Phase 1: Astro/TypeScript, Markdown/KaTeX, academic design, award/sidebar prototype, honest download states.
-- [ ] Phase 2: reproducible official catalogue import, every annual route, search/filter/navigation, coverage report.
+- [x] Phase 1: Astro/TypeScript, Markdown/KaTeX, academic design, award/sidebar prototype, honest download states.
+- [x] Phase 2: reproducible official catalogue import, every annual route, search/filter/navigation, coverage report.
 - [ ] Phase 3: bibliography discovery, evidence-backed work associations, version-specific rights, portraits policy and work pages.
 - [ ] Phase 4: incremental PDF/EPUB exports, artifact manifest, validation and academic templates.
 - [ ] Phase 5: sourced exemplar essays; independent review; complete editorial coverage for every year.
@@ -38,3 +38,10 @@ Repository: `/srv/openclaw/repos/willtheorangeguy/econ-nobel`. Existing public r
 2. Import complete catalogue with source snapshots; add schema/integrity tests.
 3. Implement evidence/rights and exports, research exemplar pages, then validate and deploy completed engineering.
 4. Record exact coverage and unfinished review/rights tasks here and in public coverage report.
+
+## Engineering checkpoint — Phases 1–2
+
+- Imported 58 awards and 101 laureates with pagination, share validation and change staging; snapshots committed for offline rebuilds. Fixed an upstream pagination trap: sorting the first page differently from API next links duplicates/omits people. Importer now uses consistent query order and verifies counts and identities.
+- Built 168 static pages with local fonts, KaTeX support, base-safe links, responsive right rail, chronological filtering, laureate index, search and public coverage.
+- Checks passed: Astro type check (0 errors), static build, Pagefind indexing (159 records), 3,033 internal link/asset checks. Production dependency audit: 0 vulnerabilities after replacing an outdated frontmatter dependency and overriding nested KaTeX to the patched version.
+- Phase 3/4 infrastructure in progress; no essays yet approved or counted as published.

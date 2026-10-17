@@ -1,0 +1,6 @@
+[
+  {"slug":"econometrics","name":"Econometrics","description":"Connecting economic models with evidence."},
+  {"slug":"information-economics","name":"Information economics","description":"Markets when knowledge is unevenly shared."},
+  {"slug":"game-theory","name":"Game theory","description":"Decisions whose outcomes depend on other decision makers."},
+  {"slug":"macroeconomics","name":"Macroeconomics","description":"Economy-wide fluctuations, employment and policy."}
+]

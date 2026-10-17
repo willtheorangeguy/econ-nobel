@@ -1,0 +1,15 @@
+import rawPrizes from '../../data/generated/prizes.json';
+import rawLaureates from '../../data/generated/laureates.json';
+import rawWorks from '../../data/curated/works.json';
+import rawCitations from '../../data/curated/citations.json';
+import rawPortraits from '../../data/curated/portraits.json';
+import topics from '../../data/curated/topics.json';
+import { awardSchema, laureateSchema, workSchema, citationSchema, portraitSchema } from './schema';
+export const prizes = rawPrizes.map(p => awardSchema.parse(p)).sort((a,b) => b.year-a.year);
+export const laureates = rawLaureates.map(p => laureateSchema.parse(p));
+export const works = rawWorks.map(w => workSchema.parse(w));
+export const citations = rawCitations.map(c => citationSchema.parse(c));
+export const portraits = rawPortraits.map(p => portraitSchema.parse(p));
+export { topics };
+export const person = (id: string) => laureates.find(p => p.id === id)!;
+export const reference = (id: string) => citations.find(c => c.id === id)!;

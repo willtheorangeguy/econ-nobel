@@ -1,0 +1,163 @@
+{
+  "checked_at": "2026-10-17",
+  "candidates": [
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1879431",
+        "expected_title": "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism",
+        "expected_author_families": [
+          "Akerlof"
+        ],
+        "expected_year": 1970,
+        "award_year": 2001
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1970,
+          1970
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "crossref": {
+        "doi": "10.2307/1879431",
+        "title": "The Market for \"Lemons\": Quality Uncertainty and the Market Mechanism",
+        "authors": [
+          {
+            "given": "George A.",
+            "family": "Akerlof",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1970,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "84",
+        "issue": "3",
+        "pages": "488",
+        "url": "https://doi.org/10.2307/1879431",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1882010",
+        "expected_title": "Job Market Signaling",
+        "expected_author_families": [
+          "Spence"
+        ],
+        "expected_year": 1973,
+        "award_year": 2001
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1973,
+          1973
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "crossref": {
+        "doi": "10.2307/1882010",
+        "title": "Job Market Signaling",
+        "authors": [
+          {
+            "given": "Michael",
+            "family": "Spence",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1973,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "87",
+        "issue": "3",
+        "pages": "355",
+        "url": "https://doi.org/10.2307/1882010",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1885326",
+        "expected_title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+        "expected_author_families": [
+          "Rothschild",
+          "Stiglitz"
+        ],
+        "expected_year": 1976,
+        "award_year": 2001
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1976,
+          1976
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "crossref": {
+        "doi": "10.2307/1885326",
+        "title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+        "authors": [
+          {
+            "given": "Michael",
+            "family": "Rothschild",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joseph",
+            "family": "Stiglitz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1976,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "90",
+        "issue": "4",
+        "pages": "629",
+        "url": "https://doi.org/10.2307/1885326",
+        "type": "journal-article"
+      }
+    }
+  ],
+  "unmatched": 0
+}

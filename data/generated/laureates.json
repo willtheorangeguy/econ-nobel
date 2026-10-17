@@ -1,0 +1,1420 @@
+[
+  {
+    "id": "677",
+    "display_name": "Ragnar Frisch",
+    "official_profile_url": "https://www.nobelprize.org/laureate/677",
+    "birth_date": "1895-03-03",
+    "birth_place": "Oslo, Norway",
+    "affiliations": [
+      "University of Oslo"
+    ],
+    "award_years": [
+      1969
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/677"
+  },
+  {
+    "id": "678",
+    "display_name": "Jan Tinbergen",
+    "official_profile_url": "https://www.nobelprize.org/laureate/678",
+    "birth_date": "1903-04-12",
+    "birth_place": "the Hague, the Netherlands",
+    "affiliations": [
+      "The Netherlands School of Economics"
+    ],
+    "award_years": [
+      1969
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/678"
+  },
+  {
+    "id": "679",
+    "display_name": "Paul A. Samuelson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/679",
+    "birth_date": "1915-05-15",
+    "birth_place": "Gary, IN, USA",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      1970
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/679"
+  },
+  {
+    "id": "680",
+    "display_name": "Simon Kuznets",
+    "official_profile_url": "https://www.nobelprize.org/laureate/680",
+    "birth_date": "1901-04-30",
+    "birth_place": "Pinsk, Russian Empire (now Belarus)",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      1971
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/680"
+  },
+  {
+    "id": "681",
+    "display_name": "John R. Hicks",
+    "official_profile_url": "https://www.nobelprize.org/laureate/681",
+    "birth_date": "1904-04-08",
+    "birth_place": "Warwick, United Kingdom",
+    "affiliations": [
+      "All Souls College"
+    ],
+    "award_years": [
+      1972
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/681"
+  },
+  {
+    "id": "682",
+    "display_name": "Kenneth J. Arrow",
+    "official_profile_url": "https://www.nobelprize.org/laureate/682",
+    "birth_date": "1921-08-23",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      1972
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/682"
+  },
+  {
+    "id": "683",
+    "display_name": "Wassily Leontief",
+    "official_profile_url": "https://www.nobelprize.org/laureate/683",
+    "birth_date": "1906-08-05",
+    "birth_place": "St. Petersburg, Russia",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      1973
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/683"
+  },
+  {
+    "id": "684",
+    "display_name": "Gunnar Myrdal",
+    "official_profile_url": "https://www.nobelprize.org/laureate/684",
+    "birth_date": "1898-12-06",
+    "birth_place": "Skattungbyn, Sweden",
+    "affiliations": [],
+    "award_years": [
+      1974
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/684"
+  },
+  {
+    "id": "685",
+    "display_name": "Friedrich von Hayek",
+    "official_profile_url": "https://www.nobelprize.org/laureate/685",
+    "birth_date": "1899-05-08",
+    "birth_place": "Vienna, Austria",
+    "affiliations": [],
+    "award_years": [
+      1974
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/685"
+  },
+  {
+    "id": "686",
+    "display_name": "Leonid Vitaliyevich Kantorovich",
+    "official_profile_url": "https://www.nobelprize.org/laureate/686",
+    "birth_date": "1912-01-19",
+    "birth_place": "St. Petersburg, Russian Empire (now Russia)",
+    "affiliations": [
+      "Academy of Sciences"
+    ],
+    "award_years": [
+      1975
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/686"
+  },
+  {
+    "id": "687",
+    "display_name": "Tjalling C. Koopmans",
+    "official_profile_url": "https://www.nobelprize.org/laureate/687",
+    "birth_date": "1910-08-28",
+    "birth_place": "'s Graveland, the Netherlands",
+    "affiliations": [
+      "Yale University"
+    ],
+    "award_years": [
+      1975
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/687"
+  },
+  {
+    "id": "688",
+    "display_name": "Milton Friedman",
+    "official_profile_url": "https://www.nobelprize.org/laureate/688",
+    "birth_date": "1912-07-31",
+    "birth_place": "Brooklyn, NY, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1976
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/688"
+  },
+  {
+    "id": "689",
+    "display_name": "Bertil Ohlin",
+    "official_profile_url": "https://www.nobelprize.org/laureate/689",
+    "birth_date": "1899-04-23",
+    "birth_place": "Klippan, Sweden",
+    "affiliations": [
+      "Stockholm School of Economics"
+    ],
+    "award_years": [
+      1977
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/689"
+  },
+  {
+    "id": "690",
+    "display_name": "James E. Meade",
+    "official_profile_url": "https://www.nobelprize.org/laureate/690",
+    "birth_date": "1907-06-23",
+    "birth_place": "Swanage, United Kingdom",
+    "affiliations": [
+      "University of Cambridge"
+    ],
+    "award_years": [
+      1977
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/690"
+  },
+  {
+    "id": "691",
+    "display_name": "Herbert Simon",
+    "official_profile_url": "https://www.nobelprize.org/laureate/691",
+    "birth_date": "1916-06-15",
+    "birth_place": "Milwaukee, WI, USA",
+    "affiliations": [
+      "Carnegie Mellon University"
+    ],
+    "award_years": [
+      1978
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/691"
+  },
+  {
+    "id": "692",
+    "display_name": "Theodore W. Schultz",
+    "official_profile_url": "https://www.nobelprize.org/laureate/692",
+    "birth_date": "1902-04-30",
+    "birth_place": "Arlington, SD, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1979
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/692"
+  },
+  {
+    "id": "693",
+    "display_name": "Sir Arthur Lewis",
+    "official_profile_url": "https://www.nobelprize.org/laureate/693",
+    "birth_date": "1915-01-23",
+    "birth_place": "Castries, British West Indies (now Saint Lucia)",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      1979
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/693"
+  },
+  {
+    "id": "694",
+    "display_name": "Lawrence R. Klein",
+    "official_profile_url": "https://www.nobelprize.org/laureate/694",
+    "birth_date": "1920-09-14",
+    "birth_place": "Omaha, NE, USA",
+    "affiliations": [
+      "University of Pennsylvania"
+    ],
+    "award_years": [
+      1980
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/694"
+  },
+  {
+    "id": "695",
+    "display_name": "James Tobin",
+    "official_profile_url": "https://www.nobelprize.org/laureate/695",
+    "birth_date": "1918-03-05",
+    "birth_place": "Champaign, IL, USA",
+    "affiliations": [
+      "Yale University"
+    ],
+    "award_years": [
+      1981
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/695"
+  },
+  {
+    "id": "696",
+    "display_name": "George J. Stigler",
+    "official_profile_url": "https://www.nobelprize.org/laureate/696",
+    "birth_date": "1911-01-17",
+    "birth_place": "Renton, WA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1982
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/696"
+  },
+  {
+    "id": "697",
+    "display_name": "Gerard Debreu",
+    "official_profile_url": "https://www.nobelprize.org/laureate/697",
+    "birth_date": "1921-07-04",
+    "birth_place": "Calais, France",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      1983
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/697"
+  },
+  {
+    "id": "698",
+    "display_name": "Richard Stone",
+    "official_profile_url": "https://www.nobelprize.org/laureate/698",
+    "birth_date": "1913-08-30",
+    "birth_place": "London, United Kingdom",
+    "affiliations": [
+      "University of Cambridge"
+    ],
+    "award_years": [
+      1984
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/698"
+  },
+  {
+    "id": "699",
+    "display_name": "Franco Modigliani",
+    "official_profile_url": "https://www.nobelprize.org/laureate/699",
+    "birth_date": "1918-06-18",
+    "birth_place": "Rome, Italy",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      1985
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/699"
+  },
+  {
+    "id": "700",
+    "display_name": "James M. Buchanan Jr.",
+    "official_profile_url": "https://www.nobelprize.org/laureate/700",
+    "birth_date": "1919-10-03",
+    "birth_place": "Murfreesboro, TN, USA",
+    "affiliations": [
+      "Center for Study of Public Choice"
+    ],
+    "award_years": [
+      1986
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/700"
+  },
+  {
+    "id": "701",
+    "display_name": "Robert M. Solow",
+    "official_profile_url": "https://www.nobelprize.org/laureate/701",
+    "birth_date": "1924-08-23",
+    "birth_place": "Brooklyn, NY, USA",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      1987
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/701"
+  },
+  {
+    "id": "702",
+    "display_name": "Maurice Allais",
+    "official_profile_url": "https://www.nobelprize.org/laureate/702",
+    "birth_date": "1911-05-31",
+    "birth_place": "Paris, France",
+    "affiliations": [
+      "École Nationale Supérieur des Mines de Paris"
+    ],
+    "award_years": [
+      1988
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/702"
+  },
+  {
+    "id": "703",
+    "display_name": "Trygve Haavelmo",
+    "official_profile_url": "https://www.nobelprize.org/laureate/703",
+    "birth_date": "1911-12-13",
+    "birth_place": "Skedsmo, Norway",
+    "affiliations": [
+      "University of Oslo"
+    ],
+    "award_years": [
+      1989
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/703"
+  },
+  {
+    "id": "704",
+    "display_name": "Harry M. Markowitz",
+    "official_profile_url": "https://www.nobelprize.org/laureate/704",
+    "birth_date": "1927-08-24",
+    "birth_place": "Chicago, IL, USA",
+    "affiliations": [
+      "City University of New York"
+    ],
+    "award_years": [
+      1990
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/704"
+  },
+  {
+    "id": "705",
+    "display_name": "Merton H. Miller",
+    "official_profile_url": "https://www.nobelprize.org/laureate/705",
+    "birth_date": "1923-05-16",
+    "birth_place": "Boston, MA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1990
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/705"
+  },
+  {
+    "id": "706",
+    "display_name": "William F. Sharpe",
+    "official_profile_url": "https://www.nobelprize.org/laureate/706",
+    "birth_date": "1934-06-16",
+    "birth_place": "Boston, MA, USA",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      1990
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/706"
+  },
+  {
+    "id": "707",
+    "display_name": "Ronald H. Coase",
+    "official_profile_url": "https://www.nobelprize.org/laureate/707",
+    "birth_date": "1910-12-29",
+    "birth_place": "Willesden, United Kingdom",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1991
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/707"
+  },
+  {
+    "id": "708",
+    "display_name": "Gary Becker",
+    "official_profile_url": "https://www.nobelprize.org/laureate/708",
+    "birth_date": "1930-12-02",
+    "birth_place": "Pottsville, PA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1992
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/708"
+  },
+  {
+    "id": "709",
+    "display_name": "Robert W. Fogel",
+    "official_profile_url": "https://www.nobelprize.org/laureate/709",
+    "birth_date": "1927-07-01",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1993
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/709"
+  },
+  {
+    "id": "710",
+    "display_name": "Douglass C. North",
+    "official_profile_url": "https://www.nobelprize.org/laureate/710",
+    "birth_date": "1920-11-05",
+    "birth_place": "Cambridge, MA, USA",
+    "affiliations": [
+      "Washington University"
+    ],
+    "award_years": [
+      1993
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/710"
+  },
+  {
+    "id": "711",
+    "display_name": "John C. Harsanyi",
+    "official_profile_url": "https://www.nobelprize.org/laureate/711",
+    "birth_date": "1920-05-29",
+    "birth_place": "Budapest, Hungary",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      1994
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/711"
+  },
+  {
+    "id": "712",
+    "display_name": "John F. Nash Jr.",
+    "official_profile_url": "https://www.nobelprize.org/laureate/712",
+    "birth_date": "1928-06-13",
+    "birth_place": "Bluefield, WV, USA",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      1994
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/712"
+  },
+  {
+    "id": "713",
+    "display_name": "Reinhard Selten",
+    "official_profile_url": "https://www.nobelprize.org/laureate/713",
+    "birth_date": "1930-10-05",
+    "birth_place": "Breslau, Germany (now Wroclaw, Poland)",
+    "affiliations": [
+      "Rheinische Friedrich-Wilhelms-Universität"
+    ],
+    "award_years": [
+      1994
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/713"
+  },
+  {
+    "id": "714",
+    "display_name": "Robert E. Lucas Jr.",
+    "official_profile_url": "https://www.nobelprize.org/laureate/714",
+    "birth_date": "1937-09-15",
+    "birth_place": "Yakima, WA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      1995
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/714"
+  },
+  {
+    "id": "715",
+    "display_name": "James A. Mirrlees",
+    "official_profile_url": "https://www.nobelprize.org/laureate/715",
+    "birth_date": "1936-07-05",
+    "birth_place": "Minnigaff, Scotland",
+    "affiliations": [
+      "University of Cambridge"
+    ],
+    "award_years": [
+      1996
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/715"
+  },
+  {
+    "id": "716",
+    "display_name": "William Vickrey",
+    "official_profile_url": "https://www.nobelprize.org/laureate/716",
+    "birth_date": "1914-06-21",
+    "birth_place": "Victoria, BC, Canada",
+    "affiliations": [
+      "Columbia University"
+    ],
+    "award_years": [
+      1996
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/716"
+  },
+  {
+    "id": "717",
+    "display_name": "Robert C. Merton",
+    "official_profile_url": "https://www.nobelprize.org/laureate/717",
+    "birth_date": "1944-07-31",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      1997
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/717"
+  },
+  {
+    "id": "718",
+    "display_name": "Myron Scholes",
+    "official_profile_url": "https://www.nobelprize.org/laureate/718",
+    "birth_date": "1941-07-01",
+    "birth_place": "Timmins, ON, Canada",
+    "affiliations": [
+      "Long Term Capital Management"
+    ],
+    "award_years": [
+      1997
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/718"
+  },
+  {
+    "id": "719",
+    "display_name": "Amartya Sen",
+    "official_profile_url": "https://www.nobelprize.org/laureate/719",
+    "birth_date": "1933-11-03",
+    "birth_place": "Santiniketan, India",
+    "affiliations": [
+      "Trinity College"
+    ],
+    "award_years": [
+      1998
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/719"
+  },
+  {
+    "id": "720",
+    "display_name": "Robert Mundell",
+    "official_profile_url": "https://www.nobelprize.org/laureate/720",
+    "birth_date": "1932-10-24",
+    "birth_place": "Kingston, ON, Canada",
+    "affiliations": [
+      "Columbia University"
+    ],
+    "award_years": [
+      1999
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/720"
+  },
+  {
+    "id": "732",
+    "display_name": "James J. Heckman",
+    "official_profile_url": "https://www.nobelprize.org/laureate/732",
+    "birth_date": "1944-04-19",
+    "birth_place": "Chicago, IL, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2000
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/732"
+  },
+  {
+    "id": "733",
+    "display_name": "Daniel L. McFadden",
+    "official_profile_url": "https://www.nobelprize.org/laureate/733",
+    "birth_date": "1937-07-29",
+    "birth_place": "Raleigh, NC, USA",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2000
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/733"
+  },
+  {
+    "id": "744",
+    "display_name": "George A. Akerlof",
+    "official_profile_url": "https://www.nobelprize.org/laureate/744",
+    "birth_date": "1940-06-17",
+    "birth_place": "New Haven, CT, USA",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2001
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/744"
+  },
+  {
+    "id": "745",
+    "display_name": "A. Michael Spence",
+    "official_profile_url": "https://www.nobelprize.org/laureate/745",
+    "birth_date": "1943-11-07",
+    "birth_place": "Montclair, NJ, USA",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      2001
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/745"
+  },
+  {
+    "id": "746",
+    "display_name": "Joseph E. Stiglitz",
+    "official_profile_url": "https://www.nobelprize.org/laureate/746",
+    "birth_date": "1943-02-09",
+    "birth_place": "Gary, IN, USA",
+    "affiliations": [
+      "Columbia University"
+    ],
+    "award_years": [
+      2001
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/746"
+  },
+  {
+    "id": "759",
+    "display_name": "Daniel Kahneman",
+    "official_profile_url": "https://www.nobelprize.org/laureate/759",
+    "birth_date": "1934-03-05",
+    "birth_place": "Tel Aviv, British Mandate of Palestine (now Israel)",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      2002
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/759"
+  },
+  {
+    "id": "760",
+    "display_name": "Vernon L. Smith",
+    "official_profile_url": "https://www.nobelprize.org/laureate/760",
+    "birth_date": "1927-01-01",
+    "birth_place": "Wichita, KS, USA",
+    "affiliations": [
+      "George Mason University"
+    ],
+    "award_years": [
+      2002
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/760"
+  },
+  {
+    "id": "771",
+    "display_name": "Robert F. Engle III",
+    "official_profile_url": "https://www.nobelprize.org/laureate/771",
+    "birth_date": "1942-11-10",
+    "birth_place": "Syracuse, NY, USA",
+    "affiliations": [
+      "New York University"
+    ],
+    "award_years": [
+      2003
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/771"
+  },
+  {
+    "id": "772",
+    "display_name": "Clive W.J. Granger",
+    "official_profile_url": "https://www.nobelprize.org/laureate/772",
+    "birth_date": "1934-09-04",
+    "birth_place": "Swansea, United Kingdom",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2003
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/772"
+  },
+  {
+    "id": "786",
+    "display_name": "Finn E. Kydland",
+    "official_profile_url": "https://www.nobelprize.org/laureate/786",
+    "birth_date": "1943-12-01",
+    "birth_place": "Gjesdal, Norway",
+    "affiliations": [
+      "Carnegie Mellon University",
+      "University of California"
+    ],
+    "award_years": [
+      2004
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/786"
+  },
+  {
+    "id": "787",
+    "display_name": "Edward C. Prescott",
+    "official_profile_url": "https://www.nobelprize.org/laureate/787",
+    "birth_date": "1940-12-26",
+    "birth_place": "Glens Falls, NY, USA",
+    "affiliations": [
+      "Arizona State University",
+      "Federal Reserve Bank of Minneapolis"
+    ],
+    "award_years": [
+      2004
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/787"
+  },
+  {
+    "id": "799",
+    "display_name": "Robert J. Aumann",
+    "official_profile_url": "https://www.nobelprize.org/laureate/799",
+    "birth_date": "1930-06-08",
+    "birth_place": "Frankfurt-on-the-Main, Germany",
+    "affiliations": [
+      "University of Jerusalem, Center for RationalityHebrew"
+    ],
+    "award_years": [
+      2005
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/799"
+  },
+  {
+    "id": "800",
+    "display_name": "Thomas C. Schelling",
+    "official_profile_url": "https://www.nobelprize.org/laureate/800",
+    "birth_date": "1921-04-14",
+    "birth_place": "Oakland, CA, USA",
+    "affiliations": [
+      "University of Maryland, Department of Economics and School of Public Policy"
+    ],
+    "award_years": [
+      2005
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/800"
+  },
+  {
+    "id": "807",
+    "display_name": "Edmund S. Phelps",
+    "official_profile_url": "https://www.nobelprize.org/laureate/807",
+    "birth_date": "1933-07-26",
+    "birth_place": "Evanston, IL, USA",
+    "affiliations": [
+      "Columbia University"
+    ],
+    "award_years": [
+      2006
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/807"
+  },
+  {
+    "id": "820",
+    "display_name": "Leonid Hurwicz",
+    "official_profile_url": "https://www.nobelprize.org/laureate/820",
+    "birth_date": "1917-08-21",
+    "birth_place": "Moscow, Russia",
+    "affiliations": [
+      "University of Minnesota"
+    ],
+    "award_years": [
+      2007
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/820"
+  },
+  {
+    "id": "821",
+    "display_name": "Eric S. Maskin",
+    "official_profile_url": "https://www.nobelprize.org/laureate/821",
+    "birth_date": "1950-12-12",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Institute for Advanced Study"
+    ],
+    "award_years": [
+      2007
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/821"
+  },
+  {
+    "id": "822",
+    "display_name": "Roger B. Myerson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/822",
+    "birth_date": "1951-03-29",
+    "birth_place": "Boston, MA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2007
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/822"
+  },
+  {
+    "id": "834",
+    "display_name": "Paul Krugman",
+    "official_profile_url": "https://www.nobelprize.org/laureate/834",
+    "birth_date": "1953-02-28",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      2008
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/834"
+  },
+  {
+    "id": "846",
+    "display_name": "Elinor Ostrom",
+    "official_profile_url": "https://www.nobelprize.org/laureate/846",
+    "birth_date": "1933-08-07",
+    "birth_place": "Los Angeles, CA, USA",
+    "affiliations": [
+      "Indiana University",
+      "Arizona State University"
+    ],
+    "award_years": [
+      2009
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/846"
+  },
+  {
+    "id": "847",
+    "display_name": "Oliver E. Williamson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/847",
+    "birth_date": "1932-09-27",
+    "birth_place": "Superior, WI, USA",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2009
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/847"
+  },
+  {
+    "id": "856",
+    "display_name": "Peter A. Diamond",
+    "official_profile_url": "https://www.nobelprize.org/laureate/856",
+    "birth_date": "1940-04-29",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2010
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/856"
+  },
+  {
+    "id": "857",
+    "display_name": "Dale T. Mortensen",
+    "official_profile_url": "https://www.nobelprize.org/laureate/857",
+    "birth_date": "1939-02-02",
+    "birth_place": "Enterprise, OR, USA",
+    "affiliations": [
+      "Northwestern University",
+      "Aarhus University"
+    ],
+    "award_years": [
+      2010
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/857"
+  },
+  {
+    "id": "858",
+    "display_name": "Christopher A. Pissarides",
+    "official_profile_url": "https://www.nobelprize.org/laureate/858",
+    "birth_date": "1948-02-20",
+    "birth_place": "Nicosia, Cyprus",
+    "affiliations": [
+      "London School of Economics and Political Science"
+    ],
+    "award_years": [
+      2010
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/858"
+  },
+  {
+    "id": "872",
+    "display_name": "Thomas J. Sargent",
+    "official_profile_url": "https://www.nobelprize.org/laureate/872",
+    "birth_date": "1943-07-19",
+    "birth_place": "Pasadena, CA, USA",
+    "affiliations": [
+      "New York University"
+    ],
+    "award_years": [
+      2011
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/872"
+  },
+  {
+    "id": "873",
+    "display_name": "Christopher A. Sims",
+    "official_profile_url": "https://www.nobelprize.org/laureate/873",
+    "birth_date": "1942-10-21",
+    "birth_place": "Washington, D.C., USA",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      2011
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/873"
+  },
+  {
+    "id": "882",
+    "display_name": "Alvin E. Roth",
+    "official_profile_url": "https://www.nobelprize.org/laureate/882",
+    "birth_date": "1951-12-18",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Harvard University",
+      "Harvard Business School"
+    ],
+    "award_years": [
+      2012
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/882"
+  },
+  {
+    "id": "883",
+    "display_name": "Lloyd S. Shapley",
+    "official_profile_url": "https://www.nobelprize.org/laureate/883",
+    "birth_date": "1923-06-02",
+    "birth_place": "Cambridge, MA, USA",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2012
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/883"
+  },
+  {
+    "id": "894",
+    "display_name": "Eugene F. Fama",
+    "official_profile_url": "https://www.nobelprize.org/laureate/894",
+    "birth_date": "1939-02-14",
+    "birth_place": "Boston, MA, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2013
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/894"
+  },
+  {
+    "id": "895",
+    "display_name": "Lars Peter Hansen",
+    "official_profile_url": "https://www.nobelprize.org/laureate/895",
+    "birth_date": "1952-10-26",
+    "birth_place": "Urbana, IL, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2013
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/895"
+  },
+  {
+    "id": "896",
+    "display_name": "Robert J. Shiller",
+    "official_profile_url": "https://www.nobelprize.org/laureate/896",
+    "birth_date": "1946-03-29",
+    "birth_place": "Detroit, MI, USA",
+    "affiliations": [
+      "Yale University"
+    ],
+    "award_years": [
+      2013
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/896"
+  },
+  {
+    "id": "915",
+    "display_name": "Jean Tirole",
+    "official_profile_url": "https://www.nobelprize.org/laureate/915",
+    "birth_date": "1953-08-09",
+    "birth_place": "Troyes, France",
+    "affiliations": [
+      "Toulouse School of Economics (TSE)"
+    ],
+    "award_years": [
+      2014
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/915"
+  },
+  {
+    "id": "926",
+    "display_name": "Angus Deaton",
+    "official_profile_url": "https://www.nobelprize.org/laureate/926",
+    "birth_date": "1945-10-19",
+    "birth_place": "Edinburgh, Scotland",
+    "affiliations": [
+      "Princeton University"
+    ],
+    "award_years": [
+      2015
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/926"
+  },
+  {
+    "id": "935",
+    "display_name": "Oliver Hart",
+    "official_profile_url": "https://www.nobelprize.org/laureate/935",
+    "birth_date": "1948-10-09",
+    "birth_place": "London, United Kingdom",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      2016
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/935"
+  },
+  {
+    "id": "936",
+    "display_name": "Bengt Holmström",
+    "official_profile_url": "https://www.nobelprize.org/laureate/936",
+    "birth_date": "1949-04-18",
+    "birth_place": "Helsinki, Finland",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2016
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/936"
+  },
+  {
+    "id": "949",
+    "display_name": "Richard H. Thaler",
+    "official_profile_url": "https://www.nobelprize.org/laureate/949",
+    "birth_date": "1945-09-12",
+    "birth_place": "East Orange, NJ, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2017
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/949"
+  },
+  {
+    "id": "968",
+    "display_name": "William D. Nordhaus",
+    "official_profile_url": "https://www.nobelprize.org/laureate/968",
+    "birth_date": "1941-05-31",
+    "birth_place": "Albuquerque, NM, USA",
+    "affiliations": [
+      "Yale University"
+    ],
+    "award_years": [
+      2018
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/968"
+  },
+  {
+    "id": "969",
+    "display_name": "Paul M. Romer",
+    "official_profile_url": "https://www.nobelprize.org/laureate/969",
+    "birth_date": "1955-00-00",
+    "birth_place": "Denver, CO, USA",
+    "affiliations": [
+      "NYU Stern School of Business"
+    ],
+    "award_years": [
+      2018
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/969"
+  },
+  {
+    "id": "982",
+    "display_name": "Abhijit Banerjee",
+    "official_profile_url": "https://www.nobelprize.org/laureate/982",
+    "birth_date": "1961-02-21",
+    "birth_place": "Mumbai, India",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2019
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/982"
+  },
+  {
+    "id": "983",
+    "display_name": "Esther Duflo",
+    "official_profile_url": "https://www.nobelprize.org/laureate/983",
+    "birth_date": "1972-10-25",
+    "birth_place": "Paris, France",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2019
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/983"
+  },
+  {
+    "id": "984",
+    "display_name": "Michael Kremer",
+    "official_profile_url": "https://www.nobelprize.org/laureate/984",
+    "birth_date": "1964-11-12",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      2019
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/984"
+  },
+  {
+    "id": "995",
+    "display_name": "Paul R. Milgrom",
+    "official_profile_url": "https://www.nobelprize.org/laureate/995",
+    "birth_date": "1948-04-20",
+    "birth_place": "Detroit, MI, USA",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      2020
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/995"
+  },
+  {
+    "id": "996",
+    "display_name": "Robert B. Wilson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/996",
+    "birth_date": "1937-05-16",
+    "birth_place": "Geneva, NE, USA",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      2020
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/996"
+  },
+  {
+    "id": "1007",
+    "display_name": "David Card",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1007",
+    "birth_date": "1956-00-00",
+    "birth_place": "Guelph, Canada",
+    "affiliations": [
+      "University of California"
+    ],
+    "award_years": [
+      2021
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1007"
+  },
+  {
+    "id": "1008",
+    "display_name": "Joshua D. Angrist",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1008",
+    "birth_date": "1960-09-18",
+    "birth_place": "Columbus, OH, USA",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2021
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1008"
+  },
+  {
+    "id": "1009",
+    "display_name": "Guido W. Imbens",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1009",
+    "birth_date": "1963-09-03",
+    "birth_place": "Geldrop, the Netherlands",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      2021
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1009"
+  },
+  {
+    "id": "1021",
+    "display_name": "Ben Bernanke",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1021",
+    "birth_date": "1953-12-13",
+    "birth_place": "Augusta, GA, USA",
+    "affiliations": [
+      "The Brookings Institution"
+    ],
+    "award_years": [
+      2022
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1021"
+  },
+  {
+    "id": "1022",
+    "display_name": "Douglas Diamond",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1022",
+    "birth_date": "1953-10-25",
+    "birth_place": "Chicago, IL, USA",
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2022
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1022"
+  },
+  {
+    "id": "1023",
+    "display_name": "Philip Dybvig",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1023",
+    "birth_date": "1955-05-22",
+    "birth_place": "Gainesville, FL, USA",
+    "affiliations": [
+      "Washington University"
+    ],
+    "award_years": [
+      2022
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1023"
+  },
+  {
+    "id": "1034",
+    "display_name": "Claudia Goldin",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1034",
+    "birth_date": "1946-05-14",
+    "birth_place": "New York, NY, USA",
+    "affiliations": [
+      "Harvard University"
+    ],
+    "award_years": [
+      2023
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1034"
+  },
+  {
+    "id": "1044",
+    "display_name": "Daron Acemoglu",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1044",
+    "birth_date": "1967-09-03",
+    "birth_place": "Istanbul, Turkey",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2024
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1044"
+  },
+  {
+    "id": "1045",
+    "display_name": "Simon Johnson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1045",
+    "birth_date": "1963-00-00",
+    "birth_place": "Sheffield, United Kingdom",
+    "affiliations": [
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "award_years": [
+      2024
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1045"
+  },
+  {
+    "id": "1046",
+    "display_name": "James A. Robinson",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1046",
+    "birth_date": "1960-00-00",
+    "birth_place": null,
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "award_years": [
+      2024
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1046"
+  },
+  {
+    "id": "1058",
+    "display_name": "Joel Mokyr",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1058",
+    "birth_date": "1946-07-26",
+    "birth_place": "Leiden, the Netherlands",
+    "affiliations": [
+      "Northwestern University",
+      "Eitan Berglas School of Economics, Tel Aviv University"
+    ],
+    "award_years": [
+      2025
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1058"
+  },
+  {
+    "id": "1059",
+    "display_name": "Philippe Aghion",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1059",
+    "birth_date": "1956-08-17",
+    "birth_place": "Paris, France",
+    "affiliations": [
+      "Collège de France",
+      "INSEAD",
+      "London School of Economics and Political Science"
+    ],
+    "award_years": [
+      2025
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1059"
+  },
+  {
+    "id": "1060",
+    "display_name": "Peter Howitt",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1060",
+    "birth_date": "1946-05-31",
+    "birth_place": "Canada",
+    "affiliations": [
+      "Brown University"
+    ],
+    "award_years": [
+      2025
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1060"
+  },
+  {
+    "id": "1069",
+    "display_name": "Robert E. Hall",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1069",
+    "birth_date": "1943-00-00",
+    "birth_place": "Palo Alto, CA, USA",
+    "affiliations": [
+      "Stanford University"
+    ],
+    "award_years": [
+      2026
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1069"
+  },
+  {
+    "id": "1070",
+    "display_name": "Michael Woodford",
+    "official_profile_url": "https://www.nobelprize.org/laureate/1070",
+    "birth_date": "1955-00-00",
+    "birth_place": "Chicopee, MA, USA",
+    "affiliations": [
+      "Columbia University"
+    ],
+    "award_years": [
+      2026
+    ],
+    "source_url": "https://api.nobelprize.org/2.1/laureate/1070"
+  }
+]

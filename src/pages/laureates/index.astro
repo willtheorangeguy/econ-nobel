@@ -1,0 +1,7 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { laureates } from '../../lib/catalogue';
+import { href } from '../../lib/links';
+const sorted = [...laureates].sort((a,b) => a.display_name.split(' ').at(-1)!.localeCompare(b.display_name.split(' ').at(-1)!));
+---
+<BaseLayout title="The laureates"><header class="page-heading"><p class="eyebrow">People behind the ideas</p><h1>The <em>laureates.</em></h1><p>Every recipient in the official economics catalogue. Alphabetized by the last name in their official display name.</p></header><ul class="name-index">{sorted.map(p => <li><a href={href(`laureates/${p.id}/`)}>{p.display_name}</a><small>{p.award_years.join(', ')}</small></li>)}</ul></BaseLayout>

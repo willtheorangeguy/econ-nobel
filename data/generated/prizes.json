@@ -1,0 +1,1246 @@
+[
+  {
+    "year": 1969,
+    "official_prize_id": "eco-1969",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1969/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1969",
+    "laureates": [
+      {
+        "id": "677",
+        "name": "Ragnar Frisch",
+        "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+        "portion": "1/2"
+      },
+      {
+        "id": "678",
+        "name": "Jan Tinbergen",
+        "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1970,
+    "official_prize_id": "eco-1970",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1970/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1970",
+    "laureates": [
+      {
+        "id": "679",
+        "name": "Paul A. Samuelson",
+        "motivation": "for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1971,
+    "official_prize_id": "eco-1971",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1971/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1971",
+    "laureates": [
+      {
+        "id": "680",
+        "name": "Simon Kuznets",
+        "motivation": "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1972,
+    "official_prize_id": "eco-1972",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1972/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1972",
+    "laureates": [
+      {
+        "id": "681",
+        "name": "John R. Hicks",
+        "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+        "portion": "1/2"
+      },
+      {
+        "id": "682",
+        "name": "Kenneth J. Arrow",
+        "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1973,
+    "official_prize_id": "eco-1973",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for the development of the input-output method and for its application to important economic problems",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1973/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1973",
+    "laureates": [
+      {
+        "id": "683",
+        "name": "Wassily Leontief",
+        "motivation": "for the development of the input-output method and for its application to important economic problems",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1974,
+    "official_prize_id": "eco-1974",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1974/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1974",
+    "laureates": [
+      {
+        "id": "684",
+        "name": "Gunnar Myrdal",
+        "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+        "portion": "1/2"
+      },
+      {
+        "id": "685",
+        "name": "Friedrich von Hayek",
+        "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1975,
+    "official_prize_id": "eco-1975",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their contributions to the theory of optimum allocation of resources",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1975/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1975",
+    "laureates": [
+      {
+        "id": "686",
+        "name": "Leonid Vitaliyevich Kantorovich",
+        "motivation": "for their contributions to the theory of optimum allocation of resources",
+        "portion": "1/2"
+      },
+      {
+        "id": "687",
+        "name": "Tjalling C. Koopmans",
+        "motivation": "for their contributions to the theory of optimum allocation of resources",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1976,
+    "official_prize_id": "eco-1976",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1976/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1976",
+    "laureates": [
+      {
+        "id": "688",
+        "name": "Milton Friedman",
+        "motivation": "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1977,
+    "official_prize_id": "eco-1977",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1977/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1977",
+    "laureates": [
+      {
+        "id": "689",
+        "name": "Bertil Ohlin",
+        "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+        "portion": "1/2"
+      },
+      {
+        "id": "690",
+        "name": "James E. Meade",
+        "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1978,
+    "official_prize_id": "eco-1978",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his pioneering research into the decision-making process within economic organizations",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1978/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1978",
+    "laureates": [
+      {
+        "id": "691",
+        "name": "Herbert Simon",
+        "motivation": "for his pioneering research into the decision-making process within economic organizations",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1979,
+    "official_prize_id": "eco-1979",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1979/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1979",
+    "laureates": [
+      {
+        "id": "692",
+        "name": "Theodore W. Schultz",
+        "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+        "portion": "1/2"
+      },
+      {
+        "id": "693",
+        "name": "Sir Arthur Lewis",
+        "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1980,
+    "official_prize_id": "eco-1980",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1980/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1980",
+    "laureates": [
+      {
+        "id": "694",
+        "name": "Lawrence R. Klein",
+        "motivation": "for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1981,
+    "official_prize_id": "eco-1981",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1981/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1981",
+    "laureates": [
+      {
+        "id": "695",
+        "name": "James Tobin",
+        "motivation": "for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1982,
+    "official_prize_id": "eco-1982",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1982/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1982",
+    "laureates": [
+      {
+        "id": "696",
+        "name": "George J. Stigler",
+        "motivation": "for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1983,
+    "official_prize_id": "eco-1983",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1983/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1983",
+    "laureates": [
+      {
+        "id": "697",
+        "name": "Gerard Debreu",
+        "motivation": "for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1984,
+    "official_prize_id": "eco-1984",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1984/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1984",
+    "laureates": [
+      {
+        "id": "698",
+        "name": "Richard Stone",
+        "motivation": "for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1985,
+    "official_prize_id": "eco-1985",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his pioneering analyses of saving and of financial markets",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1985/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1985",
+    "laureates": [
+      {
+        "id": "699",
+        "name": "Franco Modigliani",
+        "motivation": "for his pioneering analyses of saving and of financial markets",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1986,
+    "official_prize_id": "eco-1986",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his development of the contractual and constitutional bases for the theory of economic and political decision-making",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1986/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1986",
+    "laureates": [
+      {
+        "id": "700",
+        "name": "James M. Buchanan Jr.",
+        "motivation": "for his development of the contractual and constitutional bases for the theory of economic and political decision-making",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1987,
+    "official_prize_id": "eco-1987",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his contributions to the theory of economic growth",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1987/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1987",
+    "laureates": [
+      {
+        "id": "701",
+        "name": "Robert M. Solow",
+        "motivation": "for his contributions to the theory of economic growth",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1988,
+    "official_prize_id": "eco-1988",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his pioneering contributions to the theory of markets and efficient utilization of resources",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1988/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1988",
+    "laureates": [
+      {
+        "id": "702",
+        "name": "Maurice Allais",
+        "motivation": "for his pioneering contributions to the theory of markets and efficient utilization of resources",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1989,
+    "official_prize_id": "eco-1989",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1989/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1989",
+    "laureates": [
+      {
+        "id": "703",
+        "name": "Trygve Haavelmo",
+        "motivation": "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1990,
+    "official_prize_id": "eco-1990",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pioneering work in the theory of financial economics",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1990/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1990",
+    "laureates": [
+      {
+        "id": "704",
+        "name": "Harry M. Markowitz",
+        "motivation": "for their pioneering work in the theory of financial economics",
+        "portion": "1/3"
+      },
+      {
+        "id": "705",
+        "name": "Merton H. Miller",
+        "motivation": "for their pioneering work in the theory of financial economics",
+        "portion": "1/3"
+      },
+      {
+        "id": "706",
+        "name": "William F. Sharpe",
+        "motivation": "for their pioneering work in the theory of financial economics",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1991,
+    "official_prize_id": "eco-1991",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1991/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1991",
+    "laureates": [
+      {
+        "id": "707",
+        "name": "Ronald H. Coase",
+        "motivation": "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1992,
+    "official_prize_id": "eco-1992",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1992/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1992",
+    "laureates": [
+      {
+        "id": "708",
+        "name": "Gary Becker",
+        "motivation": "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1993,
+    "official_prize_id": "eco-1993",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1993/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1993",
+    "laureates": [
+      {
+        "id": "709",
+        "name": "Robert W. Fogel",
+        "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+        "portion": "1/2"
+      },
+      {
+        "id": "710",
+        "name": "Douglass C. North",
+        "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1994,
+    "official_prize_id": "eco-1994",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1994/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1994",
+    "laureates": [
+      {
+        "id": "711",
+        "name": "John C. Harsanyi",
+        "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+        "portion": "1/3"
+      },
+      {
+        "id": "712",
+        "name": "John F. Nash Jr.",
+        "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+        "portion": "1/3"
+      },
+      {
+        "id": "713",
+        "name": "Reinhard Selten",
+        "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1995,
+    "official_prize_id": "eco-1995",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1995/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1995",
+    "laureates": [
+      {
+        "id": "714",
+        "name": "Robert E. Lucas Jr.",
+        "motivation": "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1996,
+    "official_prize_id": "eco-1996",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1996/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1996",
+    "laureates": [
+      {
+        "id": "715",
+        "name": "James A. Mirrlees",
+        "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+        "portion": "1/2"
+      },
+      {
+        "id": "716",
+        "name": "William Vickrey",
+        "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1997,
+    "official_prize_id": "eco-1997",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for a new method to determine the value of derivatives",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1997/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1997",
+    "laureates": [
+      {
+        "id": "717",
+        "name": "Robert C. Merton",
+        "motivation": "for a new method to determine the value of derivatives",
+        "portion": "1/2"
+      },
+      {
+        "id": "718",
+        "name": "Myron Scholes",
+        "motivation": "for a new method to determine the value of derivatives",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1998,
+    "official_prize_id": "eco-1998",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his contributions to welfare economics",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1998/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1998",
+    "laureates": [
+      {
+        "id": "719",
+        "name": "Amartya Sen",
+        "motivation": "for his contributions to welfare economics",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 1999,
+    "official_prize_id": "eco-1999",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1999/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1999",
+    "laureates": [
+      {
+        "id": "720",
+        "name": "Robert Mundell",
+        "motivation": "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2000,
+    "official_prize_id": "eco-2000",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his development of theory and methods for analyzing selective samples; for his development of theory and methods for analyzing discrete choice",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2000/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2000",
+    "laureates": [
+      {
+        "id": "732",
+        "name": "James J. Heckman",
+        "motivation": "for his development of theory and methods for analyzing selective samples",
+        "portion": "1/2"
+      },
+      {
+        "id": "733",
+        "name": "Daniel L. McFadden",
+        "motivation": "for his development of theory and methods for analyzing discrete choice",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2001,
+    "official_prize_id": "eco-2001",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their analyses of markets with asymmetric information",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2001/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2001",
+    "laureates": [
+      {
+        "id": "744",
+        "name": "George A. Akerlof",
+        "motivation": "for their analyses of markets with asymmetric information",
+        "portion": "1/3"
+      },
+      {
+        "id": "745",
+        "name": "A. Michael Spence",
+        "motivation": "for their analyses of markets with asymmetric information",
+        "portion": "1/3"
+      },
+      {
+        "id": "746",
+        "name": "Joseph E. Stiglitz",
+        "motivation": "for their analyses of markets with asymmetric information",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2002,
+    "official_prize_id": "eco-2002",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty; for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2002/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2002",
+    "laureates": [
+      {
+        "id": "759",
+        "name": "Daniel Kahneman",
+        "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty",
+        "portion": "1/2"
+      },
+      {
+        "id": "760",
+        "name": "Vernon L. Smith",
+        "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2003,
+    "official_prize_id": "eco-2003",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH); for methods of analyzing economic time series with common trends (cointegration)",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2003/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2003",
+    "laureates": [
+      {
+        "id": "771",
+        "name": "Robert F. Engle III",
+        "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)",
+        "portion": "1/2"
+      },
+      {
+        "id": "772",
+        "name": "Clive W.J. Granger",
+        "motivation": "for methods of analyzing economic time series with common trends (cointegration)",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2004,
+    "official_prize_id": "eco-2004",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2004/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2004",
+    "laureates": [
+      {
+        "id": "786",
+        "name": "Finn E. Kydland",
+        "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+        "portion": "1/2"
+      },
+      {
+        "id": "787",
+        "name": "Edward C. Prescott",
+        "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2005,
+    "official_prize_id": "eco-2005",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2005/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2005",
+    "laureates": [
+      {
+        "id": "799",
+        "name": "Robert J. Aumann",
+        "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+        "portion": "1/2"
+      },
+      {
+        "id": "800",
+        "name": "Thomas C. Schelling",
+        "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2006,
+    "official_prize_id": "eco-2006",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2006/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2006",
+    "laureates": [
+      {
+        "id": "807",
+        "name": "Edmund S. Phelps",
+        "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2007,
+    "official_prize_id": "eco-2007",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having laid the foundations of mechanism design theory",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2007/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2007",
+    "laureates": [
+      {
+        "id": "820",
+        "name": "Leonid Hurwicz",
+        "motivation": "for having laid the foundations of mechanism design theory",
+        "portion": "1/3"
+      },
+      {
+        "id": "821",
+        "name": "Eric S. Maskin",
+        "motivation": "for having laid the foundations of mechanism design theory",
+        "portion": "1/3"
+      },
+      {
+        "id": "822",
+        "name": "Roger B. Myerson",
+        "motivation": "for having laid the foundations of mechanism design theory",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2008,
+    "official_prize_id": "eco-2008",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of trade patterns and location of economic activity",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2008/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2008",
+    "laureates": [
+      {
+        "id": "834",
+        "name": "Paul Krugman",
+        "motivation": "for his analysis of trade patterns and location of economic activity",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2009,
+    "official_prize_id": "eco-2009",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for her analysis of economic governance, especially the commons; for his analysis of economic governance, especially the boundaries of the firm",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2009/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2009",
+    "laureates": [
+      {
+        "id": "846",
+        "name": "Elinor Ostrom",
+        "motivation": "for her analysis of economic governance, especially the commons",
+        "portion": "1/2"
+      },
+      {
+        "id": "847",
+        "name": "Oliver E. Williamson",
+        "motivation": "for his analysis of economic governance, especially the boundaries of the firm",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2010,
+    "official_prize_id": "eco-2010",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their analysis of markets with search frictions",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2010",
+    "laureates": [
+      {
+        "id": "856",
+        "name": "Peter A. Diamond",
+        "motivation": "for their analysis of markets with search frictions",
+        "portion": "1/3"
+      },
+      {
+        "id": "857",
+        "name": "Dale T. Mortensen",
+        "motivation": "for their analysis of markets with search frictions",
+        "portion": "1/3"
+      },
+      {
+        "id": "858",
+        "name": "Christopher A. Pissarides",
+        "motivation": "for their analysis of markets with search frictions",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2011,
+    "official_prize_id": "eco-2011",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their empirical research on cause and effect in the macroeconomy",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2011/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2011",
+    "laureates": [
+      {
+        "id": "872",
+        "name": "Thomas J. Sargent",
+        "motivation": "for their empirical research on cause and effect in the macroeconomy",
+        "portion": "1/2"
+      },
+      {
+        "id": "873",
+        "name": "Christopher A. Sims",
+        "motivation": "for their empirical research on cause and effect in the macroeconomy",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2012,
+    "official_prize_id": "eco-2012",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for the theory of stable allocations and the practice of market design",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2012/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2012",
+    "laureates": [
+      {
+        "id": "882",
+        "name": "Alvin E. Roth",
+        "motivation": "for the theory of stable allocations and the practice of market design",
+        "portion": "1/2"
+      },
+      {
+        "id": "883",
+        "name": "Lloyd S. Shapley",
+        "motivation": "for the theory of stable allocations and the practice of market design",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2013,
+    "official_prize_id": "eco-2013",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their empirical analysis of asset prices",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2013/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2013",
+    "laureates": [
+      {
+        "id": "894",
+        "name": "Eugene F. Fama",
+        "motivation": "for their empirical analysis of asset prices",
+        "portion": "1/3"
+      },
+      {
+        "id": "895",
+        "name": "Lars Peter Hansen",
+        "motivation": "for their empirical analysis of asset prices",
+        "portion": "1/3"
+      },
+      {
+        "id": "896",
+        "name": "Robert J. Shiller",
+        "motivation": "for their empirical analysis of asset prices",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2014,
+    "official_prize_id": "eco-2014",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of market power and regulation",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2014/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2014",
+    "laureates": [
+      {
+        "id": "915",
+        "name": "Jean Tirole",
+        "motivation": "for his analysis of market power and regulation",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2015,
+    "official_prize_id": "eco-2015",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his analysis of consumption, poverty, and welfare",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2015/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2015",
+    "laureates": [
+      {
+        "id": "926",
+        "name": "Angus Deaton",
+        "motivation": "for his analysis of consumption, poverty, and welfare",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2016,
+    "official_prize_id": "eco-2016",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their contributions to contract theory",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2016/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2016",
+    "laureates": [
+      {
+        "id": "935",
+        "name": "Oliver Hart",
+        "motivation": "for their contributions to contract theory",
+        "portion": "1/2"
+      },
+      {
+        "id": "936",
+        "name": "Bengt Holmström",
+        "motivation": "for their contributions to contract theory",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2017,
+    "official_prize_id": "eco-2017",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his contributions to behavioural economics",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2017/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2017",
+    "laureates": [
+      {
+        "id": "949",
+        "name": "Richard H. Thaler",
+        "motivation": "for his contributions to behavioural economics",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2018,
+    "official_prize_id": "eco-2018",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for integrating climate change into long-run macroeconomic analysis; for integrating technological innovations into long-run macroeconomic analysis",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2018/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2018",
+    "laureates": [
+      {
+        "id": "968",
+        "name": "William D. Nordhaus",
+        "motivation": "for integrating climate change into long-run macroeconomic analysis",
+        "portion": "1/2"
+      },
+      {
+        "id": "969",
+        "name": "Paul M. Romer",
+        "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2019,
+    "official_prize_id": "eco-2019",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for their experimental approach to alleviating global poverty",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2019/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2019",
+    "laureates": [
+      {
+        "id": "982",
+        "name": "Abhijit Banerjee",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "portion": "1/3"
+      },
+      {
+        "id": "983",
+        "name": "Esther Duflo",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "portion": "1/3"
+      },
+      {
+        "id": "984",
+        "name": "Michael Kremer",
+        "motivation": "for their experimental approach to alleviating global poverty",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2020,
+    "official_prize_id": "eco-2020",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for improvements to auction theory and inventions of new auction formats",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2020/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2020",
+    "laureates": [
+      {
+        "id": "995",
+        "name": "Paul R. Milgrom",
+        "motivation": "for improvements to auction theory and inventions of new auction formats",
+        "portion": "1/2"
+      },
+      {
+        "id": "996",
+        "name": "Robert B. Wilson",
+        "motivation": "for improvements to auction theory and inventions of new auction formats",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2021,
+    "official_prize_id": "eco-2021",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for his empirical contributions to labour economics; for their methodological contributions to the analysis of causal relationships",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2021/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2021",
+    "laureates": [
+      {
+        "id": "1007",
+        "name": "David Card",
+        "motivation": "for his empirical contributions to labour economics",
+        "portion": "1/2"
+      },
+      {
+        "id": "1008",
+        "name": "Joshua D. Angrist",
+        "motivation": "for their methodological contributions to the analysis of causal relationships",
+        "portion": "1/4"
+      },
+      {
+        "id": "1009",
+        "name": "Guido W. Imbens",
+        "motivation": "for their methodological contributions to the analysis of causal relationships",
+        "portion": "1/4"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2022,
+    "official_prize_id": "eco-2022",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for research on banks and financial crises",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2022/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2022",
+    "laureates": [
+      {
+        "id": "1021",
+        "name": "Ben Bernanke",
+        "motivation": "for research on banks and financial crises",
+        "portion": "1/3"
+      },
+      {
+        "id": "1022",
+        "name": "Douglas Diamond",
+        "motivation": "for research on banks and financial crises",
+        "portion": "1/3"
+      },
+      {
+        "id": "1023",
+        "name": "Philip Dybvig",
+        "motivation": "for research on banks and financial crises",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2023,
+    "official_prize_id": "eco-2023",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having advanced our understanding of women’s labour market outcomes",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2023/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2023",
+    "laureates": [
+      {
+        "id": "1034",
+        "name": "Claudia Goldin",
+        "motivation": "for having advanced our understanding of women’s labour market outcomes",
+        "portion": "1"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2024,
+    "official_prize_id": "eco-2024",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for studies of how institutions are formed and affect prosperity",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2024/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2024",
+    "laureates": [
+      {
+        "id": "1044",
+        "name": "Daron Acemoglu",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "portion": "1/3"
+      },
+      {
+        "id": "1045",
+        "name": "Simon Johnson",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "portion": "1/3"
+      },
+      {
+        "id": "1046",
+        "name": "James A. Robinson",
+        "motivation": "for studies of how institutions are formed and affect prosperity",
+        "portion": "1/3"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2025,
+    "official_prize_id": "eco-2025",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for having explained innovation-driven economic growth",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2025",
+    "laureates": [
+      {
+        "id": "1058",
+        "name": "Joel Mokyr",
+        "motivation": "for having identified the prerequisites for sustained growth through technological progress",
+        "portion": "1/2"
+      },
+      {
+        "id": "1059",
+        "name": "Philippe Aghion",
+        "motivation": "for the theory of sustained growth through creative destruction",
+        "portion": "1/4"
+      },
+      {
+        "id": "1060",
+        "name": "Peter Howitt",
+        "motivation": "for the theory of sustained growth through creative destruction",
+        "portion": "1/4"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  },
+  {
+    "year": 2026,
+    "official_prize_id": "eco-2026",
+    "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+    "official_motivation": "for microeconomic foundations of macroeconomic stabilisation",
+    "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/",
+    "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2026",
+    "laureates": [
+      {
+        "id": "1069",
+        "name": "Robert E. Hall",
+        "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+        "portion": "1/2"
+      },
+      {
+        "id": "1070",
+        "name": "Michael Woodford",
+        "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+        "portion": "1/2"
+      }
+    ],
+    "last_source_checked_at": "2026-10-17"
+  }
+]

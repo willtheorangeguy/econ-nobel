@@ -1,0 +1,12 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AwardIndex from '../../components/AwardIndex.astro';
+import { topics } from '../../lib/catalogue';
+export async function getStaticPaths() {
+  const entries = await getCollection('awards');
+  return topics.filter(t => entries.some(a => a.data.topic_slugs.includes(t.slug))).map(topic => ({ params:{ slug:topic.slug }, props:{ topic } }));
+}
+const { topic } = Astro.props;
+---
+<BaseLayout title={topic.name}><header class="page-heading"><p class="eyebrow">A field of inquiry</p><h1>{topic.name}</h1><p>{topic.description}</p></header><AwardIndex topic={topic.slug}/></BaseLayout>

@@ -1,0 +1,9 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { topics } from '../../lib/catalogue';
+import { href } from '../../lib/links';
+const entries = await getCollection('awards');
+const used = topics.filter(t => entries.some(a => a.data.topic_slugs.includes(t.slug)));
+---
+<BaseLayout title="Explore by field"><header class="page-heading"><p class="eyebrow">Ways into the archive</p><h1>Follow a <em>question.</em></h1><p>Fields connect ideas across decades. These groupings include only explicitly tagged editorial entries; drafts remain labeled.</p></header><div class="topic-list">{used.map(t => <article><h2><a href={href(`topics/${t.slug}/`)}>{t.name} ↗</a></h2><p>{t.description}</p><span class="small">{entries.filter(a => a.data.topic_slugs.includes(t.slug)).length} award entries</span></article>)}</div>{!used.length && <p>Topic groups will appear as research is added.</p>}</BaseLayout>

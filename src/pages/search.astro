@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { href } from '../lib/links';
+const base = href('pagefind/');
+---
+<BaseLayout title="Search the archive" search><header class="page-heading"><p class="eyebrow">The reading room</p><h1>Find an <em>idea.</em></h1><p>Search official award facts, laureates, and reviewed explanations. Unreviewed essay text is excluded from the index.</p></header><section class="search-section" aria-label="Full-text archive search"><div id="search"></div><p id="search-status" class="small" role="status">Loading the local search index…</p><noscript><p>Search requires JavaScript. <a href={href('awards/')}>Browse every award</a> or <a href={href('laureates/')}>use the laureate index</a>.</p></noscript></section><script is:inline define:vars={{ base }}>
+const script = document.createElement('script');
+script.src = base + 'pagefind-ui.js';
+script.onload = () => {
+  const ui = new PagefindUI({ element:'#search', showSubResults:true, showImages:false, bundlePath:base, resetStyles:false });
+  const q = new URLSearchParams(location.search).get('q');
+  if (q) ui.triggerSearch(q);
+  document.getElementById('search-status').textContent = '';
+};
+script.onerror = () => { document.getElementById('search-status').textContent = 'The search index could not load. Please use the award or laureate index in the navigation.'; };
+document.head.append(script);
+</script></BaseLayout>

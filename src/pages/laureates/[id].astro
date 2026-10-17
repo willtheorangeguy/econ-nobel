@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LaureatePortrait from '../../components/LaureatePortrait.astro';
+import { laureates, prizes } from '../../lib/catalogue';
+import { href } from '../../lib/links';
+export function getStaticPaths() { return laureates.map(p => ({ params: { id: p.id }, props: { p } })); }
+const { p } = Astro.props;
+const awards = prizes.filter(a => a.laureates.some(l => l.id === p.id));
+---
+<BaseLayout title={p.display_name}><header class="page-heading"><p class="eyebrow">Laureate profile · official ID {p.id}</p><h1>{p.display_name}</h1></header><div class="prose" data-pagefind-body><LaureatePortrait id={p.id} name={p.display_name}/>{p.birth_date && <p>Born: {p.birth_date}{p.birth_place ? ` · ${p.birth_place}` : ''}.</p>}{p.affiliations.length > 0 && <p>Affiliations at the time of the award: {p.affiliations.join('; ')}.</p>}{awards.map(a => <section><h2><a href={href(`awards/${a.year}/`)}>{a.year} Economics Prize →</a></h2><p>{a.laureates.find(l => l.id === p.id)!.motivation}.</p></section>)}<h2>Biographical sources</h2><p>This compact profile contains official catalogue facts. A researched biographical note is in preparation. <a href={p.official_profile_url}>Read the official biography ↗</a>.</p><p class="small">Source: <a href={p.source_url}>Nobel Prize API</a>. Portraits are displayed only after individual license verification.</p></div></BaseLayout>

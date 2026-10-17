@@ -1,0 +1,33 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PrizeSidebar from '../../components/PrizeSidebar.astro';
+import Bibliography from '../../components/Bibliography.astro';
+import Status from '../../components/Status.astro';
+import { prizes, works, topics } from '../../lib/catalogue';
+import { href } from '../../lib/links';
+export async function getStaticPaths() {
+  const articles = await getCollection('awards');
+  return prizes.map(award => ({ params: { year: String(award.year) }, props: { award, article: articles.find(a => a.id === String(award.year))! } }));
+}
+const { award, article } = Astro.props;
+const { Content, headings } = await render(article);
+const index = prizes.findIndex(p => p.year === award.year);
+const older = prizes[index+1], newer = prizes[index-1];
+const featured = works.filter(w => article.data.featured_work_ids.includes(w.id));
+---
+<BaseLayout title={`${award.year} — ${article.data.title.replace(/^\d{4}\s*[—–-]\s*/, '')}`} description={article.data.status === 'metadata-only' ? `${award.year}: ${award.laureates.map(l => l.name).join(', ')}. ${award.official_motivation}.` : article.data.abstract}>
+  <nav class="year-nav" aria-label="Adjacent awards" data-pagefind-ignore><span>{older && <a href={href(`awards/${older.year}/`)}>← {older.year}</a>}</span><span>Economic Sciences · {award.year}</span><span>{newer && <a href={href(`awards/${newer.year}/`)}>{newer.year} →</a>}</span></nav>
+  <div class="award-grid" data-pagefind-body>
+    <header class="article-header"><p class="eyebrow">The {award.year} prize</p><Status status={article.data.status}/><h1 data-pagefind-meta="title">{article.data.status === 'metadata-only' ? `${award.year} — Economic Sciences` : article.data.title}</h1><p class="byline">{award.laureates.map(l => l.name).join(' · ')}</p><p class="official-motivation">{award.official_motivation}</p><p class="small"><a href={award.official_page_url}>Official award motivation ↗</a></p><div class="topic-tags">{article.data.topic_slugs.map(slug => <a href={href(`topics/${slug}/`)}>{topics.find(t => t.slug === slug)!.name}</a>)}</div></header>
+    <PrizeSidebar award={award} status={article.data.status}/>
+    <article class="reading-column">
+      {article.data.status !== 'published' && <div class="editorial-banner" data-pagefind-ignore><strong>{article.data.status === 'metadata-only' ? 'Detailed explanation in preparation' : 'This is an unreviewed editorial draft'}</strong><p>{article.data.status === 'metadata-only' ? 'The catalogue facts below are sourced from the Nobel Prize API. Research, original-paper selection, and a full explanation have not yet been completed.' : 'The essay is available for transparent editorial development. It has not passed independent citation, economics, and rights review and is not counted as finished research.'} <a href={href('coverage/')}>View editorial coverage →</a></p></div>}
+      {article.data.status === 'metadata-only' ? <section><h2>The award and its recipients</h2><p>{award.official_name}, {award.year}.</p>{award.laureates.map(l => <section class="contribution"><h3>{l.name}</h3><p>{l.motivation}.</p><p class="small">Share of the prize: {l.portion}. <a href={href(`laureates/${l.id}/`)}>Laureate profile →</a></p></section>)}<h2>Where to begin reading</h2><p>The <a href={award.official_page_url}>official prize page</a> is the starting point for this award’s facts and related academy material. Foundational publications will be added after their association, bibliographic details, and access conditions have been verified.</p><p>We do not assume that an award recognizes a single “winning paper.” No original files or finished overview downloads are being advertised for this entry.</p></section> : <><nav class="article-toc" aria-label="In this explanation" data-pagefind-ignore><h2>In this explanation</h2><ol>{headings.filter(h => h.depth === 2).map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav><div data-pagefind-ignore={article.data.status === 'published' ? undefined : true}><Content/></div></>}
+      {featured.length > 0 && <section><h2>Explore the foundational works</h2>{featured.map(w => <div class="work-entry"><p class="eyebrow">{w.work_type.replaceAll('-',' ')} · {w.year}</p><h3><a href={href(`works/${w.id}/`)}>{w.title}</a></h3><p>{w.authors.join(', ')}. {w.journal_or_publisher}.</p><p>{w.award_links.find(a => a.award_year === award.year)!.why_linked}</p><a href={href(`works/${w.id}/`)}>Explanation & source access →</a></div>)}</section>}
+      <Bibliography ids={article.data.citation_ids}/>
+      <section class="source-note"><h2>Official record</h2><p><a href={award.official_page_url}>Nobel Prize award summary ({award.year})</a> · <a href={award.official_api_url}>Machine-readable award record</a>. Metadata checked {award.last_source_checked_at}.</p></section>
+      <nav class="year-nav bottom-nav" aria-label="Continue through the archive"><span>{older && <a href={href(`awards/${older.year}/`)}>← {older.year}</a>}</span><a href={href('awards/')}>All awards</a><span>{newer && <a href={href(`awards/${newer.year}/`)}>{newer.year} →</a>}</span></nav>
+    </article>
+  </div>
+</BaseLayout>

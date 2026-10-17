@@ -1,0 +1,2730 @@
+{
+  "checked_at": "2026-10-17",
+  "prizes": [
+    {
+      "year": 1969,
+      "official_prize_id": "eco-1969",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1969/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1969",
+      "laureates": [
+        {
+          "id": "677",
+          "name": "Ragnar Frisch",
+          "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+          "portion": "1/2"
+        },
+        {
+          "id": "678",
+          "name": "Jan Tinbergen",
+          "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1970,
+      "official_prize_id": "eco-1970",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1970/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1970",
+      "laureates": [
+        {
+          "id": "679",
+          "name": "Paul A. Samuelson",
+          "motivation": "for the scientific work through which he has developed static and dynamic economic theory and actively contributed to raising the level of analysis in economic science",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1971,
+      "official_prize_id": "eco-1971",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1971/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1971",
+      "laureates": [
+        {
+          "id": "680",
+          "name": "Simon Kuznets",
+          "motivation": "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1972,
+      "official_prize_id": "eco-1972",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1972/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1972",
+      "laureates": [
+        {
+          "id": "681",
+          "name": "John R. Hicks",
+          "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+          "portion": "1/2"
+        },
+        {
+          "id": "682",
+          "name": "Kenneth J. Arrow",
+          "motivation": "for their pioneering contributions to general economic equilibrium theory and welfare theory",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1973,
+      "official_prize_id": "eco-1973",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for the development of the input-output method and for its application to important economic problems",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1973/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1973",
+      "laureates": [
+        {
+          "id": "683",
+          "name": "Wassily Leontief",
+          "motivation": "for the development of the input-output method and for its application to important economic problems",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1974,
+      "official_prize_id": "eco-1974",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1974/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1974",
+      "laureates": [
+        {
+          "id": "684",
+          "name": "Gunnar Myrdal",
+          "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+          "portion": "1/2"
+        },
+        {
+          "id": "685",
+          "name": "Friedrich von Hayek",
+          "motivation": "for their pioneering work in the theory of money and economic fluctuations and for their penetrating analysis of the interdependence of economic, social and institutional phenomena",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1975,
+      "official_prize_id": "eco-1975",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their contributions to the theory of optimum allocation of resources",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1975/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1975",
+      "laureates": [
+        {
+          "id": "686",
+          "name": "Leonid Vitaliyevich Kantorovich",
+          "motivation": "for their contributions to the theory of optimum allocation of resources",
+          "portion": "1/2"
+        },
+        {
+          "id": "687",
+          "name": "Tjalling C. Koopmans",
+          "motivation": "for their contributions to the theory of optimum allocation of resources",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1976,
+      "official_prize_id": "eco-1976",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1976/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1976",
+      "laureates": [
+        {
+          "id": "688",
+          "name": "Milton Friedman",
+          "motivation": "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1977,
+      "official_prize_id": "eco-1977",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1977/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1977",
+      "laureates": [
+        {
+          "id": "689",
+          "name": "Bertil Ohlin",
+          "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+          "portion": "1/2"
+        },
+        {
+          "id": "690",
+          "name": "James E. Meade",
+          "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1978,
+      "official_prize_id": "eco-1978",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his pioneering research into the decision-making process within economic organizations",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1978/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1978",
+      "laureates": [
+        {
+          "id": "691",
+          "name": "Herbert Simon",
+          "motivation": "for his pioneering research into the decision-making process within economic organizations",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1979,
+      "official_prize_id": "eco-1979",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1979/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1979",
+      "laureates": [
+        {
+          "id": "692",
+          "name": "Theodore W. Schultz",
+          "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+          "portion": "1/2"
+        },
+        {
+          "id": "693",
+          "name": "Sir Arthur Lewis",
+          "motivation": "for their pioneering research into economic development research with particular consideration of the problems of developing countries",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1980,
+      "official_prize_id": "eco-1980",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1980/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1980",
+      "laureates": [
+        {
+          "id": "694",
+          "name": "Lawrence R. Klein",
+          "motivation": "for the creation of econometric models and the application to the analysis of economic fluctuations and economic policies",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1981,
+      "official_prize_id": "eco-1981",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1981/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1981",
+      "laureates": [
+        {
+          "id": "695",
+          "name": "James Tobin",
+          "motivation": "for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1982,
+      "official_prize_id": "eco-1982",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1982/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1982",
+      "laureates": [
+        {
+          "id": "696",
+          "name": "George J. Stigler",
+          "motivation": "for his seminal studies of industrial structures, functioning of markets and causes and effects of public regulation",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1983,
+      "official_prize_id": "eco-1983",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1983/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1983",
+      "laureates": [
+        {
+          "id": "697",
+          "name": "Gerard Debreu",
+          "motivation": "for having incorporated new analytical methods into economic theory and for his rigorous reformulation of the theory of general equilibrium",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1984,
+      "official_prize_id": "eco-1984",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1984/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1984",
+      "laureates": [
+        {
+          "id": "698",
+          "name": "Richard Stone",
+          "motivation": "for having made fundamental contributions to the development of systems of national accounts and hence greatly improved the basis for empirical economic analysis",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1985,
+      "official_prize_id": "eco-1985",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his pioneering analyses of saving and of financial markets",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1985/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1985",
+      "laureates": [
+        {
+          "id": "699",
+          "name": "Franco Modigliani",
+          "motivation": "for his pioneering analyses of saving and of financial markets",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1986,
+      "official_prize_id": "eco-1986",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his development of the contractual and constitutional bases for the theory of economic and political decision-making",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1986/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1986",
+      "laureates": [
+        {
+          "id": "700",
+          "name": "James M. Buchanan Jr.",
+          "motivation": "for his development of the contractual and constitutional bases for the theory of economic and political decision-making",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1987,
+      "official_prize_id": "eco-1987",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his contributions to the theory of economic growth",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1987/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1987",
+      "laureates": [
+        {
+          "id": "701",
+          "name": "Robert M. Solow",
+          "motivation": "for his contributions to the theory of economic growth",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1988,
+      "official_prize_id": "eco-1988",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his pioneering contributions to the theory of markets and efficient utilization of resources",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1988/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1988",
+      "laureates": [
+        {
+          "id": "702",
+          "name": "Maurice Allais",
+          "motivation": "for his pioneering contributions to the theory of markets and efficient utilization of resources",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1989,
+      "official_prize_id": "eco-1989",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1989/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1989",
+      "laureates": [
+        {
+          "id": "703",
+          "name": "Trygve Haavelmo",
+          "motivation": "for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1990,
+      "official_prize_id": "eco-1990",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pioneering work in the theory of financial economics",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1990/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1990",
+      "laureates": [
+        {
+          "id": "704",
+          "name": "Harry M. Markowitz",
+          "motivation": "for their pioneering work in the theory of financial economics",
+          "portion": "1/3"
+        },
+        {
+          "id": "705",
+          "name": "Merton H. Miller",
+          "motivation": "for their pioneering work in the theory of financial economics",
+          "portion": "1/3"
+        },
+        {
+          "id": "706",
+          "name": "William F. Sharpe",
+          "motivation": "for their pioneering work in the theory of financial economics",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1991,
+      "official_prize_id": "eco-1991",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1991/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1991",
+      "laureates": [
+        {
+          "id": "707",
+          "name": "Ronald H. Coase",
+          "motivation": "for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1992,
+      "official_prize_id": "eco-1992",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1992/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1992",
+      "laureates": [
+        {
+          "id": "708",
+          "name": "Gary Becker",
+          "motivation": "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1993,
+      "official_prize_id": "eco-1993",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1993/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1993",
+      "laureates": [
+        {
+          "id": "709",
+          "name": "Robert W. Fogel",
+          "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+          "portion": "1/2"
+        },
+        {
+          "id": "710",
+          "name": "Douglass C. North",
+          "motivation": "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1994,
+      "official_prize_id": "eco-1994",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1994/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1994",
+      "laureates": [
+        {
+          "id": "711",
+          "name": "John C. Harsanyi",
+          "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+          "portion": "1/3"
+        },
+        {
+          "id": "712",
+          "name": "John F. Nash Jr.",
+          "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+          "portion": "1/3"
+        },
+        {
+          "id": "713",
+          "name": "Reinhard Selten",
+          "motivation": "for their pioneering analysis of equilibria in the theory of non-cooperative games",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1995,
+      "official_prize_id": "eco-1995",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1995/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1995",
+      "laureates": [
+        {
+          "id": "714",
+          "name": "Robert E. Lucas Jr.",
+          "motivation": "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1996,
+      "official_prize_id": "eco-1996",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1996/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1996",
+      "laureates": [
+        {
+          "id": "715",
+          "name": "James A. Mirrlees",
+          "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+          "portion": "1/2"
+        },
+        {
+          "id": "716",
+          "name": "William Vickrey",
+          "motivation": "for their fundamental contributions to the economic theory of incentives under asymmetric information",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1997,
+      "official_prize_id": "eco-1997",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for a new method to determine the value of derivatives",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1997/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1997",
+      "laureates": [
+        {
+          "id": "717",
+          "name": "Robert C. Merton",
+          "motivation": "for a new method to determine the value of derivatives",
+          "portion": "1/2"
+        },
+        {
+          "id": "718",
+          "name": "Myron Scholes",
+          "motivation": "for a new method to determine the value of derivatives",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1998,
+      "official_prize_id": "eco-1998",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his contributions to welfare economics",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1998/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1998",
+      "laureates": [
+        {
+          "id": "719",
+          "name": "Amartya Sen",
+          "motivation": "for his contributions to welfare economics",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 1999,
+      "official_prize_id": "eco-1999",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/1999/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/1999",
+      "laureates": [
+        {
+          "id": "720",
+          "name": "Robert Mundell",
+          "motivation": "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2000,
+      "official_prize_id": "eco-2000",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his development of theory and methods for analyzing selective samples; for his development of theory and methods for analyzing discrete choice",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2000/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2000",
+      "laureates": [
+        {
+          "id": "732",
+          "name": "James J. Heckman",
+          "motivation": "for his development of theory and methods for analyzing selective samples",
+          "portion": "1/2"
+        },
+        {
+          "id": "733",
+          "name": "Daniel L. McFadden",
+          "motivation": "for his development of theory and methods for analyzing discrete choice",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2001,
+      "official_prize_id": "eco-2001",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their analyses of markets with asymmetric information",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2001/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2001",
+      "laureates": [
+        {
+          "id": "744",
+          "name": "George A. Akerlof",
+          "motivation": "for their analyses of markets with asymmetric information",
+          "portion": "1/3"
+        },
+        {
+          "id": "745",
+          "name": "A. Michael Spence",
+          "motivation": "for their analyses of markets with asymmetric information",
+          "portion": "1/3"
+        },
+        {
+          "id": "746",
+          "name": "Joseph E. Stiglitz",
+          "motivation": "for their analyses of markets with asymmetric information",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2002,
+      "official_prize_id": "eco-2002",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty; for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2002/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2002",
+      "laureates": [
+        {
+          "id": "759",
+          "name": "Daniel Kahneman",
+          "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty",
+          "portion": "1/2"
+        },
+        {
+          "id": "760",
+          "name": "Vernon L. Smith",
+          "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2003,
+      "official_prize_id": "eco-2003",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH); for methods of analyzing economic time series with common trends (cointegration)",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2003/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2003",
+      "laureates": [
+        {
+          "id": "771",
+          "name": "Robert F. Engle III",
+          "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)",
+          "portion": "1/2"
+        },
+        {
+          "id": "772",
+          "name": "Clive W.J. Granger",
+          "motivation": "for methods of analyzing economic time series with common trends (cointegration)",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2004,
+      "official_prize_id": "eco-2004",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2004/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2004",
+      "laureates": [
+        {
+          "id": "786",
+          "name": "Finn E. Kydland",
+          "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+          "portion": "1/2"
+        },
+        {
+          "id": "787",
+          "name": "Edward C. Prescott",
+          "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2005,
+      "official_prize_id": "eco-2005",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2005/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2005",
+      "laureates": [
+        {
+          "id": "799",
+          "name": "Robert J. Aumann",
+          "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+          "portion": "1/2"
+        },
+        {
+          "id": "800",
+          "name": "Thomas C. Schelling",
+          "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2006,
+      "official_prize_id": "eco-2006",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2006/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2006",
+      "laureates": [
+        {
+          "id": "807",
+          "name": "Edmund S. Phelps",
+          "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2007,
+      "official_prize_id": "eco-2007",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having laid the foundations of mechanism design theory",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2007/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2007",
+      "laureates": [
+        {
+          "id": "820",
+          "name": "Leonid Hurwicz",
+          "motivation": "for having laid the foundations of mechanism design theory",
+          "portion": "1/3"
+        },
+        {
+          "id": "821",
+          "name": "Eric S. Maskin",
+          "motivation": "for having laid the foundations of mechanism design theory",
+          "portion": "1/3"
+        },
+        {
+          "id": "822",
+          "name": "Roger B. Myerson",
+          "motivation": "for having laid the foundations of mechanism design theory",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2008,
+      "official_prize_id": "eco-2008",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of trade patterns and location of economic activity",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2008/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2008",
+      "laureates": [
+        {
+          "id": "834",
+          "name": "Paul Krugman",
+          "motivation": "for his analysis of trade patterns and location of economic activity",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2009,
+      "official_prize_id": "eco-2009",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for her analysis of economic governance, especially the commons; for his analysis of economic governance, especially the boundaries of the firm",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2009/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2009",
+      "laureates": [
+        {
+          "id": "846",
+          "name": "Elinor Ostrom",
+          "motivation": "for her analysis of economic governance, especially the commons",
+          "portion": "1/2"
+        },
+        {
+          "id": "847",
+          "name": "Oliver E. Williamson",
+          "motivation": "for his analysis of economic governance, especially the boundaries of the firm",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2010,
+      "official_prize_id": "eco-2010",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their analysis of markets with search frictions",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2010/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2010",
+      "laureates": [
+        {
+          "id": "856",
+          "name": "Peter A. Diamond",
+          "motivation": "for their analysis of markets with search frictions",
+          "portion": "1/3"
+        },
+        {
+          "id": "857",
+          "name": "Dale T. Mortensen",
+          "motivation": "for their analysis of markets with search frictions",
+          "portion": "1/3"
+        },
+        {
+          "id": "858",
+          "name": "Christopher A. Pissarides",
+          "motivation": "for their analysis of markets with search frictions",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2011,
+      "official_prize_id": "eco-2011",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their empirical research on cause and effect in the macroeconomy",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2011/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2011",
+      "laureates": [
+        {
+          "id": "872",
+          "name": "Thomas J. Sargent",
+          "motivation": "for their empirical research on cause and effect in the macroeconomy",
+          "portion": "1/2"
+        },
+        {
+          "id": "873",
+          "name": "Christopher A. Sims",
+          "motivation": "for their empirical research on cause and effect in the macroeconomy",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2012,
+      "official_prize_id": "eco-2012",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for the theory of stable allocations and the practice of market design",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2012/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2012",
+      "laureates": [
+        {
+          "id": "882",
+          "name": "Alvin E. Roth",
+          "motivation": "for the theory of stable allocations and the practice of market design",
+          "portion": "1/2"
+        },
+        {
+          "id": "883",
+          "name": "Lloyd S. Shapley",
+          "motivation": "for the theory of stable allocations and the practice of market design",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2013,
+      "official_prize_id": "eco-2013",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their empirical analysis of asset prices",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2013/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2013",
+      "laureates": [
+        {
+          "id": "894",
+          "name": "Eugene F. Fama",
+          "motivation": "for their empirical analysis of asset prices",
+          "portion": "1/3"
+        },
+        {
+          "id": "895",
+          "name": "Lars Peter Hansen",
+          "motivation": "for their empirical analysis of asset prices",
+          "portion": "1/3"
+        },
+        {
+          "id": "896",
+          "name": "Robert J. Shiller",
+          "motivation": "for their empirical analysis of asset prices",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2014,
+      "official_prize_id": "eco-2014",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of market power and regulation",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2014/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2014",
+      "laureates": [
+        {
+          "id": "915",
+          "name": "Jean Tirole",
+          "motivation": "for his analysis of market power and regulation",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2015,
+      "official_prize_id": "eco-2015",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his analysis of consumption, poverty, and welfare",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2015/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2015",
+      "laureates": [
+        {
+          "id": "926",
+          "name": "Angus Deaton",
+          "motivation": "for his analysis of consumption, poverty, and welfare",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2016,
+      "official_prize_id": "eco-2016",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their contributions to contract theory",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2016/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2016",
+      "laureates": [
+        {
+          "id": "935",
+          "name": "Oliver Hart",
+          "motivation": "for their contributions to contract theory",
+          "portion": "1/2"
+        },
+        {
+          "id": "936",
+          "name": "Bengt Holmström",
+          "motivation": "for their contributions to contract theory",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2017,
+      "official_prize_id": "eco-2017",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his contributions to behavioural economics",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2017/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2017",
+      "laureates": [
+        {
+          "id": "949",
+          "name": "Richard H. Thaler",
+          "motivation": "for his contributions to behavioural economics",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2018,
+      "official_prize_id": "eco-2018",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for integrating climate change into long-run macroeconomic analysis; for integrating technological innovations into long-run macroeconomic analysis",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2018/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2018",
+      "laureates": [
+        {
+          "id": "968",
+          "name": "William D. Nordhaus",
+          "motivation": "for integrating climate change into long-run macroeconomic analysis",
+          "portion": "1/2"
+        },
+        {
+          "id": "969",
+          "name": "Paul M. Romer",
+          "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2019,
+      "official_prize_id": "eco-2019",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for their experimental approach to alleviating global poverty",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2019/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2019",
+      "laureates": [
+        {
+          "id": "982",
+          "name": "Abhijit Banerjee",
+          "motivation": "for their experimental approach to alleviating global poverty",
+          "portion": "1/3"
+        },
+        {
+          "id": "983",
+          "name": "Esther Duflo",
+          "motivation": "for their experimental approach to alleviating global poverty",
+          "portion": "1/3"
+        },
+        {
+          "id": "984",
+          "name": "Michael Kremer",
+          "motivation": "for their experimental approach to alleviating global poverty",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2020,
+      "official_prize_id": "eco-2020",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for improvements to auction theory and inventions of new auction formats",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2020/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2020",
+      "laureates": [
+        {
+          "id": "995",
+          "name": "Paul R. Milgrom",
+          "motivation": "for improvements to auction theory and inventions of new auction formats",
+          "portion": "1/2"
+        },
+        {
+          "id": "996",
+          "name": "Robert B. Wilson",
+          "motivation": "for improvements to auction theory and inventions of new auction formats",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2021,
+      "official_prize_id": "eco-2021",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for his empirical contributions to labour economics; for their methodological contributions to the analysis of causal relationships",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2021/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2021",
+      "laureates": [
+        {
+          "id": "1007",
+          "name": "David Card",
+          "motivation": "for his empirical contributions to labour economics",
+          "portion": "1/2"
+        },
+        {
+          "id": "1008",
+          "name": "Joshua D. Angrist",
+          "motivation": "for their methodological contributions to the analysis of causal relationships",
+          "portion": "1/4"
+        },
+        {
+          "id": "1009",
+          "name": "Guido W. Imbens",
+          "motivation": "for their methodological contributions to the analysis of causal relationships",
+          "portion": "1/4"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2022,
+      "official_prize_id": "eco-2022",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for research on banks and financial crises",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2022/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2022",
+      "laureates": [
+        {
+          "id": "1021",
+          "name": "Ben Bernanke",
+          "motivation": "for research on banks and financial crises",
+          "portion": "1/3"
+        },
+        {
+          "id": "1022",
+          "name": "Douglas Diamond",
+          "motivation": "for research on banks and financial crises",
+          "portion": "1/3"
+        },
+        {
+          "id": "1023",
+          "name": "Philip Dybvig",
+          "motivation": "for research on banks and financial crises",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2023,
+      "official_prize_id": "eco-2023",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having advanced our understanding of women’s labour market outcomes",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2023/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2023",
+      "laureates": [
+        {
+          "id": "1034",
+          "name": "Claudia Goldin",
+          "motivation": "for having advanced our understanding of women’s labour market outcomes",
+          "portion": "1"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2024,
+      "official_prize_id": "eco-2024",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for studies of how institutions are formed and affect prosperity",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2024/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2024",
+      "laureates": [
+        {
+          "id": "1044",
+          "name": "Daron Acemoglu",
+          "motivation": "for studies of how institutions are formed and affect prosperity",
+          "portion": "1/3"
+        },
+        {
+          "id": "1045",
+          "name": "Simon Johnson",
+          "motivation": "for studies of how institutions are formed and affect prosperity",
+          "portion": "1/3"
+        },
+        {
+          "id": "1046",
+          "name": "James A. Robinson",
+          "motivation": "for studies of how institutions are formed and affect prosperity",
+          "portion": "1/3"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2025,
+      "official_prize_id": "eco-2025",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for having explained innovation-driven economic growth",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2025",
+      "laureates": [
+        {
+          "id": "1058",
+          "name": "Joel Mokyr",
+          "motivation": "for having identified the prerequisites for sustained growth through technological progress",
+          "portion": "1/2"
+        },
+        {
+          "id": "1059",
+          "name": "Philippe Aghion",
+          "motivation": "for the theory of sustained growth through creative destruction",
+          "portion": "1/4"
+        },
+        {
+          "id": "1060",
+          "name": "Peter Howitt",
+          "motivation": "for the theory of sustained growth through creative destruction",
+          "portion": "1/4"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    },
+    {
+      "year": 2026,
+      "official_prize_id": "eco-2026",
+      "official_name": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "official_motivation": "for microeconomic foundations of macroeconomic stabilisation",
+      "official_page_url": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/",
+      "official_api_url": "https://api.nobelprize.org/2/nobelPrize/eco/2026",
+      "laureates": [
+        {
+          "id": "1069",
+          "name": "Robert E. Hall",
+          "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+          "portion": "1/2"
+        },
+        {
+          "id": "1070",
+          "name": "Michael Woodford",
+          "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+          "portion": "1/2"
+        }
+      ],
+      "last_source_checked_at": "2026-10-17"
+    }
+  ],
+  "laureates": [
+    {
+      "id": "677",
+      "display_name": "Ragnar Frisch",
+      "official_profile_url": "https://www.nobelprize.org/laureate/677",
+      "birth_date": "1895-03-03",
+      "birth_place": "Oslo, Norway",
+      "affiliations": [
+        "University of Oslo"
+      ],
+      "award_years": [
+        1969
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/677"
+    },
+    {
+      "id": "678",
+      "display_name": "Jan Tinbergen",
+      "official_profile_url": "https://www.nobelprize.org/laureate/678",
+      "birth_date": "1903-04-12",
+      "birth_place": "the Hague, the Netherlands",
+      "affiliations": [
+        "The Netherlands School of Economics"
+      ],
+      "award_years": [
+        1969
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/678"
+    },
+    {
+      "id": "679",
+      "display_name": "Paul A. Samuelson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/679",
+      "birth_date": "1915-05-15",
+      "birth_place": "Gary, IN, USA",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        1970
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/679"
+    },
+    {
+      "id": "680",
+      "display_name": "Simon Kuznets",
+      "official_profile_url": "https://www.nobelprize.org/laureate/680",
+      "birth_date": "1901-04-30",
+      "birth_place": "Pinsk, Russian Empire (now Belarus)",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        1971
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/680"
+    },
+    {
+      "id": "681",
+      "display_name": "John R. Hicks",
+      "official_profile_url": "https://www.nobelprize.org/laureate/681",
+      "birth_date": "1904-04-08",
+      "birth_place": "Warwick, United Kingdom",
+      "affiliations": [
+        "All Souls College"
+      ],
+      "award_years": [
+        1972
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/681"
+    },
+    {
+      "id": "682",
+      "display_name": "Kenneth J. Arrow",
+      "official_profile_url": "https://www.nobelprize.org/laureate/682",
+      "birth_date": "1921-08-23",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        1972
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/682"
+    },
+    {
+      "id": "683",
+      "display_name": "Wassily Leontief",
+      "official_profile_url": "https://www.nobelprize.org/laureate/683",
+      "birth_date": "1906-08-05",
+      "birth_place": "St. Petersburg, Russia",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        1973
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/683"
+    },
+    {
+      "id": "684",
+      "display_name": "Gunnar Myrdal",
+      "official_profile_url": "https://www.nobelprize.org/laureate/684",
+      "birth_date": "1898-12-06",
+      "birth_place": "Skattungbyn, Sweden",
+      "affiliations": [],
+      "award_years": [
+        1974
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/684"
+    },
+    {
+      "id": "685",
+      "display_name": "Friedrich von Hayek",
+      "official_profile_url": "https://www.nobelprize.org/laureate/685",
+      "birth_date": "1899-05-08",
+      "birth_place": "Vienna, Austria",
+      "affiliations": [],
+      "award_years": [
+        1974
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/685"
+    },
+    {
+      "id": "686",
+      "display_name": "Leonid Vitaliyevich Kantorovich",
+      "official_profile_url": "https://www.nobelprize.org/laureate/686",
+      "birth_date": "1912-01-19",
+      "birth_place": "St. Petersburg, Russian Empire (now Russia)",
+      "affiliations": [
+        "Academy of Sciences"
+      ],
+      "award_years": [
+        1975
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/686"
+    },
+    {
+      "id": "687",
+      "display_name": "Tjalling C. Koopmans",
+      "official_profile_url": "https://www.nobelprize.org/laureate/687",
+      "birth_date": "1910-08-28",
+      "birth_place": "'s Graveland, the Netherlands",
+      "affiliations": [
+        "Yale University"
+      ],
+      "award_years": [
+        1975
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/687"
+    },
+    {
+      "id": "688",
+      "display_name": "Milton Friedman",
+      "official_profile_url": "https://www.nobelprize.org/laureate/688",
+      "birth_date": "1912-07-31",
+      "birth_place": "Brooklyn, NY, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1976
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/688"
+    },
+    {
+      "id": "689",
+      "display_name": "Bertil Ohlin",
+      "official_profile_url": "https://www.nobelprize.org/laureate/689",
+      "birth_date": "1899-04-23",
+      "birth_place": "Klippan, Sweden",
+      "affiliations": [
+        "Stockholm School of Economics"
+      ],
+      "award_years": [
+        1977
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/689"
+    },
+    {
+      "id": "690",
+      "display_name": "James E. Meade",
+      "official_profile_url": "https://www.nobelprize.org/laureate/690",
+      "birth_date": "1907-06-23",
+      "birth_place": "Swanage, United Kingdom",
+      "affiliations": [
+        "University of Cambridge"
+      ],
+      "award_years": [
+        1977
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/690"
+    },
+    {
+      "id": "691",
+      "display_name": "Herbert Simon",
+      "official_profile_url": "https://www.nobelprize.org/laureate/691",
+      "birth_date": "1916-06-15",
+      "birth_place": "Milwaukee, WI, USA",
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "award_years": [
+        1978
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/691"
+    },
+    {
+      "id": "692",
+      "display_name": "Theodore W. Schultz",
+      "official_profile_url": "https://www.nobelprize.org/laureate/692",
+      "birth_date": "1902-04-30",
+      "birth_place": "Arlington, SD, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1979
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/692"
+    },
+    {
+      "id": "693",
+      "display_name": "Sir Arthur Lewis",
+      "official_profile_url": "https://www.nobelprize.org/laureate/693",
+      "birth_date": "1915-01-23",
+      "birth_place": "Castries, British West Indies (now Saint Lucia)",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        1979
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/693"
+    },
+    {
+      "id": "694",
+      "display_name": "Lawrence R. Klein",
+      "official_profile_url": "https://www.nobelprize.org/laureate/694",
+      "birth_date": "1920-09-14",
+      "birth_place": "Omaha, NE, USA",
+      "affiliations": [
+        "University of Pennsylvania"
+      ],
+      "award_years": [
+        1980
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/694"
+    },
+    {
+      "id": "695",
+      "display_name": "James Tobin",
+      "official_profile_url": "https://www.nobelprize.org/laureate/695",
+      "birth_date": "1918-03-05",
+      "birth_place": "Champaign, IL, USA",
+      "affiliations": [
+        "Yale University"
+      ],
+      "award_years": [
+        1981
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/695"
+    },
+    {
+      "id": "696",
+      "display_name": "George J. Stigler",
+      "official_profile_url": "https://www.nobelprize.org/laureate/696",
+      "birth_date": "1911-01-17",
+      "birth_place": "Renton, WA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1982
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/696"
+    },
+    {
+      "id": "697",
+      "display_name": "Gerard Debreu",
+      "official_profile_url": "https://www.nobelprize.org/laureate/697",
+      "birth_date": "1921-07-04",
+      "birth_place": "Calais, France",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        1983
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/697"
+    },
+    {
+      "id": "698",
+      "display_name": "Richard Stone",
+      "official_profile_url": "https://www.nobelprize.org/laureate/698",
+      "birth_date": "1913-08-30",
+      "birth_place": "London, United Kingdom",
+      "affiliations": [
+        "University of Cambridge"
+      ],
+      "award_years": [
+        1984
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/698"
+    },
+    {
+      "id": "699",
+      "display_name": "Franco Modigliani",
+      "official_profile_url": "https://www.nobelprize.org/laureate/699",
+      "birth_date": "1918-06-18",
+      "birth_place": "Rome, Italy",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        1985
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/699"
+    },
+    {
+      "id": "700",
+      "display_name": "James M. Buchanan Jr.",
+      "official_profile_url": "https://www.nobelprize.org/laureate/700",
+      "birth_date": "1919-10-03",
+      "birth_place": "Murfreesboro, TN, USA",
+      "affiliations": [
+        "Center for Study of Public Choice"
+      ],
+      "award_years": [
+        1986
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/700"
+    },
+    {
+      "id": "701",
+      "display_name": "Robert M. Solow",
+      "official_profile_url": "https://www.nobelprize.org/laureate/701",
+      "birth_date": "1924-08-23",
+      "birth_place": "Brooklyn, NY, USA",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        1987
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/701"
+    },
+    {
+      "id": "702",
+      "display_name": "Maurice Allais",
+      "official_profile_url": "https://www.nobelprize.org/laureate/702",
+      "birth_date": "1911-05-31",
+      "birth_place": "Paris, France",
+      "affiliations": [
+        "École Nationale Supérieur des Mines de Paris"
+      ],
+      "award_years": [
+        1988
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/702"
+    },
+    {
+      "id": "703",
+      "display_name": "Trygve Haavelmo",
+      "official_profile_url": "https://www.nobelprize.org/laureate/703",
+      "birth_date": "1911-12-13",
+      "birth_place": "Skedsmo, Norway",
+      "affiliations": [
+        "University of Oslo"
+      ],
+      "award_years": [
+        1989
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/703"
+    },
+    {
+      "id": "704",
+      "display_name": "Harry M. Markowitz",
+      "official_profile_url": "https://www.nobelprize.org/laureate/704",
+      "birth_date": "1927-08-24",
+      "birth_place": "Chicago, IL, USA",
+      "affiliations": [
+        "City University of New York"
+      ],
+      "award_years": [
+        1990
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/704"
+    },
+    {
+      "id": "705",
+      "display_name": "Merton H. Miller",
+      "official_profile_url": "https://www.nobelprize.org/laureate/705",
+      "birth_date": "1923-05-16",
+      "birth_place": "Boston, MA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1990
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/705"
+    },
+    {
+      "id": "706",
+      "display_name": "William F. Sharpe",
+      "official_profile_url": "https://www.nobelprize.org/laureate/706",
+      "birth_date": "1934-06-16",
+      "birth_place": "Boston, MA, USA",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        1990
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/706"
+    },
+    {
+      "id": "707",
+      "display_name": "Ronald H. Coase",
+      "official_profile_url": "https://www.nobelprize.org/laureate/707",
+      "birth_date": "1910-12-29",
+      "birth_place": "Willesden, United Kingdom",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1991
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/707"
+    },
+    {
+      "id": "708",
+      "display_name": "Gary Becker",
+      "official_profile_url": "https://www.nobelprize.org/laureate/708",
+      "birth_date": "1930-12-02",
+      "birth_place": "Pottsville, PA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1992
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/708"
+    },
+    {
+      "id": "709",
+      "display_name": "Robert W. Fogel",
+      "official_profile_url": "https://www.nobelprize.org/laureate/709",
+      "birth_date": "1927-07-01",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1993
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/709"
+    },
+    {
+      "id": "710",
+      "display_name": "Douglass C. North",
+      "official_profile_url": "https://www.nobelprize.org/laureate/710",
+      "birth_date": "1920-11-05",
+      "birth_place": "Cambridge, MA, USA",
+      "affiliations": [
+        "Washington University"
+      ],
+      "award_years": [
+        1993
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/710"
+    },
+    {
+      "id": "711",
+      "display_name": "John C. Harsanyi",
+      "official_profile_url": "https://www.nobelprize.org/laureate/711",
+      "birth_date": "1920-05-29",
+      "birth_place": "Budapest, Hungary",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        1994
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/711"
+    },
+    {
+      "id": "712",
+      "display_name": "John F. Nash Jr.",
+      "official_profile_url": "https://www.nobelprize.org/laureate/712",
+      "birth_date": "1928-06-13",
+      "birth_place": "Bluefield, WV, USA",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        1994
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/712"
+    },
+    {
+      "id": "713",
+      "display_name": "Reinhard Selten",
+      "official_profile_url": "https://www.nobelprize.org/laureate/713",
+      "birth_date": "1930-10-05",
+      "birth_place": "Breslau, Germany (now Wroclaw, Poland)",
+      "affiliations": [
+        "Rheinische Friedrich-Wilhelms-Universität"
+      ],
+      "award_years": [
+        1994
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/713"
+    },
+    {
+      "id": "714",
+      "display_name": "Robert E. Lucas Jr.",
+      "official_profile_url": "https://www.nobelprize.org/laureate/714",
+      "birth_date": "1937-09-15",
+      "birth_place": "Yakima, WA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        1995
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/714"
+    },
+    {
+      "id": "715",
+      "display_name": "James A. Mirrlees",
+      "official_profile_url": "https://www.nobelprize.org/laureate/715",
+      "birth_date": "1936-07-05",
+      "birth_place": "Minnigaff, Scotland",
+      "affiliations": [
+        "University of Cambridge"
+      ],
+      "award_years": [
+        1996
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/715"
+    },
+    {
+      "id": "716",
+      "display_name": "William Vickrey",
+      "official_profile_url": "https://www.nobelprize.org/laureate/716",
+      "birth_date": "1914-06-21",
+      "birth_place": "Victoria, BC, Canada",
+      "affiliations": [
+        "Columbia University"
+      ],
+      "award_years": [
+        1996
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/716"
+    },
+    {
+      "id": "717",
+      "display_name": "Robert C. Merton",
+      "official_profile_url": "https://www.nobelprize.org/laureate/717",
+      "birth_date": "1944-07-31",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        1997
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/717"
+    },
+    {
+      "id": "718",
+      "display_name": "Myron Scholes",
+      "official_profile_url": "https://www.nobelprize.org/laureate/718",
+      "birth_date": "1941-07-01",
+      "birth_place": "Timmins, ON, Canada",
+      "affiliations": [
+        "Long Term Capital Management"
+      ],
+      "award_years": [
+        1997
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/718"
+    },
+    {
+      "id": "719",
+      "display_name": "Amartya Sen",
+      "official_profile_url": "https://www.nobelprize.org/laureate/719",
+      "birth_date": "1933-11-03",
+      "birth_place": "Santiniketan, India",
+      "affiliations": [
+        "Trinity College"
+      ],
+      "award_years": [
+        1998
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/719"
+    },
+    {
+      "id": "720",
+      "display_name": "Robert Mundell",
+      "official_profile_url": "https://www.nobelprize.org/laureate/720",
+      "birth_date": "1932-10-24",
+      "birth_place": "Kingston, ON, Canada",
+      "affiliations": [
+        "Columbia University"
+      ],
+      "award_years": [
+        1999
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/720"
+    },
+    {
+      "id": "732",
+      "display_name": "James J. Heckman",
+      "official_profile_url": "https://www.nobelprize.org/laureate/732",
+      "birth_date": "1944-04-19",
+      "birth_place": "Chicago, IL, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2000
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/732"
+    },
+    {
+      "id": "733",
+      "display_name": "Daniel L. McFadden",
+      "official_profile_url": "https://www.nobelprize.org/laureate/733",
+      "birth_date": "1937-07-29",
+      "birth_place": "Raleigh, NC, USA",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2000
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/733"
+    },
+    {
+      "id": "744",
+      "display_name": "George A. Akerlof",
+      "official_profile_url": "https://www.nobelprize.org/laureate/744",
+      "birth_date": "1940-06-17",
+      "birth_place": "New Haven, CT, USA",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2001
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/744"
+    },
+    {
+      "id": "745",
+      "display_name": "A. Michael Spence",
+      "official_profile_url": "https://www.nobelprize.org/laureate/745",
+      "birth_date": "1943-11-07",
+      "birth_place": "Montclair, NJ, USA",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        2001
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/745"
+    },
+    {
+      "id": "746",
+      "display_name": "Joseph E. Stiglitz",
+      "official_profile_url": "https://www.nobelprize.org/laureate/746",
+      "birth_date": "1943-02-09",
+      "birth_place": "Gary, IN, USA",
+      "affiliations": [
+        "Columbia University"
+      ],
+      "award_years": [
+        2001
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/746"
+    },
+    {
+      "id": "759",
+      "display_name": "Daniel Kahneman",
+      "official_profile_url": "https://www.nobelprize.org/laureate/759",
+      "birth_date": "1934-03-05",
+      "birth_place": "Tel Aviv, British Mandate of Palestine (now Israel)",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        2002
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/759"
+    },
+    {
+      "id": "760",
+      "display_name": "Vernon L. Smith",
+      "official_profile_url": "https://www.nobelprize.org/laureate/760",
+      "birth_date": "1927-01-01",
+      "birth_place": "Wichita, KS, USA",
+      "affiliations": [
+        "George Mason University"
+      ],
+      "award_years": [
+        2002
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/760"
+    },
+    {
+      "id": "771",
+      "display_name": "Robert F. Engle III",
+      "official_profile_url": "https://www.nobelprize.org/laureate/771",
+      "birth_date": "1942-11-10",
+      "birth_place": "Syracuse, NY, USA",
+      "affiliations": [
+        "New York University"
+      ],
+      "award_years": [
+        2003
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/771"
+    },
+    {
+      "id": "772",
+      "display_name": "Clive W.J. Granger",
+      "official_profile_url": "https://www.nobelprize.org/laureate/772",
+      "birth_date": "1934-09-04",
+      "birth_place": "Swansea, United Kingdom",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2003
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/772"
+    },
+    {
+      "id": "786",
+      "display_name": "Finn E. Kydland",
+      "official_profile_url": "https://www.nobelprize.org/laureate/786",
+      "birth_date": "1943-12-01",
+      "birth_place": "Gjesdal, Norway",
+      "affiliations": [
+        "Carnegie Mellon University",
+        "University of California"
+      ],
+      "award_years": [
+        2004
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/786"
+    },
+    {
+      "id": "787",
+      "display_name": "Edward C. Prescott",
+      "official_profile_url": "https://www.nobelprize.org/laureate/787",
+      "birth_date": "1940-12-26",
+      "birth_place": "Glens Falls, NY, USA",
+      "affiliations": [
+        "Arizona State University",
+        "Federal Reserve Bank of Minneapolis"
+      ],
+      "award_years": [
+        2004
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/787"
+    },
+    {
+      "id": "799",
+      "display_name": "Robert J. Aumann",
+      "official_profile_url": "https://www.nobelprize.org/laureate/799",
+      "birth_date": "1930-06-08",
+      "birth_place": "Frankfurt-on-the-Main, Germany",
+      "affiliations": [
+        "University of Jerusalem, Center for RationalityHebrew"
+      ],
+      "award_years": [
+        2005
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/799"
+    },
+    {
+      "id": "800",
+      "display_name": "Thomas C. Schelling",
+      "official_profile_url": "https://www.nobelprize.org/laureate/800",
+      "birth_date": "1921-04-14",
+      "birth_place": "Oakland, CA, USA",
+      "affiliations": [
+        "University of Maryland, Department of Economics and School of Public Policy"
+      ],
+      "award_years": [
+        2005
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/800"
+    },
+    {
+      "id": "807",
+      "display_name": "Edmund S. Phelps",
+      "official_profile_url": "https://www.nobelprize.org/laureate/807",
+      "birth_date": "1933-07-26",
+      "birth_place": "Evanston, IL, USA",
+      "affiliations": [
+        "Columbia University"
+      ],
+      "award_years": [
+        2006
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/807"
+    },
+    {
+      "id": "820",
+      "display_name": "Leonid Hurwicz",
+      "official_profile_url": "https://www.nobelprize.org/laureate/820",
+      "birth_date": "1917-08-21",
+      "birth_place": "Moscow, Russia",
+      "affiliations": [
+        "University of Minnesota"
+      ],
+      "award_years": [
+        2007
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/820"
+    },
+    {
+      "id": "821",
+      "display_name": "Eric S. Maskin",
+      "official_profile_url": "https://www.nobelprize.org/laureate/821",
+      "birth_date": "1950-12-12",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Institute for Advanced Study"
+      ],
+      "award_years": [
+        2007
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/821"
+    },
+    {
+      "id": "822",
+      "display_name": "Roger B. Myerson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/822",
+      "birth_date": "1951-03-29",
+      "birth_place": "Boston, MA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2007
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/822"
+    },
+    {
+      "id": "834",
+      "display_name": "Paul Krugman",
+      "official_profile_url": "https://www.nobelprize.org/laureate/834",
+      "birth_date": "1953-02-28",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        2008
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/834"
+    },
+    {
+      "id": "846",
+      "display_name": "Elinor Ostrom",
+      "official_profile_url": "https://www.nobelprize.org/laureate/846",
+      "birth_date": "1933-08-07",
+      "birth_place": "Los Angeles, CA, USA",
+      "affiliations": [
+        "Indiana University",
+        "Arizona State University"
+      ],
+      "award_years": [
+        2009
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/846"
+    },
+    {
+      "id": "847",
+      "display_name": "Oliver E. Williamson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/847",
+      "birth_date": "1932-09-27",
+      "birth_place": "Superior, WI, USA",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2009
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/847"
+    },
+    {
+      "id": "856",
+      "display_name": "Peter A. Diamond",
+      "official_profile_url": "https://www.nobelprize.org/laureate/856",
+      "birth_date": "1940-04-29",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2010
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/856"
+    },
+    {
+      "id": "857",
+      "display_name": "Dale T. Mortensen",
+      "official_profile_url": "https://www.nobelprize.org/laureate/857",
+      "birth_date": "1939-02-02",
+      "birth_place": "Enterprise, OR, USA",
+      "affiliations": [
+        "Northwestern University",
+        "Aarhus University"
+      ],
+      "award_years": [
+        2010
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/857"
+    },
+    {
+      "id": "858",
+      "display_name": "Christopher A. Pissarides",
+      "official_profile_url": "https://www.nobelprize.org/laureate/858",
+      "birth_date": "1948-02-20",
+      "birth_place": "Nicosia, Cyprus",
+      "affiliations": [
+        "London School of Economics and Political Science"
+      ],
+      "award_years": [
+        2010
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/858"
+    },
+    {
+      "id": "872",
+      "display_name": "Thomas J. Sargent",
+      "official_profile_url": "https://www.nobelprize.org/laureate/872",
+      "birth_date": "1943-07-19",
+      "birth_place": "Pasadena, CA, USA",
+      "affiliations": [
+        "New York University"
+      ],
+      "award_years": [
+        2011
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/872"
+    },
+    {
+      "id": "873",
+      "display_name": "Christopher A. Sims",
+      "official_profile_url": "https://www.nobelprize.org/laureate/873",
+      "birth_date": "1942-10-21",
+      "birth_place": "Washington, D.C., USA",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        2011
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/873"
+    },
+    {
+      "id": "882",
+      "display_name": "Alvin E. Roth",
+      "official_profile_url": "https://www.nobelprize.org/laureate/882",
+      "birth_date": "1951-12-18",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Harvard University",
+        "Harvard Business School"
+      ],
+      "award_years": [
+        2012
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/882"
+    },
+    {
+      "id": "883",
+      "display_name": "Lloyd S. Shapley",
+      "official_profile_url": "https://www.nobelprize.org/laureate/883",
+      "birth_date": "1923-06-02",
+      "birth_place": "Cambridge, MA, USA",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2012
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/883"
+    },
+    {
+      "id": "894",
+      "display_name": "Eugene F. Fama",
+      "official_profile_url": "https://www.nobelprize.org/laureate/894",
+      "birth_date": "1939-02-14",
+      "birth_place": "Boston, MA, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2013
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/894"
+    },
+    {
+      "id": "895",
+      "display_name": "Lars Peter Hansen",
+      "official_profile_url": "https://www.nobelprize.org/laureate/895",
+      "birth_date": "1952-10-26",
+      "birth_place": "Urbana, IL, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2013
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/895"
+    },
+    {
+      "id": "896",
+      "display_name": "Robert J. Shiller",
+      "official_profile_url": "https://www.nobelprize.org/laureate/896",
+      "birth_date": "1946-03-29",
+      "birth_place": "Detroit, MI, USA",
+      "affiliations": [
+        "Yale University"
+      ],
+      "award_years": [
+        2013
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/896"
+    },
+    {
+      "id": "915",
+      "display_name": "Jean Tirole",
+      "official_profile_url": "https://www.nobelprize.org/laureate/915",
+      "birth_date": "1953-08-09",
+      "birth_place": "Troyes, France",
+      "affiliations": [
+        "Toulouse School of Economics (TSE)"
+      ],
+      "award_years": [
+        2014
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/915"
+    },
+    {
+      "id": "926",
+      "display_name": "Angus Deaton",
+      "official_profile_url": "https://www.nobelprize.org/laureate/926",
+      "birth_date": "1945-10-19",
+      "birth_place": "Edinburgh, Scotland",
+      "affiliations": [
+        "Princeton University"
+      ],
+      "award_years": [
+        2015
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/926"
+    },
+    {
+      "id": "935",
+      "display_name": "Oliver Hart",
+      "official_profile_url": "https://www.nobelprize.org/laureate/935",
+      "birth_date": "1948-10-09",
+      "birth_place": "London, United Kingdom",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        2016
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/935"
+    },
+    {
+      "id": "936",
+      "display_name": "Bengt Holmström",
+      "official_profile_url": "https://www.nobelprize.org/laureate/936",
+      "birth_date": "1949-04-18",
+      "birth_place": "Helsinki, Finland",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2016
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/936"
+    },
+    {
+      "id": "949",
+      "display_name": "Richard H. Thaler",
+      "official_profile_url": "https://www.nobelprize.org/laureate/949",
+      "birth_date": "1945-09-12",
+      "birth_place": "East Orange, NJ, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2017
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/949"
+    },
+    {
+      "id": "968",
+      "display_name": "William D. Nordhaus",
+      "official_profile_url": "https://www.nobelprize.org/laureate/968",
+      "birth_date": "1941-05-31",
+      "birth_place": "Albuquerque, NM, USA",
+      "affiliations": [
+        "Yale University"
+      ],
+      "award_years": [
+        2018
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/968"
+    },
+    {
+      "id": "969",
+      "display_name": "Paul M. Romer",
+      "official_profile_url": "https://www.nobelprize.org/laureate/969",
+      "birth_date": "1955-00-00",
+      "birth_place": "Denver, CO, USA",
+      "affiliations": [
+        "NYU Stern School of Business"
+      ],
+      "award_years": [
+        2018
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/969"
+    },
+    {
+      "id": "982",
+      "display_name": "Abhijit Banerjee",
+      "official_profile_url": "https://www.nobelprize.org/laureate/982",
+      "birth_date": "1961-02-21",
+      "birth_place": "Mumbai, India",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2019
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/982"
+    },
+    {
+      "id": "983",
+      "display_name": "Esther Duflo",
+      "official_profile_url": "https://www.nobelprize.org/laureate/983",
+      "birth_date": "1972-10-25",
+      "birth_place": "Paris, France",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2019
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/983"
+    },
+    {
+      "id": "984",
+      "display_name": "Michael Kremer",
+      "official_profile_url": "https://www.nobelprize.org/laureate/984",
+      "birth_date": "1964-11-12",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        2019
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/984"
+    },
+    {
+      "id": "995",
+      "display_name": "Paul R. Milgrom",
+      "official_profile_url": "https://www.nobelprize.org/laureate/995",
+      "birth_date": "1948-04-20",
+      "birth_place": "Detroit, MI, USA",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        2020
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/995"
+    },
+    {
+      "id": "996",
+      "display_name": "Robert B. Wilson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/996",
+      "birth_date": "1937-05-16",
+      "birth_place": "Geneva, NE, USA",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        2020
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/996"
+    },
+    {
+      "id": "1007",
+      "display_name": "David Card",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1007",
+      "birth_date": "1956-00-00",
+      "birth_place": "Guelph, Canada",
+      "affiliations": [
+        "University of California"
+      ],
+      "award_years": [
+        2021
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1007"
+    },
+    {
+      "id": "1008",
+      "display_name": "Joshua D. Angrist",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1008",
+      "birth_date": "1960-09-18",
+      "birth_place": "Columbus, OH, USA",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2021
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1008"
+    },
+    {
+      "id": "1009",
+      "display_name": "Guido W. Imbens",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1009",
+      "birth_date": "1963-09-03",
+      "birth_place": "Geldrop, the Netherlands",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        2021
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1009"
+    },
+    {
+      "id": "1021",
+      "display_name": "Ben Bernanke",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1021",
+      "birth_date": "1953-12-13",
+      "birth_place": "Augusta, GA, USA",
+      "affiliations": [
+        "The Brookings Institution"
+      ],
+      "award_years": [
+        2022
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1021"
+    },
+    {
+      "id": "1022",
+      "display_name": "Douglas Diamond",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1022",
+      "birth_date": "1953-10-25",
+      "birth_place": "Chicago, IL, USA",
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2022
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1022"
+    },
+    {
+      "id": "1023",
+      "display_name": "Philip Dybvig",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1023",
+      "birth_date": "1955-05-22",
+      "birth_place": "Gainesville, FL, USA",
+      "affiliations": [
+        "Washington University"
+      ],
+      "award_years": [
+        2022
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1023"
+    },
+    {
+      "id": "1034",
+      "display_name": "Claudia Goldin",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1034",
+      "birth_date": "1946-05-14",
+      "birth_place": "New York, NY, USA",
+      "affiliations": [
+        "Harvard University"
+      ],
+      "award_years": [
+        2023
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1034"
+    },
+    {
+      "id": "1044",
+      "display_name": "Daron Acemoglu",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1044",
+      "birth_date": "1967-09-03",
+      "birth_place": "Istanbul, Turkey",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2024
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1044"
+    },
+    {
+      "id": "1045",
+      "display_name": "Simon Johnson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1045",
+      "birth_date": "1963-00-00",
+      "birth_place": "Sheffield, United Kingdom",
+      "affiliations": [
+        "Massachusetts Institute of Technology (MIT)"
+      ],
+      "award_years": [
+        2024
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1045"
+    },
+    {
+      "id": "1046",
+      "display_name": "James A. Robinson",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1046",
+      "birth_date": "1960-00-00",
+      "birth_place": null,
+      "affiliations": [
+        "University of Chicago"
+      ],
+      "award_years": [
+        2024
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1046"
+    },
+    {
+      "id": "1058",
+      "display_name": "Joel Mokyr",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1058",
+      "birth_date": "1946-07-26",
+      "birth_place": "Leiden, the Netherlands",
+      "affiliations": [
+        "Northwestern University",
+        "Eitan Berglas School of Economics, Tel Aviv University"
+      ],
+      "award_years": [
+        2025
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1058"
+    },
+    {
+      "id": "1059",
+      "display_name": "Philippe Aghion",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1059",
+      "birth_date": "1956-08-17",
+      "birth_place": "Paris, France",
+      "affiliations": [
+        "Collège de France",
+        "INSEAD",
+        "London School of Economics and Political Science"
+      ],
+      "award_years": [
+        2025
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1059"
+    },
+    {
+      "id": "1060",
+      "display_name": "Peter Howitt",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1060",
+      "birth_date": "1946-05-31",
+      "birth_place": "Canada",
+      "affiliations": [
+        "Brown University"
+      ],
+      "award_years": [
+        2025
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1060"
+    },
+    {
+      "id": "1069",
+      "display_name": "Robert E. Hall",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1069",
+      "birth_date": "1943-00-00",
+      "birth_place": "Palo Alto, CA, USA",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "award_years": [
+        2026
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1069"
+    },
+    {
+      "id": "1070",
+      "display_name": "Michael Woodford",
+      "official_profile_url": "https://www.nobelprize.org/laureate/1070",
+      "birth_date": "1955-00-00",
+      "birth_place": "Chicopee, MA, USA",
+      "affiliations": [
+        "Columbia University"
+      ],
+      "award_years": [
+        2026
+      ],
+      "source_url": "https://api.nobelprize.org/2.1/laureate/1070"
+    }
+  ],
+  "changed_years": [
+    1969,
+    1970,
+    1971,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "removed_years": []
+}

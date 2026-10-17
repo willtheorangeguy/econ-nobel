@@ -1,0 +1,5 @@
+---
+const { status } = Astro.props;
+const labels: Record<string,string> = { 'metadata-only':'Official facts · essay in preparation', researched:'Research in progress', draft:'Editorial draft · unreviewed', 'needs-review':'Awaiting editorial review', reviewed:'Reviewed · exports pending', published:'Reviewed explanation' };
+---
+<span class:list={['status', { finished: status === 'published' }]}>{labels[status] || status}</span>

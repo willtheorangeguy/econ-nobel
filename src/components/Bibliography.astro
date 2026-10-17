@@ -1,0 +1,7 @@
+---
+import { reference } from '../lib/catalogue';
+import { citationText } from '../lib/bibliography';
+interface Props { ids: string[]; }
+const refs = Astro.props.ids.map(reference);
+---
+{refs.length > 0 && <section class="bibliography" aria-labelledby="references-heading"><h2 id="references-heading">Sources & further reading</h2><ol>{refs.map(c => <li id={`ref-${c.id}`}>{citationText(c)} <a href={c.url}>Read at source ↗</a>{c.doi && <span class="doi"> DOI: <a href={`https://doi.org/${c.doi}`}>{c.doi}</a></span>}<small>Version consulted: {c.consulted_version}. Checked {c.accessed}.</small></li>)}</ol></section>}

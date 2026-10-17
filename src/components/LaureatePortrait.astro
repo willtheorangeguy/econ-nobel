@@ -1,0 +1,9 @@
+---
+import { portraits } from '../lib/catalogue';
+import { href } from '../lib/links';
+interface Props { id: string; name: string; }
+const { id, name } = Astro.props;
+const portrait = portraits.find(p => p.laureate_id === id);
+const initials = name.split(' ').filter(s => !s.endsWith('.')).map(s => s[0]).filter(Boolean).slice(0,2).join('');
+---
+{portrait ? <figure><img src={href(portrait.local_path)} alt={`Portrait of ${name}`} width="112" height="132" loading="lazy" /><figcaption>{portrait.credit} · <a href={portrait.source_url}>Source</a> · <a href={portrait.license_url}>{portrait.license}</a></figcaption></figure> : <div class="portrait-fallback" aria-hidden="true">{initials}</div>}

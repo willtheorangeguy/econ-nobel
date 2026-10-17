@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import { prizes, topics } from '../lib/catalogue';
+import { href } from '../lib/links';
+import Status from './Status.astro';
+interface Props { limit?: number; filters?: boolean; topic?: string; }
+const { limit, filters = false, topic } = Astro.props;
+const articles = await getCollection('awards');
+let records = prizes.map(p => ({ ...p, article: articles.find(a => a.id === String(p.year))! }));
+if (topic) records = records.filter(p => p.article.data.topic_slugs.includes(topic));
+if (limit) records = records.slice(0,limit);
+const usedTopics = topics.filter(t => records.some(p => p.article.data.topic_slugs.includes(t.slug)));
+---
+<div data-catalogue>
+  {filters && <form class="catalogue-filters" role="search" onsubmit="return false">
+    <div><label for="catalogue-query">Year, laureate or idea</label><input id="catalogue-query" type="search" placeholder="Try “1994”, “Ostrom”, “information”…" /></div>
+    <div><label for="topic-filter">Topic</label><select id="topic-filter"><option value="">All topics</option>{usedTopics.map(t => <option value={t.slug}>{t.name}</option>)}</select></div>
+    <div><label for="sort-order">Order</label><select id="sort-order"><option value="desc">Newest first</option><option value="asc">Oldest first</option></select></div>
+  </form>}
+  {filters && <p class="small muted" role="status" data-result-count>{records.length} awards</p>}
+  <ol class="award-index" data-award-list>{records.map(p => <li data-year={p.year} data-topics={p.article.data.topic_slugs.join(' ')} data-search={`${p.year} ${p.laureates.map(l => l.name).join(' ')} ${p.official_motivation} ${p.article.data.title}`.toLowerCase()}>
+    <a class="year-link" href={href(`awards/${p.year}/`)}>{p.year}<span class="sr-only"> Economics Prize</span></a>
+    <div><a class="award-title" href={href(`awards/${p.year}/`)}>{p.article.data.status === 'metadata-only' ? p.laureates.map(l => l.name).join(' · ') : p.article.data.title.replace(/^\d{4}\s*[—–-]\s*/, '')}</a><p>{p.article.data.status !== 'metadata-only' ? p.laureates.map(l => l.name).join(' · ') : p.official_motivation}</p><Status status={p.article.data.status}/></div>
+    <a class="row-arrow" href={href(`awards/${p.year}/`)} aria-label={`Read the ${p.year} award`}>↗</a>
+  </li>)}</ol>
+  <p data-no-results hidden>No awards match these filters. Try another name, year or topic.</p>
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('[data-catalogue]').forEach(root => {
+    const query = root.querySelector<HTMLInputElement>('input');
+    if (!query) return;
+    const topic = root.querySelector<HTMLSelectElement>('#topic-filter')!;
+    const sort = root.querySelector<HTMLSelectElement>('#sort-order')!;
+    const list = root.querySelector<HTMLOListElement>('[data-award-list]')!;
+    const rows = [...list.querySelectorAll<HTMLElement>('li')];
+    function update() {
+      const words = query!.value.toLowerCase().trim().split(/\s+/);
+      let count = 0;
+      rows.sort((a,b) => (Number(a.dataset.year) - Number(b.dataset.year)) * (sort.value === 'asc' ? 1 : -1)).forEach(row => {
+        row.hidden = !words.every(w => row.dataset.search!.includes(w)) || (!!topic.value && !row.dataset.topics!.split(' ').includes(topic.value));
+        if (!row.hidden) count++;
+        list.append(row);
+      });
+      root.querySelector('[data-result-count]')!.textContent = `${count} ${count === 1 ? 'award' : 'awards'}`;
+      (root.querySelector('[data-no-results]') as HTMLElement).hidden = count !== 0;
+    }
+    query.addEventListener('input',update); topic.addEventListener('change',update); sort.addEventListener('change',update);
+  });
+</script>

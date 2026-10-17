@@ -1,0 +1,5 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { href } from '../lib/links';
+---
+<BaseLayout title="Page not found"><header class="page-heading"><p class="eyebrow">404 · A missing page</p><h1>Back to<br/><em>the archive.</em></h1><p>That page does not exist. <a href={href('awards/')}>Browse the award catalogue</a> or <a href={href('search/')}>search for an idea</a>.</p></header></BaseLayout>
