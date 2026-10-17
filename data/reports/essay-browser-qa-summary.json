@@ -1,0 +1,64 @@
+{
+  "scope": "Accumulated authoring-milestone browser checks at 320,390,1280px, not a simultaneous final-revision audit or independent scholarly review. Per-batch report dates and hashes are retained.",
+  "page_viewport_combinations": 180,
+  "annual_routes": 58,
+  "additional_work_routes": 2,
+  "axe_violations": 0,
+  "viewport_overflow_cases": 0,
+  "reports": [
+    {
+      "report": "data/reports/essay-browser-qa-1980s.json",
+      "sha256": "746a2dfc295451efecc8151da6ec8ef2c8444fc660bbb731e4948b91ae743713",
+      "checked_at": "2026-10-17T19:33:00.022Z",
+      "checks": 30
+    },
+    {
+      "report": "data/reports/essay-browser-qa-1990-1995.json",
+      "sha256": "85df56410027dbb2ce19d49e569fdbbae51930b07d54b1ce330172baddb10696",
+      "checked_at": "2026-10-17T19:41:27.728Z",
+      "checks": 18
+    },
+    {
+      "report": "data/reports/essay-browser-qa-1996-2000.json",
+      "sha256": "f13c4c8d679bbaa8dda16a9c51987277c257e60f8df97e17e7d0cd810dab5ad2",
+      "checked_at": "2026-10-17T19:48:32.107Z",
+      "checks": 15
+    },
+    {
+      "report": "data/reports/essay-browser-qa-2002-2006.json",
+      "sha256": "a797b94db15644c05c3c9061d0050e359e149b466156fc8039f78d140c933d52",
+      "checked_at": "2026-10-17T19:56:48.606Z",
+      "checks": 15
+    },
+    {
+      "report": "data/reports/essay-browser-qa-2007-2011.json",
+      "sha256": "55def5eb2d16f643e826912a365e077849ad78708d02653ee307c428aa390f99",
+      "checked_at": "2026-10-17T20:04:53.323Z",
+      "checks": 15
+    },
+    {
+      "report": "data/reports/essay-browser-qa-2012-2016.json",
+      "sha256": "de7ebd488c6946304aebd8d3624781cec0c538044843b3b100cc17bb0fce3579",
+      "checked_at": "2026-10-17T20:14:06.494Z",
+      "checks": 15
+    },
+    {
+      "report": "data/reports/essay-browser-qa-2017-2021.json",
+      "sha256": "b12d5439a020b1c101eb47c1bb4c18da2497cf399d32c05edabbfb3a83636a69",
+      "checked_at": "2026-10-17T20:22:30.300Z",
+      "checks": 15
+    },
+    {
+      "report": "data/reports/essay-browser-qa-final-batch.json",
+      "sha256": "bfaf881a5bfdd5ec9a10f599ed8f809d9bd0f0e8740cd0122b35daeb2979a522",
+      "checked_at": "2026-10-17T21:28:00.417Z",
+      "checks": 27
+    },
+    {
+      "report": "data/reports/essay-browser-qa.json",
+      "sha256": "0fdd8da811f474c3060297b304463ec0759f0d36a1c99e2cf0715fe78a5dc5d3",
+      "checked_at": "2026-10-17T16:29:37.078Z",
+      "checks": 30
+    }
+  ]
+}

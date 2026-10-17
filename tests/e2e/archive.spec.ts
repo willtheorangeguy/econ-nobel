@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { createHash } from 'node:crypto';
 import AxeBuilder from '@axe-core/playwright';
+import { articles, json } from '../../scripts/common';
 const base='/econ-nobel/';
 test('catalogue filters by year, laureate and tagged topic; sorting works',async({page})=>{
  await page.goto(base+'awards/');
@@ -17,12 +18,23 @@ test('catalogue filters by year, laureate and tagged topic; sorting works',async
  await page.getByLabel('Order',{exact:true}).selectOption('asc');
  await expect(page.locator('[data-award-list]>li').first()).toContainText('1969');
 });
-test('latest and shared awards show all recipients and no future navigation',async({page})=>{
- await page.goto(base+'awards/2026/');
- await expect(page.locator('.byline')).toContainText('Robert E. Hall');await expect(page.locator('.byline')).toContainText('Michael Woodford');
- await expect(page.locator('a[href*="/2027/"]')).toHaveCount(0);
- await expect(page.locator('.laureate-panel')).toHaveCount(2);
- await expect(page.locator('a[download]')).toHaveCount(0);
+test('latest and shared awards show all recipients, available formats and no future navigation',async({page,request})=>{
+ const catalogue=json<{year:number;laureates:{name:string}[]}[]>('data/generated/prizes.json');
+ const latest=catalogue.reduce((a,b)=>a.year>b.year?a:b);
+ const article=articles('awards').find(a=>a.id===String(latest.year))!;
+ await page.goto(base+`awards/${latest.year}/`);
+ for(const laureate of latest.laureates)await expect(page.locator('.byline')).toContainText(laureate.name);
+ await expect(page.locator(`a[href*="/${latest.year+1}/"]`)).toHaveCount(0);
+ await expect(page.locator('.laureate-panel')).toHaveCount(latest.laureates.length);
+ const manifest=await (await request.get(base+'downloads/manifest.json')).json();
+ const files=manifest.artifacts.filter((a:any)=>a.kind==='awards'&&a.id===String(latest.year));
+ expect(files).toHaveLength(article.data.status==='metadata-only'?0:2);
+ const links=page.locator('a[download]');await expect(links).toHaveCount(files.length);
+ for(const link of await links.all()){
+  const url=(await link.getAttribute('href'))!;const artifact=files.find((a:any)=>url.endsWith(a.path));
+  expect(artifact).toBeDefined();const response=await request.get(url);expect(response.ok()).toBe(true);
+  expect(createHash('sha256').update(await response.body()).digest('hex')).toBe(artifact.sha256);
+ }
  await page.goto(base+'awards/1994/');await expect(page.locator('.laureate-panel')).toHaveCount(3);
 });
 test('full-text search returns correct links under the repository base',async({page})=>{

@@ -1,0 +1,205 @@
+{
+  "year": 2024,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2024/summary/",
+  "laureates": [
+    {
+      "id": "1044",
+      "name": "Daron Acemoglu",
+      "motivation": "for studies of how institutions are formed and affect prosperity",
+      "portion": "1/3"
+    },
+    {
+      "id": "1045",
+      "name": "Simon Johnson",
+      "motivation": "for studies of how institutions are formed and affect prosperity",
+      "portion": "1/3"
+    },
+    {
+      "id": "1046",
+      "name": "James A. Robinson",
+      "motivation": "for studies of how institutions are formed and affect prosperity",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Allthree jointcolonialpapers; Acemoglu/Robinson politicalcommitment. Institutions endogenous; settlerinclusion not universalindigenousinclusion or colonialendorsement.",
+  "claim_source_map": "Official academy material supports contribution and context. Consulted editions/passages declared per citation; metadata is not full original reading. Equations and examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2024",
+      "title": "Presentation Speech for the 2024 Economic Sciences Prize",
+      "authors": [
+        "Jan Teorell"
+      ],
+      "year": 2024,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "press-2024",
+      "title": "Press Release for the 2024 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2024,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "acemoglu-johnson-robinson-2001",
+      "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+      "authors": [
+        "Daron Acemoglu",
+        "Simon Johnson",
+        "James A Robinson"
+      ],
+      "year": 2001,
+      "url": "https://doi.org/10.1257/aer.91.5.1369",
+      "doi": "10.1257/aer.91.5.1369",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "American Economic Review",
+      "volume": "91(5)",
+      "pages": "1369-1401"
+    },
+    {
+      "id": "acemoglu-johnson-robinson-2002",
+      "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+      "authors": [
+        "D. Acemoglu",
+        "S. Johnson",
+        "J. A. Robinson"
+      ],
+      "year": 2002,
+      "url": "https://doi.org/10.1162/003355302320935025",
+      "doi": "10.1162/003355302320935025",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "117(4)",
+      "pages": "1231-1294"
+    },
+    {
+      "id": "acemoglu-robinson-2000",
+      "title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective",
+      "authors": [
+        "D. Acemoglu",
+        "J. A. Robinson"
+      ],
+      "year": 2000,
+      "url": "https://doi.org/10.1162/003355300555042",
+      "doi": "10.1162/003355300555042",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "115(4)",
+      "pages": "1167-1199"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2024,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/ceremony-speech/",
+      "sha256": "9daa63bcc66c0d892a1f63bec4ef1c972ab8fae29d143c8027254ef74d987435",
+      "text_sha256": "3a383144ba72a821c7cb3d8d818ead2437844024cb124c501a44ea5b04781d94",
+      "characters": 4792,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2024,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/",
+      "sha256": "9b451bd40362a9f99536e82f9746999566b2ee6d8a859b031dc32454932a3830",
+      "text_sha256": "143516bc4586702ae5dc7e04d0ac72c9799d9182c2219c5a19d481212fe34054",
+      "characters": 5267,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "acemoglu-johnson-robinson-2001",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1257/aer.91.5.1369",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "88388fbc3cbe8e232729c1f396ca37f8aa2bbc4de6d866cd4887153cdffa17fa",
+      "title": [
+        "The Colonial Origins of Comparative Development: An Empirical Investigation"
+      ],
+      "doi": "10.1257/aer.91.5.1369",
+      "publication_date": {
+        "date-parts": [
+          [
+            2001,
+            12,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "acemoglu-johnson-robinson-2002",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1162/003355302320935025",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "cc5aa66bdce1fce4ae5d718f5979e2dda1882e1cbae15ff5397406f6ab11fbec",
+      "title": [
+        "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution"
+      ],
+      "doi": "10.1162/003355302320935025",
+      "publication_date": {
+        "date-parts": [
+          [
+            2002,
+            11,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "acemoglu-robinson-2000",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1162/003355300555042",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "66eaf4513217bc34b2a7183ab0048e21f85877a9b60d435c94b517f0637af5d3",
+      "title": [
+        "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective"
+      ],
+      "doi": "10.1162/003355300555042",
+      "publication_date": {
+        "date-parts": [
+          [
+            2000,
+            11,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Retention.6times100-40=20;retention.2times100-40=-20; totalprojectsurplus60. Constantcoefficient IV covarianceformula requires exclusion/relevance/exogeneity; historicalchannel assumptions not established by firststage.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original papers and critiques, assessmortality/data/exclusion, distribution/colonialviolence, politicalmodelconditions and reformexternalvalidity.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

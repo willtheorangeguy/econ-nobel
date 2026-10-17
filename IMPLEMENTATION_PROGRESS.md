@@ -13,7 +13,7 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 - Live document checksums: https://williamvdg.me/econ-nobel/downloads/manifest.json
 - Coverage: [machine report](data/reports/coverage.json), [year ledger](data/reports/coverage.md), and public `/coverage/`.
 
-**Active task (user instruction after the audit):** continue the missing annual essays, proceeding chronologically from 1970. Read authoritative source text, record consulted editions and claim/equation checks in per-year dossiers, author substantive explanations, generate and validate their downloads, and commit milestones. Keep all new text `needs-review`; writing is not independent editorial approval. Review-gate/original-document/browser-startup audit findings remain open and are not being silently marked fixed.
+**Active task (user instruction after the audit):** all annual manuscripts are now authored; finish validation and deployment of the 58 annual drafts and three work drafts. Source editions, partial reading, claim/equation checks and remaining research are recorded in per-year dossiers. Keep all new text `needs-review`; writing is not independent editorial approval. Review-gate/original-document/browser-startup audit findings remain open and are not being silently marked fixed.
 
 ## Milestones
 
@@ -32,22 +32,22 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 53: 1969–2021, all `needs-review` |
-| Annual essays not yet written | 5, explicitly `metadata-only` |
+| Authored annual essays | 58: 1969–2026, all `needs-review` |
+| Annual essays not yet written | 0; all remain unreviewed |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
-| Authored work explanations | 1: Akerlof (1970), `needs-review` |
-| Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 108: PDF + EPUB for 53 annual drafts and one work draft |
+| Authored work explanations | 3: Akerlof, Spence, Rothschild–Stiglitz, all `needs-review` |
+| Metadata-only selected work explanations | 0; broader work selection is unfinished |
+| Validated overview artifacts | 122: PDF + EPUB for all 58 annual drafts and three work drafts |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 5 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 53 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
-- Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
-- Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
+- Complete original-text research and factual evaluation of all 58 annual drafts; their source-led first manuscripts are now written.
+- Independently review all 58 annual drafts and three work drafts: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Complete original-text analysis and dedicated work selection for 1969. Checked Frisch/Tinbergen bibliographic entry points are now present; the Frisch excerpt and Tinbergen retrospective are not mislabeled as full original consultation.
+- Finish Spence and Rothschild–Stiglitz reading beyond the selected original sections consulted for their new work drafts; independent review remains outstanding.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
 - Verify individual portrait permissions for the remaining 100 recipients. Do not hotlink Nobel media or infer a universal image license.
 - Establish rights for any original file/version before hosting. No native original EPUB or authorized conversion has been verified for the three selected articles.
@@ -55,20 +55,18 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 
 ## Verification evidence and limits
 
-- Astro check: **0 errors, 0 warnings, 0 hints**.
-- Vitest: **15 tests passed**, including an offline importer regression that proves changed laureate details are staged without overwriting accepted records or creating articles.
-- Playwright: **8 tests passed** in the prior successful CI run. During this audit the first fresh launch failed with `Process from config.webServer exited early`; a rerun after preview was explicitly available passed all eight. Existing tests cover live search/base paths, filters/sorting, all shared-prize recipients, real download bytes/checksums, active section navigation, keyboard skip link and JavaScript-disabled reading.
-- Axe WCAG AA checks and viewport overflow checks passed on five representative routes at **320, 390 and 1280px**.
-- Static site: **174 HTML pages**, plus a static JSON manifest endpoint; **3,205** internal links/assets/anchors validated. Pagefind indexes 162 award/laureate/work metadata pages; unreviewed body text is excluded.
-- Six overview artifacts passed SHA-256/length/signature checks; PDF selectable text/page count checks; **all EPUBs passed EPUBCheck with zero warnings/errors**. PDFs are 7, 7 and 5 pages.
-- Rendered representative PDF cover, math, footnote and bibliography pages through PDFium; no clipping observed. Corrected heading levels and Pandoc 3.12 citeproc template macros.
-- Loaded the actual 2001 EPUB in an EPUB.js browser reader: title and TOC present, chapter navigation works, all 13 inline/display MathML elements in the economics chapter render, no reader script errors. Screenshot inspected.
-- Local production Lighthouse mobile runs: home **100/100/100/100**, sample award **99/100/100/100** for Performance/Accessibility/Best Practices/SEO. Single-run local measurements, recorded with revision and scope in `data/reports/lighthouse.json`; production network conditions can differ.
-- Full npm audit: **0 vulnerabilities**.
-- GitHub Actions clean-checkout validation and Pages deployment succeeded at the linked run. Live HTTPS homepage, mobile rendering, KaTeX and full-text search verified.
-- All **six live** PDF/EPUB files matched the **deployed** manifest; MIME types are `application/pdf` and `application/epub+zip`. See `data/reports/live-verification.json`. The public manifest is authoritative for live checksums; the committed generated manifest reflects the local toolchain.
+- Fresh Astro check: **52 files, zero errors/warnings/hints**.
+- Vitest: **17 tests passed**, including importer staging and real Crossref-title markup regressions. The separate metadata recheck found 67 matches among 68 candidates; the known Sargent–Wallace coauthor omission is corroborated by the publisher and stays flagged, not silently waived.
+- Playwright: **9 tests passed** after replacing the obsolete latest-year “no downloads” assumption with catalogue/status/manifest checks and real file-byte verification. Future-year navigation derives from the latest accepted year. Preview was already running; the older intermittent fresh-startup finding is not claimed fixed.
+- Accumulated authoring-milestone axe/overflow checks cover all **58 annual routes** at **320, 390 and 1280px**, plus the two new work routes: **180 page/viewport combinations**, zero automated violations/viewport overflow. Dates and report hashes are retained in `data/reports/essay-browser-qa-summary.json`; this is accumulated evidence, not a simultaneous final-revision audit.
+- Final-batch checks cover nine changed routes at all three widths and 18 actual PDF/EPUB download bodies matching the local manifest (`data/reports/essay-browser-qa-final-batch.json`).
+- Full build: **189 static HTML pages**, plus the public JSON document manifest; **5,179 internal links/assets/anchors** passed validation. Draft body text remains excluded from Pagefind under the existing editorial policy; metadata is searchable.
+- All **122 overview files** passed checksums/signatures/length checks, PDF selectable-text validation and EPUBCheck with warnings treated as failures. This is 61 explanations in two formats, all unreviewed.
+- Inspected representative 2016, 2023 and 2026 PDF equation/citation layouts. Four new EPUBs were opened in the existing EPUB.js reader, with TOC navigation, bibliography and visible native MathML checks; no reader errors (`data/reports/essay-epub-reader-qa.json`). Typography depends on the reader; other applications and screen readers remain untested.
+- Earlier Lighthouse, original EPUB-reader and live-verification reports retain their prototype revision/scope. They are not new performance certification for all current essays. The final live-file check will use the deployed manifest and toolchain rather than assuming local PDF bytes are identical across environments.
+- The last independently observed cloud deployment is linked at the top. The final 58-year draft set is locally validated and awaiting its push/deployment/live integrity check.
 
-Automated accessibility checks do not replace manual screen-reader testing. Other EPUB applications remain untested. Pandoc 3.12.1 and EPUBCheck 5.4.0 are pinned with release checksums; distro TeX security updates are permitted and the actual engine version is recorded. Bit-identical PDF bytes across different toolchains are not promised.
+Automated checks do not establish scholarly accuracy, independent review, rights for originals or universal assistive-technology compatibility. The review-gate/original-document/fresh-startup findings remain open. TeX package variation can change PDF bytes; compare live files with the deployed manifest.
 
 ## Environment and commands
 
@@ -165,3 +163,12 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - `33f7be2` passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39065333697. All broader review/rights/engineering gaps remain open.
 
 - The prior `6c5fc6c` milestone passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39065881822. The 2017–2021 milestone will be pushed with the final batch after local validation.
+
+## Final annual draft milestone — local validation complete
+
+All 58 annual manuscripts and three work explanations are canonical locally. All 122 overview files passed export validation; the final nine changed routes passed three-width browser checks and all nine browser regressions passed. Push, cloud deployment and live integrity checks remain pending. The 2017–2021 milestone is committed locally as `7977eec`; it will be pushed with the final validated batch. See `docs/ESSAY_DRAFT_MILESTONE.md` for the research scope and explicit limits.
+
+- The final batch adds 2022–2026, two standalone work drafts, checked 1969 bibliography entry points and refreshed 2001 consultation statements. All remain `needs-review`, with no review record. Current annual body lengths are 1,202–1,638 words (73,765 total); 187 structured citations and all 58 dossiers are present. Source size/presence never implies research completion.
+- Expanded the curated publication recheck queue from 3 to 68 candidates. Fixed presentation-HTML normalization using Nash’s actual Crossref title, retaining exact normalized title/author/year/DOI comparisons. The Sargent–Wallace provider omission remains visible. Dedicated work coverage still comprises only three 2001 papers.
+
+- Reproducible QA commands are now committed project scripts: `npm run check:essay-pages` (optional route arguments; preview must already be running) and `npm run check:live-documents -- SHA RUN_URL`. The final 27 checks were repeated through the project page-check command; live integrity will be checked after deployment.

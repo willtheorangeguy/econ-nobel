@@ -187,7 +187,4156 @@
         "url": "https://doi.org/10.2307/1885326",
         "type": "journal-article"
       }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2296205",
+        "expected_title": "Liquidity Preference as Behavior Towards Risk",
+        "expected_author_families": [
+          "Tobin"
+        ],
+        "expected_year": 1958,
+        "award_year": 1981,
+        "citation_id": "tobin-1958"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1958,
+          1958
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/restud/article-pdf/25/2/65/4427424/25-2-65.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/2296205",
+        "title": "Liquidity Preference as Behavior Towards Risk",
+        "authors": [
+          {
+            "given": "J.",
+            "family": "Tobin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1958,
+        "venue": "The Review of Economic Studies",
+        "volume": "25",
+        "issue": "2",
+        "pages": "65",
+        "url": "https://doi.org/10.2307/2296205",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/258464",
+        "expected_title": "The Economics of Information",
+        "expected_author_families": [
+          "Stigler"
+        ],
+        "expected_year": 1961,
+        "award_year": 1982,
+        "citation_id": "stigler-1961"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1961,
+          1961
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/258464",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/258464",
+        "title": "The Economics of Information",
+        "authors": [
+          {
+            "given": "George J.",
+            "family": "Stigler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1961,
+        "venue": "Journal of Political Economy",
+        "volume": "69",
+        "issue": "3",
+        "pages": "213-225",
+        "url": "https://doi.org/10.1086/258464",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/3003160",
+        "expected_title": "The Theory of Economic Regulation",
+        "expected_author_families": [
+          "Stigler"
+        ],
+        "expected_year": 1971,
+        "award_year": 1982,
+        "citation_id": "stigler-1971"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1971,
+          1971
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/3003160",
+        "title": "The Theory of Economic Regulation",
+        "authors": [
+          {
+            "given": "George J.",
+            "family": "Stigler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1971,
+        "venue": "The Bell Journal of Economics and Management Science",
+        "volume": "2",
+        "issue": "1",
+        "pages": "3",
+        "url": "https://doi.org/10.2307/3003160",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1884513",
+        "expected_title": "A Contribution to the Theory of Economic Growth",
+        "expected_author_families": [
+          "Solow"
+        ],
+        "expected_year": 1956,
+        "award_year": 1987,
+        "citation_id": "solow-1956"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1956,
+          1956
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/70/1/65/5374160/70-1-65.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/1884513",
+        "title": "A Contribution to the Theory of Economic Growth",
+        "authors": [
+          {
+            "given": "Robert M.",
+            "family": "Solow",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1956,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "70",
+        "issue": "1",
+        "pages": "65",
+        "url": "https://doi.org/10.2307/1884513",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1906935",
+        "expected_title": "The Probability Approach in Econometrics",
+        "expected_author_families": [
+          "Haavelmo"
+        ],
+        "expected_year": 1944,
+        "award_year": 1989,
+        "citation_id": "haavelmo-1944"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1944,
+          1944
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1906935",
+        "title": "The Probability Approach in Econometrics",
+        "authors": [
+          {
+            "given": "Trygve",
+            "family": "Haavelmo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1944,
+        "venue": "Econometrica",
+        "volume": "12",
+        "pages": "iii",
+        "url": "https://doi.org/10.2307/1906935",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+        "expected_title": "Portfolio Selection",
+        "expected_author_families": [
+          "Markowitz"
+        ],
+        "expected_year": 1952,
+        "award_year": 1990,
+        "citation_id": "markowitz-1952"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1952,
+          1952,
+          2012
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1952.tb01525.x",
+          "content_type": "application/pdf",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1952.tb01525.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-6261.1952.tb01525.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+        "title": "PORTFOLIO SELECTION*",
+        "authors": [
+          {
+            "given": "Harry",
+            "family": "Markowitz",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The Rand Corporation"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1952,
+        "venue": "The Journal of Finance",
+        "volume": "7",
+        "issue": "1",
+        "pages": "77-91",
+        "url": "https://doi.org/10.1111/j.1540-6261.1952.tb01525.x",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+        "expected_title": "Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk",
+        "expected_author_families": [
+          "Sharpe"
+        ],
+        "expected_year": 1964,
+        "award_year": 1990,
+        "citation_id": "sharpe-1964"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1964,
+          1964,
+          2012
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1964.tb02865.x",
+          "content_type": "application/pdf",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1964.tb02865.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-6261.1964.tb02865.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+        "title": "CAPITAL ASSET PRICES: A THEORY OF MARKET EQUILIBRIUM UNDER CONDITIONS OF RISK*",
+        "authors": [
+          {
+            "given": "William F.",
+            "family": "Sharpe",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1964,
+        "venue": "The Journal of Finance",
+        "volume": "19",
+        "issue": "3",
+        "pages": "425-442",
+        "url": "https://doi.org/10.1111/j.1540-6261.1964.tb02865.x",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+        "expected_title": "The Nature of the Firm",
+        "expected_author_families": [
+          "Coase"
+        ],
+        "expected_year": 1937,
+        "award_year": 1991,
+        "citation_id": "coase-1937"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1937,
+          1937,
+          2007
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1468-0335.1937.tb00002.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0335.1937.tb00002.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+        "title": "The Nature of the Firm",
+        "authors": [
+          {
+            "given": "R. H.",
+            "family": "Coase",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1937,
+        "venue": "Economica",
+        "volume": "4",
+        "issue": "16",
+        "pages": "386-405",
+        "url": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/466560",
+        "expected_title": "The Problem of Social Cost",
+        "expected_author_families": [
+          "Coase"
+        ],
+        "expected_year": 1960,
+        "award_year": 1991,
+        "citation_id": "coase-1960"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1960,
+          1960
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/466560",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/466560",
+        "title": "The Problem of Social Cost",
+        "authors": [
+          {
+            "given": "R. H.",
+            "family": "Coase",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1960,
+        "venue": "The Journal of Law and Economics",
+        "volume": "3",
+        "pages": "1-44",
+        "url": "https://doi.org/10.1086/466560",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2228949",
+        "expected_title": "A Theory of the Allocation of Time",
+        "expected_author_families": [
+          "Becker"
+        ],
+        "expected_year": 1965,
+        "award_year": 1992,
+        "citation_id": "becker-1965"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1965,
+          1965
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/2228949",
+        "title": "A Theory of the Allocation of Time",
+        "authors": [
+          {
+            "given": "Gary S.",
+            "family": "Becker",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1965,
+        "venue": "The Economic Journal",
+        "volume": "75",
+        "issue": "299",
+        "pages": "493",
+        "url": "https://doi.org/10.2307/2228949",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1073/pnas.36.1.48",
+        "expected_title": "Equilibrium points in n-person games",
+        "expected_author_families": [
+          "Nash"
+        ],
+        "expected_year": 1950,
+        "award_year": 1994,
+        "citation_id": "nash-1950"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1950,
+          1950,
+          2011
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pnas.org/doi/pdf/10.1073/pnas.36.1.48",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1073/pnas.36.1.48",
+        "title": "Equilibrium points in\n                    <i>n</i>\n                    -person games",
+        "authors": [
+          {
+            "suffix": "Jr.",
+            "given": "John F.",
+            "family": "Nash",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Princeton University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1950,
+        "venue": "Proceedings of the National Academy of Sciences",
+        "volume": "36",
+        "issue": "1",
+        "pages": "48-49",
+        "url": "https://doi.org/10.1073/pnas.36.1.48",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1287/mnsc.14.3.159",
+        "expected_title": "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model",
+        "expected_author_families": [
+          "Harsanyi"
+        ],
+        "expected_year": 1967,
+        "award_year": 1994,
+        "citation_id": "harsanyi-1967"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1967,
+          1967
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.14.3.159",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1287/mnsc.14.3.159",
+        "title": "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model",
+        "authors": [
+          {
+            "given": "John C.",
+            "family": "Harsanyi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of California, Berkeley"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1967,
+        "venue": "Management Science",
+        "volume": "14",
+        "issue": "3",
+        "pages": "159-182",
+        "url": "https://doi.org/10.1287/mnsc.14.3.159",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1016/0022-0531(72)90142-1",
+        "expected_title": "Expectations and the neutrality of money",
+        "expected_author_families": [
+          "Lucas"
+        ],
+        "expected_year": 1972,
+        "award_year": 1995,
+        "citation_id": "lucas-1972"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1972,
+          1972
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022053172901421?httpAccept=text/xml",
+          "content_type": "text/xml",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022053172901421?httpAccept=text/plain",
+          "content_type": "text/plain",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1016/0022-0531(72)90142-1",
+        "title": "Expectations and the neutrality of money",
+        "authors": [
+          {
+            "suffix": "Jr.",
+            "given": "Robert E",
+            "family": "Lucas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1972,
+        "venue": "Journal of Economic Theory",
+        "volume": "4",
+        "issue": "2",
+        "pages": "103-124",
+        "url": "https://doi.org/10.1016/0022-0531(72)90142-1",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1016/s0167-2231(76)80003-6",
+        "expected_title": "Econometric policy evaluation: A critique",
+        "expected_author_families": [
+          "Lucas"
+        ],
+        "expected_year": 1976,
+        "award_year": 1995,
+        "citation_id": "lucas-1976"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1976,
+          1976
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S0167223176800036?httpAccept=text/xml",
+          "content_type": "text/xml",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S0167223176800036?httpAccept=text/plain",
+          "content_type": "text/plain",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1016/s0167-2231(76)80003-6",
+        "title": "Econometric policy evaluation: A critique",
+        "authors": [
+          {
+            "suffix": "Jr",
+            "given": "Robert E.",
+            "family": "Lucas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1976,
+        "venue": "Carnegie-Rochester Conference Series on Public Policy",
+        "volume": "1",
+        "pages": "19-46",
+        "url": "https://doi.org/10.1016/s0167-2231(76)80003-6",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2296779",
+        "expected_title": "An Exploration in the Theory of Optimum Income Taxation",
+        "expected_author_families": [
+          "Mirrlees"
+        ],
+        "expected_year": 1971,
+        "award_year": 1996,
+        "citation_id": "mirrlees-1971"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1971,
+          1971
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/restud/article-pdf/38/2/175/4378491/38-2-175.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/2296779",
+        "title": "An Exploration in the Theory of Optimum Income Taxation",
+        "authors": [
+          {
+            "given": "J. A.",
+            "family": "Mirrlees",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1971,
+        "venue": "The Review of Economic Studies",
+        "volume": "38",
+        "issue": "2",
+        "pages": "175",
+        "url": "https://doi.org/10.2307/2296779",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+        "expected_title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+        "expected_author_families": [
+          "Vickrey"
+        ],
+        "expected_year": 1961,
+        "award_year": 1996,
+        "citation_id": "vickrey-1961"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1961,
+          1961,
+          2012
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1961.tb02789.x",
+          "content_type": "application/pdf",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.1961.tb02789.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-6261.1961.tb02789.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+        "title": "COUNTERSPECULATION, AUCTIONS, AND COMPETITIVE SEALED TENDERS",
+        "authors": [
+          {
+            "given": "William",
+            "family": "Vickrey",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Columbia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1961,
+        "venue": "The Journal of Finance",
+        "volume": "16",
+        "issue": "1",
+        "pages": "8-37",
+        "url": "https://doi.org/10.1111/j.1540-6261.1961.tb02789.x",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/260062",
+        "expected_title": "The Pricing of Options and Corporate Liabilities",
+        "expected_author_families": [
+          "Black",
+          "Scholes"
+        ],
+        "expected_year": 1973,
+        "award_year": 1997,
+        "citation_id": "black-scholes-1973"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1973,
+          1973
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/260062",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/260062",
+        "title": "The Pricing of Options and Corporate Liabilities",
+        "authors": [
+          {
+            "given": "Fischer",
+            "family": "Black",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Myron",
+            "family": "Scholes",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1973,
+        "venue": "Journal of Political Economy",
+        "volume": "81",
+        "issue": "3",
+        "pages": "637-654",
+        "url": "https://doi.org/10.1086/260062",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/3003143",
+        "expected_title": "Theory of Rational Option Pricing",
+        "expected_author_families": [
+          "Merton"
+        ],
+        "expected_year": 1973,
+        "award_year": 1997,
+        "citation_id": "merton-1973"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1973,
+          1973
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/3003143",
+        "title": "Theory of Rational Option Pricing",
+        "authors": [
+          {
+            "given": "Robert C.",
+            "family": "Merton",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1973,
+        "venue": "The Bell Journal of Economics and Management Science",
+        "volume": "4",
+        "issue": "1",
+        "pages": "141",
+        "url": "https://doi.org/10.2307/3003143",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1912718",
+        "expected_title": "Poverty: An Ordinal Approach to Measurement",
+        "expected_author_families": [
+          "Sen"
+        ],
+        "expected_year": 1976,
+        "award_year": 1998,
+        "citation_id": "sen-1976"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1976,
+          1976
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1912718",
+        "title": "Poverty: An Ordinal Approach to Measurement",
+        "authors": [
+          {
+            "given": "Amartya",
+            "family": "Sen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1976,
+        "venue": "Econometrica",
+        "volume": "44",
+        "issue": "2",
+        "pages": "219",
+        "url": "https://doi.org/10.2307/1912718",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/139336",
+        "expected_title": "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates",
+        "expected_author_families": [
+          "Mundell"
+        ],
+        "expected_year": 1963,
+        "award_year": 1999,
+        "citation_id": "mundell-1963"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1963,
+          1963,
+          2014
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0315489000030036",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/139336",
+        "title": "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates",
+        "authors": [
+          {
+            "given": "R. A.",
+            "family": "Mundell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1963,
+        "venue": "Canadian Journal of Economics and Political Science",
+        "volume": "29",
+        "issue": "4",
+        "pages": "475-485",
+        "url": "https://doi.org/10.2307/139336",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1912352",
+        "expected_title": "Sample Selection Bias as a Specification Error",
+        "expected_author_families": [
+          "Heckman"
+        ],
+        "expected_year": 1979,
+        "award_year": 2000,
+        "citation_id": "heckman-1979"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1979,
+          1979
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1912352",
+        "title": "Sample Selection Bias as a Specification Error",
+        "authors": [
+          {
+            "given": "James J.",
+            "family": "Heckman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1979,
+        "venue": "Econometrica",
+        "volume": "47",
+        "issue": "1",
+        "pages": "153",
+        "url": "https://doi.org/10.2307/1912352",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1914185",
+        "expected_title": "Prospect Theory: An Analysis of Decision under Risk",
+        "expected_author_families": [
+          "Kahneman",
+          "Tversky"
+        ],
+        "expected_year": 1979,
+        "award_year": 2002,
+        "citation_id": "kahneman-tversky-1979"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1979,
+          1979
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1914185",
+        "title": "Prospect Theory: An Analysis of Decision under Risk",
+        "authors": [
+          {
+            "given": "Daniel",
+            "family": "Kahneman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amos",
+            "family": "Tversky",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1979,
+        "venue": "Econometrica",
+        "volume": "47",
+        "issue": "2",
+        "pages": "263",
+        "url": "https://doi.org/10.2307/1914185",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/258609",
+        "expected_title": "An Experimental Study of Competitive Market Behavior",
+        "expected_author_families": [
+          "Smith"
+        ],
+        "expected_year": 1962,
+        "award_year": 2002,
+        "citation_id": "smith-1962"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1962,
+          1962
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/258609",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/258609",
+        "title": "An Experimental Study of Competitive Market Behavior",
+        "authors": [
+          {
+            "given": "Vernon L.",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1962,
+        "venue": "Journal of Political Economy",
+        "volume": "70",
+        "issue": "2",
+        "pages": "111-137",
+        "url": "https://doi.org/10.1086/258609",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1912773",
+        "expected_title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
+        "expected_author_families": [
+          "Engle"
+        ],
+        "expected_year": 1982,
+        "award_year": 2003,
+        "citation_id": "engle-1982"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1982,
+          1982
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1912773",
+        "title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
+        "authors": [
+          {
+            "given": "Robert F.",
+            "family": "Engle",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1982,
+        "venue": "Econometrica",
+        "volume": "50",
+        "issue": "4",
+        "pages": "987",
+        "url": "https://doi.org/10.2307/1912773",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1913236",
+        "expected_title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
+        "expected_author_families": [
+          "Engle",
+          "Granger"
+        ],
+        "expected_year": 1987,
+        "award_year": 2003,
+        "citation_id": "engle-granger-1987"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1987,
+          1987
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1913236",
+        "title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
+        "authors": [
+          {
+            "given": "Robert F.",
+            "family": "Engle",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "C. W. J.",
+            "family": "Granger",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1987,
+        "venue": "Econometrica",
+        "volume": "55",
+        "issue": "2",
+        "pages": "251",
+        "url": "https://doi.org/10.2307/1913236",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/260580",
+        "expected_title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+        "expected_author_families": [
+          "Kydland",
+          "Prescott"
+        ],
+        "expected_year": 1977,
+        "award_year": 2004,
+        "citation_id": "kydland-prescott-1977"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1977,
+          1977
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/260580",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/260580",
+        "title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+        "authors": [
+          {
+            "given": "Finn E.",
+            "family": "Kydland",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Edward C.",
+            "family": "Prescott",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1977,
+        "venue": "Journal of Political Economy",
+        "volume": "85",
+        "issue": "3",
+        "pages": "473-491",
+        "url": "https://doi.org/10.1086/260580",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1913386",
+        "expected_title": "Time to Build and Aggregate Fluctuations",
+        "expected_author_families": [
+          "Kydland",
+          "Prescott"
+        ],
+        "expected_year": 1982,
+        "award_year": 2004,
+        "citation_id": "kydland-prescott-1982"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1982,
+          1982
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1913386",
+        "title": "Time to Build and Aggregate Fluctuations",
+        "authors": [
+          {
+            "given": "Finn E.",
+            "family": "Kydland",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Edward C.",
+            "family": "Prescott",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1982,
+        "venue": "Econometrica",
+        "volume": "50",
+        "issue": "6",
+        "pages": "1345",
+        "url": "https://doi.org/10.2307/1913386",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/259438",
+        "expected_title": "Money-Wage Dynamics and Labor-Market Equilibrium",
+        "expected_author_families": [
+          "Phelps"
+        ],
+        "expected_year": 1968,
+        "award_year": 2006,
+        "citation_id": "phelps-1968"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1968,
+          1968
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/259438",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/259438",
+        "title": "Money-Wage Dynamics and Labor-Market Equilibrium",
+        "authors": [
+          {
+            "given": "Edmund S.",
+            "family": "Phelps",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1968,
+        "venue": "Journal of Political Economy",
+        "volume": "76",
+        "issue": "4, Part 2",
+        "pages": "678-711",
+        "url": "https://doi.org/10.1086/259438",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/1467-937x.00076",
+        "expected_title": "Nash Equilibrium and Welfare Optimality",
+        "expected_author_families": [
+          "Maskin"
+        ],
+        "expected_year": 1999,
+        "award_year": 2007,
+        "citation_id": "maskin-1999"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1999,
+          1999
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/restud/article-pdf/66/1/23/4682980/66-1-23.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/1467-937x.00076",
+        "title": "Nash Equilibrium and Welfare Optimality",
+        "authors": [
+          {
+            "given": "Eric",
+            "family": "Maskin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1999,
+        "venue": "Review of Economic Studies",
+        "volume": "66",
+        "issue": "1",
+        "pages": "23-38",
+        "url": "https://doi.org/10.1111/1467-937x.00076",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1287/moor.6.1.58",
+        "expected_title": "Optimal Auction Design",
+        "expected_author_families": [
+          "Myerson"
+        ],
+        "expected_year": 1981,
+        "award_year": 2007,
+        "citation_id": "myerson-1981"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1981,
+          1981
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pubsonline.informs.org/doi/pdf/10.1287/moor.6.1.58",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1287/moor.6.1.58",
+        "title": "Optimal Auction Design",
+        "authors": [
+          {
+            "given": "Roger B.",
+            "family": "Myerson",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Graduate School of Management, Northwestern University, 2001 Sheridan Road, Evanston, Illinois 60201"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1981,
+        "venue": "Mathematics of Operations Research",
+        "volume": "6",
+        "issue": "1",
+        "pages": "58-73",
+        "url": "https://doi.org/10.1287/moor.6.1.58",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1016/0022-1996(79)90017-5",
+        "expected_title": "Increasing returns, monopolistic competition, and international trade",
+        "expected_author_families": [
+          "Krugman"
+        ],
+        "expected_year": 1979,
+        "award_year": 2008,
+        "citation_id": "krugman-1979"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1979,
+          1979
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022199679900175?httpAccept=text/xml",
+          "content_type": "text/xml",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022199679900175?httpAccept=text/plain",
+          "content_type": "text/plain",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1016/0022-1996(79)90017-5",
+        "title": "Increasing returns, monopolistic competition, and international trade",
+        "authors": [
+          {
+            "given": "Paul R.",
+            "family": "Krugman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1979,
+        "venue": "Journal of International Economics",
+        "volume": "9",
+        "issue": "4",
+        "pages": "469-479",
+        "url": "https://doi.org/10.1016/0022-1996(79)90017-5",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261763",
+        "expected_title": "Increasing Returns and Economic Geography",
+        "expected_author_families": [
+          "Krugman"
+        ],
+        "expected_year": 1991,
+        "award_year": 2008,
+        "citation_id": "krugman-1991"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1991,
+          1991
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261763",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261763",
+        "title": "Increasing Returns and Economic Geography",
+        "authors": [
+          {
+            "given": "Paul",
+            "family": "Krugman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1991,
+        "venue": "Journal of Political Economy",
+        "volume": "99",
+        "issue": "3",
+        "pages": "483-499",
+        "url": "https://doi.org/10.1086/261763",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/466942",
+        "expected_title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+        "expected_author_families": [
+          "Williamson"
+        ],
+        "expected_year": 1979,
+        "award_year": 2009,
+        "citation_id": "williamson-1979"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1979,
+          1979
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/466942",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/466942",
+        "title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+        "authors": [
+          {
+            "given": "Oliver E.",
+            "family": "Williamson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1979,
+        "venue": "The Journal of Law and Economics",
+        "volume": "22",
+        "issue": "2",
+        "pages": "233-261",
+        "url": "https://doi.org/10.1086/466942",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1964229",
+        "expected_title": "Covenants with and without a Sword: Self-Governance Is Possible",
+        "expected_author_families": [
+          "Ostrom",
+          "Walker",
+          "Gardner"
+        ],
+        "expected_year": 1992,
+        "award_year": 2009,
+        "citation_id": "ostrom-walker-gardner-1992"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1992,
+          1992,
+          2013
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0003055400089048",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/1964229",
+        "title": "Covenants with and without a Sword: Self-Governance Is Possible",
+        "authors": [
+          {
+            "given": "Elinor",
+            "family": "Ostrom",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James",
+            "family": "Walker",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Roy",
+            "family": "Gardner",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1992,
+        "venue": "American Political Science Review",
+        "volume": "86",
+        "issue": "2",
+        "pages": "404-417",
+        "url": "https://doi.org/10.2307/1964229",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1016/0022-0531(71)90013-5",
+        "expected_title": "A model of price adjustment",
+        "expected_author_families": [
+          "Diamond"
+        ],
+        "expected_year": 1971,
+        "award_year": 2010,
+        "citation_id": "diamond-1971"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1971,
+          1971
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022053171900135?httpAccept=text/xml",
+          "content_type": "text/xml",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0022053171900135?httpAccept=text/plain",
+          "content_type": "text/plain",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1016/0022-0531(71)90013-5",
+        "title": "A model of price adjustment",
+        "authors": [
+          {
+            "given": "Peter A",
+            "family": "Diamond",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1971,
+        "venue": "Journal of Economic Theory",
+        "volume": "3",
+        "issue": "2",
+        "pages": "156-168",
+        "url": "https://doi.org/10.1016/0022-0531(71)90013-5",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2297896",
+        "expected_title": "Job Creation and Job Destruction in the Theory of Unemployment",
+        "expected_author_families": [
+          "Mortensen",
+          "Pissarides"
+        ],
+        "expected_year": 1994,
+        "award_year": 2010,
+        "citation_id": "mortensen-pissarides-1994"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1994,
+          1994
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/restud/article-pdf/61/3/397/4509283/61-3-397.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/2297896",
+        "title": "Job Creation and Job Destruction in the Theory of Unemployment",
+        "authors": [
+          {
+            "given": "D. T.",
+            "family": "Mortensen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "C. A.",
+            "family": "Pissarides",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1994,
+        "venue": "The Review of Economic Studies",
+        "volume": "61",
+        "issue": "3",
+        "pages": "397-415",
+        "url": "https://doi.org/10.2307/2297896",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1912017",
+        "expected_title": "Macroeconomics and Reality",
+        "expected_author_families": [
+          "Sims"
+        ],
+        "expected_year": 1980,
+        "award_year": 2011,
+        "citation_id": "sims-1980"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1980,
+          1980
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1912017",
+        "title": "Macroeconomics and Reality",
+        "authors": [
+          {
+            "given": "Christopher A.",
+            "family": "Sims",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1980,
+        "venue": "Econometrica",
+        "volume": "48",
+        "issue": "1",
+        "pages": "1",
+        "url": "https://doi.org/10.2307/1912017",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.21034/qr.531",
+        "expected_title": "Some Unpleasant Monetarist Arithmetic",
+        "expected_author_families": [
+          "Sargent",
+          "Wallace"
+        ],
+        "expected_year": 1981,
+        "award_year": 2011,
+        "citation_id": "sargent-wallace-1981"
+      },
+      "metadata_verified": false,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": false,
+        "years": [
+          1981,
+          1981
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.21034/qr.531",
+        "title": "Some Unpleasant Monetarist Arithmetic",
+        "authors": [
+          {
+            "given": "Thomas J.",
+            "family": "Sargent",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1981,
+        "venue": "Quarterly Review",
+        "volume": "5",
+        "issue": "3",
+        "url": "https://doi.org/10.21034/qr.531",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1080/00029890.1962.11989827",
+        "expected_title": "College Admissions and the Stability of Marriage",
+        "expected_author_families": [
+          "Gale",
+          "Shapley"
+        ],
+        "expected_year": 1962,
+        "award_year": 2012,
+        "citation_id": "gale-shapley-1962"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1962,
+          1962,
+          2018
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/00029890.1962.11989827",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1080/00029890.1962.11989827",
+        "title": "College Admissions and the Stability of Marriage",
+        "authors": [
+          {
+            "given": "D.",
+            "family": "Gale",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Brown University and the RAND Corporation"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "L. S.",
+            "family": "Shapley",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Brown University and the RAND Corporation"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1962,
+        "venue": "The American Mathematical Monthly",
+        "volume": "69",
+        "issue": "1",
+        "pages": "9-15",
+        "url": "https://doi.org/10.1080/00029890.1962.11989827",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261272",
+        "expected_title": "The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory",
+        "expected_author_families": [
+          "Roth"
+        ],
+        "expected_year": 1984,
+        "award_year": 2012,
+        "citation_id": "roth-1984"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1984,
+          1984
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261272",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261272",
+        "title": "The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory",
+        "authors": [
+          {
+            "given": "Alvin E.",
+            "family": "Roth",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1984,
+        "venue": "Journal of Political Economy",
+        "volume": "92",
+        "issue": "6",
+        "pages": "991-1016",
+        "url": "https://doi.org/10.1086/261272",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2325486",
+        "expected_title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+        "expected_author_families": [
+          "Fama"
+        ],
+        "expected_year": 1970,
+        "award_year": 2013,
+        "citation_id": "fama-1970"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1970,
+          1970
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/2325486",
+        "title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+        "authors": [
+          {
+            "given": "Eugene F.",
+            "family": "Fama",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1970,
+        "venue": "The Journal of Finance",
+        "volume": "25",
+        "issue": "2",
+        "pages": "383",
+        "url": "https://doi.org/10.2307/2325486",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1912775",
+        "expected_title": "Large Sample Properties of Generalized Method of Moments Estimators",
+        "expected_author_families": [
+          "Hansen"
+        ],
+        "expected_year": 1982,
+        "award_year": 2013,
+        "citation_id": "hansen-1982"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1982,
+          1982
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1912775",
+        "title": "Large Sample Properties of Generalized Method of Moments Estimators",
+        "authors": [
+          {
+            "given": "Lars Peter",
+            "family": "Hansen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1982,
+        "venue": "Econometrica",
+        "volume": "50",
+        "issue": "4",
+        "pages": "1029",
+        "url": "https://doi.org/10.2307/1912775",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.3386/w0456",
+        "expected_title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?",
+        "expected_author_families": [
+          "Shiller"
+        ],
+        "expected_year": 1980,
+        "award_year": 2013,
+        "citation_id": "shiller-1980"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1980,
+          1980
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.3386/w0456",
+        "title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?",
+        "authors": [
+          {
+            "given": "Robert",
+            "family": "Shiller",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1980,
+        "url": "https://doi.org/10.3386/w0456",
+        "type": "report"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261392",
+        "expected_title": "Using Cost Observation to Regulate Firms",
+        "expected_author_families": [
+          "Laffont",
+          "Tirole"
+        ],
+        "expected_year": 1986,
+        "award_year": 2014,
+        "citation_id": "laffont-tirole-1986"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1986,
+          1986
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261392",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261392",
+        "title": "Using Cost Observation to Regulate Firms",
+        "authors": [
+          {
+            "given": "Jean-Jacques",
+            "family": "Laffont",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jean",
+            "family": "Tirole",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1986,
+        "venue": "Journal of Political Economy",
+        "volume": "94",
+        "issue": "3, Part 1",
+        "pages": "614-641",
+        "url": "https://doi.org/10.1086/261392",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/3003320",
+        "expected_title": "Moral Hazard and Observability",
+        "expected_author_families": [
+          "Holmstrom"
+        ],
+        "expected_year": 1979,
+        "award_year": 2016,
+        "citation_id": "holmstrom-1979"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1979,
+          1979
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/3003320",
+        "title": "Moral Hazard and Observability",
+        "authors": [
+          {
+            "given": "Bengt",
+            "family": "Holmstrom",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1979,
+        "venue": "The Bell Journal of Economics",
+        "volume": "10",
+        "issue": "1",
+        "pages": "74",
+        "url": "https://doi.org/10.2307/3003320",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261404",
+        "expected_title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+        "expected_author_families": [
+          "Grossman",
+          "Hart"
+        ],
+        "expected_year": 1986,
+        "award_year": 2016,
+        "citation_id": "grossman-hart-1986"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1986,
+          1986
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261404",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261404",
+        "title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+        "authors": [
+          {
+            "given": "Sanford J.",
+            "family": "Grossman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Oliver D.",
+            "family": "Hart",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1986,
+        "venue": "Journal of Political Economy",
+        "volume": "94",
+        "issue": "4",
+        "pages": "691-719",
+        "url": "https://doi.org/10.1086/261404",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1016/0167-2681(80)90051-7",
+        "expected_title": "Toward a positive theory of consumer choice",
+        "expected_author_families": [
+          "Thaler"
+        ],
+        "expected_year": 1980,
+        "award_year": 2017,
+        "citation_id": "thaler-1980"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1980,
+          1980
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0167268180900517?httpAccept=text/xml",
+          "content_type": "text/xml",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:0167268180900517?httpAccept=text/plain",
+          "content_type": "text/plain",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1016/0167-2681(80)90051-7",
+        "title": "Toward a positive theory of consumer choice",
+        "authors": [
+          {
+            "given": "Richard",
+            "family": "Thaler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1980,
+        "venue": "Journal of Economic Behavior &amp; Organization",
+        "volume": "1",
+        "issue": "1",
+        "pages": "39-60",
+        "url": "https://doi.org/10.1016/0167-2681(80)90051-7",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/380085",
+        "expected_title": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+        "expected_author_families": [
+          "Thaler",
+          "Benartzi"
+        ],
+        "expected_year": 2004,
+        "award_year": 2017,
+        "citation_id": "thaler-benartzi-2004"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2004,
+          2004
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/380085",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/380085",
+        "title": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+        "authors": [
+          {
+            "given": "Richard H.",
+            "family": "Thaler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shlomo",
+            "family": "Benartzi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2004,
+        "venue": "Journal of Political Economy",
+        "volume": "112",
+        "issue": "S1",
+        "pages": "S164-S187",
+        "url": "https://doi.org/10.1086/380085",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261725",
+        "expected_title": "Endogenous Technological Change",
+        "expected_author_families": [
+          "Romer"
+        ],
+        "expected_year": 1990,
+        "award_year": 2018,
+        "citation_id": "romer-1990"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1990,
+          1990
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261725",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261725",
+        "title": "Endogenous Technological Change",
+        "authors": [
+          {
+            "given": "Paul M.",
+            "family": "Romer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1990,
+        "venue": "Journal of Political Economy",
+        "volume": "98",
+        "issue": "5, Part 2",
+        "pages": "S71-S102",
+        "url": "https://doi.org/10.1086/261725",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1126/science.258.5086.1315",
+        "expected_title": "An Optimal Transition Path for Controlling Greenhouse Gases",
+        "expected_author_families": [
+          "Nordhaus"
+        ],
+        "expected_year": 1992,
+        "award_year": 2018,
+        "citation_id": "nordhaus-1992"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1992,
+          1992
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://www.science.org/doi/pdf/10.1126/science.258.5086.1315",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1126/science.258.5086.1315",
+        "title": "An Optimal Transition Path for Controlling Greenhouse Gases",
+        "authors": [
+          {
+            "given": "William D.",
+            "family": "Nordhaus",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "A. Whitney Griswold Professor of Economics and on the staff of the Cowles Foundation, Yale University, Box 1972 Yale Station, New Haven, CT 06520"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1992,
+        "venue": "Science",
+        "volume": "258",
+        "issue": "5086",
+        "pages": "1315-1319",
+        "url": "https://doi.org/10.1126/science.258.5086.1315",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1162/qjec.122.3.1235",
+        "expected_title": "Remedying Education: Evidence from Two Randomized Experiments in India",
+        "expected_author_families": [
+          "Banerjee",
+          "Cole",
+          "Duflo",
+          "Linden"
+        ],
+        "expected_year": 2007,
+        "award_year": 2019,
+        "citation_id": "banerjee-cole-duflo-linden-2007"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2007,
+          2007
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/122/3/1235/5313025/122-3-1235.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1162/qjec.122.3.1235",
+        "title": "Remedying Education: Evidence from Two Randomized Experiments in India",
+        "authors": [
+          {
+            "given": "A. V.",
+            "family": "Banerjee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S.",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Duflo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "L.",
+            "family": "Linden",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2007,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "122",
+        "issue": "3",
+        "pages": "1235-1264",
+        "url": "https://doi.org/10.1162/qjec.122.3.1235",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1111/j.1468-0262.2004.00481.x",
+        "expected_title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+        "expected_author_families": [
+          "Miguel",
+          "Kremer"
+        ],
+        "expected_year": 2004,
+        "award_year": 2019,
+        "citation_id": "miguel-kremer-2004"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2004,
+          2004
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1468-0262.2004.00481.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2004.00481.x",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1111/j.1468-0262.2004.00481.x",
+        "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+        "authors": [
+          {
+            "given": "Edward",
+            "family": "Miguel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Kremer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2004,
+        "venue": "Econometrica",
+        "volume": "72",
+        "issue": "1",
+        "pages": "159-217",
+        "url": "https://doi.org/10.1111/j.1468-0262.2004.00481.x",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1287/mnsc.15.7.446",
+        "expected_title": "Communications to the Editor—Competitive Bidding with Disparate Information",
+        "expected_author_families": [
+          "Wilson"
+        ],
+        "expected_year": 1969,
+        "award_year": 2020,
+        "citation_id": "wilson-1969"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1969,
+          1969
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.15.7.446",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1287/mnsc.15.7.446",
+        "title": "Communications to the Editor—Competitive Bidding with Disparate Information",
+        "authors": [
+          {
+            "given": "Robert B.",
+            "family": "Wilson",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stanford University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1969,
+        "venue": "Management Science",
+        "volume": "15",
+        "issue": "7",
+        "pages": "446-452",
+        "url": "https://doi.org/10.1287/mnsc.15.7.446",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/1911865",
+        "expected_title": "A Theory of Auctions and Competitive Bidding",
+        "expected_author_families": [
+          "Milgrom",
+          "Weber"
+        ],
+        "expected_year": 1982,
+        "award_year": 2020,
+        "citation_id": "milgrom-weber-1982"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1982,
+          1982
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/1911865",
+        "title": "A Theory of Auctions and Competitive Bidding",
+        "authors": [
+          {
+            "given": "Paul R.",
+            "family": "Milgrom",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Robert J.",
+            "family": "Weber",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1982,
+        "venue": "Econometrica",
+        "volume": "50",
+        "issue": "5",
+        "pages": "1089",
+        "url": "https://doi.org/10.2307/1911865",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2951620",
+        "expected_title": "Identification and Estimation of Local Average Treatment Effects",
+        "expected_author_families": [
+          "Imbens",
+          "Angrist"
+        ],
+        "expected_year": 1994,
+        "award_year": 2021,
+        "citation_id": "imbens-angrist-1994"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1994,
+          1994
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/2951620",
+        "title": "Identification and Estimation of Local Average Treatment Effects",
+        "authors": [
+          {
+            "given": "Guido W.",
+            "family": "Imbens",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joshua D.",
+            "family": "Angrist",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1994,
+        "venue": "Econometrica",
+        "volume": "62",
+        "issue": "2",
+        "pages": "467",
+        "url": "https://doi.org/10.2307/2951620",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/261155",
+        "expected_title": "Bank Runs, Deposit Insurance, and Liquidity",
+        "expected_author_families": [
+          "Diamond",
+          "Dybvig"
+        ],
+        "expected_year": 1983,
+        "award_year": 2022,
+        "citation_id": "diamond-dybvig-1983"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1983,
+          1983
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/261155",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/261155",
+        "title": "Bank Runs, Deposit Insurance, and Liquidity",
+        "authors": [
+          {
+            "given": "Douglas W.",
+            "family": "Diamond",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Philip H.",
+            "family": "Dybvig",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1983,
+        "venue": "Journal of Political Economy",
+        "volume": "91",
+        "issue": "3",
+        "pages": "401-419",
+        "url": "https://doi.org/10.1086/261155",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2297430",
+        "expected_title": "Financial Intermediation and Delegated Monitoring",
+        "expected_author_families": [
+          "Diamond"
+        ],
+        "expected_year": 1984,
+        "award_year": 2022,
+        "citation_id": "diamond-1984"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1984,
+          1984
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/restud/article-pdf/51/3/393/4418285/51-3-393.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.2307/2297430",
+        "title": "Financial Intermediation and Delegated Monitoring",
+        "authors": [
+          {
+            "given": "Douglas W.",
+            "family": "Diamond",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1984,
+        "venue": "The Review of Economic Studies",
+        "volume": "51",
+        "issue": "3",
+        "pages": "393",
+        "url": "https://doi.org/10.2307/2297430",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.3386/w1054",
+        "expected_title": "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression",
+        "expected_author_families": [
+          "Bernanke"
+        ],
+        "expected_year": 1983,
+        "award_year": 2022,
+        "citation_id": "bernanke-1983"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1983,
+          1983
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.3386/w1054",
+        "title": "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression",
+        "authors": [
+          {
+            "given": "Ben",
+            "family": "Bernanke",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1983,
+        "url": "https://doi.org/10.3386/w1054",
+        "type": "report"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1257/aer.104.4.1091",
+        "expected_title": "A Grand Gender Convergence: Its Last Chapter",
+        "expected_author_families": [
+          "Goldin"
+        ],
+        "expected_year": 2014,
+        "award_year": 2023,
+        "citation_id": "goldin-2014"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2014,
+          2014
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.104.4.1091",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1257/aer.104.4.1091",
+        "title": "A Grand Gender Convergence: Its Last Chapter",
+        "authors": [
+          {
+            "given": "Claudia",
+            "family": "Goldin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, Harvard University, 229 Littauer, Cambridge, MA 02138 ()"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2014,
+        "venue": "American Economic Review",
+        "volume": "104",
+        "issue": "4",
+        "pages": "1091-1119",
+        "url": "https://doi.org/10.1257/aer.104.4.1091",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/340778",
+        "expected_title": "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions",
+        "expected_author_families": [
+          "Goldin",
+          "Katz"
+        ],
+        "expected_year": 2002,
+        "award_year": 2023,
+        "citation_id": "goldin-katz-2002"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2002,
+          2002
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/340778",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/340778",
+        "title": "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions",
+        "authors": [
+          {
+            "given": "Claudia",
+            "family": "Goldin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lawrence F.",
+            "family": "Katz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2002,
+        "venue": "Journal of Political Economy",
+        "volume": "110",
+        "issue": "4",
+        "pages": "730-770",
+        "url": "https://doi.org/10.1086/340778",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1257/aer.91.5.1369",
+        "expected_title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+        "expected_author_families": [
+          "Acemoglu",
+          "Johnson",
+          "Robinson"
+        ],
+        "expected_year": 2001,
+        "award_year": 2024,
+        "citation_id": "acemoglu-johnson-robinson-2001"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2001,
+          2001
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.91.5.1369",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1257/aer.91.5.1369",
+        "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+        "authors": [
+          {
+            "given": "Daron",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Economics, E52-380b, Massachusetts Institute of Technology, Cambridge, MA 02319, and Canadian Institute for Advanced Research."
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Simon",
+            "family": "Johnson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Sloan School of Management, Massachusetts Institute of Technology, Cambridge, MA 02319."
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James A",
+            "family": "Robinson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Political Science and Department of Economics, 210 Barrows Hall, University of California, Berkeley, CA 94720."
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2001,
+        "venue": "American Economic Review",
+        "volume": "91",
+        "issue": "5",
+        "pages": "1369-1401",
+        "url": "https://doi.org/10.1257/aer.91.5.1369",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1162/003355302320935025",
+        "expected_title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "expected_author_families": [
+          "Acemoglu",
+          "Johnson",
+          "Robinson"
+        ],
+        "expected_year": 2002,
+        "award_year": 2024,
+        "citation_id": "acemoglu-johnson-robinson-2002"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2002,
+          2002
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/117/4/1231/5304329/117-4-1231.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1162/003355302320935025",
+        "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+        "authors": [
+          {
+            "given": "D.",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S.",
+            "family": "Johnson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J. A.",
+            "family": "Robinson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2002,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "117",
+        "issue": "4",
+        "pages": "1231-1294",
+        "url": "https://doi.org/10.1162/003355302320935025",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1162/003355300555042",
+        "expected_title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective",
+        "expected_author_families": [
+          "Acemoglu",
+          "Robinson"
+        ],
+        "expected_year": 2000,
+        "award_year": 2024,
+        "citation_id": "acemoglu-robinson-2000"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          2000,
+          2000
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://academic.oup.com/qje/article-pdf/115/4/1167/5152424/115-4-1167.pdf",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1162/003355300555042",
+        "title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective",
+        "authors": [
+          {
+            "given": "D.",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J. A.",
+            "family": "Robinson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 2000,
+        "venue": "The Quarterly Journal of Economics",
+        "volume": "115",
+        "issue": "4",
+        "pages": "1167-1199",
+        "url": "https://doi.org/10.1162/003355300555042",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.2307/2951599",
+        "expected_title": "A Model of Growth Through Creative Destruction",
+        "expected_author_families": [
+          "Aghion",
+          "Howitt"
+        ],
+        "expected_year": 1992,
+        "award_year": 2025,
+        "citation_id": "aghion-howitt-1992"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1992,
+          1992
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [],
+      "crossref": {
+        "doi": "10.2307/2951599",
+        "title": "A Model of Growth Through Creative Destruction",
+        "authors": [
+          {
+            "given": "Philippe",
+            "family": "Aghion",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peter",
+            "family": "Howitt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1992,
+        "venue": "Econometrica",
+        "volume": "60",
+        "issue": "2",
+        "pages": "323",
+        "url": "https://doi.org/10.2307/2951599",
+        "type": "journal-article"
+      }
+    },
+    {
+      "checked_at": "2026-10-17",
+      "query": {
+        "doi": "10.1086/260724",
+        "expected_title": "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence",
+        "expected_author_families": [
+          "Hall"
+        ],
+        "expected_year": 1978,
+        "award_year": 2026,
+        "citation_id": "hall-1978"
+      },
+      "metadata_verified": true,
+      "checks": {
+        "titleMatches": true,
+        "authorsMatch": true,
+        "years": [
+          1978,
+          1978
+        ]
+      },
+      "association_review_required": true,
+      "rights_review_required": true,
+      "full_text_candidates": [
+        {
+          "url": "http://www.journals.uchicago.edu/doi/pdf/10.1086/260724",
+          "content_type": "unspecified",
+          "version": "vor",
+          "verified_access": false,
+          "allows_hosting": false,
+          "allows_format_conversion": false
+        }
+      ],
+      "crossref": {
+        "doi": "10.1086/260724",
+        "title": "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence",
+        "authors": [
+          {
+            "given": "Robert E.",
+            "family": "Hall",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": 1978,
+        "venue": "Journal of Political Economy",
+        "volume": "86",
+        "issue": "6",
+        "pages": "971-987",
+        "url": "https://doi.org/10.1086/260724",
+        "type": "journal-article"
+      }
     }
   ],
-  "unmatched": 0
+  "unmatched": 1
 }

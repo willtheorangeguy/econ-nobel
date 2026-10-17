@@ -1,5 +1,707 @@
 [
- {"doi":"10.2307/1879431","expected_title":"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism","expected_author_families":["Akerlof"],"expected_year":1970,"award_year":2001},
- {"doi":"10.2307/1882010","expected_title":"Job Market Signaling","expected_author_families":["Spence"],"expected_year":1973,"award_year":2001},
- {"doi":"10.2307/1885326","expected_title":"Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information","expected_author_families":["Rothschild","Stiglitz"],"expected_year":1976,"award_year":2001}
+  {
+    "doi": "10.2307/1879431",
+    "expected_title": "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism",
+    "expected_author_families": [
+      "Akerlof"
+    ],
+    "expected_year": 1970,
+    "award_year": 2001
+  },
+  {
+    "doi": "10.2307/1882010",
+    "expected_title": "Job Market Signaling",
+    "expected_author_families": [
+      "Spence"
+    ],
+    "expected_year": 1973,
+    "award_year": 2001
+  },
+  {
+    "doi": "10.2307/1885326",
+    "expected_title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+    "expected_author_families": [
+      "Rothschild",
+      "Stiglitz"
+    ],
+    "expected_year": 1976,
+    "award_year": 2001
+  },
+  {
+    "doi": "10.2307/2296205",
+    "expected_title": "Liquidity Preference as Behavior Towards Risk",
+    "expected_author_families": [
+      "Tobin"
+    ],
+    "expected_year": 1958,
+    "award_year": 1981,
+    "citation_id": "tobin-1958"
+  },
+  {
+    "doi": "10.1086/258464",
+    "expected_title": "The Economics of Information",
+    "expected_author_families": [
+      "Stigler"
+    ],
+    "expected_year": 1961,
+    "award_year": 1982,
+    "citation_id": "stigler-1961"
+  },
+  {
+    "doi": "10.2307/3003160",
+    "expected_title": "The Theory of Economic Regulation",
+    "expected_author_families": [
+      "Stigler"
+    ],
+    "expected_year": 1971,
+    "award_year": 1982,
+    "citation_id": "stigler-1971"
+  },
+  {
+    "doi": "10.2307/1884513",
+    "expected_title": "A Contribution to the Theory of Economic Growth",
+    "expected_author_families": [
+      "Solow"
+    ],
+    "expected_year": 1956,
+    "award_year": 1987,
+    "citation_id": "solow-1956"
+  },
+  {
+    "doi": "10.2307/1906935",
+    "expected_title": "The Probability Approach in Econometrics",
+    "expected_author_families": [
+      "Haavelmo"
+    ],
+    "expected_year": 1944,
+    "award_year": 1989,
+    "citation_id": "haavelmo-1944"
+  },
+  {
+    "doi": "10.1111/j.1540-6261.1952.tb01525.x",
+    "expected_title": "Portfolio Selection",
+    "expected_author_families": [
+      "Markowitz"
+    ],
+    "expected_year": 1952,
+    "award_year": 1990,
+    "citation_id": "markowitz-1952"
+  },
+  {
+    "doi": "10.1111/j.1540-6261.1964.tb02865.x",
+    "expected_title": "Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk",
+    "expected_author_families": [
+      "Sharpe"
+    ],
+    "expected_year": 1964,
+    "award_year": 1990,
+    "citation_id": "sharpe-1964"
+  },
+  {
+    "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+    "expected_title": "The Nature of the Firm",
+    "expected_author_families": [
+      "Coase"
+    ],
+    "expected_year": 1937,
+    "award_year": 1991,
+    "citation_id": "coase-1937"
+  },
+  {
+    "doi": "10.1086/466560",
+    "expected_title": "The Problem of Social Cost",
+    "expected_author_families": [
+      "Coase"
+    ],
+    "expected_year": 1960,
+    "award_year": 1991,
+    "citation_id": "coase-1960"
+  },
+  {
+    "doi": "10.2307/2228949",
+    "expected_title": "A Theory of the Allocation of Time",
+    "expected_author_families": [
+      "Becker"
+    ],
+    "expected_year": 1965,
+    "award_year": 1992,
+    "citation_id": "becker-1965"
+  },
+  {
+    "doi": "10.1073/pnas.36.1.48",
+    "expected_title": "Equilibrium points in n-person games",
+    "expected_author_families": [
+      "Nash"
+    ],
+    "expected_year": 1950,
+    "award_year": 1994,
+    "citation_id": "nash-1950"
+  },
+  {
+    "doi": "10.1287/mnsc.14.3.159",
+    "expected_title": "Games with Incomplete Information Played by “Bayesian” Players, I–III Part I. The Basic Model",
+    "expected_author_families": [
+      "Harsanyi"
+    ],
+    "expected_year": 1967,
+    "award_year": 1994,
+    "citation_id": "harsanyi-1967"
+  },
+  {
+    "doi": "10.1016/0022-0531(72)90142-1",
+    "expected_title": "Expectations and the neutrality of money",
+    "expected_author_families": [
+      "Lucas"
+    ],
+    "expected_year": 1972,
+    "award_year": 1995,
+    "citation_id": "lucas-1972"
+  },
+  {
+    "doi": "10.1016/s0167-2231(76)80003-6",
+    "expected_title": "Econometric policy evaluation: A critique",
+    "expected_author_families": [
+      "Lucas"
+    ],
+    "expected_year": 1976,
+    "award_year": 1995,
+    "citation_id": "lucas-1976"
+  },
+  {
+    "doi": "10.2307/2296779",
+    "expected_title": "An Exploration in the Theory of Optimum Income Taxation",
+    "expected_author_families": [
+      "Mirrlees"
+    ],
+    "expected_year": 1971,
+    "award_year": 1996,
+    "citation_id": "mirrlees-1971"
+  },
+  {
+    "doi": "10.1111/j.1540-6261.1961.tb02789.x",
+    "expected_title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+    "expected_author_families": [
+      "Vickrey"
+    ],
+    "expected_year": 1961,
+    "award_year": 1996,
+    "citation_id": "vickrey-1961"
+  },
+  {
+    "doi": "10.1086/260062",
+    "expected_title": "The Pricing of Options and Corporate Liabilities",
+    "expected_author_families": [
+      "Black",
+      "Scholes"
+    ],
+    "expected_year": 1973,
+    "award_year": 1997,
+    "citation_id": "black-scholes-1973"
+  },
+  {
+    "doi": "10.2307/3003143",
+    "expected_title": "Theory of Rational Option Pricing",
+    "expected_author_families": [
+      "Merton"
+    ],
+    "expected_year": 1973,
+    "award_year": 1997,
+    "citation_id": "merton-1973"
+  },
+  {
+    "doi": "10.2307/1912718",
+    "expected_title": "Poverty: An Ordinal Approach to Measurement",
+    "expected_author_families": [
+      "Sen"
+    ],
+    "expected_year": 1976,
+    "award_year": 1998,
+    "citation_id": "sen-1976"
+  },
+  {
+    "doi": "10.2307/139336",
+    "expected_title": "Capital Mobility and Stabilization Policy Under Fixed and Flexible Exchange Rates",
+    "expected_author_families": [
+      "Mundell"
+    ],
+    "expected_year": 1963,
+    "award_year": 1999,
+    "citation_id": "mundell-1963"
+  },
+  {
+    "doi": "10.2307/1912352",
+    "expected_title": "Sample Selection Bias as a Specification Error",
+    "expected_author_families": [
+      "Heckman"
+    ],
+    "expected_year": 1979,
+    "award_year": 2000,
+    "citation_id": "heckman-1979"
+  },
+  {
+    "doi": "10.2307/1914185",
+    "expected_title": "Prospect Theory: An Analysis of Decision under Risk",
+    "expected_author_families": [
+      "Kahneman",
+      "Tversky"
+    ],
+    "expected_year": 1979,
+    "award_year": 2002,
+    "citation_id": "kahneman-tversky-1979"
+  },
+  {
+    "doi": "10.1086/258609",
+    "expected_title": "An Experimental Study of Competitive Market Behavior",
+    "expected_author_families": [
+      "Smith"
+    ],
+    "expected_year": 1962,
+    "award_year": 2002,
+    "citation_id": "smith-1962"
+  },
+  {
+    "doi": "10.2307/1912773",
+    "expected_title": "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation",
+    "expected_author_families": [
+      "Engle"
+    ],
+    "expected_year": 1982,
+    "award_year": 2003,
+    "citation_id": "engle-1982"
+  },
+  {
+    "doi": "10.2307/1913236",
+    "expected_title": "Co-Integration and Error Correction: Representation, Estimation, and Testing",
+    "expected_author_families": [
+      "Engle",
+      "Granger"
+    ],
+    "expected_year": 1987,
+    "award_year": 2003,
+    "citation_id": "engle-granger-1987"
+  },
+  {
+    "doi": "10.1086/260580",
+    "expected_title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+    "expected_author_families": [
+      "Kydland",
+      "Prescott"
+    ],
+    "expected_year": 1977,
+    "award_year": 2004,
+    "citation_id": "kydland-prescott-1977"
+  },
+  {
+    "doi": "10.2307/1913386",
+    "expected_title": "Time to Build and Aggregate Fluctuations",
+    "expected_author_families": [
+      "Kydland",
+      "Prescott"
+    ],
+    "expected_year": 1982,
+    "award_year": 2004,
+    "citation_id": "kydland-prescott-1982"
+  },
+  {
+    "doi": "10.1086/259438",
+    "expected_title": "Money-Wage Dynamics and Labor-Market Equilibrium",
+    "expected_author_families": [
+      "Phelps"
+    ],
+    "expected_year": 1968,
+    "award_year": 2006,
+    "citation_id": "phelps-1968"
+  },
+  {
+    "doi": "10.1111/1467-937x.00076",
+    "expected_title": "Nash Equilibrium and Welfare Optimality",
+    "expected_author_families": [
+      "Maskin"
+    ],
+    "expected_year": 1999,
+    "award_year": 2007,
+    "citation_id": "maskin-1999"
+  },
+  {
+    "doi": "10.1287/moor.6.1.58",
+    "expected_title": "Optimal Auction Design",
+    "expected_author_families": [
+      "Myerson"
+    ],
+    "expected_year": 1981,
+    "award_year": 2007,
+    "citation_id": "myerson-1981"
+  },
+  {
+    "doi": "10.1016/0022-1996(79)90017-5",
+    "expected_title": "Increasing returns, monopolistic competition, and international trade",
+    "expected_author_families": [
+      "Krugman"
+    ],
+    "expected_year": 1979,
+    "award_year": 2008,
+    "citation_id": "krugman-1979"
+  },
+  {
+    "doi": "10.1086/261763",
+    "expected_title": "Increasing Returns and Economic Geography",
+    "expected_author_families": [
+      "Krugman"
+    ],
+    "expected_year": 1991,
+    "award_year": 2008,
+    "citation_id": "krugman-1991"
+  },
+  {
+    "doi": "10.1086/466942",
+    "expected_title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+    "expected_author_families": [
+      "Williamson"
+    ],
+    "expected_year": 1979,
+    "award_year": 2009,
+    "citation_id": "williamson-1979"
+  },
+  {
+    "doi": "10.2307/1964229",
+    "expected_title": "Covenants with and without a Sword: Self-Governance Is Possible",
+    "expected_author_families": [
+      "Ostrom",
+      "Walker",
+      "Gardner"
+    ],
+    "expected_year": 1992,
+    "award_year": 2009,
+    "citation_id": "ostrom-walker-gardner-1992"
+  },
+  {
+    "doi": "10.1016/0022-0531(71)90013-5",
+    "expected_title": "A model of price adjustment",
+    "expected_author_families": [
+      "Diamond"
+    ],
+    "expected_year": 1971,
+    "award_year": 2010,
+    "citation_id": "diamond-1971"
+  },
+  {
+    "doi": "10.2307/2297896",
+    "expected_title": "Job Creation and Job Destruction in the Theory of Unemployment",
+    "expected_author_families": [
+      "Mortensen",
+      "Pissarides"
+    ],
+    "expected_year": 1994,
+    "award_year": 2010,
+    "citation_id": "mortensen-pissarides-1994"
+  },
+  {
+    "doi": "10.2307/1912017",
+    "expected_title": "Macroeconomics and Reality",
+    "expected_author_families": [
+      "Sims"
+    ],
+    "expected_year": 1980,
+    "award_year": 2011,
+    "citation_id": "sims-1980"
+  },
+  {
+    "doi": "10.21034/qr.531",
+    "expected_title": "Some Unpleasant Monetarist Arithmetic",
+    "expected_author_families": [
+      "Sargent",
+      "Wallace"
+    ],
+    "expected_year": 1981,
+    "award_year": 2011,
+    "citation_id": "sargent-wallace-1981"
+  },
+  {
+    "doi": "10.1080/00029890.1962.11989827",
+    "expected_title": "College Admissions and the Stability of Marriage",
+    "expected_author_families": [
+      "Gale",
+      "Shapley"
+    ],
+    "expected_year": 1962,
+    "award_year": 2012,
+    "citation_id": "gale-shapley-1962"
+  },
+  {
+    "doi": "10.1086/261272",
+    "expected_title": "The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory",
+    "expected_author_families": [
+      "Roth"
+    ],
+    "expected_year": 1984,
+    "award_year": 2012,
+    "citation_id": "roth-1984"
+  },
+  {
+    "doi": "10.2307/2325486",
+    "expected_title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+    "expected_author_families": [
+      "Fama"
+    ],
+    "expected_year": 1970,
+    "award_year": 2013,
+    "citation_id": "fama-1970"
+  },
+  {
+    "doi": "10.2307/1912775",
+    "expected_title": "Large Sample Properties of Generalized Method of Moments Estimators",
+    "expected_author_families": [
+      "Hansen"
+    ],
+    "expected_year": 1982,
+    "award_year": 2013,
+    "citation_id": "hansen-1982"
+  },
+  {
+    "doi": "10.3386/w0456",
+    "expected_title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?",
+    "expected_author_families": [
+      "Shiller"
+    ],
+    "expected_year": 1980,
+    "award_year": 2013,
+    "citation_id": "shiller-1980"
+  },
+  {
+    "doi": "10.1086/261392",
+    "expected_title": "Using Cost Observation to Regulate Firms",
+    "expected_author_families": [
+      "Laffont",
+      "Tirole"
+    ],
+    "expected_year": 1986,
+    "award_year": 2014,
+    "citation_id": "laffont-tirole-1986"
+  },
+  {
+    "doi": "10.2307/3003320",
+    "expected_title": "Moral Hazard and Observability",
+    "expected_author_families": [
+      "Holmstrom"
+    ],
+    "expected_year": 1979,
+    "award_year": 2016,
+    "citation_id": "holmstrom-1979"
+  },
+  {
+    "doi": "10.1086/261404",
+    "expected_title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+    "expected_author_families": [
+      "Grossman",
+      "Hart"
+    ],
+    "expected_year": 1986,
+    "award_year": 2016,
+    "citation_id": "grossman-hart-1986"
+  },
+  {
+    "doi": "10.1016/0167-2681(80)90051-7",
+    "expected_title": "Toward a positive theory of consumer choice",
+    "expected_author_families": [
+      "Thaler"
+    ],
+    "expected_year": 1980,
+    "award_year": 2017,
+    "citation_id": "thaler-1980"
+  },
+  {
+    "doi": "10.1086/380085",
+    "expected_title": "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving",
+    "expected_author_families": [
+      "Thaler",
+      "Benartzi"
+    ],
+    "expected_year": 2004,
+    "award_year": 2017,
+    "citation_id": "thaler-benartzi-2004"
+  },
+  {
+    "doi": "10.1086/261725",
+    "expected_title": "Endogenous Technological Change",
+    "expected_author_families": [
+      "Romer"
+    ],
+    "expected_year": 1990,
+    "award_year": 2018,
+    "citation_id": "romer-1990"
+  },
+  {
+    "doi": "10.1126/science.258.5086.1315",
+    "expected_title": "An Optimal Transition Path for Controlling Greenhouse Gases",
+    "expected_author_families": [
+      "Nordhaus"
+    ],
+    "expected_year": 1992,
+    "award_year": 2018,
+    "citation_id": "nordhaus-1992"
+  },
+  {
+    "doi": "10.1162/qjec.122.3.1235",
+    "expected_title": "Remedying Education: Evidence from Two Randomized Experiments in India",
+    "expected_author_families": [
+      "Banerjee",
+      "Cole",
+      "Duflo",
+      "Linden"
+    ],
+    "expected_year": 2007,
+    "award_year": 2019,
+    "citation_id": "banerjee-cole-duflo-linden-2007"
+  },
+  {
+    "doi": "10.1111/j.1468-0262.2004.00481.x",
+    "expected_title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+    "expected_author_families": [
+      "Miguel",
+      "Kremer"
+    ],
+    "expected_year": 2004,
+    "award_year": 2019,
+    "citation_id": "miguel-kremer-2004"
+  },
+  {
+    "doi": "10.1287/mnsc.15.7.446",
+    "expected_title": "Communications to the Editor—Competitive Bidding with Disparate Information",
+    "expected_author_families": [
+      "Wilson"
+    ],
+    "expected_year": 1969,
+    "award_year": 2020,
+    "citation_id": "wilson-1969"
+  },
+  {
+    "doi": "10.2307/1911865",
+    "expected_title": "A Theory of Auctions and Competitive Bidding",
+    "expected_author_families": [
+      "Milgrom",
+      "Weber"
+    ],
+    "expected_year": 1982,
+    "award_year": 2020,
+    "citation_id": "milgrom-weber-1982"
+  },
+  {
+    "doi": "10.2307/2951620",
+    "expected_title": "Identification and Estimation of Local Average Treatment Effects",
+    "expected_author_families": [
+      "Imbens",
+      "Angrist"
+    ],
+    "expected_year": 1994,
+    "award_year": 2021,
+    "citation_id": "imbens-angrist-1994"
+  },
+  {
+    "doi": "10.1086/261155",
+    "expected_title": "Bank Runs, Deposit Insurance, and Liquidity",
+    "expected_author_families": [
+      "Diamond",
+      "Dybvig"
+    ],
+    "expected_year": 1983,
+    "award_year": 2022,
+    "citation_id": "diamond-dybvig-1983"
+  },
+  {
+    "doi": "10.2307/2297430",
+    "expected_title": "Financial Intermediation and Delegated Monitoring",
+    "expected_author_families": [
+      "Diamond"
+    ],
+    "expected_year": 1984,
+    "award_year": 2022,
+    "citation_id": "diamond-1984"
+  },
+  {
+    "doi": "10.3386/w1054",
+    "expected_title": "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression",
+    "expected_author_families": [
+      "Bernanke"
+    ],
+    "expected_year": 1983,
+    "award_year": 2022,
+    "citation_id": "bernanke-1983"
+  },
+  {
+    "doi": "10.1257/aer.104.4.1091",
+    "expected_title": "A Grand Gender Convergence: Its Last Chapter",
+    "expected_author_families": [
+      "Goldin"
+    ],
+    "expected_year": 2014,
+    "award_year": 2023,
+    "citation_id": "goldin-2014"
+  },
+  {
+    "doi": "10.1086/340778",
+    "expected_title": "The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions",
+    "expected_author_families": [
+      "Goldin",
+      "Katz"
+    ],
+    "expected_year": 2002,
+    "award_year": 2023,
+    "citation_id": "goldin-katz-2002"
+  },
+  {
+    "doi": "10.1257/aer.91.5.1369",
+    "expected_title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+    "expected_author_families": [
+      "Acemoglu",
+      "Johnson",
+      "Robinson"
+    ],
+    "expected_year": 2001,
+    "award_year": 2024,
+    "citation_id": "acemoglu-johnson-robinson-2001"
+  },
+  {
+    "doi": "10.1162/003355302320935025",
+    "expected_title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+    "expected_author_families": [
+      "Acemoglu",
+      "Johnson",
+      "Robinson"
+    ],
+    "expected_year": 2002,
+    "award_year": 2024,
+    "citation_id": "acemoglu-johnson-robinson-2002"
+  },
+  {
+    "doi": "10.1162/003355300555042",
+    "expected_title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective",
+    "expected_author_families": [
+      "Acemoglu",
+      "Robinson"
+    ],
+    "expected_year": 2000,
+    "award_year": 2024,
+    "citation_id": "acemoglu-robinson-2000"
+  },
+  {
+    "doi": "10.2307/2951599",
+    "expected_title": "A Model of Growth Through Creative Destruction",
+    "expected_author_families": [
+      "Aghion",
+      "Howitt"
+    ],
+    "expected_year": 1992,
+    "award_year": 2025,
+    "citation_id": "aghion-howitt-1992"
+  },
+  {
+    "doi": "10.1086/260724",
+    "expected_title": "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence",
+    "expected_author_families": [
+      "Hall"
+    ],
+    "expected_year": 1978,
+    "award_year": 2026,
+    "citation_id": "hall-1978"
+  }
 ]

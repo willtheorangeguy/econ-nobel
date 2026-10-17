@@ -24,7 +24,7 @@
     }
   ],
   "scope_and_attribution": "Akerlof adverse selection; Spence signaling; Stiglitz screening with Rothschild. Preserve distinct programs and Rothschild coauthorship.",
-  "claim_source_map": "Prior manuscript and consulted-version declarations retained as inherited provenance. This record does not assert a new fetch or new full-text reading; the continuation checked the teaching arithmetic and preserved explicit gaps.",
+  "claim_source_map": "Prior Akerlof/academy provenance retained. New partial original consultation: Spence introduction and printed358–362 read visually; Rothschild–Stiglitz introduction and basicmodel/welfare printed629–638 read. Standalone draft explanations added; remaining sections and independent review outstanding.",
   "citations": [
     {
       "id": "nobel-2001",
@@ -80,10 +80,11 @@
       "accessed": "2026-10-17",
       "type": "journal-article",
       "verified": true,
-      "consulted_version": "Crossref bibliographic record only; original article not yet consulted. Award-level discussion uses the academy scientific background.",
+      "consulted_version": "QJE 87(3), 355–374; JSTOR facsimile hosted by CIES. Introduction and printed pages 358–362 read visually from scanned PDF pages 2 and 5–9. Remaining sections not claimed read. Private reading source: https://cies.org.pe/wp-content/uploads/2016/07/spence_1973.pdf. No redistribution or conversion permission inferred.",
       "doi": "10.2307/1882010",
       "venue": "The Quarterly Journal of Economics",
-      "volume": "87(3)"
+      "volume": "87(3)",
+      "pages": "355–374"
     },
     {
       "id": "rothschild-stiglitz-1976",
@@ -97,19 +98,35 @@
       "accessed": "2026-10-17",
       "type": "journal-article",
       "verified": true,
-      "consulted_version": "Crossref bibliographic record only; original article not yet consulted. Award-level discussion uses the academy scientific background.",
+      "consulted_version": "QJE 90(4), 629–649; University of Houston-hosted JSTOR facsimile. Introduction and section I through the welfare discussion, PDF pages 2–11 (printed 629–638), consulted. Later robustness sections not fully read. Private reading source: https://www.uh.edu/~bsorense/Rothschild%26Stiglitz.pdf. No redistribution or conversion permission inferred.",
       "doi": "10.2307/1885326",
       "venue": "The Quarterly Journal of Economics",
-      "volume": "90(4)"
+      "volume": "90(4)",
+      "pages": "629–649"
     }
   ],
-  "source_receipts": [],
+  "source_receipts": [
+    {
+      "citation_id": "spence-1973",
+      "url": "https://cies.org.pe/wp-content/uploads/2016/07/spence_1973.pdf",
+      "sha256": "95a953059cb3e0ddca5f054dc6d964bd2d1cf571a2bf9f5a8e453cfd320e5f30",
+      "accessed": "2026-10-17",
+      "consulted_sections": "QJE87(3),355–374; JSTORfacsimile at CIES. Introduction and printed358–362 read visually from scannedPDFpages2,5–9. Remaining sections not claimed read; no redistribution or conversion right inferred."
+    },
+    {
+      "citation_id": "rothschild-stiglitz-1976",
+      "url": "https://www.uh.edu/~bsorense/Rothschild%26Stiglitz.pdf",
+      "sha256": "2926405b2f3e911460e8aeac08194011305d384d2f0370481ddb09e183073f7f",
+      "accessed": "2026-10-17",
+      "consulted_sections": "QJE90(4),629–649; UniversityofHouston-hosted JSTORfacsimile. Introduction and sectionI through welfare discussion, PDF2–11 (printed629–638), consulted. Later robustnesssections not fully read; no redistribution or conversion right inferred."
+    }
+  ],
   "illustration_checks": {
     "author_checked": true,
-    "notes": "Equal qualitypool value.5times12000+.5times4000=8000 below reliableowner reservation9000; lowquality4000>=reservation3000; partialunraveling not completecollapse.",
+    "notes": "Equal qualitypool value.5times12000+.5times4000=8000 below reliableowner reservation9000; lowquality4000>=reservation3000; partialunraveling not completecollapse. Newworkexamples: Spenceproductivities10/20, costs4e/e,threshold3 ->low8<10,high17>10; highhalfpopulation resourcecost1.5. InsuranceW100loss64, p.1/.4, contracts(P,I)=(.4,4)/(25.6,64) produceEUlow9.611267,highpartial8.505129,full8.625543; uninsured9.6/8.4, allselfselection/participation satisfied. Notclaimedcompetitiveequilibrium: lowcontractnotoptimized or entrantschecked.",
     "independent_review": false
   },
-  "remaining_research": "Read Spence and Rothschild–Stiglitz originals; finish their dedicated work explanations; independent check of claims, examples, citations and rights.",
+  "remaining_research": "Complete remaining originalsections, laterrobustness/indicesarguments and subsequentliterature; independently review all threeworkdrafts and annualessay. Originalfile hosting/conversion rights not established.",
   "review": null,
   "rights": "Existing prose CC BY4.0; third-party originals external only, no new hosting/conversion permission inferred."
 }

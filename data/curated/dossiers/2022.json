@@ -1,0 +1,196 @@
+{
+  "year": 2022,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2022/summary/",
+  "laureates": [
+    {
+      "id": "1021",
+      "name": "Ben Bernanke",
+      "motivation": "for research on banks and financial crises",
+      "portion": "1/3"
+    },
+    {
+      "id": "1022",
+      "name": "Douglas Diamond",
+      "motivation": "for research on banks and financial crises",
+      "portion": "1/3"
+    },
+    {
+      "id": "1023",
+      "name": "Philip Dybvig",
+      "motivation": "for research on banks and financial crises",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Diamond/Dybvig liquidityinsurance and runvulnerability; Diamond delegatedmonitoring; Bernanke creditintermediationhistory. Nonmonetarychannel doesnot negate monetaryexplanations.",
+  "claim_source_map": "Official academy material supports contribution and context. Consulted editions/passages declared per citation; metadata is not full original reading. Equations and examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2022",
+      "title": "Presentation Speech for the 2022 Economic Sciences Prize",
+      "authors": [
+        "Tore Ellingsen"
+      ],
+      "year": 2022,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "press-2022",
+      "title": "Press Release for the 2022 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2022,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "diamond-dybvig-1983",
+      "title": "Bank Runs, Deposit Insurance, and Liquidity",
+      "authors": [
+        "Douglas W. Diamond",
+        "Philip H. Dybvig"
+      ],
+      "year": 1983,
+      "url": "https://doi.org/10.1086/261155",
+      "doi": "10.1086/261155",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "Journal of Political Economy",
+      "volume": "91(3)",
+      "pages": "401-419"
+    },
+    {
+      "id": "diamond-1984",
+      "title": "Financial Intermediation and Delegated Monitoring",
+      "authors": [
+        "Douglas W. Diamond"
+      ],
+      "year": 1984,
+      "url": "https://doi.org/10.2307/2297430",
+      "doi": "10.2307/2297430",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "The Review of Economic Studies",
+      "volume": "51(3)",
+      "pages": "393"
+    },
+    {
+      "id": "bernanke-1983",
+      "title": "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression",
+      "authors": [
+        "Ben Bernanke"
+      ],
+      "year": 1983,
+      "url": "https://doi.org/10.3386/w1054",
+      "doi": "10.3386/w1054",
+      "type": "report",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record for NBER Working Paper 1054 (January 1983) checked; original full text not read. This is the working-paper edition, not the later journal edition; no journal pagination assigned.",
+      "venue": "NBER Working Paper 1054"
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2022,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/ceremony-speech/",
+      "sha256": "e70e4bcad4b2e64d85439adca56f29b7da82285d6609d2521a96fa8970f58851",
+      "text_sha256": "e4b0892e2ca766ca1b27db1d86e5de1ed7135f9f7ddbafd158fdd8feff98874c",
+      "characters": 4251,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2022,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/",
+      "sha256": "f6be1fe33658aaf372a455e417da265ce6b8cb525a01582904b632a804d92a68",
+      "text_sha256": "0ccf3fe488deb4f0e9db0490c6d69c2eeeccc2d30e46674be31e737db8b097c5",
+      "characters": 5393,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "diamond-dybvig-1983",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/261155",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "2c9ac3e1f056c3d3b96ab65ced1be6bb7fc06bf3fe460f7e32cdbbce0f55d40d",
+      "title": [
+        "Bank Runs, Deposit Insurance, and Liquidity"
+      ],
+      "doi": "10.1086/261155",
+      "publication_date": {
+        "date-parts": [
+          [
+            1983,
+            6
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "diamond-1984",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2297430",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "31d7d9ce4079e3100c111cf57e14a6dad70ff6fd4917871d2835b7c28416c906",
+      "title": [
+        "Financial Intermediation and Delegated Monitoring"
+      ],
+      "doi": "10.2307/2297430",
+      "publication_date": {
+        "date-parts": [
+          [
+            1984,
+            7
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "bernanke-1983",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.3386/w1054",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "ebce8194efff503d5b94f0e3233737b6ec5241ddec499dce95ea5f0231f4ac59",
+      "title": [
+        "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression"
+      ],
+      "doi": "10.3386/w1054",
+      "publication_date": {
+        "date-parts": [
+          [
+            1983,
+            1
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "100deposits,20early at1.1 ->liquidate22,78matureat1.5 ->117/80=1.4625late. Allearlyclaims110 exceed100liquidresources. Not optimalcontractproof; duplicatedmonitorcost20times2=40.",
+    "independent_review": false
+  },
+  "remaining_research": "Read three original bankingpapers, historicalidentification and policyextensions; verify funding, guarantees and rights for original versions.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

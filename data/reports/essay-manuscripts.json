@@ -2,15 +2,15 @@
   "checked_at": "2026-10-17",
   "scope": "Annual manuscript inventory; presence, size and hashes do not establish scholarly accuracy or independent approval",
   "catalogue_years": 58,
-  "authored_drafts": 53,
-  "metadata_only": 5,
+  "authored_drafts": 58,
+  "metadata_only": 0,
   "review_records": 0,
   "years": [
     {
       "year": 1969,
       "status": "needs-review",
-      "body_word_count_whitespace": 1405,
-      "source_sha256": "8be307dd706bd229be2318e7d2b77ce5047df6dfe56e3e23a1ed3b089d7ecd86",
+      "body_word_count_whitespace": 1486,
+      "source_sha256": "96352eed3fd5a1ed7cd250599df00c8f393847ba7c064d95e71b2e24b8c73f64",
       "dossier": "data/curated/dossiers/1969.json",
       "review_record_present": false
     },
@@ -265,8 +265,8 @@
     {
       "year": 2001,
       "status": "needs-review",
-      "body_word_count_whitespace": 1612,
-      "source_sha256": "f2d3507d7cf41d68fcbb9f76c4bb5011bf91642337ac9ef196fbfb5e119f4bf5",
+      "body_word_count_whitespace": 1638,
+      "source_sha256": "14456d3d014361b9e509dfe5be2127320b6a57cee1245f339f06fb6cacf16ab1",
       "dossier": "data/curated/dossiers/2001.json",
       "review_record_present": false
     },
@@ -432,42 +432,42 @@
     },
     {
       "year": 2022,
-      "status": "metadata-only",
-      "body_word_count_whitespace": 0,
-      "source_sha256": "844104e9085a3dfffb7a202a7645f8b77f02c178b016f0d0ced6d725ced86065",
-      "dossier": null,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1245,
+      "source_sha256": "46842d5825aa8e92731978a9fb558759e6d271a034304b29114097ebc088e1a3",
+      "dossier": "data/curated/dossiers/2022.json",
       "review_record_present": false
     },
     {
       "year": 2023,
-      "status": "metadata-only",
-      "body_word_count_whitespace": 0,
-      "source_sha256": "c70aa58c865ac7ec0d52aff78788c0f04f80d6eb6ee665477c49a8f6d453dc29",
-      "dossier": null,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1278,
+      "source_sha256": "d4fcff1a6809400e4c719134be0da45712f9536b3428e0790e271f01d20a36ee",
+      "dossier": "data/curated/dossiers/2023.json",
       "review_record_present": false
     },
     {
       "year": 2024,
-      "status": "metadata-only",
-      "body_word_count_whitespace": 0,
-      "source_sha256": "2e206b4a2afc9ec530d014fad57f9cdd7a48f843a212939f992ab399e8d5a140",
-      "dossier": null,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1250,
+      "source_sha256": "5ed7b8001605afcf3329293cab45cc7633f91d751c916d752b308f53a38d28dd",
+      "dossier": "data/curated/dossiers/2024.json",
       "review_record_present": false
     },
     {
       "year": 2025,
-      "status": "metadata-only",
-      "body_word_count_whitespace": 0,
-      "source_sha256": "1475ccf8572b62035822b1723be94c3d130096d4137261e4fe745327a207dde5",
-      "dossier": null,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1304,
+      "source_sha256": "2d0e312cdb42e21358b678c88959979a0162bdc67c49f044259889eaeaa6cebf",
+      "dossier": "data/curated/dossiers/2025.json",
       "review_record_present": false
     },
     {
       "year": 2026,
-      "status": "metadata-only",
-      "body_word_count_whitespace": 0,
-      "source_sha256": "146eb4c24c020375f442ddbd657ab742bd7b25c8e80ee12c00926e0ec33cf66a",
-      "dossier": null,
+      "status": "needs-review",
+      "body_word_count_whitespace": 1283,
+      "source_sha256": "c2e38d1ba729f576a89004383a0e5a415c142474832b7e2ef6d6afe4bac5224c",
+      "dossier": "data/curated/dossiers/2026.json",
       "review_record_present": false
     }
   ]

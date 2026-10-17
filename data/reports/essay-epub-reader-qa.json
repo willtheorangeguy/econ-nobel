@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-10-17T21:24:09.291Z",
+  "scope": "Four new draft EPUBs loaded and navigated in the existing EPUB.js browser reader; native Chromium MathML, TOC and bibliography checked. Other reader applications and screen readers not tested.",
+  "checks": [
+    {
+      "id": "2023",
+      "title": "2023 — Women’s work, historical change and the value of time",
+      "reader_version": "0.3",
+      "toc_entries": 12,
+      "mathml_elements_rendered": 3,
+      "bibliography_entries": 4
+    },
+    {
+      "id": "2026",
+      "title": "2026 — Expectations and the foundations of stabilization policy",
+      "reader_version": "0.3",
+      "toc_entries": 12,
+      "mathml_elements_rendered": 16,
+      "bibliography_entries": 4
+    },
+    {
+      "id": "spence-signaling-1973",
+      "title": "Reading Spence’s job-market signaling model",
+      "reader_version": "0.3",
+      "toc_entries": 8,
+      "mathml_elements_rendered": 4,
+      "bibliography_entries": 2
+    },
+    {
+      "id": "rothschild-stiglitz-insurance-1976",
+      "title": "Reading Rothschild and Stiglitz on competitive insurance",
+      "reader_version": "0.3",
+      "toc_entries": 8,
+      "mathml_elements_rendered": 10,
+      "bibliography_entries": 2
+    }
+  ],
+  "errors": []
+}

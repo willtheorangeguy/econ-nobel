@@ -1,0 +1,138 @@
+{
+  "year": 2025,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
+  "laureates": [
+    {
+      "id": "1058",
+      "name": "Joel Mokyr",
+      "motivation": "for having identified the prerequisites for sustained growth through technological progress",
+      "portion": "1/2"
+    },
+    {
+      "id": "1059",
+      "name": "Philippe Aghion",
+      "motivation": "for the theory of sustained growth through creative destruction",
+      "portion": "1/4"
+    },
+    {
+      "id": "1060",
+      "name": "Peter Howitt",
+      "motivation": "for the theory of sustained growth through creative destruction",
+      "portion": "1/4"
+    }
+  ],
+  "scope_and_attribution": "Mokyr historicalusefulknowledge; Aghion/Howitt jointcreativedestruction; preserve halfprizemotivations. Book2002originalcatalogue distinct from2011DOIrecord.",
+  "claim_source_map": "Official academy material supports contribution and context. Consulted editions/passages declared per citation; metadata is not full original reading. Equations and examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2025",
+      "title": "Presentation Speech for the 2025 Economic Sciences Prize",
+      "authors": [
+        "John Hassler"
+      ],
+      "year": 2025,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "press-2025",
+      "title": "Press Release for the 2025 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2025,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "aghion-howitt-1992",
+      "title": "A Model of Growth Through Creative Destruction",
+      "authors": [
+        "Philippe Aghion",
+        "Peter Howitt"
+      ],
+      "year": 1992,
+      "url": "https://doi.org/10.2307/2951599",
+      "doi": "10.2307/2951599",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "Econometrica",
+      "volume": "60(2)",
+      "pages": "323"
+    },
+    {
+      "id": "mokyr-athena-2002",
+      "title": "The Gifts of Athena: Historical Origins of the Knowledge Economy",
+      "authors": [
+        "Joel Mokyr"
+      ],
+      "year": 2002,
+      "url": "https://www.jstor.org/stable/j.ctt7rz25",
+      "venue": "Princeton University Press",
+      "type": "book",
+      "accessed": "2026-10-17",
+      "verified": true,
+      "consulted_version": "Publisher-hosted JSTOR book catalogue: title, author, publisher, original copyright date (2002), description and contents consulted. Book full text not read. A separate Crossref record for ISBN 9781400829439 has a 2011 edition date; it was not used as the original publication date."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2025,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/ceremony-speech/",
+      "sha256": "d72a221c627fd78dec79c28e37026a6edb41df9ffa0d8e53654032a77ff7813f",
+      "text_sha256": "1dd005bb59bc00f77f5d248d3abdd543be0527a389ee2f5c4a5bd93efeab98e9",
+      "characters": 4489,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2025,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/",
+      "sha256": "326307288960456cd2ededf74022c63245094678a850fccf6eb1120271d3b932",
+      "text_sha256": "ebb0fb94353183ff06c70533fbec1f9ea5da914dea67efb8b04bda03df84573b",
+      "characters": 5591,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "aghion-howitt-1992",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2951599",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "ad7a4ea8946ea893f7433fd287c327496e3286a3dd9b0f2d46a313f75f340b22",
+      "title": [
+        "A Model of Growth Through Creative Destruction"
+      ],
+      "doi": "10.2307/2951599",
+      "publication_date": {
+        "date-parts": [
+          [
+            1992,
+            3
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Poissonlambda.2,step1.1 ->expectedloggrowth.019062versusexpectedlevelgrowth.02. Distinguishbusinessstealingtransfer from output and workertransitioncosts.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Mokyrbook/AghionHowittpaper; evaluatehistoricalevidence, researchincentives/policyconditions and welfarelimits. DOIeditiondiscrepancy recorded, no inferredoriginaldate.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

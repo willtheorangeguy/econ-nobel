@@ -23,7 +23,9 @@
     "test": "vitest run",
     "test:e2e": "playwright test",
     "check:sources": "tsx scripts/check-sources.ts",
-    "research:dossier": "tsx scripts/make-dossier.ts"
+    "research:dossier": "tsx scripts/make-dossier.ts",
+    "check:essay-pages": "tsx scripts/check-essay-pages.mjs",
+    "check:live-documents": "node scripts/check-live-documents.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.3",

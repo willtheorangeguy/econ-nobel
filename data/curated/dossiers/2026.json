@@ -1,0 +1,129 @@
+{
+  "year": 2026,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/",
+  "laureates": [
+    {
+      "id": "1069",
+      "name": "Robert E. Hall",
+      "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+      "portion": "1/2"
+    },
+    {
+      "id": "1070",
+      "name": "Michael Woodford",
+      "motivation": "for microeconomic foundations of macroeconomic stabilisation",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Hall forwardlookingconsumption/testrestrictions; Woodford stickyprice/interestrule/welfareframework; preserve Mishkin/Rotemberg and priorresearchers. CurrentOctoberannouncement only, nofutureceremony.",
+  "claim_source_map": "Official academy material supports contribution and context. Consulted editions/passages declared per citation; metadata is not full original reading. Equations and examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "press-2026",
+      "title": "Press Release for the 2026 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2026,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted. No future ceremony source used for 2026."
+    },
+    {
+      "id": "hall-1978",
+      "title": "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence",
+      "authors": [
+        "Robert E. Hall"
+      ],
+      "year": 1978,
+      "url": "https://doi.org/10.1086/260724",
+      "doi": "10.1086/260724",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. All supplied coauthors, edition dates and pagination preserved. Teaching examples do not claim original empirical results.",
+      "venue": "Journal of Political Economy",
+      "volume": "86(6)",
+      "pages": "971-987"
+    },
+    {
+      "id": "woodford-interest-prices-2003",
+      "title": "Interest and Prices: Foundations of a Theory of Monetary Policy",
+      "authors": [
+        "Michael Woodford"
+      ],
+      "year": 2003,
+      "url": "https://www.jstor.org/stable/j.ctv30pnvmf",
+      "venue": "Princeton University Press",
+      "type": "book",
+      "accessed": "2026-10-17",
+      "verified": true,
+      "consulted_version": "Publisher-hosted JSTOR book catalogue: title, author, publisher, copyright date (2003), description and contents consulted. Original year corroborated by the official 2026 academy background. Full book not read. A separate Crossref record for ISBN 9781400830169 carries 2004 print and 2022 online dates; these were not substituted for the original publication date."
+    },
+    {
+      "id": "academy-2026",
+      "title": "Microeconomic Foundations of Macroeconomic Stabilization",
+      "authors": [
+        "The Committee for the Prize in Economic Sciences in Memory of Alfred Nobel"
+      ],
+      "year": 2026,
+      "url": "https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf",
+      "type": "official",
+      "accessed": "2026-10-17",
+      "verified": true,
+      "consulted_version": "Official scientific-background PDF released 12 October 2026. Introduction (PDF pages 3–7) and canonical consumption/Euler discussion (14–17) consulted, along with selected household and price-setting passages on pages 32–33 and 35–37. Remaining sections and references not claimed fully read."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2026,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/",
+      "sha256": "5889dbf6df285071a7b693be7f31fa21e58aa9964f01ca2cd3d7332d414a6009",
+      "text_sha256": "be2f6041a0ee96dad9ffc6af3bfddb31df5d911f5dc7868253ffb46ba8a5d340",
+      "characters": 5133,
+      "accessed": "2026-10-17"
+    },
+    {
+      "url": "https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf",
+      "sha256": "54f1f53e4d638752bc7a8fd767fd97f898d92b2c810bc35311d7c03fa0d111f7",
+      "text_sha256": "acf788a645764f72c756b0933db0613213bbefae2bfd14212e39c95ea48e46f0",
+      "accessed": "2026-10-17",
+      "consulted_pages": "PDF3–7,14–17; selected passages32–33 and35–37"
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "hall-1978",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.1086/260724",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "bddd375f64f7b1922f72af4e8f2a801021eb0ab4655ff2e57a00bd9bd2632368",
+      "title": [
+        "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence"
+      ],
+      "doi": "10.1086/260724",
+      "publication_date": {
+        "date-parts": [
+          [
+            1978,
+            12
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Twoperiodresource220 with equalconsumption ->110each,holdfinancingoutside; realrateapprox4-2=2versus4-3=1. Euler randomwalkspecialcase quadratic betaR1 not generalutility. NK demand/pricing defined and jointsolutionneeded.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Halloriginal and Woodfordbook, relatedMishkin/Rotemberg works, empiricalmodels and fiscalextensions. AcademyPDFpartialreading declared; independentreview outstanding.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

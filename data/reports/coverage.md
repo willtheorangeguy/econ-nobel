@@ -57,8 +57,8 @@
 | 2019 | needs-review | 0 | pdf, epub |
 | 2020 | needs-review | 0 | pdf, epub |
 | 2021 | needs-review | 0 | pdf, epub |
-| 2022 | metadata-only | 0 | None |
-| 2023 | metadata-only | 0 | None |
-| 2024 | metadata-only | 0 | None |
-| 2025 | metadata-only | 0 | None |
-| 2026 | metadata-only | 0 | None |
+| 2022 | needs-review | 0 | pdf, epub |
+| 2023 | needs-review | 0 | pdf, epub |
+| 2024 | needs-review | 0 | pdf, epub |
+| 2025 | needs-review | 0 | pdf, epub |
+| 2026 | needs-review | 0 | pdf, epub |

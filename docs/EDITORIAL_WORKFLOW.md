@@ -29,3 +29,9 @@ The public original-asset audit rejects unregistered files. Private reading copi
 ## Catalogue refresh
 
 `npm run sync:nobel` fetches all pages with retries and stages changed metadata in `data/reports/import-diff.json`. It does not silently alter accepted facts. Review the candidate, then `npm run sync:nobel -- --accept` to import. Existing Markdown and curated associations are preserved. New years receive `metadata-only` entries. `--offline` verifies/rebuilds from accepted snapshots. CI's manual update workflow uploads a candidate report and never publishes a new essay.
+
+## Metadata rechecks after the annual draft milestone
+
+The curated recheck queue contains 68 publication candidates; this does not select them as award works. `npm run research:works` compares DOI, normalized title, all author families and year. Presentation markup is stripped before comparison, including italic *n* in Nash’s title.
+
+The 2026-10-17 recheck records 67 matches and one provider-author omission for Sargent–Wallace (1981). The Federal Reserve Bank of Minneapolis’s author interview corroborates Wallace; the curated citation preserves him and the mismatch remains visible. The command intentionally exits nonzero on this discrepancy. Inspect every new mismatch; do not remove authors or relax matching simply to obtain a pass. Original full-text access, substantive verification, work selection and permissions remain separate tasks.

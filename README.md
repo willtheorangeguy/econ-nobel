@@ -6,7 +6,7 @@ Live: https://williamvdg.me/econ-nobel/
 
 Repository: https://github.com/willtheorangeguy/econ-nobel
 
-**Current editorial state:** 58 official annual records (1969–2026), 101 laureates, 53 unreviewed award essays (1969–2021), three verified work associations, one unreviewed work explanation, and one permission-verified portrait. No essay has been independently reviewed or marked published. This is a working staged archive, not a claim of complete scholarly coverage. See [progress](IMPLEMENTATION_PROGRESS.md) and [coverage](data/reports/coverage.md).
+**Current editorial state:** 58 official annual records (1969–2026), 101 laureates, 58 unreviewed award essays (1969–2026), three verified work associations, three unreviewed work explanations, and one permission-verified portrait. No essay has been independently reviewed or marked published. This is a working staged archive, not a claim of complete scholarly coverage. See [progress](IMPLEMENTATION_PROGRESS.md) and [coverage](data/reports/coverage.md).
 
 **Completion audit:** this is not the completed, production-ready archive requested in the specification. [The audit](docs/COMPLETION_AUDIT.md) records missing research, reproduced engineering defects, and the limits of the passing checks.
 
@@ -84,3 +84,15 @@ For private hosting, publish the same `dist/` behind your organization’s authe
 Code: MIT. Original explanatory prose: CC BY 4.0. Official data and third-party materials retain their respective rights. This project has no official Nobel affiliation.
 
 The build also runs `npm run audit:manuscripts`, producing an annual manuscript inventory with source hashes, word counts and dossier paths. These checks record editorial evidence; they do not establish scholarly accuracy or independent approval.
+
+Annual draft coverage is complete; original-text research and independent review remain incomplete. See the [drafting milestone](docs/ESSAY_DRAFT_MILESTONE.md) for scope, source corrections and limits. The 68-candidate metadata recheck intentionally reports the Sargent–Wallace author omission in Crossref; publisher corroboration is documented rather than deleting a coauthor to force a match.
+
+Reproduce page checks after `npm run build` with preview already running:
+
+```sh
+npm run check:essay-pages -- awards/2026 works/spence-signaling-1973
+# Omit routes to check every authored award and work page at three widths.
+npm run check:live-documents -- DEPLOYED_COMMIT_SHA WORKFLOW_RUN_URL
+```
+
+The live checker verifies all public manifest entries against their bytes, MIME types and source fingerprints using the deployed toolchain. It checks document integrity and source identity, not scholarly accuracy or approval.

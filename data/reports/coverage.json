@@ -19,15 +19,21 @@
     },
     {
       "id": "rothschild-stiglitz-insurance-1976",
-      "status": "metadata-only",
-      "consulted_version": null,
-      "formats": []
+      "status": "needs-review",
+      "consulted_version": "QJE 90(4), 629–649; JSTOR facsimile at University of Houston. Introduction and section I through welfare discussion, PDF pages 2–11 (printed 629–638), consulted; later robustness sections not fully read.",
+      "formats": [
+        "pdf",
+        "epub"
+      ]
     },
     {
       "id": "spence-signaling-1973",
-      "status": "metadata-only",
-      "consulted_version": null,
-      "formats": []
+      "status": "needs-review",
+      "consulted_version": "QJE 87(3), 355–374; JSTOR facsimile at CIES. Introduction and printed pp. 358–362 read visually from scanned PDF pages 2 and 5–9; remaining sections not claimed read.",
+      "formats": [
+        "pdf",
+        "epub"
+      ]
     }
   ],
   "awards": [
@@ -978,10 +984,13 @@
         "Douglas Diamond",
         "Philip Dybvig"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -992,10 +1001,13 @@
       "laureates": [
         "Claudia Goldin"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -1008,10 +1020,13 @@
         "Simon Johnson",
         "James A. Robinson"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -1024,10 +1039,13 @@
         "Philippe Aghion",
         "Peter Howitt"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"
@@ -1039,10 +1057,13 @@
         "Robert E. Hall",
         "Michael Woodford"
       ],
-      "status": "metadata-only",
+      "status": "needs-review",
       "reviewer": null,
       "featured_works": [],
-      "formats": [],
+      "formats": [
+        "pdf",
+        "epub"
+      ],
       "remaining": [
         "Editorial research/review incomplete",
         "Foundational works not yet verified"

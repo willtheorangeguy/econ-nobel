@@ -111,3 +111,7 @@ The future-navigation assertion is fixed to 2027 on the 2026 page. Once an offic
 4. Clear remaining portraits, complete source accessibility checks, and broaden document/accessibility QA.
 
 The speed of the first delivery is explained by what was produced: reusable templates and imported metadata generate many pages quickly. That did not accomplish the much larger research and review workload.
+
+## Subsequent annual drafting milestone
+
+The editorial counts above describe the audited revision, before the continuation. All 58 annual years now have unreviewed drafts, with three unreviewed work explanations. See [the drafting milestone](ESSAY_DRAFT_MILESTONE.md), current coverage and progress for later validation evidence. The reviewed-content/original-document model and intermittent fresh-startup findings remain unresolved. The latest-year navigation/download test now derives expectations from the accepted catalogue, article state and manifest. Zero texts have been promoted to reviewed or published.

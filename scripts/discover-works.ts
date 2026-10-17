@@ -1,7 +1,7 @@
 import { fetchJson, json, write, today } from './common';
+import { normalizeScholarlyText as normalize } from './scholarly-text';
 // Curated queue; candidates NEVER become work associations or approved rights automatically.
 const queue = json<any[]>('data/curated/research-queue.json');
-const normalize = (s: string) => s.toLowerCase().normalize('NFKD').replace(/[^a-z0-9]/g,'');
 const results=[];
 for (const q of queue) {
   const data = await fetchJson(`https://api.crossref.org/works/${encodeURIComponent(q.doi)}`);
