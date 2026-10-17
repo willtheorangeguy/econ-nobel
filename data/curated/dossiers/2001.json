@@ -1,0 +1,115 @@
+{
+  "year": 2001,
+  "status": "draft-research-record",
+  "authoring_method": "Existing source-led AI-authored manuscript; retrospective continuation record, not independent review",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2001/summary/",
+  "laureates": [
+    {
+      "id": "744",
+      "name": "George A. Akerlof",
+      "motivation": "for their analyses of markets with asymmetric information",
+      "portion": "1/3"
+    },
+    {
+      "id": "745",
+      "name": "A. Michael Spence",
+      "motivation": "for their analyses of markets with asymmetric information",
+      "portion": "1/3"
+    },
+    {
+      "id": "746",
+      "name": "Joseph E. Stiglitz",
+      "motivation": "for their analyses of markets with asymmetric information",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Akerlof adverse selection; Spence signaling; Stiglitz screening with Rothschild. Preserve distinct programs and Rothschild coauthorship.",
+  "claim_source_map": "Prior manuscript and consulted-version declarations retained as inherited provenance. This record does not assert a new fetch or new full-text reading; the continuation checked the teaching arithmetic and preserved explicit gaps.",
+  "citations": [
+    {
+      "id": "nobel-2001",
+      "title": "The Economic Sciences Prize 2001 — Press release",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 2001,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2001/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official HTML page, English"
+    },
+    {
+      "id": "academy-2001",
+      "title": "Markets with Asymmetric Information",
+      "authors": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "year": 2001,
+      "url": "https://www.kva.se/app/uploads/2001/10/globalassets-priser-nobel-2001-scibackeken01.pdf",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Scientific background, 8 October 2001; academy-hosted PDF, sections 1–3 and references"
+    },
+    {
+      "id": "akerlof-1970",
+      "title": "The Market for “Lemons”: Quality Uncertainty and the Market Mechanism",
+      "authors": [
+        "George A. Akerlof"
+      ],
+      "year": 1970,
+      "url": "https://doi.org/10.2307/1879431",
+      "accessed": "2026-10-17",
+      "type": "journal-article",
+      "verified": true,
+      "consulted_version": "Published article, QJE 84(3), pp. 488–500; JSTOR facsimile consulted at Simon Fraser University teaching page (https://www.sfu.ca/~allen/Ackerlof.pdf); not redistributed",
+      "doi": "10.2307/1879431",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "84(3)",
+      "pages": "488–500"
+    },
+    {
+      "id": "spence-1973",
+      "title": "Job Market Signaling",
+      "authors": [
+        "Michael Spence"
+      ],
+      "year": 1973,
+      "url": "https://doi.org/10.2307/1882010",
+      "accessed": "2026-10-17",
+      "type": "journal-article",
+      "verified": true,
+      "consulted_version": "Crossref bibliographic record only; original article not yet consulted. Award-level discussion uses the academy scientific background.",
+      "doi": "10.2307/1882010",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "87(3)"
+    },
+    {
+      "id": "rothschild-stiglitz-1976",
+      "title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+      "authors": [
+        "Michael Rothschild",
+        "Joseph Stiglitz"
+      ],
+      "year": 1976,
+      "url": "https://doi.org/10.2307/1885326",
+      "accessed": "2026-10-17",
+      "type": "journal-article",
+      "verified": true,
+      "consulted_version": "Crossref bibliographic record only; original article not yet consulted. Award-level discussion uses the academy scientific background.",
+      "doi": "10.2307/1885326",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "90(4)"
+    }
+  ],
+  "source_receipts": [],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Equal qualitypool value.5times12000+.5times4000=8000 below reliableowner reservation9000; lowquality4000>=reservation3000; partialunraveling not completecollapse.",
+    "independent_review": false
+  },
+  "remaining_research": "Read Spence and Rothschild–Stiglitz originals; finish their dedicated work explanations; independent check of claims, examples, citations and rights.",
+  "review": null,
+  "rights": "Existing prose CC BY4.0; third-party originals external only, no new hosting/conversion permission inferred."
+}

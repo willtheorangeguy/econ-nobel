@@ -1,0 +1,215 @@
+{
+  "year": 2013,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2013/summary/",
+  "laureates": [
+    {
+      "id": "894",
+      "name": "Eugene F. Fama",
+      "motivation": "for their empirical analysis of asset prices",
+      "portion": "1/3"
+    },
+    {
+      "id": "895",
+      "name": "Lars Peter Hansen",
+      "motivation": "for their empirical analysis of asset prices",
+      "portion": "1/3"
+    },
+    {
+      "id": "896",
+      "name": "Robert J. Shiller",
+      "motivation": "for their empirical analysis of asset prices",
+      "portion": "1/3"
+    }
+  ],
+  "scope_and_attribution": "Fama information/return risk; Shiller volatility and predictability; Hansen GMM. Shiller1980workingpaper not mislabeled1981journal.",
+  "claim_source_map": "Official academy text supports award contribution and context. Consulted editions/sections declared per citation; metadata verification is not full-text reading. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2013",
+      "title": "Presentation Speech for the 2013 Economic Sciences Prize",
+      "authors": [
+        "Per Krusell"
+      ],
+      "year": 2013,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "press-2013",
+      "title": "Press Release for the 2013 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2013,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "fama-1970",
+      "title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+      "authors": [
+        "Eugene F. Fama"
+      ],
+      "year": 1970,
+      "url": "https://doi.org/10.2307/2325486",
+      "doi": "10.2307/2325486",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied authors, edition date and pagination preserved; teaching constructions are not original estimates.",
+      "venue": "The Journal of Finance",
+      "volume": "25(2)",
+      "pages": "383"
+    },
+    {
+      "id": "hansen-1982",
+      "title": "Large Sample Properties of Generalized Method of Moments Estimators",
+      "authors": [
+        "Lars Peter Hansen"
+      ],
+      "year": 1982,
+      "url": "https://doi.org/10.2307/1912775",
+      "doi": "10.2307/1912775",
+      "type": "journal-article",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied authors, edition date and pagination preserved; teaching constructions are not original estimates.",
+      "venue": "Econometrica",
+      "volume": "50(4)",
+      "pages": "1029"
+    },
+    {
+      "id": "shiller-1980",
+      "title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?",
+      "authors": [
+        "Robert Shiller"
+      ],
+      "year": 1980,
+      "url": "https://doi.org/10.3386/w0456",
+      "doi": "10.3386/w0456",
+      "type": "report",
+      "verified": true,
+      "accessed": "2026-10-17",
+      "consulted_version": "Crossref bibliographic record only; original full text not read. Supplied authors, edition date and pagination preserved; teaching constructions are not original estimates. This is the 1980 working-paper edition, not the 1981 AER article. A failed DOI candidate was not registered.",
+      "venue": "NBER Working Paper 456"
+    },
+    {
+      "id": "academy-2013",
+      "title": "Understanding Asset Prices",
+      "authors": [
+        "The Economic Sciences Prize Committee of the Royal Swedish Academy of Sciences"
+      ],
+      "year": 2013,
+      "url": "https://www.nobelprize.org/uploads/2013/10/advanced-economicsciences2013.pdf",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official scientific-background PDF; PDF 3–6 consulted. Remaining sections not claimed read."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2013,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/ceremony-speech/",
+      "sha256": "7dfc18b2701f485ce94c083cb530468e86cc4fb76461128189a29e73af6ccfb3",
+      "text_sha256": "39ff0fcd6664f1684e7ad8921696a4a14ba87176608773207ce3e2a74a0ffb1b",
+      "characters": 6560,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2013,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2013/press-release/",
+      "sha256": "008fb88a51f2b5951f77cbe6a72e36a277e5d7ccd06fb54d569b78cd030ce1d2",
+      "text_sha256": "5bd928bc38e05dc801e2b71199f913b90b3361e3b4547ba06873d5f38366b2ab",
+      "characters": 4443,
+      "accessed": "2026-10-17"
+    },
+    {
+      "url": "https://www.nobelprize.org/uploads/2013/10/advanced-economicsciences2013.pdf",
+      "sha256": "d62b4b4d1b56901028fd645c476415a25ded2d43fc8264771c79d9d5b615d8b9",
+      "text_sha256": "d38526143c83f000d834fba1e00c7959dd48aa5b5c7ca3c02f0d12423bbd159f",
+      "accessed": "2026-10-17",
+      "consulted": "Official scientific-background PDF; PDF 3–6 consulted. Remaining sections not claimed read."
+    }
+  ],
+  "bibliographic_receipts": [
+    {
+      "citation_id": "fama-1970",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/2325486",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "7a8b1a803c9604f4668c765f8cb782d3cb82df5940c35c35b3df0c200151b1fe",
+      "title": [
+        "Efficient Capital Markets: A Review of Theory and Empirical Work"
+      ],
+      "doi": "10.2307/2325486",
+      "publication_date": {
+        "date-parts": [
+          [
+            1970,
+            5
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "hansen-1982",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.2307/1912775",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "b6c8f001a7e4be86fe2b79e3b477b841ac64ec5e8a677c70cee9b0d688ddf19b",
+      "title": [
+        "Large Sample Properties of Generalized Method of Moments Estimators"
+      ],
+      "doi": "10.2307/1912775",
+      "publication_date": {
+        "date-parts": [
+          [
+            1982,
+            7
+          ]
+        ]
+      },
+      "original_text_read": false
+    },
+    {
+      "citation_id": "shiller-1980",
+      "provider": "Crossref",
+      "url": "https://api.crossref.org/works/10.3386/w0456",
+      "checked_at": "2026-10-17",
+      "stored_metadata_sha256": "0e99212d65557d40bb5156bdc23bdb16b0b047ac8a7ca6bef83611b82ab018cd",
+      "title": [
+        "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?"
+      ],
+      "doi": "10.3386/w0456",
+      "publication_date": {
+        "date-parts": [
+          [
+            1980,
+            2
+          ]
+        ]
+      },
+      "original_text_read": false
+    }
+  ],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Certain110 payoff discounted at10percent gives100;5percent gives104.7619. Conditional pricing/moment restrictions are teaching summaries; prediction not guaranteed returns.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original articles including Shiller1981edition; examine variance-bound assumptions, GMM identification and joint hypothesis testing.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}

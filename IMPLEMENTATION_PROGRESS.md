@@ -32,20 +32,20 @@ Updated 2026-10-17. Primary specification: [implementation plan](docs/implementa
 | --- | --- |
 | Official award catalogue | 58/58 years, 1969–2026 |
 | Official laureate records | 101/101 |
-| Authored annual essays | 43: 1969–2011, all `needs-review` |
-| Annual essays not yet written | 15, explicitly `metadata-only` |
+| Authored annual essays | 48: 1969–2016, all `needs-review` |
+| Annual essays not yet written | 10, explicitly `metadata-only` |
 | Independently reviewed/published annual essays | **0** |
 | Evidence-linked foundational works | 3, all associated with 2001 through academy background material |
 | Authored work explanations | 1: Akerlof (1970), `needs-review` |
 | Metadata-only work explanations | 2: Spence (1973), Rothschild–Stiglitz (1976) |
-| Validated overview artifacts | 88: PDF + EPUB for 43 annual drafts and one work draft |
+| Validated overview artifacts | 98: PDF + EPUB for 48 annual drafts and one work draft |
 | Cleared portraits | 1: Akerlof, CC BY 3.0 with adjacent credit; 100 recipients use monograms |
 | Hosted original research files | 0; external publisher access only, unknown hosting/conversion rights |
 
 ### Research and permissions still needed
 
-- Write the remaining 15 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
-- Independently review the 43 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
+- Write the remaining 10 annual essays from authoritative sources; verify the distinct contributions of every shared-prize recipient.
+- Independently review the 48 annual drafts and Akerlof work draft: factual claims, economics, equations, source editions, caveats and rights. Never invent reviewer approval.
 - Complete the 1969 original-work selection. The current essay uses the official award record, presentation speech and Tinbergen's retrospective lecture; the lecture is explicitly contextual, not mislabeled as the original research.
 - Read Spence and Rothschild–Stiglitz primary texts. Their current records disclose metadata-only consultation; award-level descriptions rely on the academy background.
 - Expand work selection and evidence associations to the remaining awards; featured-work coverage is separate from annual coverage.
@@ -148,3 +148,11 @@ The earlier claim that phases 1–4 and 6 were completed was too broad. Phases 3
 - Fresh check and 15 unit tests passed. Build validated **88 artifacts**, 188 endpoints and 4,619 links/assets. All five new pages passed automated accessibility/overflow checks at 320/390/1280px and ten download hash requests; all nine browser regressions passed. See `data/reports/essay-browser-qa-2007-2011.json`.
 - The prior `7934e84` milestone passed clean-checkout CI and Pages deployment: https://github.com/willtheorangeguy/econ-nobel/actions/runs/39064659209.
 - Next canonical batch is 2012–2016. The following 2017–2021 manuscripts are also staged privately; 2022–2026 official texts have been fetched for reading. None of those private files counts toward canonical coverage. Independent review and all previously recorded broader gaps remain open.
+
+## Essay continuation — 2012–2016
+
+- Added five annual drafts and dossiers for Roth/Shapley, Fama/Hansen/Shiller, Tirole, Deaton and Hart/Holmström. Preserved Gale, Laffont, Muellbauer and Grossman credit; distinguished stable matching from fairness, return predictability from riskless profit, and payment incentives from unmeasured quality. All remain `needs-review`.
+- Original-publication metadata and consulted versions are explicit. Shiller’s checked1980workingpaper is not mislabeled as the1981journaledition; Deaton/Muellbauer uses an author-maintained publication record without a guessed DOI. Original full texts and independent evaluation remain outstanding.
+- Fresh check and 15 unit tests passed; the new inventory script ran against all58records. Full build validated **98 artifacts**, 188 endpoints and 4,784 links/assets. All five new pages passed 320/390/1280px automated accessibility and overflow checks, with ten download bodies matching manifest hashes. All nine browser regressions passed. Contract-theory PDF equation and citation layout inspected. See `data/reports/essay-browser-qa-2012-2016.json`.
+- Added retrospective dossiers for the preexisting1969/2001drafts, explicitly labeling inherited source declarations rather than claiming a new full-text consultation. All48canonical manuscripts now have dossiers. Added `npm run audit:manuscripts` to builds so hashes/counts/dossier citation presence are reproducible; this does not certify factual accuracy.
+- The final ten annual manuscripts are written privately and await canonical import, export validation and browser checks. No private staged file is counted as a canonical essay. All broader original-reading/work-selection/review/rights/engineering gaps remain open.

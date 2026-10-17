@@ -47,11 +47,11 @@
 | 2009 | needs-review | 0 | pdf, epub |
 | 2010 | needs-review | 0 | pdf, epub |
 | 2011 | needs-review | 0 | pdf, epub |
-| 2012 | metadata-only | 0 | None |
-| 2013 | metadata-only | 0 | None |
-| 2014 | metadata-only | 0 | None |
-| 2015 | metadata-only | 0 | None |
-| 2016 | metadata-only | 0 | None |
+| 2012 | needs-review | 0 | pdf, epub |
+| 2013 | needs-review | 0 | pdf, epub |
+| 2014 | needs-review | 0 | pdf, epub |
+| 2015 | needs-review | 0 | pdf, epub |
+| 2016 | needs-review | 0 | pdf, epub |
 | 2017 | metadata-only | 0 | None |
 | 2018 | metadata-only | 0 | None |
 | 2019 | metadata-only | 0 | None |

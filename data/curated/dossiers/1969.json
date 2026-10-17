@@ -1,0 +1,72 @@
+{
+  "year": 1969,
+  "status": "draft-research-record",
+  "authoring_method": "Existing source-led AI-authored manuscript; retrospective continuation record, not independent review",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/1969/summary/",
+  "laureates": [
+    {
+      "id": "677",
+      "name": "Ragnar Frisch",
+      "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+      "portion": "1/2"
+    },
+    {
+      "id": "678",
+      "name": "Jan Tinbergen",
+      "motivation": "for having developed and applied dynamic models for the analysis of economic processes",
+      "portion": "1/2"
+    }
+  ],
+  "scope_and_attribution": "Frisch dynamic impulses/propagation and Tinbergen multi-equation empirical modeling; original-work bibliography still absent. Tinbergen lecture contextual, not the earlier original research.",
+  "claim_source_map": "Prior manuscript and consulted-version declarations retained as inherited provenance. This record does not assert a new fetch or new full-text reading; the continuation checked the teaching arithmetic and preserved explicit gaps.",
+  "citations": [
+    {
+      "id": "nobel-1969",
+      "title": "The Economic Sciences Prize 1969 — official award record",
+      "authors": [
+        "Nobel Prize"
+      ],
+      "year": 1969,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/summary/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official HTML page, English"
+    },
+    {
+      "id": "lundberg-1969",
+      "title": "Presentation Speech for the 1969 Economic Sciences Prize",
+      "authors": [
+        "Erik Lundberg"
+      ],
+      "year": 1969,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official HTML page, English"
+    },
+    {
+      "id": "tinbergen-lecture-1969",
+      "title": "The Use of Models: Experience and Prospects",
+      "authors": [
+        "Jan Tinbergen"
+      ],
+      "year": 1969,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official HTML reproduction of prize lecture, delivered 12 December 1969"
+    }
+  ],
+  "source_receipts": [],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Geometric teaching response10,5,2.5,... sums20 for c.5; steadystate a/(1-c), deviations decay with0<c<1. Association does not identify intervention.",
+    "independent_review": false
+  },
+  "remaining_research": "Identify and read original Frisch/Tinbergen works, verify editions and publication records; independent review and later critiques.",
+  "review": null,
+  "rights": "Existing prose CC BY4.0; third-party originals external only, no new hosting/conversion permission inferred."
+}

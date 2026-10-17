@@ -1,0 +1,90 @@
+{
+  "year": 2015,
+  "status": "draft-research-record",
+  "authoring_method": "Source-led original AI-authored explanation; not independently reviewed",
+  "official_record": "https://www.nobelprize.org/prizes/economic-sciences/2015/summary/",
+  "laureates": [
+    {
+      "id": "926",
+      "name": "Angus Deaton",
+      "motivation": "for his analysis of consumption, poverty, and welfare",
+      "portion": "1"
+    }
+  ],
+  "scope_and_attribution": "Deaton demand/saving/household welfare measurement; preserve Muellbauer coauthor.",
+  "claim_source_map": "Official academy text supports award contribution and context. Consulted editions/sections declared per citation; metadata verification is not full-text reading. Equations and numerical examples are original teaching constructions.",
+  "citations": [
+    {
+      "id": "ceremony-2015",
+      "title": "Presentation Speech for the 2015 Economic Sciences Prize",
+      "authors": [
+        "Tore Ellingsen"
+      ],
+      "year": 2015,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/ceremony-speech/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "press-2015",
+      "title": "Press Release for the 2015 Economic Sciences Prize",
+      "authors": [
+        "The Royal Swedish Academy of Sciences"
+      ],
+      "year": 2015,
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/press-release/",
+      "accessed": "2026-10-17",
+      "type": "official",
+      "verified": true,
+      "consulted_version": "Official English HTML; complete substantive text consulted."
+    },
+    {
+      "id": "deaton-muellbauer-1980",
+      "title": "An Almost Ideal Demand System",
+      "authors": [
+        "Angus Deaton",
+        "John Muellbauer"
+      ],
+      "year": 1980,
+      "url": "https://deaton.scholar.princeton.edu/publications/almost-ideal-demand-system",
+      "venue": "American Economic Review",
+      "volume": "70(3)",
+      "pages": "312–326",
+      "type": "journal-article",
+      "accessed": "2026-10-17",
+      "verified": true,
+      "consulted_version": "Author-maintained Princeton publication record checked for title, authors, date, journal, volume, issue and pages; linked original PDF and publisher PDF returned HTTP 403. Original full text not read; no guessed DOI registered."
+    }
+  ],
+  "source_receipts": [
+    {
+      "year": 2015,
+      "kind": "ceremony-speech",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/ceremony-speech/",
+      "sha256": "0b61c370572bf17d76d9ce4499f45440d062132db833068b241f992545810b50",
+      "text_sha256": "63bba94b232133d270eb5f4656c5a05c1da37269ab17daf6ed1b88ad51e49c4d",
+      "characters": 5213,
+      "accessed": "2026-10-17"
+    },
+    {
+      "year": 2015,
+      "kind": "press-release",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2015/press-release/",
+      "sha256": "99b8c47821e34b2ad2fd17f495e63c0d7939ce5ca2a9bc6788ee661f51e8a907",
+      "text_sha256": "9b57552c7be4a838f65a887adc27432ee90d4103be9220b0be2648bb9e438a76",
+      "characters": 4321,
+      "accessed": "2026-10-17"
+    }
+  ],
+  "bibliographic_receipts": [],
+  "illustration_checks": {
+    "author_checked": true,
+    "notes": "Householdfoodshares0.6/0.3; aggregate90/250=.36 versus equalhouseholdmean.45. Food10percentpriceincrease fixedbasket burdens3/50=.06,6/200=.03. Exact AIDS priceindex not approximated as arbitraryindex.",
+    "independent_review": false
+  },
+  "remaining_research": "Read original demand and consumption/measurement works; verify aggregationconditions, compensateddemand and householdsurvey comparisons.",
+  "review": null,
+  "rights": "Sources consulted privately; no source full text or original asset mirrored; original prose CC BY 4.0."
+}
