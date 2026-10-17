@@ -1,0 +1,21 @@
+name: Propose official catalogue refresh
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  propose:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - name: Stage official changes without changing articles
+        run: npm run sync:nobel
+      - uses: actions/upload-artifact@v4
+        with:
+          name: official-catalogue-candidate
+          path: data/reports/import-diff.json

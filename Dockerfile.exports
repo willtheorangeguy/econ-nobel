@@ -1,0 +1,16 @@
+# Fixed distro and document tool releases. TeX security updates are obtained from the distro.
+FROM debian:13.1-slim
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates curl xz-utils python3 python3-pypdf default-jre-headless \
+    texlive-xetex texlive-latex-extra texlive-fonts-recommended lmodern \
+    && apt-get clean
+WORKDIR /archive
+COPY scripts/setup-exports.sh scripts/setup-exports.sh
+RUN bash scripts/setup-exports.sh
+# Mount the repository at /work, keeping preinstalled tool binaries available.
+ENV PANDOC_BIN=/archive/.tools/pandoc-3.12.1/bin/pandoc \
+    EPUBCHECK_JAR=/archive/.tools/epubcheck-5.4.0/epubcheck.jar \
+    PDF_ENGINE=xelatex
+WORKDIR /work
+# Run with a Node-equipped build environment, or use CI; this image is the pinned conversion toolchain.
+ENTRYPOINT ["/archive/.tools/pandoc-3.12.1/bin/pandoc"]
